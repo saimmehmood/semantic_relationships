@@ -1,0 +1,2 @@
+trajectories are converted into Well-known text representation of geometry (https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry).
+
