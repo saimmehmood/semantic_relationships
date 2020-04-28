@@ -38,7 +38,12 @@ Mining trajectory data to find interesting patterns is of increasing research in
  
  - *top_k_cos_diff.py* By comparing the similarity of pairs of nodes in different models, it is possible to discover ***interesting ones***. 
  These are pairs of nodes that expose a large difference of their similarity score in two underlying models (e.g., real vs null model).
-  
+ 
+#### visualizations
+
+ - contains folders with visualizations for *** cosine similarity, embeddings, heat maps & histograms *** showing quantitative
+and qualitative analysis.
+ 
 #### Acknowledgments
 This repo was helpful in writing code to fetch POIs from Google API: (https://github.com/slimkrazy/python-google-places)
 
