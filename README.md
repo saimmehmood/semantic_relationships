@@ -41,7 +41,7 @@ Mining trajectory data to find interesting patterns is of increasing research in
  
 #### visualizations
 
- - contains folders with visualizations for *** cosine similarity, embeddings, heat maps & histograms *** showing quantitative
+ - contains folders with visualizations for ***cosine similarity, embeddings, heat maps & histograms*** showing quantitative
 and qualitative analysis.
  
 #### Acknowledgments
