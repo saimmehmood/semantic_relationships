@@ -36,7 +36,8 @@ Mining trajectory data to find interesting patterns is of increasing research in
  - *getting_vectors_cosine_sim.py* once we have obtained embeddings for the real and null models, we calculate our quantitative
  analysis metric i.e., cosine similarity between vector embeddings.
  
- - 
+ - *top_k_cos_diff.py* By comparing the similarity of pairs of nodes in different models, it is possible to discover ***interesting ones***. 
+ These are pairs of nodes that expose a large difference of their similarity score in two underlying models (e.g., real vs null model).
   
 #### Acknowledgments
 This repo was helpful in writing code to fetch POIs from Google API: (https://github.com/slimkrazy/python-google-places)
