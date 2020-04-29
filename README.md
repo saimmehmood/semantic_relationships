@@ -43,6 +43,10 @@ Mining trajectory data to find interesting patterns is of increasing research in
 
  - contains folders with visualizations for ***cosine similarity, embeddings, heat maps & histograms*** showing quantitative
 and qualitative analysis.
+
+#### ppt
+
+ - contains project presentation slides. 
  
 #### Acknowledgments
 This repo was helpful in writing code to fetch POIs from Google API: (https://github.com/slimkrazy/python-google-places)
