@@ -1,0 +1,182 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "formatted_phone_number": "(416) 276-3219",
+    "geometry": {
+        "location": {
+            "lat": 43.643766,
+            "lng": -79.40864619999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64513883029149,
+                "lng": -79.4072426697085
+            },
+            "southwest": {
+                "lat": 43.6424408697085,
+                "lng": -79.4099406302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6f22f0ade67d5601eadeb283fb0a9236e38b410e",
+    "international_phone_number": "+1 416-276-3219",
+    "name": "Circle Group Inc.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110637718790399276063/photos\">Circle Group Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAtxvtDRrNgUtmMc1flA50v_Uq8T7FIx1Tp5tffBrKMwdvLWgsEwQcdESj7efY7HGoWywDCIDk80rPtkixkDSU-bSnsMRUOiyYS4qMjCgyghz8p3zYi89CTgVrVaqmmIC5EhCEwNqJszI4V6FF37Rk9uO_GhQI7PmrjCBYN3gW_9y_g5VlYQx0Jg",
+            "width": 1500
+        },
+        {
+            "height": 251,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110637718790399276063/photos\">Circle Group Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAr5auOylcOundp_zcK04EsySPMYtDmq7jsPeWVLkct4QDViJSCJYog-lEfRHWVLJazpZYS7lPNIMJUluntwHkvpLAcFXFfFz4ThE2W2OAFX7zOKr56mGYupx9aA8xyd_EEhDij3fX51rWaKyz5pIXGUXCGhSARWd6E7soKORQ4PWrzwFVCsaScw",
+            "width": 251
+        }
+    ],
+    "place_id": "ChIJDdUGJ-I0K4gRmeuTEOHVg3M",
+    "reference": "CmRRAAAA2Y_406hhELZE1QVIH8hb9f4U-tQ9DoiDE3_ZbSQPFDhKW_6dg-fG2U3IuEK8xNMl0u1YTnMQLtAZy79IZ0l8IVeTQo4uLsXmRLvzJgAfwrDyP07pVkThOJtArpxXRRVUEhBWd-B7G2RVKmF65E8IqkC4GhT29F2-m-vIzdpQZopr3zciugW5qA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8323731698933296025",
+    "utc_offset": -240,
+    "vicinity": "229 Niagara Street, Toronto",
+    "website": "https://crcl.group/"
+}

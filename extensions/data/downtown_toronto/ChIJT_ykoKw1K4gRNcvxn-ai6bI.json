@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "21",
+            "short_name": "21",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Strickland Avenue",
+            "short_name": "Strickland Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 3E6",
+            "short_name": "M6K 3E6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">21 Strickland Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 3E6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "21 Strickland Ave, Toronto, ON M6K 3E6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.643296,
+            "lng": -79.43104
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446244802915,
+                "lng": -79.4297924697085
+            },
+            "southwest": {
+                "lat": 43.64192651970851,
+                "lng": -79.43249043029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+    "id": "a385bd528ab25bbaacf7f22be2851b5014def985",
+    "name": "Breakaway Community Services",
+    "place_id": "ChIJT_ykoKw1K4gRNcvxn-ai6bI",
+    "reference": "CmRSAAAAtmdOPvqTTxRcT6F80p3IWKDWXokIhY9VNK9RlKVxxcgUbBWWOLqT2wanIv8clRwF85QwioDWoQVVOJ4U7RoZ_wLRACk_RcQIl2RvyDA8oRwclIyv3LYr4CjIfdYtZ_-gEhClJkJnrYXXp--EqdTnB5DNGhSwa4DZG2c9U_4bCxKcYrh3DUEZPA",
+    "scope": "GOOGLE",
+    "types": [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12892014519734356789",
+    "utc_offset": -240,
+    "vicinity": "21 Strickland Avenue, Toronto",
+    "website": "https://www.breakawayaddictions.ca/"
+}

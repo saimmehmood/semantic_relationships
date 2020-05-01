@@ -1,0 +1,259 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55 Stewart St, Toronto, ON M5V 2V8, Canada",
+    "formatted_phone_number": "(647) 931-7330",
+    "geometry": {
+        "location": {
+            "lat": 43.64324589999999,
+            "lng": -79.40126149999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64467468029149,
+                "lng": -79.3999433197085
+            },
+            "southwest": {
+                "lat": 43.6419767197085,
+                "lng": -79.4026412802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "123baef27aa57b49b56d493a6513cbb5de8ac274",
+    "international_phone_number": "+1 647-931-7330",
+    "name": "Property Guide Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 8:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: 8:00 AM \u2013 8:00 PM",
+            "Saturday: 8:00 AM \u2013 8:00 PM",
+            "Sunday: 8:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107150637685841549153/photos\">Property Guide Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAHi2qNIhKutm_-qeo9Tc-01MyK3ryeICblNmggxOwLtuau2phqqzrNZ5O7GgNquJACgzFNjydFWTfB1LD6a1Lw34fDqXNgGTWGcShFwFJ7SS4I3nIzaLNXHxA3CFVsDe8EhCUJc7w5lmWzgiTJZ5ONJAFGhQKF24z0N6kv6FU1yDG7uQRKuHDLA",
+            "width": 480
+        },
+        {
+            "height": 360,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107150637685841549153/photos\">Property Guide Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAARXETNp8LyHsMB-sMLuu_bCfUaCGt63fynqvp9RFfbCCk83FJjOgWUd01R7ecjXrTMAuO6pqm2wfZqJNQY3K10Buvh9jQ0K_0FavdxNoGt6mAMMgwC9z0miza9Y4SBULmEhCUp90IwJf9ITqyUvxMbTDYGhQn009RMSX7X7TD31xTz34K7ImlHQ",
+            "width": 480
+        },
+        {
+            "height": 320,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107150637685841549153/photos\">Property Guide Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAKaP0nN1TQCa2qBoJyRCfpubjG-6-Ax-FoRBPF2-3062rK6C48eAqIu1QgDwXy4AWJw1QFkA0lQz7bJpbFlSzn7LX0zd_8GvJPnkdj-TWAU_qY4g1uIuZtsIPO0BTT61IEhAnYK_0LYPHBY0qT_oXBbuxGhRznVWE9KKwJwfkYGXMB7ah7CQ0Ow",
+            "width": 480
+        },
+        {
+            "height": 269,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107150637685841549153/photos\">Property Guide Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAj4ykITbZLNqPrEEcuxN1VDSBrF5vJR9zzGVtKpycZc9P5Xxoixj0UDzIQBa3nVJg3ny6TXeQP_eoWiqNgQW7Jeo-JOZyxm4gSCZEQ05S7PzwoOchTJrsdx_FsnR3jv6qEhCradJat814WtGBHlJcG0MkGhS_x4rlWVvC0jT0kHxRhvkLCSKRtw",
+            "width": 562
+        },
+        {
+            "height": 269,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107150637685841549153/photos\">Property Guide Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAA9pw0LNanHOAFK3Wmze6tj7CX51j7aMCBy7HqhefW8dQ6XsWLZkP4BEaE8Vt5H9tXpxMdV6dnRanHlvV-b1YdQZxA8i0ibQ2Xf06zs-dvwnN30wcycX9P2VM2mvusxdSPEhB4lIxjZE3R6S4zvf-DO28JGhQZJ-H_teovKapVVi_PrkqIc7UkcQ",
+            "width": 562
+        },
+        {
+            "height": 320,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107150637685841549153/photos\">Property Guide Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAa222Iidrb8Tm0oQXlGkN3lDAt_FR_Bx-Hq5paK7ldXnqo8W0Q0vzczk96FE_AwlgqsZqe6lB4tJwaqkVHt9_3HV6X8NMGGPH-tFE5zUtHIxJgFITcmNkax5lpPO0rDfFEhAHSy-dYu4wxlm_bw2ZWnZHGhQD7FiiTFdiM4rNr_kTioLUMY_AqA",
+            "width": 550
+        },
+        {
+            "height": 269,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107150637685841549153/photos\">Property Guide Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAmjvXs-tJ1jHVnKKZR1jpPWoDbcBymUSdKylg5CVfVo-x-pHV_0RibYUmqHRJN-_sitG0XhdDZLdOlVbczqetVEKhdohO7ldb3Vs4vyaGeJ-h8d_BWswlPPkLYOaIBUy_EhDrCDlN-o6pZrPo7-m6w9hXGhSRfb5A4ZjWRR8wF7PG4nRPfCDieQ",
+            "width": 562
+        },
+        {
+            "height": 269,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107150637685841549153/photos\">Property Guide Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAOGqTc3pBXyupyMOYfJmTl8f0FyJdUdU4i978mayz4dfXJmgv4deYF1mIfZJ1aPLhqbnE2TrlVG3WRpaj8IRaajbpSatqS9VKzNZnbxNSkEzMtc6-byiS1rtk5bHvK7fUEhBAIgaQpotsIf1x2ezR_CRyGhRSe0l8ucQwM70sPpAm4xSIuYAHXA",
+            "width": 562
+        },
+        {
+            "height": 269,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107150637685841549153/photos\">Property Guide Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAzoT9DUb7rCtjWOvom2tYmWa6byGdj1UTItZYhUIUQDO-59vXdW_-IKozweuMz3GWeBwG7HHNtbFcGPFPiKEFxusgXJYUQ9Hy4lFL_DD_OqTUY4xDtL436oCXEbrGddkHEhCZ75ZcolRur_UAnb1LERzRGhQjo5bXPTRvpjY4c02wtY_5b_qcLQ",
+            "width": 562
+        }
+    ],
+    "place_id": "ChIJQwnd2t80K4gR_Zz_txBwRqg",
+    "reference": "CmRSAAAA4byrjsxq6fKlK0XZCQnSuBoJaU8XO6oPyO2JpG77CyPusKxkvDcqqdAfWoICxiIIpx4sFpGe9-eItajNCWWoSrDRrd0zJv6yzMH-6CjbTPWEQHq0wn6LJ2prNRKJfdWfEhDDNK-ZfvO6_jIkxywoP6oLGhTJDKMbssP-LeCEqCWsOtCJU-PLqw",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12125502263850409213",
+    "utc_offset": -240,
+    "vicinity": "55 Stewart Street, Toronto",
+    "website": "http://www.propertyguidetoronto.com/condo-reviews/thompson-residences/"
+}

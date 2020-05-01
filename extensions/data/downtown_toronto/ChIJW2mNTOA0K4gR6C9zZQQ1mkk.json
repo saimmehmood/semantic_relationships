@@ -1,0 +1,130 @@
+{
+    "address_components": [
+        {
+            "long_name": "76",
+            "short_name": "76",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Tecumseth Street",
+            "short_name": "Tecumseth St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2G9",
+            "short_name": "M6J 2G9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">76 Tecumseth St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2G9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "76 Tecumseth St, Toronto, ON M6J 2G9, Canada",
+    "formatted_phone_number": "(855) 898-2378",
+    "geometry": {
+        "location": {
+            "lat": 43.6434059,
+            "lng": -79.4055425
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447811802915,
+                "lng": -79.40406366970849
+            },
+            "southwest": {
+                "lat": 43.6420832197085,
+                "lng": -79.4067616302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c30ba8c2c25188bd317b8f583578dc1658c5e58c",
+    "international_phone_number": "+1 855-898-2378",
+    "name": "Bike Share Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAbAio3eihcRKPHwAkGP6w7X9hEjAjhd1r9IYqwZ8YbZSfm1sek2azcAa6-X8C4Op3xVjoiHylxpY_3ws2kzw1klTWSoPXkt876tDB03beniA_n3ZT-MmTLKtMokL-1ikMEhBjmbVOsxk82dE4DxrVKLdVGhR3RWLoNTDoBpndpGsbuELtRy282w",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJW2mNTOA0K4gR6C9zZQQ1mkk",
+    "reference": "CmRRAAAAhCI3gjRL109SXgJEz3YE-BtoxYw22OHtvcQI_8qABVX9vzqxHe_mfa_tvz5uO6-11aRcNEK_HUTN7PfKKBdnW-V3HUAXNCY1qQZhIZg9jKfuOvZ7RK0ZRjqxIKb4gtn4EhDqeuQl7b796LcNAnA0ilrDGhRGKTkIFyzqtmtDn9ULObhKgXLxug",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5303609804180369384",
+    "utc_offset": -240,
+    "vicinity": "76 Tecumseth Street, Toronto",
+    "website": "https://bikesharetoronto.com/"
+}

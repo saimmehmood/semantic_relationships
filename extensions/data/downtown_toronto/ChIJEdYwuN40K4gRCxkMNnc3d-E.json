@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "540-554",
+            "short_name": "540-554",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M3",
+            "short_name": "M5V 1M3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">540-554 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "540-554 King St W, Toronto, ON M5V 1M3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6448546,
+            "lng": -79.39803549999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6462035802915,
+                "lng": -79.39668651970848
+            },
+            "southwest": {
+                "lat": 43.6435056197085,
+                "lng": -79.3993844802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e8dc22ec33a9b8380abbd401448ab4f90204c1e9",
+    "name": "540-554 King St W",
+    "place_id": "ChIJEdYwuN40K4gRCxkMNnc3d-E",
+    "reference": "CmRbAAAAvN0CJD9FhnXeegqWWhw22dKlIfskpSKaLglw4sRhAjUyl6iEoBqbigzWPha_eS47z5ToCTo5RZqLRCd31873GE_Ylf53UnOqrRwdgOjXFQ-78LW5Bk4_4oCfWgyqW8QdEhBKY5Gg0rQ9hJPlXaps6MpBGhSs7RHV6KG0Pgb09Mmk2Wvm0w42BQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=540-554+King+St+W,+Toronto,+ON+M5V+1M3,+Canada&ftid=0x882b34deb830d611:0xe1773777360c190b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

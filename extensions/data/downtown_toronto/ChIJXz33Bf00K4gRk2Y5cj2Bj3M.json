@@ -1,0 +1,372 @@
+{
+    "address_components": [
+        {
+            "long_name": "942",
+            "short_name": "942",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">942 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "942 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "formatted_phone_number": "(647) 706-9105",
+    "geometry": {
+        "location": {
+            "lat": 43.6447592,
+            "lng": -79.4166073
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6460485302915,
+                "lng": -79.41523526970849
+            },
+            "southwest": {
+                "lat": 43.6433505697085,
+                "lng": -79.4179332302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "5f688e04eae30ab69824ae3ccc5c47b775d61be2",
+    "international_phone_number": "+1 647-706-9105",
+    "name": "Fonda Lola",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 12:00 \u2013 2:00 PM, 6:00 \u2013 10:00 PM",
+            "Wednesday: 12:00 \u2013 2:00 PM, 6:00 \u2013 10:00 PM",
+            "Thursday: 12:00 \u2013 2:00 PM, 6:00 \u2013 10:00 PM",
+            "Friday: 12:00 \u2013 2:00 PM, 6:00 \u2013 11:00 PM",
+            "Saturday: 11:00 AM \u2013 3:00 PM, 6:00 \u2013 11:00 PM",
+            "Sunday: 11:00 AM \u2013 3:00 PM, 5:00 \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104887578780289179029/photos\">Eamon Wild</a>"
+            ],
+            "photo_reference": "CmRaAAAA1py9-MMyrnxGTpwVWNMoPCoThsO8f2xzlXGTZjn_9kUV533K8xNrkWMlQ_HwMKOWTHKzrxw5hCOVmWnDA5HKBTijrn6XnO1CGiVUVD3cZZ6tHNLlAKQee0JDuCXvKw-AEhDmy1OKyJFhDAd6RkY8xt8bGhRCrVHM34xkcVHduTBqtg-iVHY6ew",
+            "width": 4160
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117407740090974086507/photos\">Fonda Lola</a>"
+            ],
+            "photo_reference": "CmRaAAAA28-ZmM_HEve-Wol_KjMu889ANIzaNwsKozu1I0Y1DlzcgT6V4o1X9XG4vXfP072w7-_OFbVMKjNA3j0kZPI5tv0jwJ6uH9Yw810H68Ib34UpoNUEKRovdTrnnh3mFAq_EhAIl0YZrrKdSjNJRn_Ali_YGhS4ddyiI5TM8reivMVnX4AKeOjSZQ",
+            "width": 1500
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104887578780289179029/photos\">Eamon Wild</a>"
+            ],
+            "photo_reference": "CmRaAAAATW9Z7LfoQ9hy4ex5WWqhvFLnrdZrfHXH7AnUPZuIJWTi4KyAPdK73ipz5pT9mtwg_Mu0Z2hONEfUBWnsX_l0WOFh83xr-M2-8WKfJ3y_V92oZw8eI9n681_zTXvJprt7EhBtw97vcdfOssgkTl51CnPqGhTZGzunpjILqV2ccHmxQ--dOcH5PQ",
+            "width": 3120
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104376893258422446911/photos\">Brian Jakovina</a>"
+            ],
+            "photo_reference": "CmRaAAAABC64kEa1loYDay14AaYpxuBWaMY7uMFkvBCm498BMIC2amz9K3vM6Kz81oysyoUU_FB9FDp3O5hvOWVAzxuqDzmIYxjiYi4y2DYx8Zzzolb66wJnrRtPbrC9gum3LiciEhBSso9Tme2Pfl7F-APTDOaVGhRk6vdlj31Q8Rbf8DE2E4Wddnam0w",
+            "width": 3264
+        },
+        {
+            "height": 3341,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117407740090974086507/photos\">Fonda Lola</a>"
+            ],
+            "photo_reference": "CmRaAAAAaXdUqGhnqJP-KJzKzTPvvJpG0SXUEAJUW7MRtXtPS9Qia6mbdCVHZ7T-00mQ2npa4j3t6MFT7G2N9pUH88tt4127UBxuffsAkBM1FfD14Hro9LITqAr5vu82hU-QX3CwEhAWYeNVQ3CE8CxkibX7Qa1GGhRfUTwEdfQr0oFCxUe0V2mWBtn7XA",
+            "width": 5011
+        },
+        {
+            "height": 2985,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106155991883838722959/photos\">Kimtl</a>"
+            ],
+            "photo_reference": "CmRaAAAA5xv2sKHoVXYkbqndzxm_0nh8NgFeXRtHUQnwWGNfMQsoY23WgPW0zW3RmZ5-XzSUlowKjQpsTn1LPL5XVbo65tLgXs0sHB9y0s14lHAHLNJnFStEyR-ihJuq4tApCFfdEhAqvZ7o3xUxN-1WEzHFy9mMGhRDexF96S9f1Iz2zcRSwodJFyK4IA",
+            "width": 2985
+        },
+        {
+            "height": 576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114390419501398484081/photos\">Amelia Does Dinner</a>"
+            ],
+            "photo_reference": "CmRaAAAAld_-OcuctUnYfwBvUfhw8s-lzXMOKi2qwOo66MEWzQwX5o7BWbSkSVSZLkHU6tdScVycDB_pjfWKjNWSZSAVfo018fgHasZN_tThOI4Sf1jn6oSGIH7pwb9eGUWJY9W1EhAnnIFZ-OdgkkFu354bd2G2GhSRHc6JEg0Xk0NKdM-GAJhoTVpm7w",
+            "width": 1024
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112316411201083096646/photos\">Erin Palm</a>"
+            ],
+            "photo_reference": "CmRaAAAAm85etx3GKF6SCgflZb6lLtXVonYJlT6yty0B7hPdqsvM_uvncXq_81tsRZ5O3uuKoiWsaZrPJgDa2Sff1ER4mPIkjNJ4xZL5dwNsa63cMYSXVRz6RXpTtzdjBuNI1-TzEhAh_6zj3EPYPx4qE_sd9iIhGhR1lR0ph-amw0T7vUHhDOcvQSe6Mg",
+            "width": 2988
+        },
+        {
+            "height": 576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114390419501398484081/photos\">Amelia Does Dinner</a>"
+            ],
+            "photo_reference": "CmRaAAAAd84D1Bc2l4mNXN9OnmdTEVgpf9R1ChJKNhvrkWG5OlB5qLxBpJCT3_Jr8OhmpjDS0YKL-GwGlWpljHGPx_da2TQzeZ8AtzFhfH09NC1Rw6bgZtPHQaPdEe41J32rcI2QEhArdzvXXc8-MqSz99dtOLsTGhQ3rhkNTUaDlSWWSqB-BueOsmBqmg",
+            "width": 1024
+        },
+        {
+            "height": 3006,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106867399165972353511/photos\">Dilini Kurukula</a>"
+            ],
+            "photo_reference": "CmRaAAAAsOpM3eaqUIS-I-pLsenqgwZ1qC0jKiPtEbxGmVF6y-GBkoPDybHkM4UtdOUWD8YSiUlpx9T2kh6Ocx6YmKUeddumX2bCdLzG7gMA6aJrwksbaezBR84G2B8ApzsyQHDgEhBwDNLBvdXZQ1qe_gwYWJF7GhQ9ILQR5C0TcUtXxYN6EHeW4SOTrA",
+            "width": 5344
+        }
+    ],
+    "place_id": "ChIJXz33Bf00K4gRk2Y5cj2Bj3M",
+    "price_level": 2,
+    "rating": 3.6,
+    "reference": "CmRRAAAAZsACWIO0A-ypNj5uyjHI-Bga6TyJKM1GZBYgCZwl-k_je5rSDoU2gBNbbbXZZJhJlgxk-5T2PiYbTHGpezKksAy4LB_QZcvX8tm6W-3hSnzDmyMCSQzC2lQ8Bguq7Iq5EhBaR0t1E7hw1psxabodgb84GhRrFRcg4qhnmpOmPwqB0SzjRSDXCg",
+    "reviews": [
+        {
+            "author_name": "Victoria",
+            "author_url": "https://www.google.com/maps/contrib/100181882625989935827/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-9dqaOvUg7fI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1bSKtJrzdEhZ1C2iQljFC_YdYGCA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This restaurant is amazing! 10 out of 10 for the food, and service. The owner was extremely friendly and the rest of the staff was very accommodating. I recommend the chicken or pork tacos and margaritas! If you book in advance, ask to sit in the back patio - it\u2019s a beautiful space for dinner and drinks in the summer. Must try hot spot!",
+            "time": 1525620177
+        },
+        {
+            "author_name": "Clement Chediny",
+            "author_url": "https://www.google.com/maps/contrib/105203324693725832592/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-EPEK3vGmAHI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0z7NaWMvEJ1TC5eQbabwF82MkvlA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "$40 each for dip & chips, a few lettuce leaves, small tacos, and ONE churos (after a 20+ min wait, so bad we left them after one bite). The tacos were nice, but small. However everything else we could have made better ourselves at home. An absolute ripoff. We very politely explained our feelings to both the waitress and the supervisor, who merely shrugged, said \"I understand\", and promptly passed me the credit card machine with no other explanation. I can forgive the horrific waiting times between courses and to pay, as I could see they were busy, but cannot forgive charging $40 for so little, both in quantity AND quality.",
+            "time": 1525575004
+        },
+        {
+            "author_name": "Eva Geyne",
+            "author_url": "https://www.google.com/maps/contrib/105476610171296387043/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-1KjvL_y8pmM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0_w0u5RD1NZ-kpFRjwnaz-fH7NFA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great aunthentic  Mexican Food!!! Patio is so relaxing I really enjoyed having brunch there. Cant wait  to come back and have a girls night out with a couple margaritas.",
+            "time": 1525628268
+        },
+        {
+            "author_name": "Tim Dempsey",
+            "author_url": "https://www.google.com/maps/contrib/104473243898832953969/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-d7wI6cgZIsc/AAAAAAAAAAI/AAAAAAAAAGk/jnLQgN0mEh8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Good food, if not perfect. Service was outstanding, and great cocktails. The patio is very quaint, weather permitting.",
+            "time": 1527563475
+        },
+        {
+            "author_name": "Nicole B",
+            "author_url": "https://www.google.com/maps/contrib/114737455756447550440/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-jIzv4_MSS1c/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2dnl8MsWKSqg6cPOOfSN1MGVyFNA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Lovely, quaint patio. Food was wonderful, best tacos I\u2019ve had in a while, amazing service, friendly waitress.",
+            "time": 1528411488
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8327016336940689043",
+    "utc_offset": -240,
+    "vicinity": "942 Queen Street West, Toronto",
+    "website": "http://www.fondalola.com/"
+}

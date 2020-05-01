@@ -1,0 +1,92 @@
+{
+    "address_components": [
+        {
+            "long_name": "Stokes Street",
+            "short_name": "Stokes St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H4",
+            "short_name": "M6J 1H4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Stokes St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Stokes St, Toronto, ON M6J 1H4, Canada",
+    "formatted_phone_number": "(647) 447-7945",
+    "geometry": {
+        "location": {
+            "lat": 43.6435125,
+            "lng": -79.417638
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64481533029149,
+                "lng": -79.41627061970848
+            },
+            "southwest": {
+                "lat": 43.6421173697085,
+                "lng": -79.4189685802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2a61e459e4e5c6b78f1c565c75390c4f1579dd1b",
+    "international_phone_number": "+1 647-447-7945",
+    "name": "The Beamish Family Wing",
+    "place_id": "ChIJh2Fghf00K4gROEYmWMoCX_4",
+    "reference": "CmRSAAAAYLZPnwR9Ov-uVanTztZokXN6K-hSV9SyvEQ697TVEHdnil4AWLtK1T5xV-D-Y5Mtxt6XKGgwf0h0wtJn6z9qjfgY5l3MZWC4u_TQOCGfmgjrEs8HLfJD4GMpGYhYQqioEhDNEyYahUteAi87yJXcepsaGhTYuvNoOJazx417BmOGK1LQWo1mMg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18329372076506760760",
+    "utc_offset": -240,
+    "vicinity": "Stokes Street, Toronto"
+}

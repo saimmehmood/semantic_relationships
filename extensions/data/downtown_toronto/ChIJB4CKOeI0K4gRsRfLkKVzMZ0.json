@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "795-787",
+            "short_name": "795-787",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J",
+            "short_name": "M6J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">795-787 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "795-787 Adelaide St W, Toronto, ON M6J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64392350000001,
+            "lng": -79.40954789999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452724802915,
+                "lng": -79.40819891970848
+            },
+            "southwest": {
+                "lat": 43.64257451970851,
+                "lng": -79.4108968802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "dc3112b3b2b9f8406b69f575feb5cc1034b30061",
+    "name": "795-787 Adelaide St W",
+    "place_id": "ChIJB4CKOeI0K4gRsRfLkKVzMZ0",
+    "reference": "CmRbAAAAM1WiGWhOlneoJWr9RWDFdh1UHcIyI81dXKn7ZtWPhqB5lDWt-IRyn1nG_d4eC5qgIbdUNPfJw7ZQQt-PgVX8bQLZWaRTsPr4wm0OAF7tiUdKNjP6cIbfQLwCCmw2rMidEhBQKPf88wemigDH7VqdUoCWGhQyjIb2kghTMEqLttM7LJpcqoacVw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=795-787+Adelaide+St+W,+Toronto,+ON+M6J,+Canada&ftid=0x882b34e2398a8007:0x9d3173a590cb17b1",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

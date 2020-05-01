@@ -1,0 +1,267 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "formatted_phone_number": "(647) 993-8756",
+    "geometry": {
+        "location": {
+            "lat": 43.6435987,
+            "lng": -79.40875419999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450111802915,
+                "lng": -79.40725996970849
+            },
+            "southwest": {
+                "lat": 43.6423132197085,
+                "lng": -79.4099579302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fd4e0755d76dfb38339b0c33572b5e8e70acff60",
+    "international_phone_number": "+1 647-993-8756",
+    "name": "Rexfords Foodbar & Lifestyle",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0500"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 AM \u2013 11:00 PM",
+            "Tuesday: 5:00 AM \u2013 11:00 PM",
+            "Wednesday: 5:00 AM \u2013 11:00 PM",
+            "Thursday: 5:00 AM \u2013 11:00 PM",
+            "Friday: 5:00 AM \u2013 11:00 PM",
+            "Saturday: 5:00 AM \u2013 11:00 PM",
+            "Sunday: 5:00 AM \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1357,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAAdKcSmagVg5nPQxu5W04edPdW5WbGKGR6RpUxv4I3jeeJbQZuuPaOcP9lWnhbm2ImpNLFp2TuR7QRCyoawh4pf2j9G8i8d79Rq8gKdTFjEkLe6JU5wJxmG_ilxnDFThq3EhCmzk3XKATHHDYWVxWsHcgkGhTD_7K4-7dW-tFAfv1kaZQwZGWCPQ",
+            "width": 2048
+        },
+        {
+            "height": 1656,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAAchvIYmbapA8IzimITn09xT846VGOtORUceAPmf4tp8uUA5YZH9A_iwOXA4PnVwnQVVSADU7ilDwJHKWDJR0zHtKuT5V2fyo1GqTIUEuW615Hhy1bKFc1GjcGm0k7xnrqEhCd8pAY-S9BaGs30mtkNx0HGhTOHog_-F6azV2g1t_pafDSACOZ9g",
+            "width": 2500
+        },
+        {
+            "height": 1656,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAA8e04bgPRljo03zvQgpnE7rLIJNb7nVoCYWwU6enUwtf4cdoIWhIOdXJAj9cZtb0sfoyXItoBnBxxNBrorrDT-jPCMQPspzrgADi4TG3VJ4AS7uHBVVWLRqivzmtk1HL3EhBH899SYUEJUX7eZKPctQ9CGhT9gOKyQPnVdaiL_inKH_I066GpXQ",
+            "width": 2500
+        },
+        {
+            "height": 1656,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAA12Z8nMnFSbPR5paixi5jSiZhxYySe0hWxDp159hYtoBVkv-OSK_r_EErsk4Fr04wDcEeSLVlXzk5LZs0tDUZXDTfdeZ1fjLg-eqbRXlFeqyLyA4gh-CAtxDYSej69_M7EhD5TX9jhjc8BOeK47ONIDnFGhTkz5ovJqdWreN4VuqG7STRO8uQmQ",
+            "width": 2500
+        },
+        {
+            "height": 994,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAABnPD5m77FKwQtri_9sNjC5MGu5x60Tco78g1SJakEzwUdB0vG75Jb4-WjQsiaiEieNxmuKDcQQL4aO-eeIfLcniXICMSvsn7_Pq6KISp20ivjZPfST1a6PIsMD7tiVihEhA45260Vnlk1V-YSe_0tVcwGhTL6JhcSKnQBcJwlm4-cbHhcqCMNA",
+            "width": 1500
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAAJIiNDEiZZmfVgPxpNeLDhkfb_-rqjMe5K1s1USQCplMtt_1IVDanx_-7p3ruRcWHGVp6erxJOC_fM2AmHV7giSGR09EkA5I7PiTpIw7RsXjeMVQykY2Q_pqUeYNCOG5vEhCtJcAwkPylVSkVAwYGSsodGhRlHOJhAGqJZxk1xuXiYehhwbeSbw",
+            "width": 994
+        },
+        {
+            "height": 678,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAAwWPeiHamjqN9In3OB8cB5-faPttRrDMMRHQHuubRyVyCfqtHmnj7r67NcjPEJHEAQKJcx2blEH6rFmONoxO-TnLxrrm_XF3Zf70Q4dAOUAHIc6_f9CqYpOHvcKfSxuN4EhDj2mWR18WVvVFb01aDbOmpGhQbgAFEANS9eE6qr2HMifZfDQzkUA",
+            "width": 1024
+        },
+        {
+            "height": 1656,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAArSmuUOlcg5lKf43vpBMcd8aNWQjQM0PT0PJdjvPYZ5Uv_MoqGoXY80GgNC0OAzO_rdU0iC2egWpe6XAKPHo_TPDSKY7eKRxLDVi7DOMkMPUC8wZHJRJ8L3sMtx6vXED7EhCUnD40EXLKisCmekazBowuGhQgf2a120rD7jFOtpw8okmNUe65tA",
+            "width": 2500
+        },
+        {
+            "height": 1656,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAAQhHgxVM9B-fPd4Q3S9liLGeDa0h5N5D54YTg-QpBt8Ez_rY9ED7IS0fX47mOa0M2XSU-T4fM9aYjd23AYfUFKEfCfJP4FyHOcRaTKTmcpki44jx082_2fdaiMMGqpu86EhAWojbO4Ya1Rg_HAIrJtwuvGhS9pJbS2EGve75Neb5pirg9fFY-Qw",
+            "width": 2500
+        },
+        {
+            "height": 1656,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112369037459358321388/photos\">Rexfords Foodbar &amp; Lifestyle</a>"
+            ],
+            "photo_reference": "CmRaAAAA04Z36TrdyHIL80EpXmedBGMF-Ez_0QgUyadZ_haFxcRlzr-zSJOyjYLSDyqYpTFI7XWq68v3Fis2dy3K7LDrYnN7cI9uUJVl9gusCNKdBk6F90GMuZYybTjD2sP6VN6zEhAv2vezMgTq3YWwLKrjE53QGhQD2Rj_qP2CMVC8Ks3vT1nxEvQO_Q",
+            "width": 2500
+        }
+    ],
+    "place_id": "ChIJbUIn0Nk0K4gR1-Vlx2LyIwY",
+    "reference": "CmRRAAAAz73-7LvaARl2cLAE1TWDEON4KSvX4RfXTLF6tf_VBUFLXmjDzOtPENTYQtMVrqvyslQIxinEgm7MYhZbkPquzwdodEXSOicOJMFkLk13J5J-29jPBXSaZ0nvh7Zf68NdEhC4N2Mb0Hm93HEcDsL5mCa7GhQEhRa8R7ebIkf0U63why9wfv2Mvw",
+    "scope": "GOOGLE",
+    "types": [
+        "meal_delivery",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=442463694478501335",
+    "utc_offset": -240,
+    "vicinity": "229 Niagara Street, Toronto"
+}

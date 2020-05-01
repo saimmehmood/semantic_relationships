@@ -1,0 +1,193 @@
+{
+    "address_components": [
+        {
+            "long_name": "352",
+            "short_name": "352",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 0K3",
+            "short_name": "M5V 0K3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">352 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 0K3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "352 Front St W, Toronto, ON M5V 0K3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6434855,
+            "lng": -79.3923045
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446896302915,
+                "lng": -79.3908801697085
+            },
+            "southwest": {
+                "lat": 43.6419916697085,
+                "lng": -79.39357813029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d1288357e5f06c23e40e3941790e404bd3b429ac",
+    "name": "Fly Condos",
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAfSWd6Z6lxkqoTdEkFubL9JudN-3hgqDvprnNH8wnfYmC2UhAFjT4mFJmWf9JnD-QEA21KcEPKELjSHSqcP4Ki0ndrT1lsSY38Sn7wdG1V_OoXWLI0sZoNqxMIrm6SbhuEhAMKsV33r6G9ltrzIMxJt1pGhT4xp2uqL7olcwUWRFmJbanvU6oZw",
+            "width": 3036
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAKRGn3miUwKYe4q9-AYuP-jY-aSu8iKkc0rlgDGcUCdwdZAnrBp-mm-zvCuwS32_TbMbL2guc4dnchwZ3mREMe26PgdKN1HRh2iVIBLPkLFHX1i7AazJTEz61Gqnfb9cmEhA177BHv7hWbixeinuYs_ASGhSWaZJHZSCTFtVECVH1XsJP1RibyQ",
+            "width": 3036
+        },
+        {
+            "height": 4640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111596044779789783634/photos\">SHOVAL SOLOMON</a>"
+            ],
+            "photo_reference": "CmRaAAAA9_zjPJ-lz37TuwAPxPz4fXqJSjvfEN08U3K9llXelOXEdp2JABNMuwtpZWlemscorXyn_1OmXzYbuOkcvadI4x_MO9hUAHfHal_ylB9vMVkWX3S1eKtamP7T3bZdWvZLEhA8rmiaVBvIfTyitecLO60hGhQxM0hSfsSJmA3gQJnXHKDWafbfug",
+            "width": 2610
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112045321452357098490/photos\">Julia Zhang</a>"
+            ],
+            "photo_reference": "CmRaAAAAl6VeozyEhF2AA5n1s8rHV-5rbAuXA4p2mvH-Bp3cxdFOe4M7M6HLELv7SBAjCUn4TxpGps1UMxpEwpG_kQ1hQvQ1rLYLkWaqKpSo0kbZJ8I0QfL2zXOr-kaihaJz03dGEhCu0M2w-jFlshUxpFSm-WFDGhRRT5mAinv-1L9WWhURw1fWYVBS5g",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107971934419860870475/photos\">Artem Zagoruyko</a>"
+            ],
+            "photo_reference": "CmRaAAAAqTmmqHtQnr3AdSNuElEA-e2TYCrxTg_u9YXnvnMQiB7p0kHaZ99V9ntf9NjaMYLxLKtMLMaLT86sppDDToYaAfw6J9MvzB4aHy9mGaYvYBkWm97_jvNefkdP1q0MLvj-EhBtrm12qQhmFWBV-Q633F3GGhRztkX13oEXOLbfWIIADhr5SMakfg",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJTwlGNdg0K4gRSYCDfL_7c2I",
+    "rating": 3.8,
+    "reference": "CmRRAAAA0rUfxSiTnf_CpuvoOs4drkI6-K9GWqNo38wqZZW4ygS-d4z1YRY-mnPnhimHukdbOtGYJVsL2jDiChmGT9h60m4LL6iygnnhK9Eiahn3F15gcPFF-qbZWCObApiRk28pEhCUBpVdpEoxWJWRXi-N5pWVGhR4qwMIwOPRAapuSTiFoXxSqxAu6Q",
+    "reviews": [
+        {
+            "author_name": "Tiancong Zhang",
+            "author_url": "https://www.google.com/maps/contrib/106350481403150194997/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qSwaqpGRZLY/AAAAAAAAAAI/AAAAAAAAAEo/EOzkzBlJLic/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "A truly modern building, ideal for young couples and professionals who want to be close to work and entertainment. The lobby looks so much nicer and prettier than other buildings in this area. Well-maintained, clean, and safe. Lots of fun activities in the party room and the terrace!",
+            "time": 1522600833
+        },
+        {
+            "author_name": "Tim Grassin",
+            "author_url": "https://www.google.com/maps/contrib/109719891403106826175/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-QVfip-LRG8Y/AAAAAAAAAAI/AAAAAAAAAAA/ShsOvx4mmtE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Truly great building to live in. I've lived in 3 downtown buildings this far and i've always hated the relationship with management and front desk. The guys hear make you feel welcomed and know you by first name. I always feel proud to bring people over and don't plan on leaving this place. Can't believe i paid 30% less per square feet than similar buildings on King St.",
+            "time": 1520873450
+        },
+        {
+            "author_name": "raghav sharma",
+            "author_url": "https://www.google.com/maps/contrib/111708252517742070365/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-dd9gbg89eIg/AAAAAAAAAAI/AAAAAAAAACc/Hu-MuDyRww0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "No elevator access to residents from P1 and P2 , have to go out in winters to enter the building from ground floor after parking the car underground. So if want to live in downtown and don't want to buy a parking because you rent cars only on weekends (which a lot of people do), and you chose this building, you will pay a heavy parking fees at P1 /P2 levels AND wont be able to take the elevators to go to your floor from parking. Also, if you have guests visiting, since there is no visitor parking in this building, you will have to ask your guests to park in paid parking at P1 / P2 and then go outside the building to come to ground floor and take the elevators from there. Makes it worse when you are back from vacation or shopping and have lot of luggage to carry to your floor. It seems not that big of an issue, but is a nightmare if you have kids, a lot of luggage and when it's super cold outside. What's most frustrating is that you are a resident, you see elevator entrance right in front of you with access controlled through fob but you can't call the elevators to this parking level.",
+            "time": 1522018484
+        },
+        {
+            "author_name": "Thania Hinojosa",
+            "author_url": "https://www.google.com/maps/contrib/108198819541936453278/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-xL2AjO_301Q/AAAAAAAAAAI/AAAAAAAAF84/DGWJNUm9MMg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great new Manager \ud83d\ude4f\ud83c\udffb Beautiful building",
+            "time": 1517881474
+        },
+        {
+            "author_name": "Faysal Farhad",
+            "author_url": "https://www.google.com/maps/contrib/110038792585468259076/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-nbBWc73pf4s/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1RAXlLIWIItZNFImjo6_z1GwZkDQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "EXTREMELY NEGATIVE experience with the Concierge. Sometimes management works really hard to maintain quality and the place is quality,  but a bad employee completely ruins that for both management and residents. \n\nS IGNASIOUS, an extremely rude Concierge, stopped my moving just for fun and to show off his powers. He was too lazy to go look for the elevator booking form and kept saying he does not have it. He did not care that we were fasting and exhausted and paid a lot for the move. He was almost enjoying our misery. He finally found the form after multiple requests by going to a different office but was extremely offensive and aggresive with me and my uncle who is a senior. Disgraceful. In all my years, living in downtown condos I have never come across a concere or a man this cold and rude. In my opinion he was truly enjoying making things difficult for us.\n\nOn a positive note, I also had the pleasure of talking to a different Concere, Raj and he was a real gentleman and very helpful.",
+            "time": 1496596645
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7094290637884981321",
+    "utc_offset": -240,
+    "vicinity": "352 Front Street West, Toronto",
+    "website": "https://condos.ca/toronto/fly-condos-352-front-st-w"
+}

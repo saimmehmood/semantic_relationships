@@ -1,0 +1,199 @@
+{
+    "address_components": [
+        {
+            "long_name": "1550",
+            "short_name": "1550",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "120",
+            "short_name": "120",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A8",
+            "short_name": "M5J 0A8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">120 Bremner Blvd #1550</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "120 Bremner Blvd #1550, Toronto, ON M5J 0A8, Canada",
+    "formatted_phone_number": "(416) 590-2400",
+    "geometry": {
+        "location": {
+            "lat": 43.6430474,
+            "lng": -79.3830869
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441953802915,
+                "lng": -79.38157716970849
+            },
+            "southwest": {
+                "lat": 43.6414974197085,
+                "lng": -79.3842751302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3d3aa1a25945bd51ffc78ab1211ab1efa72d96fd",
+    "international_phone_number": "+1 416-590-2400",
+    "name": "Informatica",
+    "photos": [
+        {
+            "height": 4736,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112573711642264187473/photos\">Hazik Afzal</a>"
+            ],
+            "photo_reference": "CmRaAAAATRsqH-InqcSx_7BSn4YQxIJwnD5Z9jC8OKpu3_p9KbPKMX9EUfq5C6sk4AkofD6XfpkqMKQoRjRGwLbJ1hmnglXDNmLQhjT3dSfAL6YAm0dRAAsX48g19FR7Z39C8c3kEhDXovxTShjz4bg1pjY68B7wGhRFHkDn9SLvyuiq5MT4B0yBD4v42A",
+            "width": 11520
+        },
+        {
+            "height": 5216,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112573711642264187473/photos\">Hazik Afzal</a>"
+            ],
+            "photo_reference": "CmRaAAAAAON3A8bePlq8lmyOq7RnfC41FbTQMlGlefwctWxTYKvo89a_s2fJxaWriYHhZ6ja0tWlKp5wUus4B9ZfCJSd-xrAMvsljBOXmfjTCunGMOijkSJF9su20XtQxRpYxTckEhAhFxVBsrxQIcRCrYHLWqnNGhRc_ZwhifXoqaTZADuPF1iZ7_L9jw",
+            "width": 2934
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108854492741485467090/photos\">Steve Hoskin</a>"
+            ],
+            "photo_reference": "CmRaAAAAn_j2uNDeo0RO9r2EGYp-oFdw3tgajiEgPlDm95DcWWszDZNUrTfGzl6PYxWxCSEV_kOYc9BDtayFjJpzRjPG3dbUFmKi3JB7yovtWDBP3QqxkVzVvJuVEvYXCUafi4XiEhB39cim9oXYsX-Tn4GqBmzlGhSdcTyZUkwgYBva0u-9abLYkUYi2Q",
+            "width": 3024
+        },
+        {
+            "height": 3665,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108854492741485467090/photos\">Steve Hoskin</a>"
+            ],
+            "photo_reference": "CmRaAAAACFNcQ8QT7QhCgyWzeWyazUdMgd-vszTOmyago6dGrk7NIUrz0AlDMnf_jRSH_rwkD9-4sbbjzD_jkZfHqNkZ25NYyXcubsYmtTKJV94-dkmckHpAwgWF1I1Sed6sfWCgEhAvVaYfJDSwtGBgVChYZH3pGhRBS1qWV59euM2dcETtIxThISmQZQ",
+            "width": 2932
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112573711642264187473/photos\">Hazik Afzal</a>"
+            ],
+            "photo_reference": "CmRaAAAAWoPXodBcVerflW8qu6XLjeBnqmYPrnHBlnq5Fti5UYKzAbyXOgJ18tmUe8hOPAGyk6olI9yHWKI2zG1CjOgg0g-6R0qYzbW6WhqsUdixchPyg9WAwcd3FndCB18v5mfxEhCrI2KydKVefLSyEP6nzd-IGhRLM5KSbuzDTe4eMBw6uq_Xf3ZpNQ",
+            "width": 3672
+        }
+    ],
+    "place_id": "ChIJr0Tm9dQ0K4gRLGrr2tIc6Z4",
+    "rating": 4.7,
+    "reference": "CmRSAAAAkDzJangUCJGmQcafaUt71MTxK1rAVuBEDyWZuOOY0w46cHqG1cL8tRv8OzQYKgjCjJM-qcsCaITrFDfRcXN1nmpjfVIelbUcgPpynaa00Z69mG5bpbedjuAMm9Is8ZHqEhCCXVpvXQEH8s7Am_QtxQjJGhRzSUHHk3p2zDWsLGkkCWPxu2XGQw",
+    "reviews": [
+        {
+            "author_name": "Michael Taylor",
+            "author_url": "https://www.google.com/maps/contrib/113237856127009301044/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-XhiCLV0Od_o/AAAAAAAAAAI/AAAAAAAAADs/8WZHSZ69nBs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Very nice office",
+            "time": 1500984706
+        },
+        {
+            "author_name": "Jeremy Sant",
+            "author_url": "https://www.google.com/maps/contrib/114938399835841281850/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-iMkvYAVfQmE/AAAAAAAAAAI/AAAAAAAAAGY/3hfEljI2iC0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "Very Corporate",
+            "time": 1481314424
+        },
+        {
+            "author_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0421\u0430\u043d\u0438\u0446\u043a\u0438\u0439",
+            "author_url": "https://www.google.com/maps/contrib/115838261912308710800/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-6hsFG1wGYog/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1ooVHK9viJVjKto8nGDiIuWKrYNQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1526248685
+        },
+        {
+            "author_name": "Atul Handa",
+            "author_url": "https://www.google.com/maps/contrib/101435414651120293236/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-yKNeqGDM-mU/AAAAAAAAAAI/AAAAAAAACUU/Uz8M2etl2c8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1524185114
+        },
+        {
+            "author_name": "Dmitrii Sokolov",
+            "author_url": "https://www.google.com/maps/contrib/101027928043809143199/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-VP6xUa3W_xs/AAAAAAAAAAI/AAAAAAAAWYM/7LIw0RxDATA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1514696699
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11450715219507767852",
+    "utc_offset": -240,
+    "vicinity": "120 Bremner Boulevard #1550, Toronto",
+    "website": "https://www.informatica.com/ca/"
+}

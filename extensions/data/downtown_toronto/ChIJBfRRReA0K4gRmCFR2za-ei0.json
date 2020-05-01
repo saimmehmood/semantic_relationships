@@ -1,0 +1,218 @@
+{
+    "address_components": [
+        {
+            "long_name": "748",
+            "short_name": "748",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N3",
+            "short_name": "M5V 1N3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">748 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "748 King St W, Toronto, ON M5V 1N3, Canada",
+    "formatted_phone_number": "(416) 977-5717",
+    "geometry": {
+        "location": {
+            "lat": 43.6435906,
+            "lng": -79.4049138
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448807302915,
+                "lng": -79.4035420197085
+            },
+            "southwest": {
+                "lat": 43.6421827697085,
+                "lng": -79.4062399802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "af35259c20367d9c666175283c40fa55418fb86d",
+    "international_phone_number": "+1 416-977-5717",
+    "name": "Cindy Lim Acupuncture and Oriental Medicine",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 7:00 PM",
+            "Tuesday: 11:00 AM \u2013 7:00 PM",
+            "Wednesday: 11:00 AM \u2013 7:00 PM",
+            "Thursday: 11:00 AM \u2013 7:00 PM",
+            "Friday: 11:00 AM \u2013 7:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJBfRRReA0K4gRmCFR2za-ei0",
+    "rating": 4.8,
+    "reference": "CmRRAAAAghqoRbPOYTgxXyg2iifZFhuPPkgrX3cs2dTonhhzMFgSVE4ijyc5tpXaBnQFbFyO0KEj5KmxqcjESC_N6gWTbjfJEzqa6H-p9TCimfqNdwnnqKkkn2fyALLV6KCa7srxEhCsUM7HpzwfnE7ZR5wclXFjGhQdP0s5NK-P075Vi5T0FhY-74TFNw",
+    "reviews": [
+        {
+            "author_name": "Victoria C",
+            "author_url": "https://www.google.com/maps/contrib/114202437413286652199/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-h6whRJxryfQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3ApeSQ2iT0MwAM6i3O_vPKU7vQ9w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Wonderful treatments from Brendan for the last 6 months. He is so knowledgeable and goes above and beyond to help you with your concerns. Would highly recommend to anyone looking for treatment downtown, I've been to several places and this is the best.",
+            "time": 1525283430
+        },
+        {
+            "author_name": "Corey Elmore",
+            "author_url": "https://www.google.com/maps/contrib/112408688425413686397/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HVg-p7Mp05U/AAAAAAAAAAI/AAAAAAAAAR4/qfQbuCsgvXw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "If you're looking to try out acupuncture for the first time or are looking for a reliable and knowledgeable practitioner in Toronto, this is the place to go. I see Brendan Cheung for acupuncture and cupping and it is because of him and his dedication focused care that I feel great these days. The standard of client care here is out of this World. Definitely recommended!",
+            "time": 1523488538
+        },
+        {
+            "author_name": "Aine Ganly",
+            "author_url": "https://www.google.com/maps/contrib/108120207831344858615/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-VXc4p_Rq6n4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3fevFBXollFXSXZeHLQvRO26OSXw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Excellent care. The clinic has a relaxed and warm atmosphere. They are very accomodating when it comes to scheduling appointments.",
+            "time": 1521212316
+        },
+        {
+            "author_name": "Jillian Whitehead",
+            "author_url": "https://www.google.com/maps/contrib/102015519205990273397/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-2-3EtKA0SEg/AAAAAAAAAAI/AAAAAAAAAF8/f7OjyjGFtsE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Exceptional quality of service from a very professional and caring staff. I\u2019ve experienced great results from treatment of several issues over the years. I highly recommend this team of TCM practitioners.",
+            "time": 1516574838
+        },
+        {
+            "author_name": "Natalie Ng",
+            "author_url": "https://www.google.com/maps/contrib/102811245358407221866/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-NWuUdNYdxco/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3d-dRen_o68ewArOuxo-kVVLV02Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "I have been seeing Cindy for a few sessions now, and she has been amazing. Her specialty is actually in family internal medicine, particularly for women. Highly recommend as she considers multiple factors in your lifestyle rather than looking for a straightforward answer / solution in your treatment.",
+            "time": 1506370770
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3277140821682495896",
+    "utc_offset": -240,
+    "vicinity": "748 King Street West, Toronto",
+    "website": "http://www.cindylim.ca/"
+}

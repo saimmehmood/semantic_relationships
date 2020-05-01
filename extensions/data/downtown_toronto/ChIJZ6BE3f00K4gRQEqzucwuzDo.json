@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "6",
+            "short_name": "6",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ossington Avenue",
+            "short_name": "Ossington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2Y7",
+            "short_name": "M6J 2Y7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">6 Ossington Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2Y7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "6 Ossington Ave, Toronto, ON M6J 2Y7, Canada",
+    "formatted_phone_number": "(416) 532-3195",
+    "geometry": {
+        "location": {
+            "lat": 43.6443754,
+            "lng": -79.41924399999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457527802915,
+                "lng": -79.4177459197085
+            },
+            "southwest": {
+                "lat": 43.6430548197085,
+                "lng": -79.4204438802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "94eea0a09ff3b731199c813c542d22ea2ceda50e",
+    "international_phone_number": "+1 416-532-3195",
+    "name": "Azorean Newspaper",
+    "place_id": "ChIJZ6BE3f00K4gRQEqzucwuzDo",
+    "reference": "CmRRAAAAoYK6vEKjEvVIERdt9m6KTbPpchOBOir4MBNhkd9lDmB3DLxo8bCcJm6vVKXmmUYn6-Pyq5ysKeRv8t2o6eFoANcTi0AfQvXk4eLarFcz0xAwjlXW5uET3jwV60ybmCiXEhDbFKJ91O669zugvxrl_DurGhTry9eXVxeNpubhPuoTLqk_Fikjpg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4236812806272535104",
+    "utc_offset": -240,
+    "vicinity": "6 Ossington Avenue, Toronto"
+}

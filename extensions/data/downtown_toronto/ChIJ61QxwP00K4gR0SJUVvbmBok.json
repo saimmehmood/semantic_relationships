@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "996",
+            "short_name": "996",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H1",
+            "short_name": "M6J 1H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">996 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "996 Queen St W, Toronto, ON M6J 1H1, Canada",
+    "formatted_phone_number": "(416) 530-4772",
+    "geometry": {
+        "location": {
+            "lat": 43.6443769,
+            "lng": -79.41846509999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6456658802915,
+                "lng": -79.4170933197085
+            },
+            "southwest": {
+                "lat": 43.6429679197085,
+                "lng": -79.4197912802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "819fa854144edd0a19c1e1b4a1f6320c553d030b",
+    "international_phone_number": "+1 416-530-4772",
+    "name": "Jamarmy Financial Svc",
+    "place_id": "ChIJ61QxwP00K4gR0SJUVvbmBok",
+    "reference": "CmRSAAAAMqltLKCAP_Jo7pZN0qAb5Cm0CzIjlF-r_d_d1DecvrQvryhwuqN2YwL4vgboxTM9WX2JjVLbfYMS5P-qPzQ9Xm7BUs_EA34x4RXjkVEOcjd2o75Qpi6PGr-zcOvm6V1kEhCU-hMVb-inmRiIdBlzzT4PGhSqhpfj8rBPJtRKX4aGFyVPwFKDyQ",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9873833178741088977",
+    "utc_offset": -240,
+    "vicinity": "996 Queen Street West, Toronto"
+}

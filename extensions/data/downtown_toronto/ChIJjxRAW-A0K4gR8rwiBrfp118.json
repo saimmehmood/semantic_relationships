@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "742a",
+            "short_name": "742a",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N3",
+            "short_name": "M5V 1N3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">742a King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "742a King St W, Toronto, ON M5V 1N3, Canada",
+    "formatted_phone_number": "(416) 399-3518",
+    "geometry": {
+        "location": {
+            "lat": 43.64362589999999,
+            "lng": -79.40470660000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64491913029149,
+                "lng": -79.40333601970849
+            },
+            "southwest": {
+                "lat": 43.64222116970849,
+                "lng": -79.4060339802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3d9fd12a1e3087e30dee680e1cee84bfbb31fa72",
+    "international_phone_number": "+1 416-399-3518",
+    "name": "Level2 Music Productions",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 11:00 PM",
+            "Tuesday: 10:00 AM \u2013 11:00 PM",
+            "Wednesday: 10:00 AM \u2013 11:00 PM",
+            "Thursday: 10:00 AM \u2013 11:00 PM",
+            "Friday: 10:00 AM \u2013 11:00 PM",
+            "Saturday: 10:00 AM \u2013 11:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAAe72rDyRJ0JBHs2W-ikaJc7pMipMEHhygeh7Zd0ZZv69ZK01kv2ChNWC4IioRGZ2kpf2XB67_WywQeVjIvehSd8P8CupEsGDEPrFeE-dmFjHPWjqiItpIoy9zHm-aMxd9EhDTFxjPJZhsnEEiL9MuOwYEGhSiOliotmM5-laFQyFrbMt5698yrA",
+            "width": 3264
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAA8Mfm4S-ieowpAVtSTg5zxmikX_QNlQrN3Dz5g3wDA8Qe8I4vwJSCq1I3XldT1zVDvo7X3SDT1zC6RUY3tMixzH1efjqRrsNOLGunHXmfpt2sgE47m7rIEktuzmEsX_31EhCR4UOaqXJDXc6PEhzTpV9YGhQdBwf83duZK2YHjLRPDt0o3UrsrA",
+            "width": 3264
+        },
+        {
+            "height": 5616,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAAs_KuTb15ERx8hN06bLs-1ZYQUUe4DNbM9Oh-D1mRBC2si8DTK7PnXlt2d0zNx-ym6xVM58EOBAd2KRtjh__eHADo36kCfBMVWf7ovdCoBV6qC1nIMV1ymt-nEvfrWA5cEhDe6z3tDqciGYnF9ETjel4LGhTtPYfRlNZdVxi91X7nbx0cxLeYNA",
+            "width": 3744
+        },
+        {
+            "height": 1449,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAA1hK4RMJXvfUHUYMS6yxnu3dUvvBVlxZblNTjYpFHfDpEac5cdvjsIYxgL2T2yv3DPbUWfB5zgwl0oVMYOdInA_Rdca4G3m4hY5bre4tMufmmAFXNn9Ab5E6dtn5t7bCVEhCHwl3rLbruHbiz-ke0YA0ZGhQPjx1_3CvmeiRHFcCemLx3AOc8-Q",
+            "width": 1932
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAAD6xx1fGEGcJQJXTcTMlhbwl4TISLPiuJuimwEqydC-p3yAz6SjDZuPAvVoJT94ZTqHOHMiB0L5ZqNSblRALanpHyHKYzK4NhOtz9h1UBvdImQzXwBraS_AddpyfHWLcCEhBUjXUV8oPgZY02uJjbiNxQGhTwXtg4z1lTh6Ybkro_397-Dl56DQ",
+            "width": 3264
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAAPvbSfexhRIDGIrkkoDPnxZvU79Kqh8lDk9jqxibSOgdTwCcZtEf_LD_zc7hrGWeZ6pTaWszQ6Lc5PWsPMAMqB7cGLgUgiXUjiTZ97dNlq9iPf3CzvfyfxhQbY3yBCDeDEhBMA5pQZg16s8ZnCALHsP9BGhR2Nto2zx0vcmFuWXlWRiDKEd8kyQ",
+            "width": 3264
+        },
+        {
+            "height": 664,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAAlfPCABZtb4AZn9Dl1aoy6XJKzvccLyLMwkHgsZbVGxcILNTzc1ePOgwtcHBsVITJzB-lgCgzSRbNnssGO3bXpSDKIMJSyq-yvelv0driKF6XahUHhBQ1K1T2w8-fgVdZEhCRh7tFhzz5Zj3p8wnKfE-sGhQy6rrYRx4dK3N5GtexdjwYpq55Pw",
+            "width": 1000
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAAYyY2Q-io9dMBTXtPJZcbVrYGGDAJKdaRG-SvK6uZxdeS6L6u5Irw2fYnVGYTU24M0QUGhNnT7iLcd4hBMjtA27Nd_5GiOnMTHupRVzzsV5H9emi6sZpir__5eWJjyFoXEhBzUTUeWTDqkc8NiFJxgsIIGhScmpOmK1FGWzNMcIi9JCGfK6f1cw",
+            "width": 1280
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAAG0ZyzL4ceWlRYoGcRWSPjWasRkFERJFnlAqy_n2JRcSpUm8go8J6kSX1CUfD-ZGeQ-Fm5PhyeafiyCPywnkOxDgPm3fIquDPfOq5yr-lVHqZq8a0xP3wGdN_q8i5T9daEhCFlFOE3zvR8xjV912m2foOGhRZi8Qd2EqZQ4hOyRgwRBrwnY1Ahw",
+            "width": 1080
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104975828726133585977/photos\">Level2 Music Productions</a>"
+            ],
+            "photo_reference": "CmRaAAAAORvIbQcX5MnJEhUpC3LpUAqV9W8ESOpZ0Ag7IgSSinisSc5YwCE59Dcahg7NGWHust0NSwKJ15IZ-1SJRld9eKh4AurAT7cEHDSsY_vQvcKZNWS9L4TclW3NolhX_Z2rEhCeWqJz9rQwZ-tiyHEqRLP7GhSqQDoMq_AQfz4mLxXKSFwCnc-uHQ",
+            "width": 1836
+        }
+    ],
+    "place_id": "ChIJjxRAW-A0K4gR8rwiBrfp118",
+    "reference": "CmRRAAAAwP-VMW6p6TXRY4D5uBvik4b4tSWw1r4ekDaz34EeewzecmrZu0fxifcI_jq7aWyTAQGedj2hOen78-uLqHuh1NgdVFdRRYKLYhV7CfGYK47rxDAeCtZpIUzzt09KzX9pEhBjgWFe8fQFXmJQiiFaWPQ2GhQqkuqTs2tn_j3BccNa7wMXo5ovXA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6906245525887171826",
+    "utc_offset": -240,
+    "vicinity": "742a King Street West, Toronto",
+    "website": "http://levelindastudio.wixsite.com/l2musicproductions"
+}

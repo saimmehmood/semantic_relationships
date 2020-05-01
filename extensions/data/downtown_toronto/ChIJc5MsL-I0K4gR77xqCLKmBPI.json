@@ -1,0 +1,319 @@
+{
+    "address_components": [
+        {
+            "long_name": "782",
+            "short_name": "782",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1B4",
+            "short_name": "M6J 1B4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">782 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1B4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "782 Adelaide St W, Toronto, ON M6J 1B4, Canada",
+    "formatted_phone_number": "(416) 504-6615",
+    "geometry": {
+        "location": {
+            "lat": 43.644134,
+            "lng": -79.40942199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454829802915,
+                "lng": -79.40807301970848
+            },
+            "southwest": {
+                "lat": 43.6427850197085,
+                "lng": -79.41077098029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "43e9d07d24bf03dd92f7d7da7831a938a2a8238d",
+    "international_phone_number": "+1 416-504-6615",
+    "name": "The Iceman Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 12:00 AM",
+            "Tuesday: 7:00 AM \u2013 12:00 AM",
+            "Wednesday: 7:00 AM \u2013 12:00 AM",
+            "Thursday: 7:00 AM \u2013 12:00 AM",
+            "Friday: 7:00 AM \u2013 12:00 AM",
+            "Saturday: 7:00 AM \u2013 12:00 AM",
+            "Sunday: 7:00 AM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAAY7mOIO5nV7Kf1O_R00MnDggTXf1PDdSHjYQwI5UdMxjdW5FOWte0MYfheC_mRS0OJ3oUyjfr1D1VZLRnleOFMD91PEdY2rk1NtH461nFZH1U7BecYXGnQX7mb4n2G7K6EhAQaDOHIOiYMY5cyShF0DFJGhSo1cjsiz4SlPnV5mdDvpsHPwM7rw",
+            "width": 3264
+        },
+        {
+            "height": 814,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAAPI8RxHFQ5ApIF6riQdTMMPW66x29o3Acne_WRTn9mI-_wsH7xpfXWZImDJBp1OQRnR_d8gRLC3Ux7pqrEdYkS8WHdehrT4tYbhAQvvJfPX26m0wHT3e-Up7ll4-2ahu9EhB7SynQdo9FKXxy51gnCSCVGhQPiHrZ3CG3AghvTilQWcMxV0VjOg",
+            "width": 1080
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAAvZdFWhIMdNijTacf_JCagy50W3_rYH7PsXacoK_XsmQaRT9eGulkyGw92yB6rbsYsGJejBOtpFPxRW-Z_NWW4wKMUKOHqAXbrDBMMBjtSE0EF6ItJwZpzajqXEyt4q_sEhA7iktfI6ovG4mUo9PFjfHoGhRgNWQ1gxPfY5jXSuPJBrOh4Ex-kQ",
+            "width": 4032
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAA4qGmGyi6aeq8WvC5LcJhluIsVV_O3TTSnbqRjR3G72ARa9UoeYAjIsidPcApg9ULf230UXk7FLwKq1GpveT0wZW-uV_sJbioDSfXnZMohBBBuVgF260OttqznTxmiqEFEhAelltRyzhWjAj0maE3kT7jGhRQRID3QYCtCXjI-N_3ixXuTKvyZg",
+            "width": 1080
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAA4ceZBa_Szpg3QWP2Xobmf9GmEsZuIW0kUtE28WyAug1iNAp0mNLYlViCRcDup33I1hJEEkC_LZjxHZ0_XNEAV-UuVFyfNKYVhmPbjVFRQE_yclTX__W6C4XhkppZ5ZuJEhDkl7zn2dNRh65W56UDGREkGhRFATrSqbf6IuOATEW9QTUDLqRM6Q",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAAsrv8wHeynmJoC3XxzT_dB_laGQ9yVjMBewZwQwwVmei3sgJXdRthzWxZ9ZBgBuBNYrjCaWDd5aHQaWEOK6dQyU0yHpz1nsSEpbsTmmy4muN0BtCuIGN5ftw0nfgoCP9xEhD1hiTDMQmIoYfsjJfRIG1sGhQbN7XvvsjC4mnWwNnwTRJvJB0Eag",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAA2l08E11axfFUgzrwjfKYb88ZTtjzhWPfQEf_xl10UkJqz3XEqfF2LfzkQcPu91pJn7djxeVr7rvWpE-mYfDoeGzS1c-A9oI7yl1hyKM4zDLBMhwPVh2FxKVJWMml1ZZqEhD_LaCINxZ6XRwLqJmyjZY4GhS5HIzqNurA9Xgqbg26a14Q4XnZ2Q",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAAloq86AOMkAgSvNjfE0JEVL0RWGPxoi4fl6Vf0h8_boioMnrX9Y-K4lu7Y5oClVzflCvMUP3PX27Auj7oUFFI8p9zmrFL1JoDlspnV3M6Ln0MG9sQsVL1N1QyZ0Tpr8clEhCZOnrtcpoz__ya1cJPhqdqGhR1xy3PkqCwShGWw9vhpATu-iNE6g",
+            "width": 4032
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAASywlpjOlFriYWeHUdzxdJp6AvPQitOSjKEVGg6DQUw-kETQL42U8bceVLoCvpwMNLniQxFYypr6n0v5LhlNxCqpR0ISYssB9eRgOKR4vR5Cn0rapUifrZcb32gPjfoDnEhA9w03GBAAu9UmI56cK7FsrGhQVmMG-K7fgeKD_uoc_gcLhaLh5SQ",
+            "width": 2448
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105472450694818551901/photos\">raztechstudios</a>"
+            ],
+            "photo_reference": "CmRaAAAApGeMY3PAW4wv_pEL3CR-7ditj7oyy9AUPUksc28LoKN2H0VBEd6MZvM06S5OlUJgmwdziAfA7QKH4kilwFzmCakhEQdmYCOmNusoMlxb6KWuuJkhGK3fRNr6b4kjRbhREhB6zoMtAYe1vnHYc9KtxFj6GhR_19VT78apeoY_nT9Tk9qUiKPx4w",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJc5MsL-I0K4gR77xqCLKmBPI",
+    "rating": 4.7,
+    "reference": "CmRSAAAAgDlGmN46PytPzieXb6wBps-oiKl8zroocjzQuKa-JXUF1cmeelwm0QV8BXlGKn7UINu6rpAJ2vP7xbEw4ung78KBu2CUPh1E2Rg96DHrlHvZdaEI7kUz-7Kkyptg4exQEhDBss2m_vFXWUe_uU4IpDXeGhT-zna_iifFrfGqoS0KUm3y4CUoWA",
+    "reviews": [
+        {
+            "author_name": "Peter Lai",
+            "author_url": "https://www.google.com/maps/contrib/108290017081075368848/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Fx9Y3Ot0RB4/AAAAAAAAAAI/AAAAAAAAAEo/lMedBDFDfwY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Always have dry ice when I need it. Great customer service.  More expensive than normal though.",
+            "time": 1526581952
+        },
+        {
+            "author_name": "Yvette Langille",
+            "author_url": "https://www.google.com/maps/contrib/105694815319537950632/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jPIMMdaYwB0/AAAAAAAAAAI/AAAAAAAAOOA/iapyxFEp4cY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Great prices and delivery, too!  Best place for party ice!",
+            "time": 1527858829
+        },
+        {
+            "author_name": "Jimmy Zaromitidis",
+            "author_url": "https://www.google.com/maps/contrib/107128829815506006377/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-cbmYKfod2BA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3dV78iK0davnpOWP33Y_NWLUaTqA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "As the Investigation against the Iceman was closed, the information being provided is all true, and \nbeing provided in good faith to help people who were similarly victimized and unlawfully swindled\nout of their wages among other violations of the Employment Standards Act, and the Health and\nSafety Act.\n\nThe investigation against the Iceman was closed on May 15, 2017. The Industrial Occupational\nHealth and Safety Inspector, closed the investigation even though many of the allegations were\nnot investigated, and his final field visit report clearly states , the Joint Health and Safety Committe\nof the Iceman, is \"Inactive\". Although I filed several complaints to his supervisor, nothing was done\nto rectify any issues that were  later raised.\n\nIn relation to your wages. The Iceman would send an email summary, stating your money/pay would\nbe sent to your account on payday, but the funds would never be transferred into your account. If my\nsupervisor had not tipped me about  this scam, I would never have looked. At first they deny it, then\nthey tell you they will look into it, but never do, and then 6 months later you get an email that states that\nsomeone in the accounting department is sorry they forgot to pay you. In my case they blamed \" Jeff '.\n  \nWhile working for the Iceman, I was delivering and picking up Dangerous Goods, without any Training,\nwithout any safety equipment, without any knowledge of safety protocol, without placards being posted\non the truck, and without a certificate for handling Dangerous goods. Even though I complained to my\nsupervisor and the owner of the company on numerous occasions, and refused to pick up or deliver\nDangerous Goods, this became a problem and I was continuously mistreated. \nSome of the companies that I delivered to and picked up from include. Johnson and Johnson,\n(200 Whitehall Dr) Luminex, ( 439 University Ave) Nestle, (25 Shepard Ave W), Continental Carbonic \n(6790 Columbus Rd) , and many others.\n\nWhile there are many more violations and occurrences of the Iceman victimizing its workers and the \npublic, I can only do so much at a time, but everything will be provided legally on another Social Media\nnetwork where I can post pictures and videos, legally. You have a right to see what's going on and how\nyou are being protected, regardless of what they did to me.",
+            "time": 1506542451
+        },
+        {
+            "author_name": "Sameer Ahmed",
+            "author_url": "https://www.google.com/maps/contrib/112553780659910859279/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-GAXsU4wkYo8/AAAAAAAAAAI/AAAAAAAAABA/sHfVW47nqvY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Best customer service , open 7 days a week and I would totally recommend I am from Mississauga but I would rather drive downtown to get dry ice because of their excellent service",
+            "time": 1509917371
+        },
+        {
+            "author_name": "Lisa Costantini",
+            "author_url": "https://www.google.com/maps/contrib/115102336737822016503/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--58O1uR1BBI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0fl67SMwAqWXkmSrO8WOdq5L5DdA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great service. Very convenient",
+            "time": 1518553606
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17439246940661005551",
+    "utc_offset": -240,
+    "vicinity": "782 Adelaide Street West, Toronto",
+    "website": "http://www.the-iceman.com/"
+}

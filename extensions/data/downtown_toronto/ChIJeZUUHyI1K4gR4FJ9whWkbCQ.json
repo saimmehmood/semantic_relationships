@@ -1,0 +1,92 @@
+{
+    "address_components": [
+        {
+            "long_name": "Beaconsfield Village",
+            "short_name": "Beaconsfield Village",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1M3",
+            "short_name": "M6J 1M3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Beaconsfield Village, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1M3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Beaconsfield Village, Toronto, ON M6J 1M3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64378639999999,
+            "lng": -79.4287209
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64513538029149,
+                "lng": -79.42737191970849
+            },
+            "southwest": {
+                "lat": 43.64243741970849,
+                "lng": -79.43006988029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "0b859f3f9ad94fe7dd0351d545164efc130247e8",
+    "name": "Delta Chelesa",
+    "place_id": "ChIJeZUUHyI1K4gR4FJ9whWkbCQ",
+    "reference": "CmRRAAAAFrIsq1iTl1-wTAo4lyBWvIV09RJptPEVPr7xhmwVXrxVbkeigb41lBFI8d8cqDqTdwS_VHw8UX8isconWNYn3wKlGrqnwtlmwi_MVFTXpjHj2I86PBNDHt3I7YDOPvZwEhAzDGwm1CYCKn2gOPn-PXMKGhT_-U4OAhbkjXrFjMx-Ec6QB9uHtA",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2624653096214418144",
+    "utc_offset": -240,
+    "vicinity": "Toronto"
+}

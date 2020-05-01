@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "960",
+            "short_name": "960",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">960 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "960 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "formatted_phone_number": "(647) 490-5001",
+    "geometry": {
+        "location": {
+            "lat": 43.64466849999999,
+            "lng": -79.4170974
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64595163029151,
+                "lng": -79.4157242697085
+            },
+            "southwest": {
+                "lat": 43.64325366970851,
+                "lng": -79.41842223029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "ee3ceee2319c0c5be70b0bb0ec8c38765401bd02",
+    "international_phone_number": "+1 647-490-5001",
+    "name": "Applewood Suites - Queen West Studio",
+    "place_id": "ChIJQbDNp_00K4gR9y1a75yvvbw",
+    "rating": 1,
+    "reference": "CmRSAAAAZ1SCQ_pyfzH5i7bOY8CqrwPyXsSNyOcwLAjb_RHOfnvXbJ37F_j9-PsjLCRRBCxPUUhj1vKur7xbOBc_eWBCKHclCy2806ywRg1nMf-cKkg25p5_8ywRV-yLW_GwFj6vEhDz_T7UmYxywqXGvCwBuxIKGhS8I0m7ALj3Ls93XAeJ90Tx8-8t4w",
+    "reviews": [
+        {
+            "author_name": "James Craig",
+            "author_url": "https://www.google.com/maps/contrib/111203041064628659320/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3rBvp0cfxrk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0g3htDH58rMdqRRSZBdn2SHn6UXA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "SO far not so good. My confirmation email had no details (reservation #, dates of stay, address, etc.). When I called; immediately went to music and when person answered phone it was with a hello. I had to ask if it was Applewood Suites. Person was friendly though. So far I am seriously not impressed. Will add/change review after I stay at the hotel.",
+            "time": 1528299117
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13600219538294189559",
+    "utc_offset": -240,
+    "vicinity": "960 Queen Street West, Toronto"
+}

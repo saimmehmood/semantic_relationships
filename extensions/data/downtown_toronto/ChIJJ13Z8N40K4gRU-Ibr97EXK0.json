@@ -1,0 +1,262 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "573 King Street West, 2nd floor, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "573 King Street West, 2nd floor, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(416) 363-5433",
+    "geometry": {
+        "location": {
+            "lat": 43.644386,
+            "lng": -79.399568
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457349802915,
+                "lng": -79.3982190197085
+            },
+            "southwest": {
+                "lat": 43.6430370197085,
+                "lng": -79.40091698029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "119373b4590df5d15befb255d721074bdb0065dc",
+    "international_phone_number": "+1 416-363-5433",
+    "name": "NuLife Laser Clinic",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115322347880943384359/photos\">NuLife Laser Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAqpla5IZwzjZBLt-_W-jupTBjUDIBfiGOspB7NTtOVMpUCDe7EjUZeJG8U-Q2NqoWpSs2_rFFRwIVXdx28yVKziGgpZ_Cs8gXaF7GWtPcNhgyUwkB3Z2AMXFOfTe5W65tEhAM7d3VA9bJX5oeAGdwJL0YGhSLg-_1Pf_2olKQb0ZTNrAGRJNWtg",
+            "width": 3024
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115322347880943384359/photos\">NuLife Laser Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAHbYFOFedyJMvYjsVFY4IfGdUC-dgIarZyOKtofgneKXrCFLB7gYlPbP737pMo1H5xLCJP5yjGOll3IugsOSt-oGqcpIpMPqn9zLcAZvyA3eGFTc_WsgI7fWCIAkdecynEhCyXhkUS8nCt5M4hJWJeBeyGhSzAOMsQ4pkuRIAK-gsa-yRXkMrdg",
+            "width": 2448
+        },
+        {
+            "height": 475,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115322347880943384359/photos\">NuLife Laser Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAFX53_T88epqIQ0cv8UxNCF7RvZJmFPn12baZW7u_XYEwp4MkwGFQiDHKZZWfZeSHtmXJDxE8B7IVdtiySI5tpAuaift9V_pEVBczbpavJ_wK6sslWP-OhNqj4jyRp7ycEhDd3ivMIulcpOm5CO0iXMp_GhSvwBpChUqUVLL7-MWO7Y8nSOZbRg",
+            "width": 475
+        },
+        {
+            "height": 914,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115322347880943384359/photos\">NuLife Laser Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAZsNgCO37OvUQgzqT4W-kRcNEHepmDyKAukxrSoFY9XsFzS0Hgmk0EnmCES33ODA41lRSYhr-UIDKXaOxFqkSo9Rdep98zZnPeJeIjYtAA9Ac8AbhrHQX2sI8G4zrNi8gEhDxF7J5CmefNBjGL4drPdLcGhROpbnKn_dLqu3xWJ4i6IRohoSkOA",
+            "width": 1542
+        },
+        {
+            "height": 700,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115322347880943384359/photos\">NuLife Laser Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAALBmhEJbVe_lB7pklllRkE8fGpSVbn9ioWqhIBFKyt50GY0BH0WnU9byb7UzML8_i-qZCLqdChBBXE0kXr3CQ-kVF_LG1z-zduvn4Czy5_5sVdPqbBdyqMhTlmgPo8Ik3EhDcfVpesxUPo2H0Zv-aRdUtGhRIc5DUdMMC3fKTJCcHFEFho0Pi9g",
+            "width": 700
+        },
+        {
+            "height": 708,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115322347880943384359/photos\">NuLife Laser Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAANH4wbyUT1l0KWpLf5Bad0pL5i-fzTiVwlACAT2x_sioe_-_Y-wUNr7GWWpkysdebNLuI7U9_PP_n-ui9vqJof5aGC1IPozlZPvGWNofixBOt8maLw_e1HusZvv241gvgEhCSMpagLpIdhEnPxft0A3NfGhQKEujlkXVjy_4FpwaAKwVA9PpxDg",
+            "width": 500
+        },
+        {
+            "height": 792,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114938156934511080125/photos\">Na ha</a>"
+            ],
+            "photo_reference": "CmRaAAAANk2w5kcXR_0Y5Fv11vvWSmgOuyNj8WFSukwOcuH2Q16hrruFMv4Ud6OrTW9gj-JjHLuor2UDs2FHjsxbtD4hTR05OGkTfm673xLICE5OUISV7VQ5e5rXJ4bT_DxB8B8rEhCos6-GCLyRdNadWdDc7gBKGhQ3s7LAMyYjOnabWovQUcxGWoAcrg",
+            "width": 612
+        }
+    ],
+    "place_id": "ChIJJ13Z8N40K4gRU-Ibr97EXK0",
+    "rating": 5,
+    "reference": "CmRSAAAAKbDMl9Bo4nQTzb4MAe0ugvCBgl2WXHlmBDIIOE7UvcYhGXeXptGQVlfOVYTjWLwHnDI1kk28F8gV8wlP00pTXdf1IvRgVZ0nqG63Tm1JkBfmBvKfSLRgu688EMaKOvCrEhChzAfeVnG6JopKK8XYCV2jGhSx9W4-FcJbzDHDEI9sxP-oXlbM3Q",
+    "reviews": [
+        {
+            "author_name": "Matt Richard",
+            "author_url": "https://www.google.com/maps/contrib/107560599569673881726/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-2KgJetstO8Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Wsy_IFmGPoOglRUFJ_58qHx-h8w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I am the husband that Karen Doerrie is talking about. 27 years smoking. I was a fantastic smoker. I was also pretty worried that this wouldn't work even though I wanted it to. DO NOT skip any of the 3 sessions, however after the first one I knew it had stuck. Leading up to the 3rd one (about a month later) I actually considered calling the clinic to see if I could donate my 3rd session to someone who may be having trouble. It's that easy and effective. I'm around people all the time who are smoking and it's just like...you see it, you smell it, and you can't even bring yourself to even thinking about doing it again. \n\nMoney. Very. Well. Spent.",
+            "time": 1527769155
+        },
+        {
+            "author_name": "Ion Nicolae",
+            "author_url": "https://www.google.com/maps/contrib/115259458944808735045/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-9fHTdT-C35g/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1RQYEP5dhzTH4mscillCK9hK535A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I heard about laser therapy as a means of quitting smoking from my mother. While I have not been smoking for anywhere near as long as she has I was well and truly hooked on cigarettes. To be honest, I thought that it would be just another gimmick that didn't work, I found myself pleasantly surprised when I walked out of the amazing office of NuLife in Woodbridge and instead of encountering Cravings like I normally would I experienced nothing. I have tried to quit cold turkey several times, but each time I failed. I truly believe that cigarettes had a hold of me for life had it not been for the laser acupuncture from NuLife Laser Clinic. The thing that surprised me the most was that I was able to be covered by my extended health insurance plan. Now I feel that I have my health and control back, and cigarettes no longer dominate my life. I would have easily spent more on cigarettes in a month than what I spent on my laser treatment, so I really feel that it not only saved my health but also saved me lots of money. Thanks NuLife and I\u2019ll be sending all of my smoker friends your way.",
+            "time": 1527780036
+        },
+        {
+            "author_name": "Karen Doerrie",
+            "author_url": "https://www.google.com/maps/contrib/105452041614063310530/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-nJmjr6EJK4E/AAAAAAAAAAI/AAAAAAAADSg/J4rFUbeJQQs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "My husband and i have wanted to quit smoking for a long time and we kept procrastinating. We finally booked an appointment with Nulife. The first appointment was complete with an assessment and full instructions and hints to help ensure we were successful. after first appointment we saw immediate results as we had no 'urge' to smoke. everyday got easier.  this really works . I've tried many other methods and none are as successful as Nulife . our family is so happy. thank you Nulife!!!",
+            "time": 1525958174
+        },
+        {
+            "author_name": "Raman D",
+            "author_url": "https://www.google.com/maps/contrib/108678767559204656072/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-rsSjIuwv8Bk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3KqV9mkV1v10iCU4xur44nDAVuJw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1463108707
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12492075927118537299",
+    "utc_offset": -240,
+    "vicinity": "573 King Street West, 2nd floor, Toronto",
+    "website": "http://www.nulifelaserclinic.com/"
+}

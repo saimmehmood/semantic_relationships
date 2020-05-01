@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "208",
+            "short_name": "208",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L3",
+            "short_name": "M6J 2L3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">208 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "208 Niagara St, Toronto, ON M6J 2L3, Canada",
+    "formatted_phone_number": "(416) 461-6982",
+    "geometry": {
+        "location": {
+            "lat": 43.6438892,
+            "lng": -79.4076793
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450906802915,
+                "lng": -79.40666761970849
+            },
+            "southwest": {
+                "lat": 43.6423927197085,
+                "lng": -79.40936558029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "61bef026b5f7d38549b99585b191c272d3585bd1",
+    "international_phone_number": "+1 416-461-6982",
+    "name": "JMD eServices",
+    "place_id": "ChIJD8c48-E0K4gRJ2kLm8HO3NM",
+    "reference": "CmRSAAAAOM8VSZHENl_xljR7H2kY_Wi41rpbpQP-zAm8C8jUVLVrc8SZYp0FTClo9Fx5rrqRjU3VpJIgF6_Lgv8mRM_Epj4HOkerc9tHqM0Ex86RkreDMOGO-FEyKN76oco8JnMHEhAnTv58nZTmcjNw2RdmThO8GhRpNkVwROSqstZvJTRPir9W-QWElg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15266304167804365095",
+    "utc_offset": -240,
+    "vicinity": "208 Niagara Street, Toronto"
+}

@@ -1,0 +1,292 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(647) 960-4997",
+    "geometry": {
+        "location": {
+            "lat": 43.6442838,
+            "lng": -79.3987466
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458305302915,
+                "lng": -79.39747386970849
+            },
+            "southwest": {
+                "lat": 43.6431325697085,
+                "lng": -79.4001718302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ed62c46c0c9332cac33b2cd0f81c222387dc933f",
+    "international_phone_number": "+1 647-960-4997",
+    "name": "Autzu",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101541022918648334465/photos\">Autzu</a>"
+            ],
+            "photo_reference": "CmRaAAAAEjh4yPTFJIcSVy1t-E4jdTetboTEqGMQfLqnZ6FhisBZtXaf1TFp24QK6AkZMqGqp2l2inCXaxqswZ6sO1AcIz9Y270Srf6lxSIJSN-w69Aej0NoVz_eZxfYoPXEH4e8EhDinIQhqc4vYZDuEwGIlmwkGhQCEEc8q73i4iXMKjJnYf2tnL7s1g",
+            "width": 1618
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101541022918648334465/photos\">Autzu</a>"
+            ],
+            "photo_reference": "CmRaAAAA3sULAd9T_6P-Q0_c7sAnJwNuD71NkFQKGni0SY8HRJlHR8mcPrUkVFon0qj8ECf1wtTIMlRZpyrg4baSE1YtFgK7fwwamU4ySdpsRvJAed0DHAFdypHU3XQTo09YvOz3EhD55DGTnmbNYlCh97DgzPdyGhTLQrrIzvCnhNpS9ZxQDtB5X-rgpQ",
+            "width": 2048
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116917175734844226847/photos\">Michel Gerges</a>"
+            ],
+            "photo_reference": "CmRaAAAAjmNDmwZluHQXhbENVOiJFbwkrYCZLEAX8SxunYD2ylHIfo3pYzWtAfB1kR7Lh6ysPpag7rfOqh0ozGz6pfKYcPUKcEsKLiFLMRo8meVvInOHZ82XOz3WbrapcRWEsQSuEhD_3Pwh7hlJa2GLOwIPVPheGhTyWeCFmK7QSA5orpVlfLRnBDyuVg",
+            "width": 1600
+        },
+        {
+            "height": 443,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101541022918648334465/photos\">Autzu</a>"
+            ],
+            "photo_reference": "CmRaAAAACAvebuXeFGoWNPva8KfhSMlXgZYmREtbsQcvsFtTVHa6J0MokZFagomyHX0LJHkwiuniNoilrmcrO4yt7w2woCoec-61ggZ1H6LLiTfSHJ_khKN1qhI-sQS_p7r9CxBvEhB-C6QVymN5iO1UX6xy_C3dGhR4ccMbMcjBx-GWHfskEJu0YPJXaw",
+            "width": 967
+        },
+        {
+            "height": 907,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101541022918648334465/photos\">Autzu</a>"
+            ],
+            "photo_reference": "CmRaAAAAoduXuDwwh9peiT6lVvfZgVaOulny7cmLScCzR9QiC3_x-VxeeLtGe_ojZIWn61S2eILL3bp2bmejP3Yg-R2fQgLg1ZOgwei50qo44Ic3UnPU9u5-9xvZbYJF9inHzM9iEhAFBTKJ1uIJqpXeGO2sa8ZeGhQ6UcrJMNpdHwZmFF3n_TfC9cB4gw",
+            "width": 1618
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101541022918648334465/photos\">Autzu</a>"
+            ],
+            "photo_reference": "CmRaAAAAqXeGMtvnJj1Fjw4CIZ0GK7TxNasnT3vn_4XRJ02cy20WTuk1bMr2bg3SYj1wEorBAgKR9XPhabgPlMtkEbhC-emBlx8FnsgIIeulxm1j2UtVJAVc0LFpf9UHe9Sk3ettEhCTv3RfJAhMHR3dj5JdezZ5GhTMT2v3RzdsrVObqoGDPts7MOpwaQ",
+            "width": 1618
+        },
+        {
+            "height": 999,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101541022918648334465/photos\">Autzu</a>"
+            ],
+            "photo_reference": "CmRaAAAAOJ3YaGtnlgBd333ga_8pSXpyweQDKhtu7QNSxSxSs7jirkE9Tj0UCh5BfCyDyWQWNeZh2hWmQwa8L_B_1xJtmtPEXElkwv3V3_HuBcpPM12yKwv3uTCXW3unW3vC61MlEhA_Iov8fr3-sS7jcXTQYV2CGhRiWn4qw2EI5aLDNmDqATAKCcAQAA",
+            "width": 1618
+        },
+        {
+            "height": 418,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101541022918648334465/photos\">Autzu</a>"
+            ],
+            "photo_reference": "CmRaAAAAy4FZ5gCUNKdfmN_CA4vp4hOXIRcEZWCQzEumQHrbAqMUEmMksXc86gCLSKlnGw1MkKQ4S3mFJbsc2F3ZWLVhfkKT5aD6C1wZ6SYG6y7nrmZW7eSgTbKhohrFMqTOGAYDEhDKQQV2XAtVCVnK5h39jwKIGhRqybrLpvLhDdCBi5nHbzTzE2Ckyg",
+            "width": 935
+        },
+        {
+            "height": 1134,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101541022918648334465/photos\">Autzu</a>"
+            ],
+            "photo_reference": "CmRaAAAAq7sATfwM1ZRcpKiXEjYxrohMts7YHOF5WnoMEivtHqInfx125-AP9-WrZGkhxJwSJAErrQQAJKZ8EdgU3ckFwADWVqjPOS013QfFm4LI4QHWIRnkeTDDCidiu0B7A_JMEhCBHGyPSSB_jIhsodx0gAYaGhSvCNnLIvKkb2Ig3_0We4LjcdcuRg",
+            "width": 1134
+        }
+    ],
+    "place_id": "ChIJsZRG6N40K4gR0YuXjWk233k",
+    "rating": 4.2,
+    "reference": "CmRRAAAAtbtslqjQB0VEtlpPiu-dlFTooIrWH6t_nSJ7TWfnwMyMue2JrwRzHSbuCgiaCEYUJIZME6F9fXzEQ9gK3_lBHfNUjNmtfmv5OKdnaD49Bw209uCQuWxzDVUqrgLlut5lEhCRgYiJRCQfadOjGwRVdJLaGhRUogSdpjrb-JExHkb-idnjrVTd7A",
+    "reviews": [
+        {
+            "author_name": "Ali Hassan",
+            "author_url": "https://www.google.com/maps/contrib/101713517644626493667/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-AmkKOpwlH6c/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2XN32QvDSwQthILPBe9W2jwgRmqQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Beaware of these people. They are thugs. Most of the positive comments are self made or friends or family. These will control all of your hard earnings. They will steal your money and you cannot do anything. The vehicle are not going to be cleaned so basically you will have to clean them unless you want to get negative feed back from the customers. Believe me it is better to not work with these people because you will be making 40$ for 8hrs. If luckily you will get your paycheck. It is my personal experience. Feel free to ask. I am open to talk.",
+            "time": 1524843431
+        },
+        {
+            "author_name": "Omar Myers",
+            "author_url": "https://www.google.com/maps/contrib/101992290231287679711/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0BFdSYC4lnA/AAAAAAAAAAI/AAAAAAAAEVE/jBPfSFrwyFM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "They offer amazing cars (Audi, BMW...) at an affordable hourly rate with parking for your own vehicle available. Last time I checked, they working on making their scheduling options more flexible.",
+            "time": 1528834964
+        },
+        {
+            "author_name": "Adam Avalanche",
+            "author_url": "https://www.google.com/maps/contrib/112290412271816336395/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-KB9LqG0ra50/AAAAAAAAAAI/AAAAAAAAAAc/a16be_ObaOg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "I dont see how a business that contracts employees of a 4.7 minimum rating, only offers a 4.2\n\nThis is really bad corporate social responsibility.",
+            "time": 1528208729
+        },
+        {
+            "author_name": "Michel Gerges",
+            "author_url": "https://www.google.com/maps/contrib/116917175734844226847/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bSbsoCpTc0w/AAAAAAAAAAI/AAAAAAAAAA4/0-B1axxNlsw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Love this company, they really understand what drivers need. With Autzu I can literally work whenever I want, make good money and drive a really good car with no worries. Can\u2019t think about any other company that provide such an opportunity. thank you Autzu!",
+            "time": 1506815113
+        },
+        {
+            "author_name": "Nico",
+            "author_url": "https://www.google.com/maps/contrib/117526001954258917196/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Ms4_KaXwdvw/AAAAAAAAAAI/AAAAAAAAACE/uXddrT5tPZs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I  have only benefited from it. Do not let the bad reviews deter you. Straight forward policies that are reasonable so everyone enjoys their shift and maximize profits with Uber anytime of the day. Those who have given bad reviews, cannot follow simple employment standards and guidelines as a contractor",
+            "time": 1511762377
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8781797625370741713",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto",
+    "website": "http://www.autzu.com/"
+}

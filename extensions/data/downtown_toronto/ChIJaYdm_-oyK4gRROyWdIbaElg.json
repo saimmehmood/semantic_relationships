@@ -1,0 +1,237 @@
+{
+    "address_components": [
+        {
+            "long_name": "16",
+            "short_name": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 2A1",
+            "short_name": "M5E 2A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">16 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 2A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "16 Yonge St, Toronto, ON M5E 2A1, Canada",
+    "formatted_phone_number": "(416) 251-2229",
+    "geometry": {
+        "location": {
+            "lat": 43.6432258,
+            "lng": -79.3761921
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446478302915,
+                "lng": -79.3745164197085
+            },
+            "southwest": {
+                "lat": 43.6419498697085,
+                "lng": -79.3772143802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5178c55036c38ce5df3be1c8b6144935765a2365",
+    "international_phone_number": "+1 416-251-2229",
+    "name": "Nahwi Car Care",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 532,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109919551101057310818/photos\">Nahwi Car Care</a>"
+            ],
+            "photo_reference": "CmRaAAAAzVPwyUZRV9p8jjJzR42YvpprMdCZ7nBXn2wdtrpnfSj7QjLIIOhRplhngqcv4AF6tPiHnaDfBpc8nxbP7xhw2h8R0CjPhe0PMdHm_py1Tw7Yh9eFWza2kAd0gcDqnurFEhDKt3Y9YB1yg6lPjcdP1v4ZGhS-xJPQ3vRaiy5fSOFlv3jLwubBfw",
+            "width": 495
+        }
+    ],
+    "place_id": "ChIJaYdm_-oyK4gRROyWdIbaElg",
+    "rating": 4.6,
+    "reference": "CmRRAAAA5Rq0U9HB9uwhRBO-LyJT8NJ8Y2Dh-TuhWPV5K1-QcQGo86Vyq36AnT8jgk3y3J8Oq_wgbVCQMp7H601dICUWVZwBh1KB24-2gkaqri3t2HKsV7y8coHqSZf3vpbcTanVEhAMYMmcVLeYRbVsI6Oia3VbGhSOfU26TtKeqkCrA_lpa0hKiETwxw",
+    "reviews": [
+        {
+            "author_name": "Adrian Sunderland",
+            "author_url": "https://www.google.com/maps/contrib/109510381293666324964/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zfU5xPSqr1o/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2y5CBISWouWQ6bBJ5hgULVOm5fJw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "These guys are great!  My wife and I have been bringing our cars here for the past ~5 years.  We've always been pleased with the service.  They are located on P1 of the car park and open year round.  Very convenience if you live in the Pinnacle condos or are simply parking your car in the garage for the day.",
+            "time": 1523827503
+        },
+        {
+            "author_name": "David Catania",
+            "author_url": "https://www.google.com/maps/contrib/111753184730407119186/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-upmk7qPVnpI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1oYagcNaC7cxeLJg9bJ6AYJwfsGA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The guys at Nahwi did a great job on a used car I recently bought. Came back better than I anticipated. Shakur is a good guy and great to deal with. Happy to have found this place and would highly recommend.",
+            "time": 1523243405
+        },
+        {
+            "author_name": "Billy Lam",
+            "author_url": "https://www.google.com/maps/contrib/100726964387772776876/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-k6JbwY4YCvw/AAAAAAAAAAI/AAAAAAAAAA4/yCg9L6np75o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Been coming here for years, Shakur and the boys are great. Very accommodating with exceptional quality and service. Would recommend these guys to anyone who needs a good detail while at work.",
+            "time": 1525180247
+        },
+        {
+            "author_name": "A Khadivi",
+            "author_url": "https://www.google.com/maps/contrib/113314334146927228712/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-gbBN0DpebuE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3EGjOjp8KGTNHmBf6_yv1uzfWKHg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Best car wash in the city. Their attention to detail is outstanding. Highly recommend their services!!!!",
+            "time": 1527179734
+        },
+        {
+            "author_name": "Rebecca Prewitt",
+            "author_url": "https://www.google.com/maps/contrib/110529633283627687689/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ok9lXOdlwrY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3m8xeoWSXLYPrCDVMo4bTvDqgcaw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "At first I was very impressed with the quality of the deep-clean of my car however when I went to leave I noticed I couldnt ease out of my parking space when I took my foot off the brake -- instead I had to push the gas a little and turns out they had reversed the car too far into its parking spot and it caused a pretty big dent in the back! I was really surprised and it was too late to say something (I think?!).  Car was super clean but they dented the back",
+            "time": 1522699461
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6346375095934970948",
+    "utc_offset": -240,
+    "vicinity": "16 Yonge Street, Toronto",
+    "website": "http://www.nahwicarcare.com/"
+}

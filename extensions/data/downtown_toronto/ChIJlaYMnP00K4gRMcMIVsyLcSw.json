@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "35",
+            "short_name": "35",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Workman Way",
+            "short_name": "Workman Way",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H4",
+            "short_name": "M6J 1H4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">35 Workman Way</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "35 Workman Way, Toronto, ON M6J 1H4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6437907,
+            "lng": -79.41722109999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6451396802915,
+                "lng": -79.4158721197085
+            },
+            "southwest": {
+                "lat": 43.6424417197085,
+                "lng": -79.4185700802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ca68261545fb16a6e325e5205fcd2a1a0f2699b4",
+    "name": "35 Workman Way",
+    "place_id": "ChIJlaYMnP00K4gRMcMIVsyLcSw",
+    "reference": "CmRbAAAAEmr5QuFGS11HcSezBzmxUKD3Rf0tyXMrv4cJgygqwXJycrF10GsF4ZEMe2e3m43voNlpAmT8IgQygzkdHpRH15fVNUSiLOhOwodJ8PzAyRG0xv0HfUDQ1pabXg5Lf49eEhA6IAqZmaiXa1qxoMdv488KGhTd7Yzgb1RjbYm4OpPWDBYYoEPFgQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=35+Workman+Way,+Toronto,+ON+M6J+1H4,+Canada&ftid=0x882b34fd9c0ca695:0x2c718bcc5608c331",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

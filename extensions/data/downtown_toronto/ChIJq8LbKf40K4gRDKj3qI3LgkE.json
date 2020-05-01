@@ -1,0 +1,319 @@
+{
+    "address_components": [
+        {
+            "long_name": "1115",
+            "short_name": "1115",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3T4",
+            "short_name": "M6J 3T4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1115 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3T4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1115 Queen St W, Toronto, ON M6J 3T4, Canada",
+    "formatted_phone_number": "(416) 538-0988",
+    "geometry": {
+        "location": {
+            "lat": 43.64300980000001,
+            "lng": -79.4232281
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444949302915,
+                "lng": -79.4219321697085
+            },
+            "southwest": {
+                "lat": 43.6417969697085,
+                "lng": -79.4246301302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "049e421ae93a13590a03852ede2fabec0f44231e",
+    "international_phone_number": "+1 416-538-0988",
+    "name": "Theatre Centre",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 4:00 PM",
+            "Tuesday: 8:00 AM \u2013 4:00 PM",
+            "Wednesday: 8:00 AM \u2013 4:00 PM",
+            "Thursday: 8:00 AM \u2013 4:00 PM",
+            "Friday: 8:00 AM \u2013 4:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 9:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115705192845405387365/photos\">Taras Kupchak</a>"
+            ],
+            "photo_reference": "CmRaAAAAe5pCUINRR6JMO0QG2NIbY8f5BEBi_gCd1GwETSBxcy7m957WKb7Z0QtNSwGhP584fKOIfvC0Uh1eaTRLvKKMHwvgiBxo3Z-rE1yFF5d80UlERBKb8Ox-d9z0KDWJGgXSEhBCy34iNYuluvribGxNK4J3GhQ9ueiK50jrnBEbrEmYtK30xxyqag",
+            "width": 4160
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116969020400816501933/photos\">Cristina Costa</a>"
+            ],
+            "photo_reference": "CmRaAAAAW3AoyvC1tYKeovANOHmhB6-Osq-YjrtAdUKYgo8a-SAr-ySES5MA7IgbOQNhICpwymkhZ9_ZfBdXK2VTrvmYhpieB1yC7F979_3hsML2E24dLzQpgVr_LqgeyrHmOeb_EhBw0ZzIawxekZHfq0UgO3RyGhQ5gEw5kqk2Jy-ZDYY5m3kuhuPpWg",
+            "width": 4032
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107556763744057052175/photos\">Katharina Dannenberg</a>"
+            ],
+            "photo_reference": "CmRaAAAA6gbWt11J0BSnma2FVXxG3Be3NZwif67mHj5BEE4OfGYhhoh5r8YkJYOL-Qk3mHn7fo26kvvoDApNZivF9aTJgRnqI2kqp6bmsBhOs-eIbqdI_S38R7E0zlPmP7i2OmZREhAkSEbKdM7fJmceGMaXarg1GhSYV2KnT8QPQczKSsH6kR5VG9qbBg",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107556763744057052175/photos\">Katharina Dannenberg</a>"
+            ],
+            "photo_reference": "CmRaAAAAKfBJMrr2LhQkmHsDB0EviRzWNEMHJlAQCHzoPSDoZEIPjCSP2OXHCSdF5FCOuRgWiWkqBg1oTqRh4C96FYCG3n5KezyLF-Ls_gucwQ4VvgzswSov1pxPowK6AX-KrxC0EhBZhZeaKvQSTlPpHaBR3UIIGhS8NT6744L9oZzNfZaGZd0jdbTyqQ",
+            "width": 2448
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102847307767029497703/photos\">Caleb Pedosiuk</a>"
+            ],
+            "photo_reference": "CmRaAAAAq7U-wWS_Xdm7PwYyhmi7KrzgcQ9bHWCjKpOHslSvHglBhgwhWIBGj9km7lQWUx2mKBhjwdi8qkoMyIIEeoCtFYjXs8Y0aNLBKYwj30N21Qwkynpmr6qFgJ4_uhKExuTVEhBzRuzIo25CHu2jrbvV0HQcGhTEDT_YmOfM6EqK3n2xf7Ux1HcmlA",
+            "width": 3024
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687/photos\">Patrick Asselin</a>"
+            ],
+            "photo_reference": "CmRaAAAA0j8tIN-Vo8tJBy_MnM89eJTWgLTIQlhWSvk0cgJGdAZqCTJeBshCg1h9YSTv7uTyCpuQN7HX21Ji6rVCxHWe5DBfoXfPoDt8299wYvggx5WuJmW_8R6ixtDJWx_6PsrWEhBNGn8cnhDyfcqbZusfDLTsGhQ3V2VjjrnSV27k789JdEt1yFeeVg",
+            "width": 3264
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101937254267674202567/photos\">Jennie Kendrick</a>"
+            ],
+            "photo_reference": "CmRaAAAAooWyoJu7uke4iwDs4UE57FRbnmScvjz_0tDi3JZJsRP2Lajv7bNvC5IPkDNSPye_dV2eXI3tiuoz8djMKuVliDU-Y_stKkCASHbcnHhpGRCQ8tLTdOC7cjMRLTxvvA_LEhBvbD_Rk63DXBChUbw-rRScGhTw2QC4d57sp7XgTnMhsyaVO69m3Q",
+            "width": 2988
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107556763744057052175/photos\">Katharina Dannenberg</a>"
+            ],
+            "photo_reference": "CmRaAAAAdDZ8w2QpuyuFMPlrl0UjvkCP3RB3XZrqJGAVwcUpoU-95Co_HrVQunAoZ3WX4IHfqSaFBF4dvLxeU4rYeKikA4cijriW3xoG6iRGr1tld4p9MnhTWd1O7iR4lRuPBz_lEhD3edvaxHBjcmNp2YkNs1O9GhT7wynIDsClhsGp9ZjOcn7c75pjyw",
+            "width": 2448
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105790772236463240008/photos\">Rob Tyrie</a>"
+            ],
+            "photo_reference": "CmRaAAAAkF_df_GGr-AX5ZwrZ9Q3Xx4SdA-KreasO3nnfBFmBxAVdImWKqJcjC8nO-r8pywxi9pU4qm_qZQ41g3HBx4HZh1qRhq1r4b-lLz7VQUTBFYXpa_wDNLKg1pwHqSRqeEFEhD5lksILK9t50swqMJWg48EGhSt_e2vU00ks2LHEstnDTPe-zSwjA",
+            "width": 3840
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107556763744057052175/photos\">Katharina Dannenberg</a>"
+            ],
+            "photo_reference": "CmRaAAAA5lKtTCXP_ldFbsFRGbggBTJa12noNM7pj5HABW2kNOmNZ15FV2gJ0rsCK5FNCmoHzrS-WWoi0KFit-fsQ_LPV_i-XZbl6XYoO4zD71D5Ts3j52DKnPBt7Z0htNOrdQRZEhB-vnyxok9rQzAPDcBkgLjdGhSf41m14M5e-o4RmhNagbs9r7SEBw",
+            "width": 2448
+        }
+    ],
+    "place_id": "ChIJq8LbKf40K4gRDKj3qI3LgkE",
+    "rating": 4.7,
+    "reference": "CmRRAAAApoMObaMm5OzkDHnah1pJ1ppZCgLQLqurhAOMyKjSpy8cv44oInhCcBMdaGqqkr1him38gjLjtgHnmmAMlA2O4WBVLgGA9WEIhGP_YHS9tHOMi9pCVZ0hIrwOQ2iOc1tuEhB77vWNye3U6-0FuIRp5FcGGhTxPrm0RRqBELJ8sPPWxO8tMyuc8w",
+    "reviews": [
+        {
+            "author_name": "Craig Daniels",
+            "author_url": "https://www.google.com/maps/contrib/109679046499652502992/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-1e8VNXjjZIE/AAAAAAAAAAI/AAAAAAAAABA/vHYKoLDgX8U/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "An amazing space to see theatre in Toronto. They have really cool shows and embracre and support local and Canadian talent. Highly recommended if you're in the hood. I recently saw Bears and it was truly awesome. You can take drinks into the show if you're in the mood. Great view from pretty much any seat in the house.",
+            "time": 1517112380
+        },
+        {
+            "author_name": "debbie roopnarain",
+            "author_url": "https://www.google.com/maps/contrib/111129750488647199877/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-IE-bZq4z4Hk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3X7ldWdj74xkkvJxf8y8gCS0uPtw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great coffee house. Great coffee. Great theater. Great staff. Really gives you the vibe of an amazing city! Love it! Also their coffee reward system is awesome. After 5 coffees you get one free, after 10 coffees you get a free theater ticket!",
+            "time": 1515463447
+        },
+        {
+            "author_name": "I. Potkonjak",
+            "author_url": "https://www.google.com/maps/contrib/111016416675900450231/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-mw9lH9x_ZYY/AAAAAAAAAAI/AAAAAAAAAwM/SSMQukx1aJQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The place is ABOVE EXPECTATIONS: lovely, cosy, clean, neat, excellent staff, excellent latte, excellent choice of tea... \n\nYesterday we watched Les Mis\u00e9rables (Theatre Smith-Gilmour): A TOUR DE FORCE!!! I was mesmerized with the performance. It was a synergy of pantomime, dialogues, & occasional narration. \nKudos to the cast & the director.",
+            "time": 1521269225
+        },
+        {
+            "author_name": "John Koensgen",
+            "author_url": "https://www.google.com/maps/contrib/107970230934724135712/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ACUU1CJQkRI/AAAAAAAAAAI/AAAAAAAAANU/XrcuWM_5ut0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "One of Toronto's most exciting theatres. Lots of variety and cutting edge work.",
+            "time": 1522156978
+        },
+        {
+            "author_name": "Pedro Salom\u00e3o",
+            "author_url": "https://www.google.com/maps/contrib/104197136218748063366/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-t_Rro3TgZRo/AAAAAAAAAAI/AAAAAAAACRI/Yzr0WZ9hgLU/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Good place to sit and get some work done while sipping a coffee.  Well-maintained and clean location, friendly staff, comfortable seats and nice sweets.",
+            "time": 1512681251
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4720559168723331084",
+    "utc_offset": -240,
+    "vicinity": "1115 Queen Street West, Toronto",
+    "website": "http://theatrecentre.org/"
+}

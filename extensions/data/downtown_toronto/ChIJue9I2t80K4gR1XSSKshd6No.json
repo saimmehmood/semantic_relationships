@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "76",
+            "short_name": "76",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bathurst Street",
+            "short_name": "Bathurst St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2P5",
+            "short_name": "M5V 2P5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">76 Bathurst St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2P5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "76 Bathurst St, Toronto, ON M5V 2P5, Canada",
+    "formatted_phone_number": "(416) 363-0371",
+    "geometry": {
+        "location": {
+            "lat": 43.6432016,
+            "lng": -79.4025115
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445626802915,
+                "lng": -79.4011052197085
+            },
+            "southwest": {
+                "lat": 43.6418647197085,
+                "lng": -79.4038031802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9915c76287ae49687c0b7cd61f0de6f40be63025",
+    "international_phone_number": "+1 416-363-0371",
+    "name": "Electrical Repair",
+    "place_id": "ChIJue9I2t80K4gR1XSSKshd6No",
+    "reference": "CmRSAAAAhny8tZeq6AxaRWXcf24qk7SBwC72qNOSbJo373PmNzalPppF_zJTnm0OvCW-wYQXDllJw4EdH6YnHhxVj8mvoMOyuHEHn1FqsZW2heIz0nolL16bSEW89p-wR6nXOGt7EhAFtyJTNJS1sUHfyqs9mrxeGhRpLMljgFnmBQ--KzTjU6THYGkCSg",
+    "scope": "GOOGLE",
+    "types": [
+        "electrician",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15773960809154245845",
+    "utc_offset": -240,
+    "vicinity": "76 Bathurst Street, Toronto"
+}

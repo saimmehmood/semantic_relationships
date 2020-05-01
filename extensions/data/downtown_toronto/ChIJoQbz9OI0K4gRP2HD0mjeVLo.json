@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "300",
+            "short_name": "300",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "76",
+            "short_name": "76",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stafford Street",
+            "short_name": "Stafford St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2S1",
+            "short_name": "M6J 2S1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">76 Stafford St #300</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2S1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "76 Stafford St #300, Toronto, ON M6J 2S1, Canada",
+    "formatted_phone_number": "(416) 934-9900",
+    "geometry": {
+        "location": {
+            "lat": 43.6437247,
+            "lng": -79.4115614
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64510123029149,
+                "lng": -79.4100748697085
+            },
+            "southwest": {
+                "lat": 43.6424032697085,
+                "lng": -79.4127728302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d9b2a8b687cd4b19f358bfe4123b62dbd6542069",
+    "international_phone_number": "+1 416-934-9900",
+    "name": "Publishers Group Canada",
+    "place_id": "ChIJoQbz9OI0K4gRP2HD0mjeVLo",
+    "reference": "CmRSAAAABFad9oqtnDeBHzNZYYOoLn_YoE6TqUDS9TglGoAn4d8VcIPANvcA6MwLK2oXx1WSe2ac_CyFcEev6q7ZcKC41gErHCPVH2OQ-MwOzPht1li3aI5w4m-_tx4ngK95EjX6EhDqaK1Dqr-FajbcMt21pregGhS9oztHy4chNPklyeyG-h6qT7usrw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13426600930892276031",
+    "utc_offset": -240,
+    "vicinity": "76 Stafford Street #300, Toronto",
+    "website": "http://www.pgw.com"
+}

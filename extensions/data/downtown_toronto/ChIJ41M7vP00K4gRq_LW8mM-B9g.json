@@ -1,0 +1,286 @@
+{
+    "address_components": [
+        {
+            "long_name": "980",
+            "short_name": "980",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H4",
+            "short_name": "M6J 1H4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">980 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "980 Queen St W, Toronto, ON M6J 1H4, Canada",
+    "formatted_phone_number": "(416) 979-7874",
+    "geometry": {
+        "location": {
+            "lat": 43.6444719,
+            "lng": -79.4179932
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457603302915,
+                "lng": -79.41661831970849
+            },
+            "southwest": {
+                "lat": 43.6430623697085,
+                "lng": -79.4193162802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "16ec7876b338d5e5ce34963f6ac7c62f28184db4",
+    "international_phone_number": "+1 416-979-7874",
+    "name": "Paul Petro Contemporary Art",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 11:00 AM \u2013 5:00 PM",
+            "Thursday: 11:00 AM \u2013 5:00 PM",
+            "Friday: 11:00 AM \u2013 5:00 PM",
+            "Saturday: 11:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAAgQbKsJI6tKU8jWf6GhV1RDVd1_-yZGyNuoj03RL2hg2YBsXW89tbQQHwtdhywHixn090QNVcdA2WVEV9cbElg6KITpXtXxbXrkMaWxZNAPlHKyPK01eKioxhMjj_T7f1EhCT8QJhXL9r291R9wvM6BDuGhSPgQ3DiHJHe_NvZqpNRtN8inMTvg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113375321914086034714/photos\">Richard Ling</a>"
+            ],
+            "photo_reference": "CmRaAAAAS-Xgi0J0BMvh1Sf-I92Yb2qWsJLhdF29m6nQ9CXFZx34UprUl4_8EBUuao1_iK0SyjB-mgN8FhMs07fS_xLwoChUFQ170YtKOvyiGFfXKLWAPr7X8WrEUSky1LftmW9GEhC63SFr150PJ6rtma_qA65-GhTK5unAaIuex1U3UzAy7qdzj9fQpA",
+            "width": 2268
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAABJuZ7S2oBsIObhNZ_qFEq_mXh4T7aeQSxwB05HAlqMzSVT4oVwYr9CigRp6y6MRy33iLJZyThvC95lFfXQtR0Ostqyjw6PeZPQnRwseygXTrhQZFRpHMPReBs9LegpgfEhAEhtmUEaju9Jpi53H4JSG-GhRS96X9fnaX7uBFxv_P7RxiKdnzLA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAAKwhKDjP5_hebemMN1THNFDOY-8SVsY02BNM7TB3U78yu5vjoG6Vhff9fBZI1KSNl4gA34xRMI4Lu-6y5phBmjrsxQk_LBKlErIrUFgV1NaeG-4P6oHp0Zykdan8-D7DgEhC5Dl7BD1YoM6cy5-tcpBoFGhRlJ4OvQIzrenmwjdhH_yT6r9ZY2A",
+            "width": 2268
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAAWkgLnFaK87nBQbxVxelKIuFEMz-BuGVb1rOQzUWvt3MChrv3J1Y2reI3-N9fKef8iks2hR7pxrnHEWrYlS4U50zM5DpDQ1GACe3GDJhOku62B7VLOyE9RbbIK9OPsxlXEhBFchUAgRwCGtYhlg4BCUCVGhQQaiPnY_9Zv9oykcC2ufFES8mSxg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAAMHad4rsyaPn912DwUHX-A9PBk1t9-KOaZ30DdPxNcfQMYKRas2oabryhL1Ie7ymgbt8yi_RyTnYMhNYgocAFcBxIaSPp12HtiP6wzQxPxDeiH4rYhstVt6bvVKBsMXwBEhCQkHImCW-pNgKx9ujCbVeeGhQnm71QGX7wi2hVw1PqGSswACd88g",
+            "width": 4032
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAAnJRXoOphHlxV8uN6rQjfVbtcjDUuBN_1ETcwYQa3khHrnLMBWKF-nNXxDvfhf6fhHaTdErl1il4KKagD7ygTaFDQHd6Mrxy4P6kW0jGP75tobkcE3YYSS9z8VutwjS1pEhAAeVwIQke3l-fZArTGDzlOGhSQKH1YmBTxUOR6ULGuGP2o2zf4nQ",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAA-PYBYJGdEG8QcIVH_82RNUih3dE0wSHhZ7p9en5Sov6k2DtmP7se99BVhL7ILO1jGLOeRXZ6GA-Molx9yeNW53UeBTxEhfH3j8f6n6ahx2-ZRn6pVjVqEkxqZUW-waT8EhBY9Lyvun7n0UoKxZX8n4JwGhTGrv5itp7FVxKYzpXbDW18nLy_9g",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAAsuJABZA90k5D9w_wzzpBoJ_ytk4HE5ojUR4oPoe-WC-VfiFuuDX9kahkYoQ89U0I0rezK_zMbXRthhk9c2u-Qvd3B001JZpFRZz15mhSTiQYWOAMLcnuC6c4B3zAL7B5EhB3z73omLFUXBrR7x_biWYGGhTn85jzTsjckNwqcfmcR3lCyM-a3w",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAArIISzJTHMjsFZcrovlZPGjE-ZhRPNIogOfsEEvPWTtRfVGMWCFyM5vV3GNE4uxUpO778svfhJeDKZcyfgpW6LAzkojjEIrFG26Z4v4ftcnHUjpqF1N6F087HpNRmZThFEhD2YIosVgozBoalKEmdaZbYGhQRkvhylHVKiGoLY7RHCPKEKScN4g",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ41M7vP00K4gRq_LW8mM-B9g",
+    "rating": 4,
+    "reference": "CmRSAAAAoykNX6pghOBIZAb3HkJ_s7JGKIS4GfPvP6gi-0quGk2_X_IS-5UCxwT4mkL3JWcOx7wDn26KxvK-zpdECuuLvL-bHsWmTseRXxBEsUfBxbgOrUwlKd0Qq0xCqGYYUgM_EhCB2eRhlZLYBsmwkx_zotblGhRBwHMjj85eBJRQk3ykscLWwHYHgA",
+    "reviews": [
+        {
+            "author_name": "Matthew Wong",
+            "author_url": "https://www.google.com/maps/contrib/108603802150607576899/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-1YcI6OU8cb8/AAAAAAAAAAI/AAAAAAAAkAQ/IR5JRZs-lAk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Nice space. Interesting work. Nice space in the back to relax. ",
+            "time": 1452034268
+        },
+        {
+            "author_name": "jay isaac",
+            "author_url": "https://www.google.com/maps/contrib/100479573442449837522/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-UjPgzPZOrvo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0rkNLy0H66Na56-uX6ZBq5uYUlsQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1519917557
+        },
+        {
+            "author_name": "Robert Kingsbury",
+            "author_url": "https://www.google.com/maps/contrib/103976087586949934793/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-sBJctpDy9ew/AAAAAAAAAAI/AAAAAAAAHq4/s-oioB6SNvg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1519592996
+        },
+        {
+            "author_name": "Marcus Marriott",
+            "author_url": "https://www.google.com/maps/contrib/111115867893924264879/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-oOrMBllguyI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3fyA6iTfUrLsh_VJ060aJo922dmw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1517859616
+        },
+        {
+            "author_name": "Manal Sarwar",
+            "author_url": "https://www.google.com/maps/contrib/112635116383812384518/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Q7WGrMH8Ca0/AAAAAAAAAAI/AAAAAAAAKSY/8UxQCLRUZaM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1498870089
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15566479236026266283",
+    "utc_offset": -240,
+    "vicinity": "980 Queen Street West, Toronto",
+    "website": "http://www.paulpetro.com/"
+}

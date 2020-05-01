@@ -1,0 +1,187 @@
+{
+    "address_components": [
+        {
+            "long_name": "208",
+            "short_name": "208",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3W5",
+            "short_name": "M6J 3W5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">208 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3W5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "208 Niagara St, Toronto, ON M6J 3W5, Canada",
+    "formatted_phone_number": "(416) 275-7916",
+    "geometry": {
+        "location": {
+            "lat": 43.6439094,
+            "lng": -79.407624
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450993302915,
+                "lng": -79.4066387697085
+            },
+            "southwest": {
+                "lat": 43.6424013697085,
+                "lng": -79.4093367302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "05a7b4a4b079cd34e3d23f909b6e318b85a90b8b",
+    "international_phone_number": "+1 416-275-7916",
+    "name": "MB Digital Communications",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 262,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107020372086179645876/photos\">MB Digital Communications</a>"
+            ],
+            "photo_reference": "CmRaAAAACWbFcTuUAZNOjAf5a9JXgjmIevxXx-R6sW3vj44gU__ltVnsQbDVHxwGMRpizgvilC3mlWuftMgVFKpaLz_IWzulH6k3gaPjHSBzXJ0aILDiGbo7tE26j452cKL3rG_PEhAyLDK6m4Tj5SSWBW99wY0eGhRP5aiFYjmK6Z83_LmJeXVGX7FmXQ",
+            "width": 261
+        }
+    ],
+    "place_id": "ChIJSR31muE0K4gRGJuy8UC_w2M",
+    "rating": 5,
+    "reference": "CmRRAAAAszBqrpx-EBUTY2WS3g_MfonLQb0LVnDMi2ri0CGpHGkAAFRP6PubHXomlZvcT3EN9j4UXpu-cmmuwFLNkBidd-8Kh4dTGpCvVD8WMBh27rx3VI0vM5UINEAM9y-Q__oEEhDUYuUy_JsMozsf9dKpFEGnGhRqbWUyLgnRjZ4q1bpJpeEI-biPTg",
+    "reviews": [
+        {
+            "author_name": "Andy Bush",
+            "author_url": "https://www.google.com/maps/contrib/108243937452593534183/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-sbPuruk8PeI/AAAAAAAAAAI/AAAAAAAADG4/o88dfrSdAkM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "MB Digital Communications is an exceptional email marketing company and Mark Brodsky is an expert email marketer.  We brought in MB Digital Communications to handle our email newsletter; they guided us through the process of choosing content and we left it up to them to format our content, come up with great subject lines and time the emails.\n\n We were excited about the final product \u2013 the email looked fantastic and was mobile friendly.  MB Digital Communications analysed the results and our open rate were consistently about triple the industry average. We were thrilled with the results.",
+            "time": 1439490915
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7188799715867269912",
+    "utc_offset": -240,
+    "vicinity": "208 Niagara Street, Toronto",
+    "website": "http://www.mbdigitalcommunications.com/"
+}

@@ -1,0 +1,152 @@
+{
+    "address_components": [
+        {
+            "long_name": "222",
+            "short_name": "222",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L3",
+            "short_name": "M6J 2L3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">222 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "222 Niagara St, Toronto, ON M6J 2L3, Canada",
+    "formatted_phone_number": "(416) 393-1371",
+    "geometry": {
+        "location": {
+            "lat": 43.64396359999999,
+            "lng": -79.4084905
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64528508029149,
+                "lng": -79.4072044697085
+            },
+            "southwest": {
+                "lat": 43.64258711970849,
+                "lng": -79.40990243029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "1cff8c0933c0a8a64cde69f10724f415b36357f2",
+    "international_phone_number": "+1 416-393-1371",
+    "name": "Niagara Street Junior Public School",
+    "place_id": "ChIJIXQwhuE0K4gRhOfEeEOC-0Q",
+    "rating": 4.3,
+    "reference": "CmRRAAAAP4NndyNzJXc2HgW1JuDi1S9Mxv57XvDnzQasyWQsj7uwYTIcF1OG4j_NkvOZSTVEFu5MFpMp-N1FiSL_j5uNS-0sAPBTXlFCaPHBLDUxV73EoA7Uw5sq4PpRqw_3Rzx3EhBcWc6ilDUcDbvoOcq8q_EwGhRjTnRMwYKuazWjT5CxhsCKcxDK3w",
+    "reviews": [
+        {
+            "author_name": "Samantha Trinh",
+            "author_url": "https://www.google.com/maps/contrib/101567481350909699143/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-BYPYS5f0Bvk/AAAAAAAAAAI/AAAAAAAAAFI/IuSI4EnzXgI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "I attended this school from kindergarten through to grade 6. This was back in the 80's. I have really fond memories of this place. From the Bonhomme Carnivale to the Boyne River camps. It really was a magical time for me.",
+            "time": 1501979379
+        },
+        {
+            "author_name": "Kat Miller",
+            "author_url": "https://www.google.com/maps/contrib/104103250857710468676/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-JoAGzfoDawc/AAAAAAAAAAI/AAAAAAAAACc/lPyl-vyXFfM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "I attended Niagara Street Public School from grade 1 to half way through the school year of grade 4. I am now 55 years old and have to say out of all the schools that I attended, which were many, my fondest memories are of this school. Several years ago, while we were visiting Toronto we took our, now adult children to the school to show them where their mother went to school. The staff were wonderful and even gave us a short tour through the school. Today I happened to be on Google Maps and out of curiosity looked to see if my old home was still there, which it is not, however, I was very happy to see that the school is. My youngest Granddaughter just started JK this past fall and when she came in from school today I showed her where her Nana went to school. I really hope that the school board keeps this school open and marks it as a historical land mark so that it cannot be torn down.\nThank you,\nKat Miller",
+            "time": 1398801413
+        },
+        {
+            "author_name": "Dish 71",
+            "author_url": "https://www.google.com/maps/contrib/101487314685214274100/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HR7lgvbSWFQ/AAAAAAAAAAI/AAAAAAAATaQ/E9-fti21tmw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I love it\n",
+            "time": 1496021359
+        },
+        {
+            "author_name": "Jacob Pickup",
+            "author_url": "https://www.google.com/maps/contrib/116391105769589181727/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Rt96PtMT4h8/AAAAAAAAAAI/AAAAAAAAAbM/9A_rDHFAOhw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1521143576
+        },
+        {
+            "author_name": "Lourdes Ceron",
+            "author_url": "https://www.google.com/maps/contrib/108890860063005997730/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-68mGtbzz6sg/AAAAAAAAAAI/AAAAAAAAB6Q/GKkXEHrYQIo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1505497468
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4970709840034064260",
+    "utc_offset": -240,
+    "vicinity": "222 Niagara Street, Toronto",
+    "website": "http://schools.tdsb.on.ca/niagara"
+}

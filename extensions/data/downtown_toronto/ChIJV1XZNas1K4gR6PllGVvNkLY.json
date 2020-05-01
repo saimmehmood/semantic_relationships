@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "442-F",
+            "short_name": "442-F",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "Dufferin Street",
+            "short_name": "Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2A3",
+            "short_name": "M6K 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Dufferin St #442-F</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Dufferin St #442-F, Toronto, ON M6K 2A3, Canada",
+    "formatted_phone_number": "(416) 659-2982",
+    "geometry": {
+        "location": {
+            "lat": 43.6438103,
+            "lng": -79.4294883
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6451863302915,
+                "lng": -79.42801246970849
+            },
+            "southwest": {
+                "lat": 43.6424883697085,
+                "lng": -79.43071043029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f0aa2ede904372e8fd57227fc6d721386a42cc1b",
+    "international_phone_number": "+1 416-659-2982",
+    "name": "Rob Southcott Studio Works",
+    "place_id": "ChIJV1XZNas1K4gR6PllGVvNkLY",
+    "reference": "CmRSAAAA9a0wlrVWDSmh2XcyOzQW4HI6GfrYRpVGTm1CiRY6R6We5ebtolBm-NLU-JjJHxx7DmjR9tomcBRk4k0QBOUeUAkQRlT9jNG7-Ud9G-uLuAF1EMeHhd_GSuc7Jeg_GTzQEhB42Za6owwOrZs72LUNxB58GhQc2x1MHkB2CBZFEgeguMjfjFKREQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13155240302701050344",
+    "utc_offset": -240,
+    "vicinity": "Dufferin Street #442-F, Toronto",
+    "website": "http://robsouthcott.com/"
+}

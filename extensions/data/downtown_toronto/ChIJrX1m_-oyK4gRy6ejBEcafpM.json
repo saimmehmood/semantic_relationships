@@ -1,0 +1,238 @@
+{
+    "address_components": [
+        {
+            "long_name": "16",
+            "short_name": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1Z9",
+            "short_name": "M5E 1Z9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">16 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1Z9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "16 Yonge St, Toronto, ON M5E 1Z9, Canada",
+    "formatted_phone_number": "(416) 324-8980",
+    "geometry": {
+        "location": {
+            "lat": 43.6432258,
+            "lng": -79.3761921
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446478302915,
+                "lng": -79.3745164197085
+            },
+            "southwest": {
+                "lat": 43.6419498697085,
+                "lng": -79.3772143802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "09fd920aeae3483c3d8f896000c35ece804fc8e3",
+    "international_phone_number": "+1 416-324-8980",
+    "name": "Platis Custom 1 Hr Cleaners",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:00 AM \u2013 7:00 PM",
+            "Wednesday: 7:00 AM \u2013 6:00 PM",
+            "Thursday: 7:00 AM \u2013 7:00 PM",
+            "Friday: 7:00 AM \u2013 7:00 PM",
+            "Saturday: 8:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAF0brAYH8F3CfEyqKdI2VdLYW3HVqSxhw4ggwx1t4OvH2I6zbS_k6zAfMFxAKYYtCUiZALfCjHRExCR3oU-yewPLcTxPnp1N61WjhjP3gr9AJ4aB5CD1lok8JJKF2Jm-REhDE5-M1vl0MIWdcyeOCVdFWGhQv2NJ08bUmIDIm8TOmmmCp48Jk7A",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJrX1m_-oyK4gRy6ejBEcafpM",
+    "rating": 3.1,
+    "reference": "CmRSAAAAxVU5hhbfni9P-JoGJeI9ET29RNRk0zybY571KnrB_aS5NRA6tHBHVLXUmABDwsXei3CaIh0LA5DKSYudhy9vDb9-qfe2TR8uOBtJdq3WnrP9N2vHpXqkf2IkdeoHqnC4EhD9mO9CddxCU_s95AAW3wLKGhQUV-6tKy3dVmlUgT08Ce5-Rf8hOg",
+    "reviews": [
+        {
+            "author_name": "Jason Neudorf",
+            "author_url": "https://www.google.com/maps/contrib/100447463613243914431/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-EAhm3MNm7ow/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0_X-7zCjjtH8VSctBXIEdWa9KfgQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Had a really bad red wine stain. my attempts to remove it apparently only made it more stubborn. But they got it out 100% and for a very reasonable price. Good service too. Highly recommend!",
+            "time": 1524426500
+        },
+        {
+            "author_name": "Christos Bellos",
+            "author_url": "https://www.google.com/maps/contrib/111901412533209344121/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-u-h0RBn4d4U/AAAAAAAAAAI/AAAAAAAAAGc/gR_ZAU3607w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Always timely and professional. Yes, it's slightly more expensive but the convenient location and quick turnaround times are worth the extra dollar.",
+            "time": 1513442933
+        },
+        {
+            "author_name": "Maxim Y",
+            "author_url": "https://www.google.com/maps/contrib/114215053020361557274/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-RiLrhN3XkIo/AAAAAAAAAAI/AAAAAAAAD1w/amNProrAp9A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "I've been taking all my dry cleaning (mostly shirts and pants) to this place, until the time when I needed a winter coat cleaned. They charged me 23$ for it yet returned it the same as it was before. When I came back the lady raised her voice and kept telling me they can't remove lint. I'm sorry but a simple tape roller does a perfect job on the coat so what exactly did I pay for, it doesn't look like anything was done at all and yet they refused to redo it or refund. I guess this place is OK to press your shirts but don't expect much from the customer service department.",
+            "time": 1491073555
+        },
+        {
+            "author_name": "Marlyne Skaff",
+            "author_url": "https://www.google.com/maps/contrib/113467493155971871443/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Mah3Agg4-Tw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1j55H2Dp1A15KRzAhGLVvl0-yMMQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "This is the most disgusting customer service anyone could ever experience. I took in a $138 US pair of beautiful creamy white dress pants to the woman who owns Platis and asked that the legs be shortened. The pant legs had a slit in the front of the pants, but told her that when shortening the legs, if the slit was too difficult to duplicate, the seamstress could just close the slits and make them a solid bottom. When I returned a few days later to pick up the pants, the son of the woman I dealt with gave them to me - only for me to find they were stiched unevenly in the slits and also you could see the stitching show through, which was also uneven. When I told him I wasn't happy with the job, he proceeded to berate me, saying, \"I think it's perfect.\" I showed him the parts of the pant legs that were cut off and compared the even stitching to the sloppy job that his seamstress did, and he continued to deny the pants weren't stitched properly. He told me to come back when the seamstress was in, but I told him he's responsible for his worker, so demanded that something be done right away because I didn't have time to keep returning to this place. Also, I was worried that if the seamstress tried to do anything more on the pants, she'd ruin them more. He then told me to take my pants and leave, at which point I told him that was no way to treat a customer who was unhappy about a job. I asked to try the pants on and he wouldn't allow me into the back to try them on, so I tried them on in the front of the store. He then proceeded to pick up my bag and throw it out the door and onto the street, and went on a tirade. As customers came in and out of the store, he continued to berate me. I had to call the police and waited outside for them, but it was taking so long for them to come that I finally just took my pants and left. As consumers, we face everyday challenges, and people like this man at Platis who was verbally abusive after one of his workers did a terrible job. Instead of offering a solution, he continued to say that the job was \"perfect\" work. He also accused me of arguing with him to get the pants done free. Really? A $12 pants-shortening job, I want free, when I paid $138 US for them? I urge everyone to stand up for their consumer rights, and complain and write reviews like these to alert consumers about horrible retailers. Unfortunately I have to choose the minimum of one star on this review, but I'd rather give it a 0. I may never get my pants fixed, but if I can save one consumer from this terrible establishment, I'd be happy.",
+            "time": 1438173306
+        },
+        {
+            "author_name": "Reid Kidnie",
+            "author_url": "https://www.google.com/maps/contrib/106804203857674833453/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-xDPdnqBXUzg/AAAAAAAAAAI/AAAAAAAAABg/1G6n9zqPtJc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I've been a customer for the last few years and have always had my clothes come back clean and at the agreed upon time. I've also used the alteration services,  ie: patching, sewing, and zipper replacement,  with similar great experiences. I've never had a bad experience with management they've always been friendly and considerate. Highly recommend everyone give them a try!",
+            "time": 1461040854
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10627961062963783627",
+    "utc_offset": -240,
+    "vicinity": "16 Yonge Street, Toronto",
+    "website": "http://platiscleaners.com/"
+}

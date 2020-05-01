@@ -1,0 +1,170 @@
+{
+    "address_components": [
+        {
+            "long_name": "302",
+            "short_name": "302",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "511",
+            "short_name": "511",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King Street West",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "ON",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Z4.",
+            "short_name": "M5V 2Z4.",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">511 King Street West #302</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Z4.</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "511 King Street West #302, Toronto, ON M5V 2Z4., Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6446538,
+            "lng": -79.3978063
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6460027802915,
+                "lng": -79.3964573197085
+            },
+            "southwest": {
+                "lat": 43.6433048197085,
+                "lng": -79.39915528029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ee066f41b0df86443ede0a6d8bf194f44892bb01",
+    "name": "The Quiet Company",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 5:00 PM",
+            "Tuesday: 7:00 AM \u2013 5:00 PM",
+            "Wednesday: 7:00 AM \u2013 5:00 PM",
+            "Thursday: 7:00 AM \u2013 5:00 PM",
+            "Friday: 7:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJAQAwyN40K4gRrh_TGZ2XH6Y",
+    "reference": "CmRSAAAAqa3MPIeGRxkHn87TjeWwlqW3y3shi6KPoOQFPYWAu91jRiBV4B_9usqcsnXLNwFyWKwY2oVnQWmv1G-7wQMUUoLUP08MItcl8KjB4DMQ2tlUSzEHgMzImzfTtTq_pQ0FEhBkrffEhMhtQIvwKCwWmRuLGhQ4teDt722fEvEjLDUdQAI4fY_Xzg",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11970453035572993966",
+    "utc_offset": -240,
+    "vicinity": "511 King Street West #302, Toronto",
+    "website": "http://quietcompany.ca/"
+}

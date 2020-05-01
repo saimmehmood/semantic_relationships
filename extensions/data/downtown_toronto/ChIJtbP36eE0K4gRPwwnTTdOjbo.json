@@ -1,0 +1,159 @@
+{
+    "address_components": [
+        {
+            "long_name": "801",
+            "short_name": "801",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3C9",
+            "short_name": "M5V 3C9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">801 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3C9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "801 King St W, Toronto, ON M5V 3C9, Canada",
+    "formatted_phone_number": "(416) 504-4217",
+    "geometry": {
+        "location": {
+            "lat": 43.6427913,
+            "lng": -79.4071946
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442372802915,
+                "lng": -79.4058832197085
+            },
+            "southwest": {
+                "lat": 43.64153931970851,
+                "lng": -79.4085811802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "92f6dd3a45dc3afff41a9224fcfbae289f94da96",
+    "international_phone_number": "+1 416-504-4217",
+    "name": "Citysphere Condominiums",
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108855698847402198440/photos\">Kristen Lutz</a>"
+            ],
+            "photo_reference": "CmRaAAAArneGeM-UF_TEKr5EwiUvPMQNwElT3pYZF3FK1KsAtQalEHH6w9ujQgzdZOyK9zv7yzOKFn922RYnUELjPrOmPaRJUWpdiA0NPQS-TPOCElgwkQyRk9bvV1xFnpgkglAGEhDD77Ajf0zDJDR5Mhiv-c30GhTBkVMeUOZESCVOv6g46XA74570Bg",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJtbP36eE0K4gRPwwnTTdOjbo",
+    "rating": 3.9,
+    "reference": "CmRSAAAAFxXXyN5OrpxtS_3UDjmLRPMU87Hl-p9gNzggQYWolXFKc4Hu5HS2kxZYnreo_1TfSgYsWxzLZdR5mJkbRRmpOVAdXFoV0mf7giFLZ4vzoHhMjMgEeYwuPWXponS965UMEhAEylAeFxSel4nuon0lJVt5GhRua01x2jQclM805Lnwemgpg8Q84g",
+    "reviews": [
+        {
+            "author_name": "M Alexander",
+            "author_url": "https://www.google.com/maps/contrib/111646985378466352043/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4kiE0jR7E-0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1CwrpqBO5g2fuN3f6fnQkPqL2blQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Good building with many owners. Quality has gone done because of renters.",
+            "time": 1522595922
+        },
+        {
+            "author_name": "Mack Browne",
+            "author_url": "https://www.google.com/maps/contrib/117080403871279048004/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-nDyNYpYWjeo/AAAAAAAAAAI/AAAAAAAAB-4/wtphKZo0yYQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "It was a decent condo even though it has management issues ",
+            "time": 1489698778
+        },
+        {
+            "author_name": "Keenan Burnett",
+            "author_url": "https://www.google.com/maps/contrib/114672378266167432557/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-6yRGL6aGNAI/AAAAAAAAAAI/AAAAAAAATOU/zLiZHpVCKOk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1525923999
+        },
+        {
+            "author_name": "dimitre ivov",
+            "author_url": "https://www.google.com/maps/contrib/111444744525328377111/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-HS7I2M_dVzg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1svLVf65AFx9oUfPl8WIK_5fS87Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1524005379
+        },
+        {
+            "author_name": "Veronica Arreaza",
+            "author_url": "https://www.google.com/maps/contrib/101295375741039348760/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-MNqlayYdOLI/AAAAAAAAAAI/AAAAAAAAA58/jCs6CDlazL8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1515695129
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13442486462195371071",
+    "utc_offset": -240,
+    "vicinity": "801 King Street West, Toronto"
+}

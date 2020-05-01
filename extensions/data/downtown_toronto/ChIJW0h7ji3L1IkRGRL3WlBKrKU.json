@@ -1,0 +1,249 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "York Street",
+            "short_name": "York St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2T8",
+            "short_name": "M5J 2T8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">18 York St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2T8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "18 York St, Toronto, ON M5J 2T8, Canada",
+    "formatted_phone_number": "(416) 366-7511",
+    "geometry": {
+        "location": {
+            "lat": 43.6431712,
+            "lng": -79.3822319
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445819802915,
+                "lng": -79.38058651970849
+            },
+            "southwest": {
+                "lat": 43.6418840197085,
+                "lng": -79.3832844802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "36b81504183efb1f8b632ae03ccb6291226d3634",
+    "international_phone_number": "+1 416-366-7511",
+    "name": "Royal & Sun Alliance Insurance Company of Canada",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 530,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117380628008190496982/photos\">RSA Broker</a>"
+            ],
+            "photo_reference": "CmRaAAAA3Vag7WwrtTnX22kCNdl9PHdtchDbZ-K7RLjkemiFD-Q-AkwK1vPFf5n5HleZN4hZRw4nti1h6JnJE5S6y_Ol9sxv7TYnTqVqP9jokxU-avtwSIWDShX2Ahottinc_INqEhCfEgHs4kLWZXEpz_iEYWpnGhQezS3kOFU33prRqRXBDm-CPS73sg",
+            "width": 710
+        },
+        {
+            "height": 845,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117380628008190496982/photos\">RSA Broker</a>"
+            ],
+            "photo_reference": "CmRaAAAA5Cxq8jE98vX-pOGSeE-hcYWfBnrR_YVPTcLCTQudTGc5MMJ1VCS6VvfQ1vJn7YxvRUu6ov0NJGaO877E9HWjrAGKTSIzpqhFSyJiq0wS7vZ5xkBdWo_0vu9s1j34uJKvEhAuFS8qyVwhxQGPrPA3Bnq9GhTflb3d8X3YEv84NKtUVtBIiYjX5Q",
+            "width": 545
+        },
+        {
+            "height": 1276,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113406368996676877770/photos\">Royal &amp; Sun Alliance Insurance Company of Canada</a>"
+            ],
+            "photo_reference": "CmRaAAAAu4zZR9ArwiPV-zod4A0TD-pld77pxUFXHG_ltZQ9ZaU6eK1jRz7G9caWHih5UOOj3YkV7VNr7oBMyRkWxd_R84n7vZcTnRYPDlCIfNeHhUp7N2I880fRYOEa4wCtocc_EhDtf7DpL9JN9FYyK3MImT2mGhSqume-z1L08rTJDZVbMd0z0yMacQ",
+            "width": 1852
+        },
+        {
+            "height": 1276,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117380628008190496982/photos\">RSA Broker</a>"
+            ],
+            "photo_reference": "CmRaAAAAFpbn4YcqUf8-b9tb0_U61CfxMMOG-TOzkH6a-Khs3Aig_3K3dFnVWAnZKocZn1rRcvXupcb-Jr8AWFVR7eFPvvINXWisAUkKomqXYMHsJSkvcChcDqzOFWRsWSLV57IuEhDm8mc_CCt3GEbhjGF2gfQBGhTH-YDNjdV30WWT1j75vTLuOF23Sw",
+            "width": 1852
+        }
+    ],
+    "place_id": "ChIJW0h7ji3L1IkRGRL3WlBKrKU",
+    "rating": 4,
+    "reference": "CmRSAAAAMUQOByW1VHFm-ePFP5eQUG7FpsfqJhR-aecW66Db9X9QgklM1xtmy9tFgvsfPXCTUG39OklWflb0_yh2gri6Gd8EjPepBocKS-xpwu0kwwzJXjfuCGJLwGEWIsRCDRJXEhDSkQdxBYQXdI9ShTGIMM6BGhTP5jvXxB35mQaLRjo8MtzZxuiQhQ",
+    "reviews": [
+        {
+            "author_name": "Brian Bachan",
+            "author_url": "https://www.google.com/maps/contrib/114350750028142604611/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-P-f7WNLXu48/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3N8zgU62r3TnT1Ets4JX7gGz2b8A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Good company they work along with you.",
+            "time": 1524851540
+        },
+        {
+            "author_name": "Brian Provo",
+            "author_url": "https://www.google.com/maps/contrib/102295846417650123688/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-y73PlZ0iIUQ/AAAAAAAAAAI/AAAAAAAAANk/B0UNB6fqaQw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "shadiest, company out there don't bother with these guys they will hit you with unmentioned fees left and right and force you to contract!",
+            "time": 1510064326
+        },
+        {
+            "author_name": "KJ MILLAR",
+            "author_url": "https://www.google.com/maps/contrib/103451325329378270550/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-lixq-xw9Few/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0hZDY1PTBAfLTJrj3r8ygzjM2q0A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "",
+            "time": 1528723216
+        },
+        {
+            "author_name": "Will Chan",
+            "author_url": "https://www.google.com/maps/contrib/114592834737426900514/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ttcO9FqkjQY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1NXCcvu9jQUbIo6qket_fX0lULRA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1519817871
+        },
+        {
+            "author_name": "Lisa S",
+            "author_url": "https://www.google.com/maps/contrib/116364180267831791960/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-wRFsF3etTRw/AAAAAAAAAAI/AAAAAAAAALo/OiA7e9D_Rm8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1513724880
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11937998421236322841",
+    "utc_offset": -240,
+    "vicinity": "18 York Street, Toronto",
+    "website": "http://www.rsagroup.ca/"
+}

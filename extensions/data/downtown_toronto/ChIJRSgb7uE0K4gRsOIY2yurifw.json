@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "215",
+            "short_name": "215",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L2",
+            "short_name": "M6J 2L2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">215 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "215 Niagara St, Toronto, ON M6J 2L2, Canada",
+    "formatted_phone_number": "(416) 203-8886",
+    "geometry": {
+        "location": {
+            "lat": 43.642912,
+            "lng": -79.40775649999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442562802915,
+                "lng": -79.4064170697085
+            },
+            "southwest": {
+                "lat": 43.6415583197085,
+                "lng": -79.40911503029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bdd8765adcedc9a031d774d00b229d6b8d2f48c3",
+    "international_phone_number": "+1 416-203-8886",
+    "name": "Suddenly Seemore Productions",
+    "place_id": "ChIJRSgb7uE0K4gRsOIY2yurifw",
+    "reference": "CmRSAAAAc_NovhsFgsqvO0jw7sYirpqrDnORdymLlV4UyTPzo1znY1qyDWm5KTH-jBnwCQwyW_OxVQ1Gk6nYEpNDPv9SO6_dNi_4R5R6AcHxEZYFETPpoIiHkWiLyimWK2BpHkzUEhDeb1A-7LEpiI5kmh98pQySGhT3VbxFp95Qu4NwquPJnaP-lYtaYA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18197263974214984368",
+    "utc_offset": -240,
+    "vicinity": "215 Niagara Street, Toronto",
+    "website": "http://www.suddenlyseemore.com/"
+}

@@ -1,0 +1,224 @@
+{
+    "address_components": [
+        {
+            "long_name": "2200",
+            "short_name": "2200",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "120",
+            "short_name": "120",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0B2",
+            "short_name": "M5J 0B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "0A8, <span class=\"street-address\">120 Bremner Blvd #2200</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "0A8, 120 Bremner Blvd #2200, Toronto, ON M5J 0B2, Canada",
+    "formatted_phone_number": "(416) 596-3000",
+    "geometry": {
+        "location": {
+            "lat": 43.6431066,
+            "lng": -79.38304269999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444555802915,
+                "lng": -79.38169371970848
+            },
+            "southwest": {
+                "lat": 43.6417576197085,
+                "lng": -79.3843916802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4a233a4b37213cabf2b689fea4a32ecd5e0b285a",
+    "international_phone_number": "+1 416-596-3000",
+    "name": "AIG",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1645"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0845"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1645"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0845"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1645"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0845"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1645"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0845"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1645"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0845"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:45 AM \u2013 4:45 PM",
+            "Tuesday: 8:45 AM \u2013 4:45 PM",
+            "Wednesday: 8:45 AM \u2013 4:45 PM",
+            "Thursday: 8:45 AM \u2013 4:45 PM",
+            "Friday: 8:45 AM \u2013 4:45 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJEUP79dQ0K4gRkuYUDEn5pxw",
+    "rating": 2.2,
+    "reference": "CmRRAAAAmfatv8hxKS3kQZg17X_m_wqMgsvgrya3VnaJq4UmjJOC3kLbVf7xcqwGvA2Okwau6RqkHEXHEYRia1I0csRSgDKVi6SGeulTKTbWbJfuGAHKaezPwe-19Edhs4fk2zPdEhBSIic7Sl-D8Lth0XD9qDrwGhTyj867hD7R_kgCpaamcXBaF45EFg",
+    "reviews": [
+        {
+            "author_name": "Kennedy Gates",
+            "author_url": "https://www.google.com/maps/contrib/104281347178037324648/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-DIr4LqKdUOk/AAAAAAAAAAI/AAAAAAAAALE/PGepl91uEMw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Worst insurance company to ever deal with. They don\u2019t even deserve a star. Make sure you check with any flight agencies to know who provides flight protection. You will never get any thing from them no matter how legit your claim is. Don\u2019t be the next victim. Even when I clearly read out to them what their insurance policy covers, they still shamelessly found ways to turn me and my family down. Very inconsiderate staff . #StayAwayFromAIG #Scammers",
+            "time": 1528839265
+        },
+        {
+            "author_name": "T -Woods",
+            "author_url": "https://www.google.com/maps/contrib/115415790780839179315/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-2uZUImv3uyw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq14tM9_Lrow0C_13FOBOpqL3Mwmtw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Absolutely awful. Got their travel insurance through World Nomads. Had my $950 LG G6 phone stolen in Bangkok so I made a claim. Then I get a cheque for 106, they said the can only give whats paid so far even though they've seen in my contract I still have to pay the rest over the next year and a half or so. What's the point in having insurance if I'm not going to be covered? Never go with AIG/World Nomads in Canada for travel insurance, and by the looks of the reviews, any other insurance through them either.",
+            "time": 1524855649
+        },
+        {
+            "author_name": "Roberto da Silva Ribeiro",
+            "author_url": "https://www.google.com/maps/contrib/108818021330964624350/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3vGYgwKyrjI/AAAAAAAAAAI/AAAAAAAAACM/OmOZ0j7MdR8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "AIG Insurance sucks!\n\nWorst insurance company I've ever seen.  They have a totally arbitrary and opaque claim process.  At the end, my claim was denied for dubious reasons (but they already intended that).  No appeal process.  No customer service.  No Ombudsman.  \nWasted premiums. \nAnyway, to those of you who were lucky enough to never have to file a claim, I ask... do you actually think you are really covered?  Really?\nBuyer beware with these misleading crooks and tricksters!  Shop for clear and honest insurance elsewhere.",
+            "time": 1524251947
+        },
+        {
+            "author_name": "The 99%",
+            "author_url": "https://www.google.com/maps/contrib/116388657430811484244/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-m6a9dNUbdII/AAAAAAAAAAI/AAAAAAAAAAs/70epBQTeKgM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "AIG refused to hire me because of my previous employer's whisper campaign against me that destroyed my career. The HR at AIG got really nasty with me, so I found another job, but then AIG came in and did an audit, and I lost my new job.",
+            "time": 1525232812
+        },
+        {
+            "author_name": "brenda mccarrol",
+            "author_url": "https://www.google.com/maps/contrib/101001842093876300733/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-LeNHi5dvQWg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2l20BNSS-jT6Ppa8a2or7wJb6p7g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Volunteer firefighter had a major heart attack one duty. Our fire depth has vfis insurance. They paid for 18 months.ago the underwiterm sent me for lme exam a tool  used to discreited  you're benifits .the Dr. Ruled in my favor as disabled. Aig cut off my claim saying I was retired .I had the MI ln may 2016.I did not retire I was not able to work.they back door ed me.do not trust Aig even if you have a vfis policy.I would strongly advise you look for another not underwritten by aig.they will try any way to cut you off. I have retained a law firm to sue them.Dave 35 year vet\n\nE\n\n H2sure if \n\n5",
+            "time": 1516729237
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2064893046303286930",
+    "utc_offset": -240,
+    "vicinity": "0A8, 120 Bremner Boulevard #2200, Toronto",
+    "website": "http://www.aig.ca/"
+}

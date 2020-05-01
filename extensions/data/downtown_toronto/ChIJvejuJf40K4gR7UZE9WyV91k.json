@@ -1,0 +1,238 @@
+{
+    "address_components": [
+        {
+            "long_name": "1080",
+            "short_name": "1080",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H8",
+            "short_name": "M6J 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1080 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1080 Queen St W, Toronto, ON M6J 1H8, Canada",
+    "formatted_phone_number": "(416) 627-4146",
+    "geometry": {
+        "location": {
+            "lat": 43.6437172,
+            "lng": -79.4218008
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450092802915,
+                "lng": -79.42042976970849
+            },
+            "southwest": {
+                "lat": 43.6423113197085,
+                "lng": -79.42312773029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "2de27ff313421eac384694bd04651d214788521a",
+    "international_phone_number": "+1 416-627-4146",
+    "name": "Flying Books",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 5:30 PM",
+            "Tuesday: 10:00 AM \u2013 5:30 PM",
+            "Wednesday: 10:00 AM \u2013 5:30 PM",
+            "Thursday: 10:00 AM \u2013 5:30 PM",
+            "Friday: 10:00 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117292730339176298860/photos\">Michael Scott Novilla</a>"
+            ],
+            "photo_reference": "CmRaAAAA6ZETGaXppCPXwPnRqFrSv_AiNl84AZiSZ013OxHCT-pRZWkJEUg23Pj5O0oKKEPdDyMJHemKyWkkptuWjibpGEklepUeJ8_JyEDXJTRcUXi70f1lEttI5RRmPnsTNCunEhCzcfzc3srn7jr11xcjj1SMGhTGzB9RuSOFtcNWOJNcM4kRtcRNnA",
+            "width": 1080
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117292730339176298860/photos\">Michael Scott Novilla</a>"
+            ],
+            "photo_reference": "CmRaAAAAiR93zv-AXS9NZNBPqgXd6FQ0gpQvcqEmOv7_ifjh9A8l1kS_kb4ffosedm4fb2cUY2ftgs1tRrkRQ5z2Y-D973399ovaEFwwh3ySo9S_vKE5NZ5u7KobBN6tQgAqid9kEhCaSeF7tXzgFsrGWJTN3r5mGhQq6CzYTqRFyPBWQSoHd5Mhrd4JFQ",
+            "width": 3264
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117292730339176298860/photos\">Michael Scott Novilla</a>"
+            ],
+            "photo_reference": "CmRaAAAA4dxHJz4MJlmfQrWHLcah-c03wsyulYDjGcunmcCx7yeaQKVclAgOUmsMEDlgNG2t3MLGOJa0gBx3PFR9v3U4unMbRhDfpgf3r_-DHJOuUcEoI7HFiiAlHEjCR90_Z_tFEhCQJkGrCcXG6BE6ZQqgA5M9GhSHSkpGosHZ6YsuJNF6wLv-CgcjwA",
+            "width": 1080
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117292730339176298860/photos\">Michael Scott Novilla</a>"
+            ],
+            "photo_reference": "CmRaAAAAU-byYEbWAjWT6lymoEcHuLWMG7cGsOPRIEiwA4toZ5d15MvGKvV7rJFcXym2JtNzx-f4LhIIS2_HgqxG5DP_zD6tPlWjTBR-B6EqKvgyJKhqi5C5woEsiHp_uekKnJgYEhBzVwCtgtPUUH9GqidmX8HWGhRQi-kSbvoPZDA6UOmAxdvlv4j7VQ",
+            "width": 3264
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117292730339176298860/photos\">Michael Scott Novilla</a>"
+            ],
+            "photo_reference": "CmRaAAAAXu8rWU6TcyRX6eMuz7dSTaTVbZFHX7SvgmtUl3f8GvYUA9tnQWfOp4vBFatMuQAdacb8W_7oprN8u9i3WmRwvIx_wh0GrWV4AlPp9oifyGb6nOzpm5dyB5aew971pw39EhAM5D4xJEqgXgfZBYELdI0CGhTZ7_sCmhDTmnmdX5UgRgWq-Qf2iw",
+            "width": 1080
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117292730339176298860/photos\">Michael Scott Novilla</a>"
+            ],
+            "photo_reference": "CmRaAAAAUyFAKA6YDgA5lPW2yANGrZSXyXtPv9kIxgnc9sVUwX-klBmk7Qm9iIZOu2h1AS9PCqp8JoVHpD22zHJN1NEK3Bx9sN9mXePdJsCRRqm4Lgm--KmgHya6uqk3kcErVTHGEhDtG-DrdFQHGNkJRaU7trkxGhQGCre3qaRi7iwN3pvqeJHTff10Sg",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJvejuJf40K4gR7UZE9WyV91k",
+    "rating": 5,
+    "reference": "CmRRAAAAqvaELOyt9DkttxLpeGKa6iMHE5vRYcfQqq2G6bcMmxuKlH2_sxO_AOdVFTrVjQJFSXoKm89UqehmidQ46MF_6dHgggCbA5g74HoTfneYvRC92a_szXS_oD-e5kf_yzFJEhDuAg8pVC2Q60u-A_L4enptGhTZaBxXicTikp2BfS1ViGeGbwvMpg",
+    "reviews": [
+        {
+            "author_name": "Michael Scott Novilla",
+            "author_url": "https://www.google.com/maps/contrib/117292730339176298860/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-K6flE9I61ww/AAAAAAAAAAI/AAAAAAACyYM/m2R7ew7Nz4Q/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Support your local book store!!",
+            "time": 1504833827
+        },
+        {
+            "author_name": "Aslam S",
+            "author_url": "https://www.google.com/maps/contrib/112831939185758596264/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-iraayJClIlg/AAAAAAAAAAI/AAAAAAAAhDY/TbeKwSosxzo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1519662318
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "book_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6482814483827017453",
+    "utc_offset": -240,
+    "vicinity": "1080 Queen Street West, Toronto",
+    "website": "http://www.flyingbooks.ca/"
+}

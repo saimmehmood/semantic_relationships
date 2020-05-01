@@ -1,0 +1,84 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 0H6",
+            "short_name": "M5V 0H6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "650 King Street West 810, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 0H6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "650 King Street West 810, Toronto, ON M5V 0H6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6441791,
+            "lng": -79.40184719999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6455280802915,
+                "lng": -79.40049821970848
+            },
+            "southwest": {
+                "lat": 43.6428301197085,
+                "lng": -79.4031961802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "bec6079ad2bb3010f2e1e5eaf059a5f9df753f88",
+    "name": "unique corner unit with terrace and phenomenal view",
+    "place_id": "ChIJaeBXMd40K4gRFzE7qoWRaMY",
+    "reference": "CmRSAAAAtDElrM6iekYELWS3ZeGoWGA1G77MmpEzYLXvZHqNiE32pa2qbBcS2WvgJrIx9OhFScUTKqtlNoBZno2Yf5SXwl3E_ia7UdIqmX-GwO8GxzSZ_jsTJB7oSHZIwT26A_3sEhDwk7GqPberCXXHRKuadYefGhTIp3hltSKmdzL6oLb9rBdX7cYvNg",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14296837020360323351",
+    "utc_offset": -240,
+    "vicinity": "650 King Street West 810, Toronto"
+}

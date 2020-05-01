@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "230",
+            "short_name": "230",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L4",
+            "short_name": "M6J 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">230 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "230 Niagara St, Toronto, ON M6J 2L4, Canada",
+    "formatted_phone_number": "(416) 504-4884",
+    "geometry": {
+        "location": {
+            "lat": 43.6443218,
+            "lng": -79.4087472
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6456404802915,
+                "lng": -79.40747121970848
+            },
+            "southwest": {
+                "lat": 43.6429425197085,
+                "lng": -79.4101691802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7dc11f7e1a8de733ab68d25ae550c9ea048ea851",
+    "international_phone_number": "+1 416-504-4884",
+    "name": "St John Group",
+    "place_id": "ChIJ8aTrK-I0K4gRPLGYAgdcXxo",
+    "reference": "CmRRAAAAafH8rrMZbZ30tDWlH0IZoKNj0UID8sKT7MdtbCQKm52oMAXsr64MTYw1B3Z3E-hKWeRqvlVr8DR-wRXkdTjPlHPJkjYQLuPK9-efz9j-OWfMQ_TtYRWaepbb1fHsbxMgEhCJINmEJYAHL9Ho5HDxEL3UGhR4Ze2wk3TD2qwW3yZPUWmPIjPC7Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1900338752951726396",
+    "utc_offset": -240,
+    "vicinity": "230 Niagara Street, Toronto"
+}

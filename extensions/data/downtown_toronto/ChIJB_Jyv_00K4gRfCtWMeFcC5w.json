@@ -1,0 +1,319 @@
+{
+    "address_components": [
+        {
+            "long_name": "990",
+            "short_name": "990",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H1",
+            "short_name": "M6J 1H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">990 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "990 Queen St W, Toronto, ON M6J 1H1, Canada",
+    "formatted_phone_number": "(647) 346-0118",
+    "geometry": {
+        "location": {
+            "lat": 43.644408,
+            "lng": -79.418263
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64570038029149,
+                "lng": -79.41689336970849
+            },
+            "southwest": {
+                "lat": 43.64300241970849,
+                "lng": -79.4195913302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6f08fdafe2727841d4dd66db6b051776283149e5",
+    "international_phone_number": "+1 647-346-0118",
+    "name": "18 Waits",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 7:00 PM",
+            "Tuesday: 11:00 AM \u2013 7:00 PM",
+            "Wednesday: 11:00 AM \u2013 7:00 PM",
+            "Thursday: 11:00 AM \u2013 8:00 PM",
+            "Friday: 11:00 AM \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 7:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116062549785215202760/photos\">18 Waits</a>"
+            ],
+            "photo_reference": "CmRaAAAA0u91hh16FkU9SpKKXwJ468ZBFmx5vvrMMjSodO6GdevIUlySjuRqPMXE3bIFlN9i-sVvLfUQrFoaVIQMuxQ_2cPC3gd671eXxzdvxTW46HubGoAaAqd8AvPZ3E3rzTyZEhCesSr0TfF5zWLRfYglYVyLGhT6M4n0lOdrd_bNZ1r2Z2X5uZeP1A",
+            "width": 2048
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116062549785215202760/photos\">18 Waits</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ0i5tWvq-yfLhVqN0DTjezdkC7gGt129zabMXapzWtoYoZ2G5M99dOuagVJrIe-hQPZqC2smnEJsYDOtpMEiW6uRoTMDtcn2JxasCdEzaGXEfr1e9qLZe9FjI5DoVtaEEhDkkpo32HOKxIWZFAEbx4xOGhTbqZfRRMoa7HYkwXDdY1slbi7o_w",
+            "width": 6000
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687/photos\">Patrick Asselin</a>"
+            ],
+            "photo_reference": "CmRaAAAAubLD4aPKekNVPVUtijPz7UM0BrDF4Sv1icxqJjX2I7--T77NFZmFbGHuuD11zU5M_utkQ6uBynpzfpe47JICVCORN4M4WHm_KyMxDryJYd9FxHwqBnkK-WSX7fMflxzCEhD5YKnFQ-J2EiSmEGyHZhstGhSRgvJm9wC6oNBv_eE4ZkkVwhcf8A",
+            "width": 3264
+        },
+        {
+            "height": 393,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116062549785215202760/photos\">18 Waits</a>"
+            ],
+            "photo_reference": "CmRaAAAAfp9IKUmDcljPmVdDwENljBiq2QrTpkz9UCohrvSm7ZtkT--Fnjhgl-1O3TQwMPw4ZeBogdVj9a9vaJi-8zztjKZhWdepModEYFUzZe3Q_ZPlIQtTtZ2r49brIrIho1NREhDJpbPSgLX75nr3oXA5Ln1nGhTS8lfGOGAqUXp_B0SwRbO4EY7laQ",
+            "width": 590
+        },
+        {
+            "height": 6000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116062549785215202760/photos\">18 Waits</a>"
+            ],
+            "photo_reference": "CmRaAAAAOr7wurhVEFMGnNa2AdA4STDmnfM9CsAPH3ptnBV5HjoB5eCTw-wJGzzJ5gFfKHO4GvNgprvuD--Z41ujaTP_pzbM9k0mNb042RS0R8sWAVKP39h4dSSLkyV930mfPK42EhAy0H4oQLvdKEPzoB2oCgJhGhS1B_BmwLD1KBIvCNy8xRe-KjJ60Q",
+            "width": 4000
+        },
+        {
+            "height": 1333,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116062549785215202760/photos\">18 Waits</a>"
+            ],
+            "photo_reference": "CmRaAAAAorJENH8yk4lFaWbBpoF-fmxS5jg5AxVKm6NVNzuw6aKy1Q0glN7yzU3BqMp6WHEKCx6isk-ciGbtMY0eCDTbSL65YfO3utgatYuA7SEaUTg-xRQINBKiFAZyrznDT6owEhAtRV-L4dHI3rSPbUNyA-bXGhQweVa6voyCtPbWVa4X3lIw0o2YFw",
+            "width": 2000
+        },
+        {
+            "height": 379,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116062549785215202760/photos\">18 Waits</a>"
+            ],
+            "photo_reference": "CmRaAAAABJzhMw7w8csARKyjM3TlV2JGiOisT9-tgIOpVHZgbh9XCmJ6508Y8K6yYiBX-Jd70XxFKzzOf3UD3recSM2uyZuRiJymQFlfkEh_28v_IVh_x0MsaKypFUCCb-NSMZfxEhDioeFUk3jW8dCw1AVzUe5IGhRumSRiaUPoHWQ97yC9nM5eOTxlJg",
+            "width": 560
+        },
+        {
+            "height": 3920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102925607606185496447/photos\">Adam Fullerton</a>"
+            ],
+            "photo_reference": "CmRaAAAAAgO2hR1P69GTJhF_R8XjpnkNaXu2VBeppwiIJ9kDYMRI2snR2GTTVF0B00S9OJY7zbjDERfiKDdBeYSwZOjxd7H5RHNiL1tz-qKMBYyFHS81-UD-B2fMI4F_uJj7DEz2EhANXdxds_qbmE2HZ9CKXugmGhT56tLrTWnN6yBiEhu41OO4rb39RQ",
+            "width": 2204
+        },
+        {
+            "height": 393,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116062549785215202760/photos\">18 Waits</a>"
+            ],
+            "photo_reference": "CmRaAAAAsbJKTxGgDjcxum82VrMP-0cElrGjHFsvv-kJvS-PWvuc7cm7CXyCuV-dTEEGOfURhWjL0bBBd_VQElxlCifOryTI-dFVGKWPHYgwyLn9pqzzORbvTAH0WslscmH8eIXrEhCDxpugELD5ujxcPjXJeH2lGhTxTPxLEoziPz0S8ku7oCleHFPCXQ",
+            "width": 590
+        },
+        {
+            "height": 393,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116062549785215202760/photos\">18 Waits</a>"
+            ],
+            "photo_reference": "CmRaAAAAxnfv5_qf3nORHNs9_FEjBM2bqH1UKKtYLLnKQxbU3QO2Jk7wMVr5AmOrYjOtuFuTFC7AqFkuLTCLKX2BKwsk-NIsXl51ckRmY2v450_MU-PUv_W51OpxlajjvlsvLMVSEhBuLkPh1VJtddMP2Y-CsqSTGhRzrLrTkEQy9A8dGIONPRw8ehOVPg",
+            "width": 590
+        }
+    ],
+    "place_id": "ChIJB_Jyv_00K4gRfCtWMeFcC5w",
+    "rating": 4.9,
+    "reference": "CmRSAAAAu3pBRkFBhtQ_VZliNA6knPa5RYQ9yqPBMKHkzwoOvjYdUOAmnf6w9hTkXMMoyjWMVjHj_SUqq42ukP0rKLqsjKGEBzA4DlrVoWN2C37Ol-cDEchH7NTe58H8fsj4dbtsEhD55Je_TECk-I0v5nNCpScdGhQ1AvR3z_EUdR7QVwn9C8JHDkKgkQ",
+    "reviews": [
+        {
+            "author_name": "michelle schuster",
+            "author_url": "https://www.google.com/maps/contrib/118242679018410183767/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-OXidj_3zENs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0Fwb9nbJNj4U99GnpxJFAmaGKUWQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Lovely hand crafted local fashion for men and children. Excellent quality of fabric with a style that is both clasic and a little to to the left so trend isn't much of an issue. My favourites consist of the fabrics from Japan. Clean Eastern lines used in an eclectic  rugged western mix.",
+            "time": 1521067383
+        },
+        {
+            "author_name": "And E",
+            "author_url": "https://www.google.com/maps/contrib/117581817848127099635/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-6lXO1pXuIwQ/AAAAAAAAAAI/AAAAAAAAAI8/z-ehbCu4WMw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Awsm store! Found it online and had to check it out in person. Met this nice woman named Jill, she helped out a lot. Ended up getting a cool hat and some sweet jewelry. Will definitely be going back again for more great stuff!!",
+            "time": 1522285550
+        },
+        {
+            "author_name": "Martin M",
+            "author_url": "https://www.google.com/maps/contrib/110707235693743092753/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1VttVcjhfiI/AAAAAAAAAAI/AAAAAAAA9R4/-OPiqCSaz8Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great Canadian men's wear designer. A few years ago I was told they manufactured all their clothes in Canada. The quality of their clothing and workmanship is outstanding. If you like their aesthetic you can't go wrong.",
+            "time": 1515371170
+        },
+        {
+            "author_name": "Richard L",
+            "author_url": "https://www.google.com/maps/contrib/118068679714563226631/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-hn7uH3DX8n8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq16bnOACy5ePOu5lKZP-Fh3rXzqAw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Did an online purchase in Victoria BC,  awesome customer service.  They even gave me a call to confirm some shipping details.  Shirt arrived with a personalized note.  Definitely a company dedicated to treating people great.  I'll order from this store again.",
+            "time": 1519169722
+        },
+        {
+            "author_name": "Duwee Munglebunk",
+            "author_url": "https://www.google.com/maps/contrib/114529899432093031942/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-S-4XOr3M9eU/AAAAAAAAAAI/AAAAAAAAAAU/0uPYmx2X4rM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Canadian designed and built clothing that's made to last. Clever, stylish and  practical sure to stand the test of time. Their children's line is worth having kids for.",
+            "time": 1519178986
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11244183016925703036",
+    "utc_offset": -240,
+    "vicinity": "990 Queen Street West, Toronto",
+    "website": "http://www.18waits.com/"
+}

@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "315",
+            "short_name": "315",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3A4",
+            "short_name": "M5V 3A4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">315 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3A4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "315 Front St W, Toronto, ON M5V 3A4, Canada",
+    "formatted_phone_number": "(416) 348-9997",
+    "geometry": {
+        "location": {
+            "lat": 43.6435055,
+            "lng": -79.3894528
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6449969302915,
+                "lng": -79.3881607197085
+            },
+            "southwest": {
+                "lat": 43.6422989697085,
+                "lng": -79.3908586802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "39a988aae8efb72ae79d74fea9a089195ad55600",
+    "international_phone_number": "+1 416-348-9997",
+    "name": "Data Centre Management Svc Inc",
+    "place_id": "ChIJZ9dCGdc0K4gRp8yT0cYePPs",
+    "reference": "CmRSAAAA7NumboTL_vPT8FQSWy1GSUL320S5pZVgnmN5PDBsx8yfwF9Mh2OrP0BGK0NoT9ckf8kDBAcgajYdnVl0bJU58cZwbTUDP_qbCH2IJznpR_PBHTaYSW9SXJivKVMlMc2bEhA4y0ebUQ9-cDB5NoSKy4DRGhQSki0_BG58gx94a_TUJsSdMDmcrg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18103378441391033511",
+    "utc_offset": -240,
+    "vicinity": "315 Front Street West, Toronto"
+}

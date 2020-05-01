@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "642",
+            "short_name": "642",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">642 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "642 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 703-4018",
+    "geometry": {
+        "location": {
+            "lat": 43.6443295,
+            "lng": -79.401483
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64559613029149,
+                "lng": -79.40010141970848
+            },
+            "southwest": {
+                "lat": 43.6428981697085,
+                "lng": -79.40279938029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a74f76d1be38483fb6bd134b2a55429aa69116d6",
+    "international_phone_number": "+1 416-703-4018",
+    "name": "Infra-Solutions Ontario",
+    "place_id": "ChIJ70PVN940K4gRseOAXfhDVjs",
+    "reference": "CmRRAAAADotUJS25RRdWS4rBSEJAri6gAme4TmDOl4vwx4DOU_JjzFI0txZ9T6vrMdKfIPaUWYCvBzkolVz3E_UpLRBY7XbSwKB_6xGI-AOlzMxS95fRmruH7lEeOvtEv1_l0p6QEhBnHGVPmiLhnB7GcDcPoBKPGhSZ9IcdQw555sNrxBNz01Uv21PLjw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4275679630234543025",
+    "utc_offset": -240,
+    "vicinity": "642 King Street West, Toronto"
+}

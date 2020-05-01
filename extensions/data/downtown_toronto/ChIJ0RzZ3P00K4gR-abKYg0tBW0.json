@@ -1,0 +1,102 @@
+{
+    "address_components": [
+        {
+            "long_name": "12",
+            "short_name": "12",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ossington Avenue",
+            "short_name": "Ossington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2Y7",
+            "short_name": "M6J 2Y7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">12 Ossington Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2Y7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "12 Ossington Ave, Toronto, ON M6J 2Y7, Canada",
+    "formatted_phone_number": "(416) 966-5208",
+    "geometry": {
+        "location": {
+            "lat": 43.6445035,
+            "lng": -79.4191216
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458658302915,
+                "lng": -79.41770251970848
+            },
+            "southwest": {
+                "lat": 43.6431678697085,
+                "lng": -79.42040048029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8f2a7c79292498cfb16c5be6cea950fd347bba9d",
+    "international_phone_number": "+1 416-966-5208",
+    "name": "Terra Cotta Clothing Design",
+    "place_id": "ChIJ0RzZ3P00K4gR-abKYg0tBW0",
+    "reference": "CmRRAAAACB6XkX55krflZ9tdK8Sdvt01l9QPDi9m5_OiwHpBj91UjZIhIfUdnApPEiql0tdS7j8LH62aYT1yFXtYd4kSScA4iYo1eu5w3xjdV3Tzpjzch1HqZbsfvq7JWP9yQLJeEhBJkR3u850CI3JUrk_YY4h7GhSLKV4u12zn6cQPHVLvbO-FttKnQw",
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7855734660532971257",
+    "utc_offset": -240,
+    "vicinity": "12 Ossington Avenue, Toronto",
+    "website": "https://tcclothingdesign.com/"
+}

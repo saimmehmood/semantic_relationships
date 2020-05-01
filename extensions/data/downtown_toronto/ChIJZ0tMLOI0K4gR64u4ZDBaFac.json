@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "226-250",
+            "short_name": "226-250",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L4",
+            "short_name": "M6J 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">226-250 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "226-250 Niagara St, Toronto, ON M6J 2L4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6443756,
+            "lng": -79.4089839
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64572458029151,
+                "lng": -79.4076349197085
+            },
+            "southwest": {
+                "lat": 43.64302661970851,
+                "lng": -79.4103328802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "de814c38540c484d36be7bc9716faeefb3443afd",
+    "name": "226-250 Niagara St",
+    "place_id": "ChIJZ0tMLOI0K4gR64u4ZDBaFac",
+    "reference": "CmRbAAAAytq9XJ8bdZk7qJOexMosb-v--j8l-e-YRXcUNTBpGcF7rTZ1peHxHig3zL2OmTyWKBR4f2pcmj1SvefeqAwZXiLIT4dKOD5JYYitkE1vEKPFa_g0eTnVnzoVjIq7OsgSEhBM5vNX1YjWxpbFYQBQ-PI2GhQ7MDfSpEpBgMdG5s2-x0EuXNzT_w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=226-250+Niagara+St,+Toronto,+ON+M6J+2L4,+Canada&ftid=0x882b34e22c4c4b67:0xa7155a3064b88beb",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

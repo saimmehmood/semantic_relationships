@@ -1,0 +1,179 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1C9",
+            "short_name": "M6J 1C9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "862 Richmond Street West, <span class=\"street-address\">Suite 100</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1C9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "862 Richmond Street West, Suite 100, Toronto, ON M6J 1C9, Canada",
+    "formatted_phone_number": "(437) 887-0116",
+    "geometry": {
+        "location": {
+            "lat": 43.6445315,
+            "lng": -79.41226329999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458804802915,
+                "lng": -79.4109143197085
+            },
+            "southwest": {
+                "lat": 43.6431825197085,
+                "lng": -79.4136122802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c4dd526ef6ebca1b0eb8ac9363732042331258a5",
+    "international_phone_number": "+1 437-887-0116",
+    "name": "Smeared Ink Writers",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 9:00 PM",
+            "Tuesday: 10:00 AM \u2013 9:00 PM",
+            "Wednesday: 10:00 AM \u2013 9:00 PM",
+            "Thursday: 10:00 AM \u2013 9:00 PM",
+            "Friday: 10:00 AM \u2013 9:00 PM",
+            "Saturday: 10:00 AM \u2013 9:00 PM",
+            "Sunday: 10:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 375,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111123414406207192499/photos\">Smeared Ink Writers</a>"
+            ],
+            "photo_reference": "CmRaAAAAbwZaB4Q2tc_Qzm7WwseNhRVzWllQigI1pSkeModZALpS7BhWx3AsQQPYBzUFLp8TnbD7xQH_BW9uQScSxfVu4JMWv9YKMl-zxecnAS7BVrnvBNWSI9cqA8VK9uDpfULbEhCoeUkGiM6lk-EzPMj1ErbpGhQ7hbQcMQ1WXp-VnEItZXK1TcCAzA",
+            "width": 375
+        }
+    ],
+    "place_id": "ChIJWZh-0d80K4gRPaVmmEivrgk",
+    "reference": "CmRRAAAAnMok1HWK9Fxt25C8zhN1qrnxmTk2SaBmoCuandXZD16tu8xxJ7XWXdezeVapN9YfwR6yw-neVRd0g3h-vEbSoE5fXKTFl1MlGTy9e975lUCzOjDW6jli4Lje_eJoJIAYEhCa2z-NPa_PiNW099XAPvVXGhSXyTxjXguDbdDUoECEAFAzf8fpJQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=697687718618375485",
+    "utc_offset": -240,
+    "vicinity": "862 Richmond Street West, Suite 100, Toronto"
+}

@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "332-342",
+            "short_name": "332-342",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V",
+            "short_name": "M5V",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">332-342 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "332-342 Front St W, Toronto, ON M5V, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6433374,
+            "lng": -79.391604
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446863802915,
+                "lng": -79.3902550197085
+            },
+            "southwest": {
+                "lat": 43.6419884197085,
+                "lng": -79.39295298029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "782dd0879fafb3c47a260cb2e5aa5affca87ef23",
+    "name": "332-342 Front St W",
+    "place_id": "ChIJ1byHfdc0K4gRPaLsMDUU-8w",
+    "reference": "CmRbAAAAv3or4lUzXgjEVt4kJZujAB0fe_9i-DTpX0tio9MwJJQSG_bwFAwsVt-tqzA9Au64RUePCiABahoL3NJ9_Fcs2J3RFxL519cEQr0Jzu-KAdgmHshuC2pha_9in4Qp2X24EhCQxtMLIKzXl02_kCRgAw2wGhSwJ_PPnxfLoqFEEyGMWbhHJ-dNOg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=332-342+Front+St+W,+Toronto,+ON+M5V,+Canada&ftid=0x882b34d77d87bcd5:0xccfb143530eca23d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,165 @@
+{
+    "address_components": [
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(647) 290-1816",
+    "geometry": {
+        "location": {
+            "lat": 43.643487,
+            "lng": -79.3935096
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447667802915,
+                "lng": -79.3924211697085
+            },
+            "southwest": {
+                "lat": 43.6420688197085,
+                "lng": -79.3951191302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e777c1c35064073384c84ccfa8ac97ad4dc2e0f9",
+    "international_phone_number": "+1 647-290-1816",
+    "name": "Telemedicine Partners",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 8:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: 8:00 AM \u2013 8:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJP0gMsdk0K4gR8A98ELNu-Cs",
+    "reference": "CmRRAAAAcgHy1mcyUNh-pOy8dtLmpkaK0F12I98cPrXUfkR5oB33x_XUKcuc9qk1nY13u8FFWYIvpJCBC-ozuKlL9LF89I5udKHZpUPFSIHAqhdHNaQm6Kjn-_2I9YprNWHk-xDlEhDBR4nS-9ztuA_wokAS5oHdGhR3Ag-HLmtDyu1J_ao6_-QuLKXlkA",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3168404053209911280",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue, Toronto",
+    "website": "http://www.telemedicinepartners.com/"
+}

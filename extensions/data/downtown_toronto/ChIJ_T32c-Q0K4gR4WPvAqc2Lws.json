@@ -1,0 +1,206 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite 4",
+            "short_name": "Suite 4",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "325",
+            "short_name": "325",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Y1",
+            "short_name": "M5V 2Y1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">325 Front St W Suite 4</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Y1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "325 Front St W Suite 4, Toronto, ON M5V 2Y1, Canada",
+    "formatted_phone_number": "(844) 438-4864",
+    "geometry": {
+        "location": {
+            "lat": 43.6432244,
+            "lng": -79.3901252
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64477833029149,
+                "lng": -79.38885791970849
+            },
+            "southwest": {
+                "lat": 43.64208036970849,
+                "lng": -79.39155588029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "68553ec03767e28e55dfa30ad24bb6ea4ac358b4",
+    "international_phone_number": "+1 844-438-4864",
+    "name": "Humi Inc",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104868318302169503159/photos\">Humi Inc</a>"
+            ],
+            "photo_reference": "CmRZAAAAAdlCDIEEWhvTT2dnUEZPwMHHlAQ84NSVTkIcVwATtvlaUigIMvXMlgPphRufpUP2c7KZz1uevnU0jPhT4xTMbe9Cgxg7wd10jW9WOf43Hc8-Gfz0nDr-WdILV-Hv9OyFEhCmapgKvnz1YWmKJSa_UJyqGhQL8tYDre7ltCE2L31NisLvG6ESQg",
+            "width": 4032
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104868318302169503159/photos\">Humi Inc</a>"
+            ],
+            "photo_reference": "CmRZAAAAI9qHLGNUDyAU-uyjDIPkgQzyiuYrW0dQ2k9MR0f2FrQBDJ_FVThg_e2GNfDPLZBEeNSkfHb33MnLX9dgAgQPnpUbLr7jzys_uaPel0Kauxj5Mvb3dAwviGOiDOKazrtoEhASvQyZ9Ha5zkD95SRWyDR6GhQqPxvIbpFUcgSg9WOOzk8k5SrUQQ",
+            "width": 1920
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104868318302169503159/photos\">Humi Inc</a>"
+            ],
+            "photo_reference": "CmRZAAAA6FZjBu3tY1TDJpHu2sA0Z07YDiyRGNZcbV3ueWv66zpAEdDcdoOBztVXFwyT2P2utRd4TNxygxA7xsCyNZUyTVXsjpOrAsXZu9Ic8MAhVP0WNQppVrewOZ9MC-ud-uVMEhD-NA8JUVBfYtopap6-TwXCGhQtOqkDMmptdRzFX4sZIlx7NWXsSQ",
+            "width": 1920
+        }
+    ],
+    "place_id": "ChIJ_T32c-Q0K4gR4WPvAqc2Lws",
+    "rating": 4.7,
+    "reference": "CmRRAAAAHaSmwIVgH46AGPTy7Gm8WKQXbcBP8gyhsc0jaGfezqHmsBKgLtggV73aikaAYYsq4z-UhI4UHA6anTe0egF8pW4qHcctYZ8aTSp8ptGXxPXdvrz8PFnL7n340jjgr3s2EhAkTDkdw5CSQkZ1HwLa9wYIGhSW2o2kwjtykdPHHE9SLQItiLPpMQ",
+    "reviews": [
+        {
+            "author_name": "Keith Stainer",
+            "author_url": "https://www.google.com/maps/contrib/112802401366772441255/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fxrj6sFa-1U/AAAAAAAAAAI/AAAAAAAA5Zk/ecSwCaPZJIU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Humi is great.   Very powerful and easy to use.",
+            "time": 1522687642
+        },
+        {
+            "author_name": "Whitney Norrad",
+            "author_url": "https://www.google.com/maps/contrib/117890045431726571012/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-N4uBuzfabhk/AAAAAAAAAAI/AAAAAAAADxc/CJAywq_9gBI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "I'm disappointed that this was the company selected for our group health benefits. The experience began in October (it's now June of the following year.)\n\n*Here's a timeline:*\n\nOctober 2016: Company signs up with Humi for HR software and group benefits.\n\nNovember-March: We continually request updates and end up with empty promises of \"Soon - sorry to keep you waiting\" while they work through getting us set up.\n\nMarch - Have a video conference call with our team and a Humi rep. The Humi rep doesn't know any of the answers to our questions, such as how much the plan will cost, what drugs/services are included/excluded and only some information on what the co-pay is. She promises to follow up with the answers and it never happens. Says that we will have all of our plan packets, cards, and details before May.\n\nMay - I personally have a call and email chain running with said rep, then another recommended by our HR, who also doesn't know any of the answers that I need, though does get them to me within a few days. Great! She says that we will get our drug cards and ID numbers shortly. This does not happen.\n\nMay 30 - The founder of the company says that our HR company requested that they send the cards directly to each of us, and lets me know that they are already in the mail. \n\n(Mail to the other end of the country, in my personal experience, takes a week or slightly more. Humi is in Toronto, and half of our team is in the GTA. What is this, mail for ants?)\n\nJune 12 - I reach out to him for an update. Ignored.\n\nJune 26: I still have not gotten any update from Humi. \n\nI reached out to Empire Life, the company that they selected for our group benefits. They were able to get me my online logins, send me my cards, give me the ID numbers I needed, and tell me where to visit online to register and get reimbursed. All within a matter of five minutes. \n\n5/5 for Empire Life, 0/5 for Humi. \n\nI'm a pretty patient person, but this experience has been nothing but a disappointment and hassle. The lack of communication makes it even more frustrating, alongside the empty promises. We eventually plan to bring my spouse onto my benefits and I fear how long that process will take.",
+            "time": 1498488318
+        },
+        {
+            "author_name": "Mike Murchison",
+            "author_url": "https://www.google.com/maps/contrib/102405530887756142186/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-kR9JTpdgj98/AAAAAAAAAAI/AAAAAAAAAqk/EF_0Avhhnqs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A headache free way to onboard new employees and track time off. I'm looking forward to adding our employee benefits package to Humi as well so that my team can easily check in on what our policy offers them without having to send me an email.",
+            "time": 1477946137
+        },
+        {
+            "author_name": "Tyler Handley",
+            "author_url": "https://www.google.com/maps/contrib/109400463201578414985/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0q3yOJdpsIw/AAAAAAAAAAI/AAAAAAAAFpE/AcZ2O1wUD-U/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Streamlined my staff on-boarding and vacation accrual processes. I highly recommend \ud83d\udc4d\ud83c\udffc",
+            "time": 1477945915
+        },
+        {
+            "author_name": "Hugh Kolias",
+            "author_url": "https://www.google.com/maps/contrib/110231786176824144282/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-4ryZrL98D9o/AAAAAAAAAAI/AAAAAAAAGLM/B4jS2LMOZHQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Really helps streamline our HR process. Couldnt imagine running our company without it.",
+            "time": 1478059681
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=805922949259289569",
+    "utc_offset": -240,
+    "vicinity": "325 Front Street West Suite 4, Toronto",
+    "website": "http://www.humi.ca/"
+}

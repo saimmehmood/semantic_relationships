@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "871-863",
+            "short_name": "871-863",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Richmond Street West",
+            "short_name": "Richmond St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1E2",
+            "short_name": "M6J 1E2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">871-863 Richmond St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1E2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "871-863 Richmond St W, Toronto, ON M6J 1E2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6443731,
+            "lng": -79.4124842
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64572208029149,
+                "lng": -79.41113521970848
+            },
+            "southwest": {
+                "lat": 43.64302411970849,
+                "lng": -79.4138331802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "be0b8b5c87ff820bc306b0f70dc1dc0201303c16",
+    "name": "871-863 Richmond St W",
+    "place_id": "ChIJNatH5uI0K4gRLQA51I2HALc",
+    "reference": "CmRbAAAAl0uIfKbHhTFHww1OoNQn6nMZN6E50rKXrJD2E43WnFc0jVN3R2gJYDioH3nrCFZ6waax2HabcDdbdC66TWhubEFnb07IJMZoRmOUrRmKGbdn1BSJqj70XQbZTkkZnu7IEhBD-gSV_FIEGaRbW0vYT2tWGhSjWFHZGfZO7fa043Uj4DBfKzUhkw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=871-863+Richmond+St+W,+Toronto,+ON+M6J+1E2,+Canada&ftid=0x882b34e2e647ab35:0xb700878dd439002d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

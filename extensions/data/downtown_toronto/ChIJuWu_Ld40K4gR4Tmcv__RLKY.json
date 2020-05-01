@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "662",
+            "short_name": "662",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">662 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "662 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 581-1084",
+    "geometry": {
+        "location": {
+            "lat": 43.6442449,
+            "lng": -79.4022847
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454738802915,
+                "lng": -79.40088751970848
+            },
+            "southwest": {
+                "lat": 43.6427759197085,
+                "lng": -79.4035854802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5fd961651eb9e2fabb6659b718542d1b3e3db7eb",
+    "international_phone_number": "+1 416-581-1084",
+    "name": "Client Server Factory",
+    "place_id": "ChIJuWu_Ld40K4gR4Tmcv__RLKY",
+    "reference": "CmRSAAAAVT6xl-9cSnMSMkouQOC5HexY6pZtInAwdoKlTTtaBZwQN4I2Q7hNaZHd8mbOEBEuBV4mOgeoOQ2Tuou7yyfmC-fyaX3l83AcGg-u9TpYWzb0Av7c-18bgbMU-Z_O09qEEhATsPYDnhL2sdksi-bLDs1dGhTSIPNsw5Y9SrKh0oCCveOzJQIVrw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11974176405632858593",
+    "utc_offset": -240,
+    "vicinity": "662 King Street West, Toronto"
+}

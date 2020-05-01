@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "81-95 Stanley Terrace",
+            "short_name": "81-95 Stanley Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3N7",
+            "short_name": "M6J 3N7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">81-95 Stanley Terrace</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3N7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "81-95 Stanley Terrace, Toronto, ON M6J 3N7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64449849999999,
+            "lng": -79.4106127
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64584748029149,
+                "lng": -79.40926371970849
+            },
+            "southwest": {
+                "lat": 43.64314951970849,
+                "lng": -79.4119616802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "11800e28dadc902767d27cf0e80d9faf9cc0b811",
+    "name": "81-95 Stanley Terrace Parking",
+    "photos": [
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103426545276608431178/photos\">K T</a>"
+            ],
+            "photo_reference": "CmRaAAAAyatzXpsFgkLh9I1QFoHB1-sRFUjq8Y6xOyH5W6t2OVqskn_qytmQB0bucz6fieYCEKRRoubdCPdCISRYseE3bQsyyI6Gfl6mT_ByPT8p3uuPM0Dfx0gEx5yLGvMUQw7QEhCsUEXg26iIltS2NxUmBwxmGhTZRSJ6IplWBUWtO30K_68qIn68TQ",
+            "width": 2560
+        }
+    ],
+    "place_id": "ChIJr3t2UuI0K4gRNMWj1aLhZ3Q",
+    "rating": 3,
+    "reference": "CmRRAAAAju79TYmmdJjGTxXhR31SWyjCeqYELdW8w9gvuBDfcqY-9lYfC0YGFinVl6zIOFHIIWIo96OBz4jznbz5JOaP17Dy4VlRoGthK_ttuBC3qTGHan3xE51yYtJ-GHBs5ESVEhDcM36WUZ0a53Xl72hMW_P2GhThomPTXqSgQId6YfgIy0-s4dgJVQ",
+    "reviews": [
+        {
+            "author_name": "Alice Chan",
+            "author_url": "https://www.google.com/maps/contrib/117492868144844580618/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-EmQYiuvbvmI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3jt20CKWi5xMAaf4QlF-JZwKCfIw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1514385362
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8387920920486069556",
+    "utc_offset": -240,
+    "vicinity": "81-95 Stanley Terrace, Toronto"
+}

@@ -1,0 +1,224 @@
+{
+    "address_components": [
+        {
+            "long_name": "#55",
+            "short_name": "#55",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1152",
+            "short_name": "1152",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J3",
+            "short_name": "M6J 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1152 Queen St W #55</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1152 Queen St W #55, Toronto, ON M6J 1J3, Canada",
+    "formatted_phone_number": "(416) 619-0390",
+    "geometry": {
+        "location": {
+            "lat": 43.64299409999999,
+            "lng": -79.42476529999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64428738029149,
+                "lng": -79.42354456970848
+            },
+            "southwest": {
+                "lat": 43.6415894197085,
+                "lng": -79.4262425302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "32cde9e5a22d6f3e5305ad1551928de443083f6e",
+    "international_phone_number": "+1 416-619-0390",
+    "name": "Queen West Appliance Repair",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0730"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 9:30 PM",
+            "Tuesday: 7:30 AM \u2013 9:30 PM",
+            "Wednesday: 7:30 AM \u2013 9:30 PM",
+            "Thursday: 7:30 AM \u2013 9:30 PM",
+            "Friday: 7:30 AM \u2013 9:30 PM",
+            "Saturday: 7:30 AM \u2013 9:30 PM",
+            "Sunday: 7:30 AM \u2013 9:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103327964939629694565/photos\">Queen West Appliance Repair</a>"
+            ],
+            "photo_reference": "CmRaAAAA-y7707QXAH13bHdfkVF_rkxrjLkBU9A2gPnFhGl9cll5JShpkz37-733Nok5IxX5S_hwA-cgyKR4eQFl-8u8qDsNtekNMo72iygg-JDuyUmEVBspYnIs4ozxBzm6CPBTEhDA03FfoduVx_OcyxEcohBZGhTklOOQu8a408CLOSL3Q_a236pO5w",
+            "width": 1080
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103327964939629694565/photos\">Queen West Appliance Repair</a>"
+            ],
+            "photo_reference": "CmRaAAAAudPTEqvN9e6e1kZ-TfVq9vH0OZOJIbsNwiafQT36THhbtpySebcz4MfR1EvdPsZ5V5t2wyX3FeF8QONvtY3jRD2IcUVyLa5yGSFnn00buGvYyuEyH19_KP31WuqIS0buEhCx9Kt928f4qLA1ap4z7-ksGhTXaDsyrVNY9z7NVkK5vUoedCkg9g",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJu6k7oXc1K4gRsOesavDeMcw",
+    "rating": 5,
+    "reference": "CmRSAAAA036fmwMu64TyvI5p-0vYLaaFpoitf6-5hdwIuCvmurlG5i9vin5yHW1jW9Gju4M7NYRVXJNOHYFY18X6Ul5LGMWVCqbQywiult5dojFvjdQZPtIU4t7xkXgocrh90WSBEhARjhEoruTTLAr63AC3kvjZGhTwkFXaD2ucXLR24Z-yaAe-rp6uhw",
+    "reviews": [
+        {
+            "author_name": "Katherin Tripoli",
+            "author_url": "https://www.google.com/maps/contrib/115432449508921764045/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-rhk-25jl1y8/AAAAAAAAAAI/AAAAAAAAAAc/cE7Y4oadDcI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Queen West Appliance Repair is a very honest appliances repair service provider. They will do whatever it takes to fix your appliances. I felt very positive after my experience with them. My microwave was acting up. I knew what was wrong with it I just didn\u2019t know how to fix it. If I tried, I was afraid to cause more damage to it so I left the repairs in the technician\u2019s hands. The microwave is now working smoothly. Thank you!",
+            "time": 1528198239
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14713786581759354800",
+    "utc_offset": -240,
+    "vicinity": "1152 Queen Street West #55, Toronto",
+    "website": "http://queen-west-appliance-repair.business.site/"
+}

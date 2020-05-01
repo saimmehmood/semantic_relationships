@@ -1,0 +1,217 @@
+{
+    "address_components": [
+        {
+            "long_name": "2b",
+            "short_name": "2b",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Fennings Street",
+            "short_name": "Fennings St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3B8",
+            "short_name": "M6J 3B8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2b Fennings St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3B8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2b Fennings St, Toronto, ON M6J 3B8, Canada",
+    "formatted_phone_number": "(416) 531-0875",
+    "geometry": {
+        "location": {
+            "lat": 43.6439744,
+            "lng": -79.4214264
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64533868029149,
+                "lng": -79.42000251970849
+            },
+            "southwest": {
+                "lat": 43.6426407197085,
+                "lng": -79.4227004802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "84197597e1459fffc17c4d1eec6c28aa8a7dda6e",
+    "international_phone_number": "+1 416-531-0875",
+    "name": "Mario's Garage Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJj94xI_40K4gRIE66o8b1UYE",
+    "rating": 5,
+    "reference": "CmRSAAAAjOsyrc_pftxA2wR6nttznrswprSLV5W1vzmQwbuiZvzeOMlHOC8X9pRmmNwYYs_EanTmJ4fGYuIDOsKGCnKbFGV1keivWhtP9-86wU3a8JIRXu-lKLXRBDDossFd-T31EhDt7zhZ4229Q7NPJzpBQg6IGhRFcgVCeqeycZEYpFWPeipEmU_xmA",
+    "reviews": [
+        {
+            "author_name": "Justin Waterfield",
+            "author_url": "https://www.google.com/maps/contrib/106025736770797280629/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-PNBZox_pMJE/AAAAAAAAAAI/AAAAAAABF0c/JmXSWMTzkOw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I dealt directly with Mario when the brakes failed on my car. Luckily, I wasn't driving at the time, and I got the car towed to the shop (using Mario's recommendation - JP Towing).\n\nMy car is very old at this point (18 years), and right off the bat I knew I wasn't going to spend a ton of money to fix it. However, a car's brakes are something you don't want to half-ass, so it had to be done right. I called various garages in the area to get an idea of their prices, but I didn't get a good gut feeling about any of them. It felt like I was being lured in for a grand sales pitch. \n\nI called Mario's last, and spoke to Mario himself. He was direct and to the point, and recommended a towing company to get the car to him. He said he wouldn't charge me anything to assess the problem, and once he did, I could decide whether to commit to the repair. I had a good feeling about his no-nonsense attitude, so I took a chance and decided on his garage.\n\nThe garage itself was clean and organized (as far as garages go), communication was informative and easy, and the work was done very quickly. Not once did I feel that I was being sold to; Mario is not a salesman - he's a problem solver.\n\nOverall, I would highly recommend Mario's Garage. They seem like decent, honest guys, and are the closest to the illusive \"honest mechanic\" I've found in this city. I'll be going back for any future work.",
+            "time": 1528323529
+        },
+        {
+            "author_name": "Louise Scott",
+            "author_url": "https://www.google.com/maps/contrib/111147715228057903185/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qisL3URlAJU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3OCA2Mg3qNxs6LFtTgmeaTdR0j6g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Mario and Roger are the only people I trust with my car. They go above and beyond to provide great customer service. They are fair and honest.  I can't say enough good things about them.",
+            "time": 1517537891
+        },
+        {
+            "author_name": "StopDrop andSmolder",
+            "author_url": "https://www.google.com/maps/contrib/102966383754495217143/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-r_ySx09GNsU/AAAAAAAAAAI/AAAAAAAAADo/oypNKodf7aI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Taken my wife\u2019s car and my own to Mario\u2019s, very honest and accommodating.  Honest and hasn\u2019t tried to upsell either of us.",
+            "time": 1516384780
+        },
+        {
+            "author_name": "Joshua Almeida",
+            "author_url": "https://www.google.com/maps/contrib/107891205953390685069/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JbkS5SZSLEc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2qJjbR0RjO5_vexqyrxzJqzs9lnw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Best shop in town always taken care of the right way.",
+            "time": 1523576025
+        },
+        {
+            "author_name": "Albert Tansley",
+            "author_url": "https://www.google.com/maps/contrib/101636780403714723127/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qmseDmnJI4o/AAAAAAAAAAI/AAAAAAAAAJE/pHx-qtMddZM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I'm referred to this garage by Automobile Protection Agency. Simply put, I can't be more pleased by their speed, efficiency and honesty in providing best repair job to my car. I had a full break job done perfectly at Mario's Garage! I have found my go to mechanic in the city.",
+            "time": 1496291074
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9318499337505492512",
+    "utc_offset": -240,
+    "vicinity": "2b Fennings Street, Toronto"
+}

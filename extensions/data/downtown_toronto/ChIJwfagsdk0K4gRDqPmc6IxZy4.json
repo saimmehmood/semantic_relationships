@@ -1,0 +1,189 @@
+{
+    "address_components": [
+        {
+            "long_name": "507",
+            "short_name": "507",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave #507</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave #507, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(416) 343-9992",
+    "geometry": {
+        "location": {
+            "lat": 43.6434871,
+            "lng": -79.3935475
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447710802915,
+                "lng": -79.3924422697085
+            },
+            "southwest": {
+                "lat": 43.6420731197085,
+                "lng": -79.3951402302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "001b427ad08b32dc6cb8c5fe7d7db462bde720c5",
+    "international_phone_number": "+1 416-343-9992",
+    "name": "Mirum Canada Agency",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107253719800975487575/photos\">Mirum Canada Agency</a>"
+            ],
+            "photo_reference": "CmRaAAAArNWYZ3_pGmWlQOUkVB8WLIG7KNRCvlgShdPehEGWiqDJF7qXIu6JZr6lNAHjCgeL4hK6IfpD-Mec7p5z94PmmtJjmqfIsk-IIMW7XgrSLmACsdX0F_ChtiGAmaXag83yEhCWmWy-bPyJHRPColzoh-87GhSx_LiZ_7POVZhnIyHVW9DMnnh6tw",
+            "width": 1080
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107253719800975487575/photos\">Mirum Canada Agency</a>"
+            ],
+            "photo_reference": "CmRaAAAAk3yKMiIN4tkrurB2RM0da1ClGu9qAiUUEc70o3fwso5HhmPm5-HbGYgcSofVqnJ2iM8Qqq5G8FC39sEfebEttspzqBDRguF_kmCbXyKRq0pL81B9EdkUf9LVvDa3jhxeEhBSMYzxvPgblqiHOJDDlWOPGhQ9sKLf8vnkNMfmo-K8dkJzvCbKug",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJwfagsdk0K4gRDqPmc6IxZy4",
+    "reference": "CmRRAAAAbh0c3abGrWfWBQ562ZvpxAyaZiZqZC_Zr1N-uf53I3yi67kwjs2oF-a4OkCV12HgqzRL0bTvJxh9Mu_8xkf5xiK8X7cxYR9pqCNHaM8QrmKniSNCFePPJRvCp1geTnsHEhDAfRLaC6Xp6sANbJ-l0jaJGhSyBF96E8upTMZm4rjovmR_bRRSRA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3343695822144840462",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue #507, Toronto",
+    "website": "http://www.mirumagency.com/"
+}

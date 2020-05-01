@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Hatherley Road",
+            "short_name": "Hatherley Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "York",
+            "short_name": "York",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6E 1V8",
+            "short_name": "M6E 1V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Hatherley Rd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6E 1V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Hatherley Rd, Toronto, ON M6E 1V8, Canada",
+    "formatted_phone_number": "(416) 504-3956",
+    "geometry": {
+        "location": {
+            "lat": 43.644288,
+            "lng": -79.4007851
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6456369802915,
+                "lng": -79.39943611970848
+            },
+            "southwest": {
+                "lat": 43.6429390197085,
+                "lng": -79.4021340802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e416fb87198e5bf1be646e6b10caa8a994b8e4af",
+    "international_phone_number": "+1 416-504-3956",
+    "name": "Navarro Gallery",
+    "place_id": "ChIJtef_Tt40K4gRnqDrbIoLe6I",
+    "reference": "CmRSAAAAxqP0pi8Vhzs987tXCoT8DkXoOlK-dyJkdShW92rf_DFITJhCeg8NLI6YTNYSC0k6udwv3FESWkTpnxehUaecLX-VJwjUnrV-PoI5w-3yYSFsVmsa1dDJOdAD_Z8ju1PFEhA0SSPVNwF0vk2AyA-hAzTnGhRx-LWHuUADcGJr5KWhCw3izses8A",
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11707964345440510110",
+    "utc_offset": -240,
+    "vicinity": "1 Hatherley Road, Toronto",
+    "website": "http://www.navarrogallery.net/"
+}

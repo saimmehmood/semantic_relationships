@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "1801",
+            "short_name": "1801",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1Z9",
+            "short_name": "M5E 1Z9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St #1801</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1Z9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St #1801, Toronto, ON M5E 1Z9, Canada",
+    "formatted_phone_number": "(416) 597-1518",
+    "geometry": {
+        "location": {
+            "lat": 43.6429251,
+            "lng": -79.3741862
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441873802915,
+                "lng": -79.3733258697085
+            },
+            "southwest": {
+                "lat": 43.6414894197085,
+                "lng": -79.3760238302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "189e0f7ace31d3b608dce6567a43f396961dcf13",
+    "international_phone_number": "+1 416-597-1518",
+    "name": "Polaris Public Relations",
+    "place_id": "ChIJ8eiyYSnL1IkR_PpOKSVSPOg",
+    "reference": "CmRSAAAA8t9qVC_s98vVbRU9P-vB5bzFQkYCH0hLcD4rWgtc-SaIiPtvj5GBXIIAKUHvag4ZiJ8DTZpo0XJAH9X5MZ38oop3UbJnzxt22QzhVLGz2hd4m9TehqYCdDXGTQGl3XSwEhAAbRgFyz4o93JYqIYPcp3YGhQakQzdfJJkrpwd2mCaZHbk9Ig0Fw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16734340634962230012",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street #1801, Toronto",
+    "website": "http://www.polarisprinc.com/"
+}

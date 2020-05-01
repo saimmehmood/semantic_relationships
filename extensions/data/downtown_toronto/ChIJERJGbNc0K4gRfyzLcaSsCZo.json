@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "310",
+            "short_name": "310",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3A4",
+            "short_name": "M5V 3A4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">310 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3A4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "310 Front St W, Toronto, ON M5V 3A4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6436012,
+            "lng": -79.3904435
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6449501802915,
+                "lng": -79.38909451970851
+            },
+            "southwest": {
+                "lat": 43.6422522197085,
+                "lng": -79.39179248029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "352c7ff683bf3770ade124acb391a9bdc8e3775c",
+    "name": "310 Front St W",
+    "place_id": "ChIJERJGbNc0K4gRfyzLcaSsCZo",
+    "reference": "CmRbAAAAtZjQcN7l1csIJx1E-jYLPwp0PmIwQf9jBS6zMMPHbrNn4BIOed952IErAtZh2KsSBVximT9wj_u5CJcjkz76f8cMBSwD2FXuRqjl1v7Egbao_hMzlxIZFSHAHAQEnlkIEhAJPYOtSvb-TZIkBraSZqEyGhRP9uh_cl9qX-8q_bLcBCqBFeTi9Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=310+Front+St+W,+Toronto,+ON+M5V+3A4,+Canada&ftid=0x882b34d76c461211:0x9a09aca471cb2c7f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,280 @@
+{
+    "address_components": [
+        {
+            "long_name": "1108",
+            "short_name": "1108",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1108 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1108 Queen St W, Toronto, ON M6J 1H9, Canada",
+    "formatted_phone_number": "(647) 461-7771",
+    "geometry": {
+        "location": {
+            "lat": 43.6435719,
+            "lng": -79.4231099
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448078802915,
+                "lng": -79.42171686970849
+            },
+            "southwest": {
+                "lat": 43.6421099197085,
+                "lng": -79.4244148302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2c03c26ef77b4012ad81714d37bbdf2cf33baeec",
+    "international_phone_number": "+1 647-461-7771",
+    "name": "Rob Sansone Bosley Real Estate",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: 9:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1957,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAjilwujEnTCeUxJB6lyDUB2H5XbymRGQHGdLX73VAsB7whWwWe0vj0zjUnOq1yzT41w4X2oOVHNk65-ijtZYp5qzWqpmQwQO-9UfzXLW0XZjbk5qBK8dvRaCn-PSQu87LEhBZqNBwhA3hR7EWl3xW_l5-GhQ5T22NfiZ9btk7uREV3ILNIdZMQQ",
+            "width": 3000
+        },
+        {
+            "height": 1199,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAG3hpNmwA0y-pRSSOdhwlCOfLWtoT-Z3-XrenNq8gnDpEpP9272fp9M5So6zgRHZC5vdGeIWk6ZhTzol7T8-XUk5b8ZEbZbqOHdD04wCpuEP29NvQTRhAx_q-y1ovw2c0EhDwqKEeMMzZiSLmRbteXVA-GhSQD-wrcQAMNoNhR_PLFD3pXToShw",
+            "width": 1799
+        },
+        {
+            "height": 1600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAknDWDtnOYYQGp9dDsOug6WJzhC9oWcY4ILwwj7uSoyhbD-LBd9Cg56kjszMmh7WngIwgmsKKt0mGiA7EwHO0WiWUdR3_HbyN9ExDpJ2vOJ3UQcGWE6po4b14eHe9EHDBEhCOc_y6dNxjfLKvg53hM4eGGhQufJCrAi3Ocb7YWyOYJxzOAh2lEg",
+            "width": 2400
+        },
+        {
+            "height": 1199,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAbTRu8hSfqDeqXzZfnf3iOrIzfZHQhVQyXaPj59StpPe3qSunmsKO6He0CCGYzb9R5vtbJx0Aswsf-5mOEhYhFN-pzqV4RVFe8hAOXR99eeaDEfVHJqQORQLX-XOWoUsoEhA3NusJKGU9UHd9f3YxET70GhRXH4eyrliwaTKRiTajGHahaBizGA",
+            "width": 1799
+        },
+        {
+            "height": 1067,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAKZy6l9tcZ3_FVzGfaEEBppxc4Y7VKWJUp7Iap7wk4483meB3rdfYvzYheEZZ4fMtEMjFP531W5kVFWVl7kTg6Zo_ShLkrmRoyuftDMHznVU9xhwW510c-cYeApH6pUXQEhCtbzSn0kIBqZdb4qcmqGfUGhSTPwXt5Me5vrjb4j7IG8JlMcD5ag",
+            "width": 1600
+        },
+        {
+            "height": 1599,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAABjUpUSZx6CqSGJebzhojlPXg9FJH9u_EMJCB7Q8uf9-3241sMMFlG-EdpXdo6bo5YmoTfxnXxTzipaL83Y5xD7-_zbz0v2abEIOGBVZvE_cbt9xPP9GE_p9NCSwZvltAEhAhFb-Z2v7yaT6UQrQVCsv8GhTKcdL5JZK7Kj-Qd2u0IuEb8nX20g",
+            "width": 2400
+        },
+        {
+            "height": 1957,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAx3qswPMm_brLgquVvQDlE_FcjeEqXS32rX1WzNQyxRk1gIKoxG1BWNSWCohcWynwqx-QzVG2Os-TbObCxBdCYZ-Xm3Z4aASkf6I1SDmgCrKzS0CIWAAY9Z7UqSXa3lJqEhBT-QuSI5hKRH45VPldCwXNGhRCvkY65Pv1shdubmyCmSCUI9h4rg",
+            "width": 3000
+        },
+        {
+            "height": 1600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAALD7YJJW5IAYQzD4WuzaqPrrg96qTRHg8A8ceKpI_KAEe9dey58v9HrzCsxkAaOMG8DdVe8xR9JXICDvPpx18A6yl_6NXoeE259mkKhQE_ZSuhJ2x4rmB_2FUPSm20-zCEhCeNXaj1LSp0CKRv42XIdexGhSEjNth76URwNEg16vFuS4mIdWx3A",
+            "width": 2400
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAPRfSchpq9ahbMNWNiNGjpw_TzV0TzW0jGURy3XbE8Npt72BhWHfBLGMsyrGyxU0gJTwMRKjsJKeIx0B5ZgPsw3ojHMe3MEb6aSb0vPU8xPCVnpJUhdflYnx9UGHqYLelEhCJKYVy9DWpZQuuVtvAQoAZGhQoxpxfCaKRdW0_4G10enKOQ89lcA",
+            "width": 3024
+        },
+        {
+            "height": 1009,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111576900844566498036/photos\">Rob Sansone Bosley Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAA0xeU1fMHm8p7Cmo0ybIkBGpnpKQvak7SH1AoZExjrw6IQq5GGIs_o4GiLY54o4eVUvGCZHoy8C6rdHGXx8QJ9AkhVXi2haoqteZKosbXAdkyXtz4CVs-kk0krJFq9_tqEhC-GfaCTaBIvnV9xp4FIRCVGhTBfsyLH6t1V-bdfESF30ZvkgQ5eQ",
+            "width": 1014
+        }
+    ],
+    "place_id": "ChIJd5akKQA1K4gRfgACQ3yJhas",
+    "rating": 5,
+    "reference": "CmRSAAAABZMlobHOsafBwAyzaocw5TNSjZr-xzMPeVcTZD-89HzcsMVvDrhyoXMglqFGHywxN17t8DajU5C-GbDc2wDjxFTetYzts28V7xLMlpauOLYpcMQtP44Fpz7LOjXruDWlEhAvt82Ge8jUUwgbzR5Q_zc4GhSL5cxzzIkkeDQnb1KtQ5DH-azCKA",
+    "reviews": [
+        {
+            "author_name": "Charles Joseph",
+            "author_url": "https://www.google.com/maps/contrib/117242194058719781229/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-MuDGwzLBeWc/AAAAAAAAAAI/AAAAAAAAAD8/0A0rOTQMbnQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We just worked with Rob at Bosley Real Estate for both a sale and a purchase and were super impressed. He was incredibly knowledgeable and helpful, and the entire process went smoothly and even better than we could\u2019ve hoped. Rob\u2019s attention, care, and willingness to jump in and take care of all sorts of details for us were a huge help. Highly recommended!",
+            "time": 1521383882
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12359435919181348990",
+    "utc_offset": -240,
+    "vicinity": "1108 Queen Street West, Toronto",
+    "website": "http://www.robsansone.com/"
+}

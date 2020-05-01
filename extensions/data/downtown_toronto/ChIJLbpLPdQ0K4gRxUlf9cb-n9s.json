@@ -1,0 +1,108 @@
+{
+    "address_components": [
+        {
+            "long_name": "222",
+            "short_name": "222",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V",
+            "short_name": "M5V",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">222 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "222 Bremner Blvd, Toronto, ON M5V, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64345489999999,
+            "lng": -79.3852563
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441853802915,
+                "lng": -79.38368416970849
+            },
+            "southwest": {
+                "lat": 43.6414874197085,
+                "lng": -79.38638213029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1fd791e3f270168cee88a649a32229316fa9f63c",
+    "name": "MTCC Bridge",
+    "photos": [
+        {
+            "height": 1520,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102003853297096468981/photos\">Steve Warner</a>"
+            ],
+            "photo_reference": "CmRaAAAAhwPWdhDTSz6aCf9c7YIpVDdXDAnXpz6xhhzI32v9uIw7i1elYAJ5_phmVazlK74t-4HIJjP5cP1OZwoKcWLsAY8d2IRWwpdlUODy-ADuiLDvzfnrvvxTbWT7CiAcAIMrEhCRRqWcPsDiDySngnYnqbX1GhTmIr6YrMz0P4VXTfM712hLKtpVcQ",
+            "width": 2688
+        }
+    ],
+    "place_id": "ChIJLbpLPdQ0K4gRxUlf9cb-n9s",
+    "reference": "CmRSAAAAEwKj4J1O1lgI9ucY9aA7_VfqDTZatUcYrjjPuVutyaoEeXHsYXyKAcx5Mq2FudFhCfHjAz8kZPd5cWYq_kwsPjL48U6gVWIhQa4k_q5mlWa8iATdqThFf0Lu9ESQshDlEhAmE-f4YgX0hhtYDb_sN5dXGhSEcTo7JAIfJSJrY8RBl1CVhFgo-g",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15825647746076854725",
+    "utc_offset": -240,
+    "vicinity": "222 Bremner Boulevard, Toronto"
+}

@@ -1,0 +1,201 @@
+{
+    "address_components": [
+        {
+            "long_name": "502",
+            "short_name": "502",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave #502</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave #502, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(416) 583-2203",
+    "geometry": {
+        "location": {
+            "lat": 43.6435241,
+            "lng": -79.39363430000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448160302915,
+                "lng": -79.3924991697085
+            },
+            "southwest": {
+                "lat": 43.6421180697085,
+                "lng": -79.3951971302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0b22b17bdfd46a6277921b2d0ac622fdee5ada06",
+    "international_phone_number": "+1 416-583-2203",
+    "name": "Mediaplanet Canada",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM",
+            "Tuesday: 8:30 AM \u2013 5:30 PM",
+            "Wednesday: 8:30 AM \u2013 5:30 PM",
+            "Thursday: 8:30 AM \u2013 5:30 PM",
+            "Friday: 8:30 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105285814784455980962/photos\">Mediaplanet Canada</a>"
+            ],
+            "photo_reference": "CmRaAAAA9g7LHIhDsC_cTJHmaeUCkJMc8iOyLqYwXgHga4FY-YuREdtH42BIZcW9WhWirkp7JDVyZQa_sq8Xj6Mojs2lL8f1YAM6rvcC0APNneU-vdDIIyMhXtbtiv49y_wn0YxdEhBrwtVZaROepKu4RzRH4IMDGhRjMqKn7bg7Nh07aAx7Ny0rS4EHKQ",
+            "width": 1920
+        },
+        {
+            "height": 700,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105285814784455980962/photos\">Mediaplanet Canada</a>"
+            ],
+            "photo_reference": "CmRaAAAA-IcZFUDE0GDNEepfoLD7EvOvgHcXJYtJtrLdaO-T8NP9pWHZbjWeNB7P2r2lfLv935qKgd-8ijtFWCx7FEWZ9nbbs9EzNSNzioradxVpKOWaaAx9CwvtJt_j5zHNoO2eEhDhWhSem4Tbh35M7fw_RqClGhTZ9yOyWA0JvK-rSWLBPVVzYjwnlA",
+            "width": 700
+        }
+    ],
+    "place_id": "ChIJU2bIsdk0K4gRPiSEDuo6y54",
+    "rating": 5,
+    "reference": "CmRSAAAAK_rTusktTRoLrZ3UVsi_8RYq9i4kKeajn4pLJSJSn8B8NXhxszkGLggmEyryTAxTDZtBf1Ts1qhLQFde4rAuofyNX0PCcePwkiw6eby1XVoRlvpe5zZcOsuuFPArFPX3EhC5zMLuQzMg-j3Mq1kdTjaWGhQFPFZeypGr38uv9C496KP1tibPZA",
+    "reviews": [
+        {
+            "author_name": "M S",
+            "author_url": "https://www.google.com/maps/contrib/106866235513964737725/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-5KQRw-QoS7U/AAAAAAAAAAI/AAAAAAAAAGc/AAEm4cIh5Qo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1513123316
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11442304055205176382",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue #502, Toronto",
+    "website": "http://www.mediaplanet.com/canada"
+}

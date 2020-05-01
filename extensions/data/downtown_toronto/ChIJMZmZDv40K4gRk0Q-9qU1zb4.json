@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "1034",
+            "short_name": "1034",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H7",
+            "short_name": "M6J 1H7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1034 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1034 Queen St W, Toronto, ON M6J 1H7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64408390000001,
+            "lng": -79.4202068
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453549802915,
+                "lng": -79.41882791970849
+            },
+            "southwest": {
+                "lat": 43.6426570197085,
+                "lng": -79.4215258802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b8ee4c197eea918ca315f1debeec6bad26bb48b0",
+    "name": "Haven",
+    "place_id": "ChIJMZmZDv40K4gRk0Q-9qU1zb4",
+    "reference": "CmRSAAAAm9RsmK3ol94BT1h1pGGT26SY9q6_RpYl5ZG_0H7WLm2Offjnqsg9YZzZJysfjAdOw4KWqlUdUh8cyA6EYnt9BwseRUxah3H2F_-grAhKQGcg6ELkOysLgtf2R_LNc0ulEhDD0RYEl3YeszdgwJFF3kKdGhSh3-MWl6kE_wki5TE_87ylT00Uuw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13748704224349144211",
+    "utc_offset": -240,
+    "vicinity": "1034 Queen Street West, Toronto"
+}

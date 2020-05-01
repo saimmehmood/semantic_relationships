@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2W2",
+            "short_name": "M6J 2W2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2W2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M6J 2W2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64451399999999,
+            "lng": -79.41685799999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458629802915,
+                "lng": -79.41550901970848
+            },
+            "southwest": {
+                "lat": 43.6431650197085,
+                "lng": -79.4182069802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "a86223f142436d7ed43cdf3eba6a310f8298706b",
+    "name": "Queen St West at Shaw St",
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\">Dan Levy</a>"
+            ],
+            "photo_reference": "CmRaAAAA26JFYTOEMbLax2sSL2N2QmnFbvhnnuv-ZvSXKVSagLkphRycDmLIB4hJr8P_84Kn-lgfNfCwgsTHVE1UdUzk1PoI44yfO4bJ3XkId80wWbWmwT09a_UzvYzGpxbBdlH-EhCdeM7RkR4fd2cLzGBSZoQ7GhRC-RYE9QmEezZD_dYIm2_BEGtpsQ",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\">Dan Levy</a>"
+            ],
+            "photo_reference": "CmRaAAAA7YPE40_lGg91PDb7F7tm6r1TqcDYrfqB0exqVwivYHtIDWJ30nxITKCMnPz9D5W6tYNQvuvKmJ3hB_EVPMKJByWPRvVJWQaols40c3A1N46qSSsv7-Zvmn9Z7tRM6DlQEhAn0M1N1vCJUHERGUq5TxD9GhS8gqmvFXTo9gaJcGg6aFxfIxaSsg",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJH1XICf00K4gRDl5nsHAFqSQ",
+    "reference": "CmRRAAAANKawaezI75QMPUHzxl_j7HwjE5Utrrv3CjzzV8Bo6--jo0kuZHg8-N2xOwcXTJcnUNcy2l9pzhxBdG6e5ecVIleGIi7p1WHqfc6zCI_24zhNJuZxOqkrZHs0y_CUKJPBEhD-ayWBn-fRQYKlKAFaMUuPGhQrnyNowq48Q3me7YKlSMqgj83a0Q",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2641648637983546894",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

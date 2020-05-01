@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "645",
+            "short_name": "645",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M5",
+            "short_name": "M5V 1M5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">645 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "645 King St W, Toronto, ON M5V 1M5, Canada",
+    "formatted_phone_number": "(416) 601-0009",
+    "geometry": {
+        "location": {
+            "lat": 43.644288,
+            "lng": -79.4007851
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64561408029149,
+                "lng": -79.39942711970849
+            },
+            "southwest": {
+                "lat": 43.6429161197085,
+                "lng": -79.4021250802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "b433b9bbf2eb78bbbcd433b3d287a06ff808e42f",
+    "international_phone_number": "+1 416-601-0009",
+    "name": "Passportal Inc",
+    "place_id": "ChIJmV3GMt40K4gR8Dd0mtSTVqk",
+    "reference": "CmRSAAAAEeNF0nLwtvdyDlXZp6Sl2RGlOf0kAZX8HSYi79YXqwBzccjQiRFKWJzZ3zB6aEh3023Gu0muOsDd3RJXquXfrRCJyc52Pn3UkhxlCODCiHji0mPZaevsZHtT5GL9rfoqEhCxj3KX3oogfesdnWyZWVdgGhRb7zxHgVbFIhlsJXDGrzFrgGAlBw",
+    "scope": "GOOGLE",
+    "types": [
+        "car_dealer",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12202102781740595184",
+    "utc_offset": -240,
+    "vicinity": "645 King Street West, Toronto"
+}

@@ -1,0 +1,320 @@
+{
+    "address_components": [
+        {
+            "long_name": "940",
+            "short_name": "940",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">940 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "940 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "formatted_phone_number": "(647) 345-2095",
+    "geometry": {
+        "location": {
+            "lat": 43.6448038,
+            "lng": -79.4165714
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6460757802915,
+                "lng": -79.41519271970849
+            },
+            "southwest": {
+                "lat": 43.6433778197085,
+                "lng": -79.41789068029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "37a7ee4c92e21ff48128df83a4a6da1d51297b42",
+    "international_phone_number": "+1 647-345-2095",
+    "name": "Hanji Gifts",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 7:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 810,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104988218799587427153/photos\">Hanji Gifts</a>"
+            ],
+            "photo_reference": "CmRaAAAAnzYZkM6tmoBS0vDjCwJSAHDdwKdaqI2jtaoWrRwyZFg77I0-R5m69OzJ6uhtmKrwPCELDQUtjDapw_VRA2foHFYbrE6v2ipqrW9LNBh63Pi0GT_T7HxFzqXjdrWFC-1QEhCfzp0mM8nkSXHm0ZBZD09mGhQG84J-cXsJFQ8da8ouSU30rj150g",
+            "width": 1080
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108601896775635325652/photos\">Randy Horman</a>"
+            ],
+            "photo_reference": "CmRZAAAANKgm6YZnUgQJSDrtaAAAXQF97tUEB5Y9LTf2HeE0Yot3cbeEw1K9XnPzwSm8pgAEJfX0mgRSmvYi-j3fqB5ZO-4021vw_6RMJJRIxJhsWnD9zY8GNLJ7dbwRc8ZNzX9XEhCRc_xiMExbGQfxjdSp7omtGhRnCBLWF_xfJ3PBcaDiVRo26Vrxbg",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115359711720664722954/photos\">Nure Tamanna</a>"
+            ],
+            "photo_reference": "CmRaAAAAO-plmqaBofNb3rWDqQX9LK8phyjCVmWF7xUgYsOcvnBHy_AohTYLAn3JjM-AQm7muuVN-5xQ9SO6wcgsLFNGj74BocZcq-xJjz-5-LmcBwhF3_GdWAkbdf8n-DA_N9zxEhChliHav_73k9GGBb7ksnYpGhSzEey35ER6j9kJQype6yAQV1lnfQ",
+            "width": 2268
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115359711720664722954/photos\">Nure Tamanna</a>"
+            ],
+            "photo_reference": "CmRaAAAA-aPgYKUzYGnpqKVxwjFUN_GUC0zcRd7VS22gNtyGUQ5Or3oIL3whheOf5rxk4isYStnLYxZRvX3mJUSUTMEXMy2QdljDAInaMVOE8XRdBE4qoqTt7H7Y6YKBRqHk5mWYEhD8a_ySk8G0uhp5vhBYNdUYGhSYqW-cJFguKvqXm7Teimh4tKE1Vw",
+            "width": 4032
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105705196401808576227/photos\">Ray Du</a>"
+            ],
+            "photo_reference": "CmRaAAAAf8vv01lD-K1matZY_RFS7Xl25n5KT21Cx8rbMs-z6mJpZC64ghF-7v6r5A7diiW9SXLbS9_f4CeGXihoE_ql8XKienJjYGvJtVyPDZG4aGb0fDFRVbd-4Fd0yuUn8peCEhBCc4RbNRR4GQiWVck9jXTaGhSF8LLbVI1_xi8qkF1wpeYAigSpwg",
+            "width": 2988
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108601896775635325652/photos\">Randy Horman</a>"
+            ],
+            "photo_reference": "CmRZAAAABXzp52Ou9PytDg65r3FTXMSgVbVO2OerepvMauwaK8KxYZHwRL-kvuH5ohaK96swTbQ6wkdahpvS4CwCjcV1bNEisB92vm933WbqJwhGZNjNAhaQdC3N1jsapub-sMuEEhAT0Fa6pK7oZsYPFTb6U1sVGhSvVyLKtile9Y5LvdpFsugeTxhbuw",
+            "width": 3024
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105705196401808576227/photos\">Ray Du</a>"
+            ],
+            "photo_reference": "CmRaAAAAPKe_5jOE4cRLgQdbZqDitEH935U-h0WGb4nNPcVZl9DsNNOmYbcAWykqBKxbrRVsBgKNeClJpvRBW_FtG-qR5zZemZZsqRDp8M_ks7bp2GG_6zLKRTtpUFiYnTNfu2qrEhAFjyDj7ED_UcRbHiy8AomxGhQP1Et3Edw_6aDkCo-w67SthvusKQ",
+            "width": 5312
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108601896775635325652/photos\">Randy Horman</a>"
+            ],
+            "photo_reference": "CmRZAAAArfqChE-mnNQLsk2LTYBedMdCZFg1C8FKeBrP6_61zF8z_wyHyRGZqUuDbB67NAEQ5ne63GJRM1RHXNuhcg7vNYQTPdL0VV6LH1ylixoeIoiRTm76DJrqYsVguAaHvmLwEhDk0x08yPI2kdcnfR9CtUaJGhTs5z9zpahbMxhoaG05IWO1_TXV2A",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115359711720664722954/photos\">Nure Tamanna</a>"
+            ],
+            "photo_reference": "CmRaAAAAjT7LeN49xnqkS8TyaBWCulI0RQS_PzrqE0JiiIqEUw4_H1zjbE88Co4B6SF4_RIstlzuoj93O6-BHz7kgj-X1GQIZu9Sl1ycwu8Et3C51ToaJa6Anw93AMZsncw1_czEEhClCR3bqBjNuMJ-Y1lambkaGhR6JGfubvpC_BKeLlFF-NikU0eeKg",
+            "width": 2268
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111529711728905843636/photos\">Kathy Ho</a>"
+            ],
+            "photo_reference": "CmRaAAAApjsbnA4wW7SbaVmV4rIR7AwDXzbqTn4uq1SUqZja8maTGionTimyncgVJplR-V4H8GoGYCkdweVCzW9ZPLxRubnTd-hIdJkRR8LnB12jxLhMpQ8aMw9ramGEyES0KVWiEhCRSRzdwlWmkYi343JcLI_DGhTfGEPCi7T6yrCCZtmz9fqGQ5H7fw",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJhbeaBf00K4gRVIWFas9gMzo",
+    "rating": 4.6,
+    "reference": "CmRRAAAAq8O2iDKGzwdZFDKZ7Ny-1xIUdJVXjHK1P3vGLbebYZrH6oGFwe0UKRJpi2aL-7WyZFTwjfYyDetbTHNo4xk3ygCv_4rkp3310qa25acOwVnkmWi0ebcRt7Q3l8_tVbc7EhC0HUC-h6zeCUAk7c3yXeN1GhQdJMLctkps-cxMZcP47k_7DM_x0w",
+    "reviews": [
+        {
+            "author_name": "Kelly Adams",
+            "author_url": "https://www.google.com/maps/contrib/107193212984401114946/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-L6pE3o9Ts5M/AAAAAAAAAAI/AAAAAAAAAxc/61bUDKFYKSc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Absolutely delightful experience in this lovely shop! Excellent wrapping job and fabulous conversation.",
+            "time": 1519342558
+        },
+        {
+            "author_name": "Ryan Macdonald",
+            "author_url": "https://www.google.com/maps/contrib/100711424233236200702/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-mhaCx2FwLgU/AAAAAAAAAAI/AAAAAAAAFTg/jtW2qiZ2bvQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Amazing experience! The staff was so helpful and caring. They wrapped my gifts for me :) also, the products are really cute and unique.",
+            "time": 1511037922
+        },
+        {
+            "author_name": "Arthur Jimenez",
+            "author_url": "https://www.google.com/maps/contrib/108614800461425123942/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-qRf4XT_gZwg/AAAAAAAAAAI/AAAAAAAADa8/zXdq8tpGdrY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "7 months ago",
+            "text": "Horrible experience there. My wife and I stopped in to check it out. We were the only patrons perusing the store and we weren't checked on or greeted. Fair, some stores just let you do your thing... \n\nThe thing that really bothered us both was that the next person was warmly greeted, I don't know whether it was because of race or perceived status but that person just walked in and right out. We were there for a good 5-10 mins and there was far more potential to earn our business. One of the clerks even made eye contact with us and just proceeded with what she was doing.\n\nIronic that they sell Asian arts and crafts (the only reason they get two stars) and only provide selective customer service for caucasian customers. We were going to buy our Christmas cards there but I'll go somewhere where my money is appreciated.",
+            "time": 1509838064
+        },
+        {
+            "author_name": "Julia Zhang",
+            "author_url": "https://www.google.com/maps/contrib/112045321452357098490/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-2rAZcQZHYe8/AAAAAAAAAAI/AAAAAAAABNY/DDZC79JI0xE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "This is their second location, it is tuck away on Queen Street West. Very cozy and it have a little work station which was cute!",
+            "time": 1507913985
+        },
+        {
+            "author_name": "Jonas Brandon",
+            "author_url": "https://www.google.com/maps/contrib/108102745766268031532/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-2eWSP7n_mMQ/AAAAAAAAAAI/AAAAAAABx6A/CGZfJiHxrJM/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Cute shop with paper things, knicks knacks, and bric a brac.",
+            "time": 1508432103
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4193802121973695828",
+    "utc_offset": -240,
+    "vicinity": "940 Queen Street West, Toronto",
+    "website": "http://www.hanjigifts.com/"
+}

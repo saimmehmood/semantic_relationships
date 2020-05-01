@@ -1,0 +1,127 @@
+{
+    "address_components": [
+        {
+            "long_name": "998",
+            "short_name": "998",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H1",
+            "short_name": "M6J 1H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">998 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "998 Queen St W, Toronto, ON M6J 1H1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6443624,
+            "lng": -79.4185375
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64565143029149,
+                "lng": -79.41716571970849
+            },
+            "southwest": {
+                "lat": 43.64295346970849,
+                "lng": -79.4198636802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "051f7788c1b4849d074659c9cb5002b806e79f15",
+    "name": "K & N Supermarket",
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAzRyJupc1358sV6gNs_RIggmL6hjiI7tJsJu_TSlALfaFMSbvrdbPdhSXoCntRqG1IbykFoRYhCHRmA6uMEkN8uBIpYXFBleJOKLQLS2WqUFC_wfzPegq1KAkbxPkNf8nEhDl4oMFZ1YmZSsnvy6SXX4sGhTxae2-5cgHl1Exn5Brtbv5qS0ZxQ",
+            "width": 3036
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687/photos\">Patrick Asselin</a>"
+            ],
+            "photo_reference": "CmRaAAAA2k1jt6P0bOtuEmL6fgXz37q57TO-fA84MzgUnigjgm_K1toFWj5_K2kM_uSxTNh-pJEY-gEvKlzbXuCSf_rznUdF2_sk9lwy3TE2nGxZNi1qZV_Wz6eXH6V9pQPWm8XWEhBdUI-2otKPJ8psbRnw-6gpGhSCpulT45KDUm7Dmsnze-k05D75VQ",
+            "width": 3264
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAABAysf8MhVlSCBFSvZOtzXoVLLznhy-r4ZG8MHBRvJPun9C9QPZmRNTgK80WqoTcmhHLSX-g2k-SW3SQ8ZxQRckCxwhFVg2sVGXUW1c64oo8Gahn_5Q3X3bVhgLwSnIz2EhBQUEdmGR-2s2GpaolK8hDFGhSoKAeKEPOxxI-LDqVkHdWwAcf1zQ",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJaRCywf00K4gR0IC-Ne6tQVk",
+    "reference": "CmRRAAAANNH44u7UkdfXEeKwMGLGpDhHjES0VvHvtxEqrFebl3DUKcbbZyYKI1t3PDUni_nfd3KZGnX4CXQZ1Fx7ZbG4zjfPWlssQCrLH8HMKTswW2NDTDyaDMKmf-KbkG2HczwAEhCXRgg0lPWAR6MTgdzriA93GhRValuUxcZKnUZhQtMb40QHQ7yD1Q",
+    "scope": "GOOGLE",
+    "types": [
+        "supermarket",
+        "grocery_or_supermarket",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6431612981477277904",
+    "utc_offset": -240,
+    "vicinity": "998 Queen Street West, Toronto"
+}

@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "439",
+            "short_name": "439",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E7",
+            "short_name": "M5V 1E7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">439 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "439 Wellington St W, Toronto, ON M5V 1E7, Canada",
+    "formatted_phone_number": "(416) 597-8777",
+    "geometry": {
+        "location": {
+            "lat": 43.6433575,
+            "lng": -79.39671090000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448042302915,
+                "lng": -79.39539906970849
+            },
+            "southwest": {
+                "lat": 43.6421062697085,
+                "lng": -79.39809703029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "25fe171dc385bbb6a70a55a1939de24513f07d14",
+    "international_phone_number": "+1 416-597-8777",
+    "name": "Lollipop",
+    "place_id": "ChIJVwi219g0K4gRkavzezloz0w",
+    "reference": "CmRRAAAAizKHlYYAwe0eWQRXmO8ue_RYNOh2hv5R60pszUr-EncPZX_805pvqHD_WYxJ9Fo-D2y1dhahwR7uujrQ7feGHft92tofzOLC9n7Kg-ymBg3xzC-3BrwvsOruftBuomzkEhBwLKf-Jl-FBfbCkenTqEWEGhQCvQoWRkgaAktsVC6klJoXHHRCAg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5534757063163620241",
+    "utc_offset": -240,
+    "vicinity": "439 Wellington Street West, Toronto"
+}

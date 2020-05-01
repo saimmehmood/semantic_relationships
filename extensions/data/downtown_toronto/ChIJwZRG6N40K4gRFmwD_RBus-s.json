@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "786",
+            "short_name": "786",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M5",
+            "short_name": "M5V 1M5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">786 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "786 King St W, Toronto, ON M5V 1M5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64327789999999,
+            "lng": -79.40635420000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445774802915,
+                "lng": -79.40498606970849
+            },
+            "southwest": {
+                "lat": 43.6418795197085,
+                "lng": -79.4076840302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "28a0ee7fbc10a48ecf26560f67ecc74f31ee55ac",
+    "name": "Wysdom.AI",
+    "place_id": "ChIJwZRG6N40K4gRFmwD_RBus-s",
+    "reference": "CmRSAAAAWjUOOeeVAD5hkuwKLMKoHPABKEnb-Cc7YRWpMsfbNsQ0N9pP92ULdN4lzJXJ--wdtk4a0inNG529HpfC9yBc13w2rdYiX2iAIWOvalF7K1Du-HrZUFvzZv-qYEUvgdO-EhDmiAAVDAnYgf4ccMd-rP1sGhR9nJxHrjqs5kdV2xUI1s8M58fk6w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16984039638987664406",
+    "utc_offset": -240,
+    "vicinity": "786 King Street West, Toronto",
+    "website": "http://wysdom.ai/"
+}

@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "1082",
+            "short_name": "1082",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H8",
+            "short_name": "M6J 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1082 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1082 Queen St W, Toronto, ON M6J 1H8, Canada",
+    "formatted_phone_number": "(416) 268-5684",
+    "geometry": {
+        "location": {
+            "lat": 43.6437018,
+            "lng": -79.4219205
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6449897302915,
+                "lng": -79.42054786970849
+            },
+            "southwest": {
+                "lat": 43.6422917697085,
+                "lng": -79.4232458302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "80e2d66024b1039fd70ae1b1ddce733baadf8344",
+    "international_phone_number": "+1 416-268-5684",
+    "name": "BREAD&Circus Studio",
+    "place_id": "ChIJ85VOL_40K4gR7zWD1uFky9M",
+    "reference": "CmRSAAAAgjbRUCS5Z6_TICyJ18FYLm_c45jyek6QlVyQk9AMH0FLYSKvHkYk2YCY0d7PcjVskFULhsSDIv_FbJun1skk4GIc569FjlCznHdTOUNH1GA5zzYVeY2qF4d7pqqv1V2GEhCW9hPgMCjZHEViXAPD7HlAGhTieFNOdH250M_eMC79ig6oF-5urA",
+    "scope": "GOOGLE",
+    "types": [
+        "jewelry_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15261402683404400111",
+    "utc_offset": -240,
+    "vicinity": "1082 Queen Street West, Toronto"
+}

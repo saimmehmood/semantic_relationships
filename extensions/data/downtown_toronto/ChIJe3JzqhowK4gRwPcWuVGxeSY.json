@@ -1,0 +1,255 @@
+{
+    "address_components": [
+        {
+            "long_name": "442",
+            "short_name": "442",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dufferin Street",
+            "short_name": "Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2A3",
+            "short_name": "M6K 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">442 Dufferin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "442 Dufferin St, Toronto, ON M6K 2A3, Canada",
+    "formatted_phone_number": "(416) 231-2291",
+    "geometry": {
+        "location": {
+            "lat": 43.6439014,
+            "lng": -79.4296426
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452898302915,
+                "lng": -79.4281134197085
+            },
+            "southwest": {
+                "lat": 43.6425918697085,
+                "lng": -79.4308113802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0e27c8d578a429d5b7627935d03bad784744552c",
+    "international_phone_number": "+1 416-231-2291",
+    "name": "Textbookrental.ca",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 9:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109397678287833061227/photos\">Textbookrental.ca</a>"
+            ],
+            "photo_reference": "CmRaAAAAGBCc0YWXSg1NrI0ypx-OfR9DkqNg1uWGKlmFehtwQYucCYgXhyAkU8it7Mk3koK0YEujZdXXSFLKXScBWcPIagfhwTXBmUNJ1WphrNnH1LCo6lag9tE67tui3UzX0kVXEhDoUSTQzS930BSZ9Pry0BTPGhR3ZF5tVjvWTh9Nhth3gdQ0w2Zk2A",
+            "width": 596
+        },
+        {
+            "height": 352,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109397678287833061227/photos\">Textbookrental.ca</a>"
+            ],
+            "photo_reference": "CmRaAAAARBOZaO7tilfdMd1zZWB95dM1gUMk9av6vkwmQXFIaerHOzu6-M3hxnOjHAUyWnzlBW2KI1iwV6FM4Pa3YMENMkSGikxvFTY0RRpsRziPJveWXiaDMOPgevTyJXSXSVsgEhB-om8vDCLtQa9EruDrWBSzGhRSmU1ncV2wJPtCM6EzgoHGv46Dnw",
+            "width": 353
+        }
+    ],
+    "place_id": "ChIJe3JzqhowK4gRwPcWuVGxeSY",
+    "rating": 2.1,
+    "reference": "CmRRAAAAqbfj-hICBQvU2o1wFnU6mQk7-USsFDJyA31ztTFbe06KuKYzIAA4S1XfX04mzlv7wZy_roFkByssq7FI9PD8Isq1OhtMC2TAxAgc5myd0coKs8_ilps_dglFzFOCgU7dEhCZ4cgTaoVAtRS1bypyvhIpGhR0-8YgefdNPEP4xj0uKdY8MC7hXw",
+    "reviews": [
+        {
+            "author_name": "Amanda Rock",
+            "author_url": "https://www.google.com/maps/contrib/100533722375698870384/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-t02xY9LXCzE/AAAAAAAAAAI/AAAAAAAAAF0/-SuMBURXFDQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "The customer service in this company is non-existent. I ordered a textbook and waited for tracking information, that they state they give on their website. In my order confirmation email it said \"You will receive an email as each portion of your order is shipped.\" Never received that email or any tracking information for my textbook. When Iogged into their website, it said that my order was shipped and that \"the items listed have shipped from our Distribution Center.\"\nWhen I contacted the company to try to get tracking information, multiple times over a period of a week I never heard back from anyone. I emailed textbookrentals and bookmob, with whom they are affiliated. I also tried calling the number listed in google, but it is out of service. \nI did receive my textbook, in good condition, a week later, however the lack of any customer service and not upholding the conditions stated on their website leaves me to give this company a one star. I would recommend not dealing with this company, Textbookrental or Bookmob. Don't like to give bad reviews, but here it is. Buyer beware!",
+            "time": 1527529305
+        },
+        {
+            "author_name": "Sano",
+            "author_url": "https://www.google.com/maps/contrib/101157764311493224951/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-y27rA9wFhAc/AAAAAAAAAAI/AAAAAAAAUug/njFQyQCvGIk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "HORRIBLE CUSTOMER SERVICE!!! DON'T GIVE YOUR BUSINESS\n\nI ordered a rental book with BookMob (parent companies), the website was having issues so I went to TextbookRentals and ordered the same book. The book with BookMob came in so I cancelled the order with TextbookRental. When I went forward with the return, it said that I have to pay a $11.40 restocking fee. I emailed this company and said why do I need to pay a restocking fee when your website had an issue. The csr emailed me back and said I will receive a full refund once they receive the textbook. I returned this textbook the day it came to my house. The order was in February 14th, today is April first and I still have no refund! I am waiting for more than one month for a textbook to return to their facility and receive my refund, horrible customer service! \nIt takes one second to take my money but it take months and months to receive a refund. I am so pissed off by this company. I have been emailing this company but I am not receiving any emails back. There is no communication whatsoever. You need to wait weeks for an email reply. It is ridiculous to wait over a month to receive a refund. On top of all this I get a email this morning that saying that I need to return this textbook or else I am going to get charged!",
+            "time": 1522622883
+        },
+        {
+            "author_name": "lynn Michelon",
+            "author_url": "https://www.google.com/maps/contrib/104899258312421767953/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Ow7wYIqpb8A/AAAAAAAAAAI/AAAAAAAAALY/__292FDOImw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Wow! Thank you for all the honest reviews on this \"Business\" as I was considering trying to make money off of my used college books. After verifying my self and calling the number on their site their number is out of service and again after Google mapping their place of business their building is up for lease and they do not seem to exist at all., Just another scam.",
+            "time": 1520714713
+        },
+        {
+            "author_name": "Justin Raposo",
+            "author_url": "https://www.google.com/maps/contrib/110435326810575710598/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Fhzc9VkPgqw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3g-wemq6V5Hp3r-WRkpo12GUNVYQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "9 months ago",
+            "text": "Pretty good site to sell old textbooks back too. Haven't rented or bought any textbooks so cannot comment on that. However, must say absolutely terrible customer service. They just stop responding to you at one point, if at all. Have opened multiple tickets for the same issue over a period of months at this point, with no resolution in sight. Also, their ambassador program is an absolute lie. You'll get a code to give to your friends after a transaction, which I did accumulating in excess of 15 referrals which, at a supposed 3 dollars each, is a pretty penny. However, no way to use this money and no help from customer service. Beware.",
+            "time": 1504043017
+        },
+        {
+            "author_name": "Melanie",
+            "author_url": "https://www.google.com/maps/contrib/109018809848265104043/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_G9CutaLu-A/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1En5fFKvQKCExPHMcxsi6E1ZNTyA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "First review I've felt compelled to write. Ordered a textbook, was told one date, it never arrived, reached out and then was told a 2nd date, never arrived...Email attempts to reach them waiting 3 days for responses. Tried the 2 different customer numbers - out of service or no answer. Much angst for me over lost money. I filed a complaint with the Better Business Bureau. Then they responded with some tracking number that I am now dealing with Canada Post with 3 weeks later. They say they are 'e commerce only' so have removed any phone numbers but when you google them - the same phone number shows. They offered to refund part of the book cost IF I remove the BBB complaint. Lovely. Save yourself the terrible service and all your time chasing this and fretting about your order. Not once did they offer an apology.",
+            "time": 1507064159
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2772442010179008448",
+    "utc_offset": -240,
+    "vicinity": "442 Dufferin Street, Toronto",
+    "website": "http://www.textbookrental.ca/"
+}

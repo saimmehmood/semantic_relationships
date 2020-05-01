@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N4",
+            "short_name": "M5V 1N4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M5V 1N4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64334199999999,
+            "lng": -79.405383
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64469098029149,
+                "lng": -79.40403401970849
+            },
+            "southwest": {
+                "lat": 43.64199301970849,
+                "lng": -79.4067319802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "29628e6220287ed3aa35d6e1861bb295daf5bccf",
+    "name": "King St West at Tecumseth St",
+    "place_id": "ChIJ99MOTOA0K4gRqinAfaJzkxg",
+    "rating": 1,
+    "reference": "CmRRAAAALO_2e_G6Jl9rjZrjz5hYPKmFIYNZ-Mw1_2Vp4tWkd_LfBb9v-5ZQsSYTcu1wCUFbThZE_srmP7gjHCVEnk91xhwlU-cCraWddY8_Yeu0xgN40acGkOSRlXoNF1b6XgQeEhD0djjmxYNJx5t9WQcpxc0OGhT3PQn_yIjAVf0lC_fbNnCbXBx7sw",
+    "reviews": [
+        {
+            "author_name": "Javier Ancira",
+            "author_url": "https://www.google.com/maps/contrib/117095269612972065492/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Y_cgYpJhS8k/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1rThGUu2CRGehBJjZzzqG4YVazVA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1504424803
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "light_rail_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1770886220218378666",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

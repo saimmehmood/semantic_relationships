@@ -1,0 +1,146 @@
+{
+    "address_components": [
+        {
+            "long_name": "1003",
+            "short_name": "1003",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2Y7",
+            "short_name": "M6J 2Y7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1003 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2Y7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1003 Queen St W, Toronto, ON M6J 2Y7, Canada",
+    "formatted_phone_number": "(855) 898-2378",
+    "geometry": {
+        "location": {
+            "lat": 43.6439502,
+            "lng": -79.4196517
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453337302915,
+                "lng": -79.4183151197085
+            },
+            "southwest": {
+                "lat": 43.64263576970851,
+                "lng": -79.4210130802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dfa40efe95578fd55afed975e121cc7ce3ab46b8",
+    "international_phone_number": "+1 855-898-2378",
+    "name": "Bike Share Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAqwjPGtNSXdpAbHcDz6iY-MCYVVEMqF9P7hqlhWtg9Y1KUl3QVnJNlBPTNRApJKetQhc8D0HCqKLO-a6AcaRU32Jvo_YmyXpWVsmakl_5SuqI2WmXrTIH7zHT_wIO_4a0EhAmDtNtQvZc0YHWxf6I4Ww6GhQS32IvK0XqZAUM8mx63ICywb6Bsg",
+            "width": 3036
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAArCIG6P9Ztv8vpe6HdOOFRzIipbdB1O7w7FNJwDhQE5X514xP4ijC9fs8CnnTRit3BaUxMr0EJna6sd1MGm5Kop0Rglna6d3OmewHHtpkDfz76BqMScwndqn_-njZVQVOEhBhk1f1lvZbF9t-LWG5BWKdGhSBAFePA_m9roDfs0UjWMifawHOHw",
+            "width": 3024
+        },
+        {
+            "height": 754,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107361564184876838735/photos\">Vince Dumond</a>"
+            ],
+            "photo_reference": "CmRaAAAAi9h_Rc57t8EYwIE3kvHr8cYAWvwl3ojYlVpVLzRL6KyKMDmNrdpVHUCTJP89eKFjJcp4yTP1-Un68N63wnFwygFrnrDd_6KfelV1EEUzakWez0hAcQrxHYiMn0gaTytJEhAWmbo0WlBsb0ErSVzrhgarGhS2wCjWiqfsaPpFsNmlvOkQ54XgYA",
+            "width": 940
+        }
+    ],
+    "place_id": "ChIJXSdM4f00K4gRBg9TCKSZYMY",
+    "reference": "CmRSAAAAY1ZOq0yYfi72C2eSd3Q7944f-878JoeEMsiwtAe7O1pgCT5oYGhOjVbkYtGITCdIE5sRy77lfVyheCTRGr_MFIpXpzmFimnhv6gSkOxg73rQ-AUp3nDSpbIj1nhUxfuCEhBQ_J681OPX9GiphWq-4iQXGhTAYDXv-f4VXjf3v3bHG-RH65Gcdg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14294594147067301638",
+    "utc_offset": -240,
+    "vicinity": "1003 Queen Street West, Toronto",
+    "website": "http://www.bikesharetoronto.com/contact"
+}

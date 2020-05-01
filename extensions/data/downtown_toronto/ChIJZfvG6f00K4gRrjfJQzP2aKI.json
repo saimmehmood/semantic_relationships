@@ -1,0 +1,300 @@
+{
+    "address_components": [
+        {
+            "long_name": "1001",
+            "short_name": "1001",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H4",
+            "short_name": "M6J 1H4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1001 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1001 Queen St W, Toronto, ON M6J 1H4, Canada",
+    "formatted_phone_number": "(416) 535-8501",
+    "geometry": {
+        "location": {
+            "lat": 43.6427811,
+            "lng": -79.41846770000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441300802915,
+                "lng": -79.4171187197085
+            },
+            "southwest": {
+                "lat": 43.6414321197085,
+                "lng": -79.4198166802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d0e3d2a3fed5a10c8a6f8c9252701d18da26e504",
+    "international_phone_number": "+1 416-535-8501",
+    "name": "CAMH - Queen Street Site",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAKpBsZd_VG0b4cFw24fAhTQhutMkX8tME1LwuiLJiHc6pMFp3rq2kJdZZqkCa2TFf34NqztBg_YrBIXHzKhRZjTVva829_8HCQFJwDMJiHblroXiq7iIdj4eFS7tuWEBpEhC39b65AlU23u-HMAjdQsB3GhSWYVBBkWHdT0lQQIVYM01MHdlYHQ",
+            "width": 2048
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAiJV88-RPZHY04OBSrH-ClE2PLDnXQ9I7s8evYiLeHKUaWYFnOZTJwpiCjbCJEoijumlG14cq_2KCyEggyPHv7LIfABBRwVayN3GDBMzPVva-3o4N2kQw76u0LXGLlMH3EhCfBRm0G6OnauMudt70yCs8GhRUgEzwrVSbPgi_so3jBfFx-31Gpg",
+            "width": 2048
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102897162167842009258/photos\">Danny Lay</a>"
+            ],
+            "photo_reference": "CmRaAAAAfqHOnE0-jTAI0XiHtqBd6B-x9Q2xWJKCHpktIyYgRXu-QjVfYKb8tsWv7z1V1XOcK4fBL2dO-WG-Aqzaqe1JUwtTopsL5LdlPUmI1sVsDr07UuSy-DfDtkoRydOMrFGtEhDeIQ2mIOQumKDAD75Uj7KqGhTnvYkpj2sMNc1yfWJmUsHCl8PW4Q",
+            "width": 3024
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAXaTrN3jImPD-6f0C3pQILj9g4P-YY6newHl8Cp3VKCXLCLdkQ-QnCKQMObnoqFcC7Y_t2JR3zL3yAq8Ywsrv3SGeKHnNUal3jzl87hbhNTwzxcnrTFVOk7lGAb3HMe1GEhAV-u265yInXjO8hhx5FtXGGhTYDex2m13eXXd98bWNZP9wZ9TW5g",
+            "width": 2048
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102897162167842009258/photos\">Danny Lay</a>"
+            ],
+            "photo_reference": "CmRaAAAA6Nlw3JbYvi_IK6QVJIa4kkPODmXtVpWjOwjbpvSX8s3obtwOXES9Szq3HDsRT1RHfrt1bU08WLpDWgxoudRZCiVq1uYLaAj30tlaLU2_Mk_R54GbQCH2Zu4wBLr2oNI_EhANXrzpvqHQEvZzxs3QMtGnGhTQ0m-lbcR-sx4XGh_Kafg5gjnsnQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102897162167842009258/photos\">Danny Lay</a>"
+            ],
+            "photo_reference": "CmRaAAAAWX4lpNhtK38g2-W1S-uztiNqoywJ52ihTTb2VuJ-U_0tkHTTWQlVRvn-1-fE1_uM6ZVi2k2DEC5VkAgC2dgdykT-4SRN6O97eWdll6wVdQkcCT4N6jQ-95wCyHNZKnIqEhADG6RY7tttoD5750Q11rMAGhS03I33j_dPbaVXwb3q0EqqaqmEfA",
+            "width": 3024
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAt095QCRy9sehpte-j3iknWpWfdEl6aeWbJ8Jv9AwUqH5gXmiA_ookA0vOKDt4G2C36w8UZZzAIHcCVqqKw3YMIwXMSS0xIFJLCzmJwQk5kEmeZKhzQjfoeOfhQD3oMSKEhDToyPOHHO8Rof2pBSrdo2SGhSquAA6EpvgWqkfLXx59JmOTm01CA",
+            "width": 2048
+        },
+        {
+            "height": 5984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112732813005745455763/photos\">Souraj Fernando</a>"
+            ],
+            "photo_reference": "CmRaAAAAKnl8RJAIkbtVYyFa17gaWvA4_0lqDWtc2R2jhRQqefra2XpTVxV6UQRaCzS7XSUVMxkOUn5j0Uo-_8JKOS8IS8ukRJEbusA4dbRLrBldrB5J6pp1F3rCZoaPGuuuAjQOEhB2qy_tM1fBPsEgvAx4YIWdGhS-Cb4sxgIe14gHzRofu6C6yTslog",
+            "width": 3376
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAA7MYTXvsrIVmI88W0wR22tJ1p8gMSksSKH50kmG8KqzASsp-gluEJsnmYSbNLaAHiJoa5mGCeAvpyM39V8KtfnUvMh5Jt_fdXoYSGNVWC153xxUGMOM3ZvQztliv1zHuDEhDvWyc67p_rs2zTGiNcuGYjGhTjsYOxGFxJDqmwu5Lq5eIbRnAfdQ",
+            "width": 2048
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100922241999740130277/photos\">Will Breadner</a>"
+            ],
+            "photo_reference": "CmRYAAAAfZvHRfw7b8Z_BIzYbKkfj4YUp2W7W2DazIHW730IYE5oYVmCC6Q-jGMKCU8SLMqUgQSU_ufa0SloYYTM7mLBbY_J53nOeDeYtTvok6SiZWRL_3xfHWy7_Cc_J8--_m9jEhDRtJKlNpzTe9mSJUoF9OeFGhS4oDEP_U7RRkY154Ll7Eagjpf8Rg",
+            "width": 2313
+        }
+    ],
+    "place_id": "ChIJZfvG6f00K4gRrjfJQzP2aKI",
+    "rating": 3.6,
+    "reference": "CmRSAAAAf8s6T8qjCZUOHjmqUmqTov4LqNwzOtRZ4s_hIyLeUUwwLSU7IEXgBCKhWmXW9t6enzwOmjt4rS3wjhZSwJQVekRUqpdvnm82ZJ0XH3QdSizBH-M42bNVh76fqWTiRVYHEhAWiMBAbgsYJKfG2NzKMXCgGhRzldrOAR6c-ClDVQfzn1PiHkQdXw",
+    "reviews": [
+        {
+            "author_name": "rohan mehta",
+            "author_url": "https://www.google.com/maps/contrib/103459174457642060085/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-9D-W-Zr1lcQ/AAAAAAAAAAI/AAAAAAAAFGQ/lCaBC0cHg8k/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I have been a patient at CAMH since Jan 2018. I am grateful for being referred by my family physician as some symptoms were deteriorating over a period of 1 year. \n\nThe administrative staff, doctors, social workers, scientists, clinical laboratory specialists, janitors and security people are all pleasant, amazingly empathetic and truly caring. This has been my observation during every visit since I got registered as a client. \n\nMy psychiatrist and the group therapy personnel are compassionate, always concerned and resourceful. I am blessed to be a patient at CAMH and receive treatments from amazing human beings. Thank You and God bless!",
+            "time": 1523403718
+        },
+        {
+            "author_name": "Erica Streisslberger",
+            "author_url": "https://www.google.com/maps/contrib/112406409880445870667/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--azly6vGRFY/AAAAAAAAAAI/AAAAAAAAAVY/ut7aTMwpwPc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "I had the worse experience ever the doctor I had told me to stop taking my meds for my anxiety cause he wanted to put me on a higher dosage. He told me that the closest thing I have with anxiety is generalized anxiety  which I could have told him myself he told me that I don't have enough panic attacks to have Generalized anxiety that I need to have one everyday . This is all from the first day, today I go back for a follow up and I had to explain everything to him again of how I was feeling. Not only that but my appointment was at 3pm today so I get there early and the doctor took me in at 3:20pm and had the nerve to ask me if I had just got there and was smiling the whole time I was beyond mad and I told him how I felt. As we were talking I told him from the last time I saw him last week I had 3 panic attacks and he said yea from March and I said no he tried to not listen to how I was feeling because I had to keep repeating my self over and over as he was asking me the same questions. After that he had suggested that he change my whole medication system and give me 2 different types of medications I feel like he had no clue at what he was doing he didn't even know what AA was. I am not very happy with the service I got, the doctors should know what they are doing.",
+            "time": 1527640015
+        },
+        {
+            "author_name": "Will Breadner",
+            "author_url": "https://www.google.com/maps/contrib/100922241999740130277/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-5HW8KaMP-Wo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3kMhPrnIzfxzXaZqkKNtbJya17OA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "My clinicians are great. In treated fairly. I'm not content with how CAMH has taken... Research on various treatment models as usual, but with its budget as large as it is, the wait times in what limited section and availability of programmes offer, well they're not at all close to one another. I sat on a wait list for over a year(I checked in etc) and then it was cancelled.",
+            "time": 1523044414
+        },
+        {
+            "author_name": "Tim Weiland",
+            "author_url": "https://www.google.com/maps/contrib/117656944288010677120/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-keODdsFDlGM/AAAAAAAAAAI/AAAAAAAAAAc/QxZ1UHr_T7o/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "I wish they would have taken the time to address my partner's needs, when she went to see them over a year ago pleading for help. Maybe she would not have attempted suicide later that year, if someone had been there for her.",
+            "time": 1522295082
+        },
+        {
+            "author_name": "Glenn Dickler",
+            "author_url": "https://www.google.com/maps/contrib/112942586853670715121/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HSuZQB0TAUo/AAAAAAAAAAI/AAAAAAAAADE/2Pk6qZEQMmU/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "For me a different place to visit have a friend there for years",
+            "time": 1519762830
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11702874331763259310",
+    "utc_offset": -240,
+    "vicinity": "1001 Queen Street West, Toronto",
+    "website": "http://www.camh.ca/"
+}

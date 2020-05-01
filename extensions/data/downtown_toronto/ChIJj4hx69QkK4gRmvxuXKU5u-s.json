@@ -1,0 +1,306 @@
+{
+    "address_components": [
+        {
+            "long_name": "403",
+            "short_name": "403",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "642",
+            "short_name": "642",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">642 King St W #403</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "642 King St W #403, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 551-6666",
+    "geometry": {
+        "location": {
+            "lat": 43.644232,
+            "lng": -79.401932
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64550063029149,
+                "lng": -79.40055121970849
+            },
+            "southwest": {
+                "lat": 43.64280266970849,
+                "lng": -79.40324918029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "00cc05dc9bc8eaa3dec8e04d95bd9a3729af853b",
+    "international_phone_number": "+1 416-551-6666",
+    "name": "3magine",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 614,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAAQokmNN2JJUTScdKgr76M3fTqzDWi4y3POfGkFekn6cEryCcOLIhHk-TB3kwbqEG8TdyO7j-hQkYnLk09adp01jqjforSEut85UTcXMZvs7xKt7c3hb1U1y2rxRyI1pyDEhDTnyPhiBCP9I_bNDz0cZv2GhSD00GNlf725R4Fls8z0MEYA3CVDQ",
+            "width": 921
+        },
+        {
+            "height": 614,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAA3V_JSdvUQRbm6uWFg2M12iBNpSLWc7yTTPaXUi5y-ooDtszFLLv1vhDGaRsN0YJy32Opoee1lzQW8uxrAyjsLV1YplWeZ552OzMrv4jv6L1yoGsLMyD17uKLlJNxmjJIEhDLbCYojUrvW1rE4Z_9zk0EGhRz2R0jwMHFsiZr8Hs-wxzz68wIHQ",
+            "width": 921
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAAftLaqajcBaE4RRke9WQwYdCC7sGpREogr3g5MvOyJzIYqpVb28902sITfwa4aH5ykdXAa-3wt9TToEluvcoon_PqApsIiOIuzMxro1reUbiqUcgXxfAMZpdQaQTpB70nEhAoySikckOhPRBpbxfV8hY5GhQbl-xovnUWyveZ45XGJQffKQu3-g",
+            "width": 800
+        },
+        {
+            "height": 614,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAA4qYt7u32aU5m836j8u7HjojMvAkCga9adyOohqo9yEZ29_3oDSZUBTNKx5tdaCl5-6sudZfLuA62ZFKooZkIBXyJCJ8QCtULm7o7jbD_q1I-UVF1vW9U0K7swp561_lZEhDCGWf6a2bzNu92gU884jNfGhRMnjA8yqGX3-VhLhAFLvEGXnEOfA",
+            "width": 921
+        },
+        {
+            "height": 1102,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAA1Zp0iWrpMPmQooz4t3E5zpXpja4qf2s5gVfHdzi0ulWPpNLmZIrdYYLmbj7z2EwHqu_YiOTOS_NxgBI1B-K1PX0q9l5eypzLWuApf9lmxLeQg6OE0buUV1Obtg8mtf22EhAAia6IRv8lqGYcP97GuwhCGhTgFfdebDPZ1A26ET41TQEOP7hHbw",
+            "width": 1986
+        },
+        {
+            "height": 614,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAAMbztsVwlNFCrNAG1fWgs3Qfvk4hQD6HfW1Va9qHnnAItqnN8ugB8pha36VzrxbEMzEF7YSYZeiYBX7w6rzHUCfTMF0bleAXzXhthiP_W_IFiBeTXXxJbUWjcPLwyxhKvEhDyPMPpLhOl8L_kgSW6oCagGhS7gQQXLQMFa1ANZPGPBUFcqt898Q",
+            "width": 921
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAAUslceoBWrc3RNpx276ZvntV4nQyE2Q43iiZgZCk7qo6Ou3Fb2FFj-Vf-l7QwOE-cHtyDfOHaxpbGl5_T1UZ50BDD7ysc0ZL0IgLBPjociE0ZRwys4ppYBIhoYaIosqEaEhArW3CXskbb1XlU-doOPszXGhRA2Y2LqHIC_-4jb5Wg1iOe8ESE5g",
+            "width": 800
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAA9v44-7-MQaV5hyXZfeNGTlADne5brLxQUatymZc985SBTYwv2lMYXevvkq6LbtRBU2YAv8dV-1prHMsZCf76meyHY2OFfYlr31pMJckdzqmFGif_tdK_ivB9oPmlLAkmEhAo3ENzstTRjLrPVf_j26FDGhSMeELqtRqWl_F0BQU9wj_idJKYbA",
+            "width": 1080
+        },
+        {
+            "height": 614,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAAt7jjyyemLbDlMj5awXez2aTYTl8pB7OzAsSFA18tSt3mWYXyKR9-Xm96kqc7XGx4R_td-KNeiOXXdJwrS3AyzClEWh6SfZCAxoEz0OAwirtYgr-Mb2Zu8Lg874NxgygeEhAeoUKOTk5ra21SeUBGjzuQGhRDC82emZkts4grXwliKFFiBuJwGw",
+            "width": 921
+        },
+        {
+            "height": 7196,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102902708696535287005/photos\">3magine</a>"
+            ],
+            "photo_reference": "CmRaAAAANepkbpLWBjeXzjJjcEb1LLUkVSReWbSrtiD0XoIXeDJkZjbEzjrGi2wckLObFhLtNhdeTL_8In9eeUfOOq3G90ex0K5KacFRW43FC3qTZijtl8nRLB5hQ27lFCGA-xY4EhDl5ZxKpiy_QlfAk0V9ETdpGhScsi-EWLHKJSxa5n2truf6GR3WxQ",
+            "width": 4462
+        }
+    ],
+    "place_id": "ChIJj4hx69QkK4gRmvxuXKU5u-s",
+    "rating": 5,
+    "reference": "CmRSAAAAqh-l_jqNU0VvaVcPoOtg3XH6VLvL3z-_tt4DWxn522VcDiSlGitQOwtF7AVGCnxV1dIgnX8rHlNLcvDHgVe1iXGH4wNfEeXikGfWB2jAYbjY3q56l70UY4ute_3QAb63EhBCD-Z_jhRe8ctIBgcTX4vIGhTNljT2wQF4eORypZ-ZS1U8pgVGtA",
+    "reviews": [
+        {
+            "author_name": "Meghan Lafontaine",
+            "author_url": "https://www.google.com/maps/contrib/103400097778814792402/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-nfp6N0sInCw/AAAAAAAAAAI/AAAAAAAAAAc/J5XWph0aS-k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Always ahead of the curve, the quality of work produced is always great. A Creative team that never disappoints. Krystian is a very talented individual and an absolute pleasure to work on projects with.",
+            "time": 1527086336
+        },
+        {
+            "author_name": "Jaclyn Appugliesi",
+            "author_url": "https://www.google.com/maps/contrib/103125848793315293748/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0qBvyVGOEMg/AAAAAAAAAAI/AAAAAAAAAA4/9d2h1mTJ-wU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "Krystian and his team developed a fantastic business website for me. They were always available to answer questions, went through the process with me clearly and executed a great site for me at the end. Highly suggest their services!!",
+            "time": 1526501060
+        },
+        {
+            "author_name": "Madina Turdieva",
+            "author_url": "https://www.google.com/maps/contrib/109017827085641381249/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Wd_VWjoKVvU/AAAAAAAAAAI/AAAAAAAAAbM/AXRXBL-so7w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Such an impressive team, I loved their creative services. I look forward to working with them again!",
+            "time": 1520480521
+        },
+        {
+            "author_name": "James Iglesias",
+            "author_url": "https://www.google.com/maps/contrib/109780773188747179884/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-W1jU9YmJCcs/AAAAAAAAAAI/AAAAAAAAABc/7DDIUVq0kJc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "We developed our new website with 3magine. We found 3magine to be creative, competent, honest, and they delivered what they committed to deliver. Plus they are good people. Our website project is a success.",
+            "time": 1516195321
+        },
+        {
+            "author_name": "Michael Racioppo",
+            "author_url": "https://www.google.com/maps/contrib/116107043377834072975/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-YEqjPWxf2Dk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1yp_zH3QySUBK2eXKE9vSlO1UTyQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I've been working with 3magine for a couple of years now. Their tenacious workflows coupled with vast knowledge of technology, design, and strategy make them for an indispensable team.",
+            "time": 1517004142
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16986233801941122202",
+    "utc_offset": -240,
+    "vicinity": "642 King Street West #403, Toronto",
+    "website": "http://www.3magine.com/"
+}

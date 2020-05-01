@@ -1,0 +1,236 @@
+{
+    "address_components": [
+        {
+            "long_name": "74",
+            "short_name": "74",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bathurst Street",
+            "short_name": "Bathurst St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2P3",
+            "short_name": "M5V 2P3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">74 Bathurst St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2P3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "74 Bathurst St, Toronto, ON M5V 2P3, Canada",
+    "formatted_phone_number": "(416) 801-9110",
+    "geometry": {
+        "location": {
+            "lat": 43.6430295,
+            "lng": -79.402644
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64440943029149,
+                "lng": -79.40114481970849
+            },
+            "southwest": {
+                "lat": 43.6417114697085,
+                "lng": -79.40384278029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "87be069540c6f9bef13eb6c4ed065afe82729762",
+    "international_phone_number": "+1 416-801-9110",
+    "name": "Studio Fitness",
+    "photos": [
+        {
+            "height": 427,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114958877946683165670/photos\">Studio Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAASxQuNIj734pvF3wzDTgOHXP2qqGF6aR6KaaTlD9g9awvmvVeQ0KtQcDWWHxR6AhYbkwprrOM08W98_e-k8JgLCahZIP9F0Djo3-NkfJcl5D6RaMsi3ETOtjY013g67YgEhB3QhNufTbfv_M94N3kxhbiGhRBr8yXhqr9omi3TxKoPAOcz_Ho3g",
+            "width": 640
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115405483290188730351/photos\">Jeremy Marentette</a>"
+            ],
+            "photo_reference": "CmRaAAAASzkF_siZoY88V2EHnd867RTBXm2v6gqz_HXkW18ySUWT9ZiKwF-yT4GhSYqBrJXlxD3rC9sTwgZMEXkNieG0O8mYHFWZMhVVdL9xx7qgE9Huzs2SQS0IkTE84wTBgNMvEhDgigFuUk4Vzjz6FAOM32cnGhSQOp5B4J7kNTsx_l2zyK7pTI68Zw",
+            "width": 3984
+        },
+        {
+            "height": 540,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114958877946683165670/photos\">Studio Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAdCtJcDKZVp36EQF9McUPP7-yQScBnu0Pqfp_AXjllvE3w5qX_GuWpocIbPIbdvbn-TSndy0G5h5eS-kUf62J_RKpPZjJZSjSgQQAz4Amqpaud7DWeCz7oE171DTXGvuwEhDX6Qxa6QChZdyizmTwoTrUGhQB4Z9xOdsRHiXlkKgFmUtr3F62NQ",
+            "width": 720
+        },
+        {
+            "height": 488,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114958877946683165670/photos\">Studio Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAqtpD0zs_Ay6fmR6_UG5SpnPm4Bv6A_xdobcoTb06_hIQFIsZ_Xbl4OWyQhSWuKrXU92eTt98YdP6lXgCsBICDoYRmFfCN8sVoAoRtmGjo9MeWUaFgUVFbP8y8ZCRuaRKEhCCQXzhMjZIH0talfysr1PHGhQxEINN-QSF5O6SIWn7wr0NmvIVbQ",
+            "width": 732
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114958877946683165670/photos\">Studio Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAAaIcP9hvnfmf8B54EynRmz55WjeWmV136cDmSgGB_qLMs6zUUSvZb7CeeJTQ1WSQQgvKqfGIvBdYO71vbfijKzKxvZpN3vlE1Px0kU9voGcKoZR26Y-fo0EyNlMBw9z43EhCe0_ghG87A9CDEBz-nIIPqGhReU4JgnG4XUG1nnOhTeGJoJB5peA",
+            "width": 2048
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110134408286819184458/photos\">Anthony Carbone</a>"
+            ],
+            "photo_reference": "CmRaAAAAR9t8yiiO4ZYL2iILlgJzrqQuLUDEtNx8Y9H6ytdwopcbKbdHZJJ8kHbwQzP9T1N5DEgL1qHP5XcjBMXF2YDmO3AewT8PTZdiEGgsbnltFZ1n94TPPTaO7YX5nen91EgsEhAu7lv4PfPD-X-IlVoy1NdQGhQon0ymmdW-To_ytu7_I72KdMgczg",
+            "width": 3036
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110134408286819184458/photos\">Anthony Carbone</a>"
+            ],
+            "photo_reference": "CmRaAAAAqTU1y4MJYydTcGDC_fykimK9qnNhZmaXBSZ4Wdgp90o0DBIcgG6VqUNSqEoYtFUK4xccWfum2MJU24x5AQNLzdACnnXjQNjvD0oXTw4DqeG4hHK8jiuC7HCyY9IEukHSEhB7wKfNtLqhoCZE5TRA7_Z8GhRDYV0nGdcybkHu0he6WBGu6-F-WA",
+            "width": 3036
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114958877946683165670/photos\">Studio Fitness</a>"
+            ],
+            "photo_reference": "CmRaAAAA1yUvQa3FdkjlXXlOv9dBxPyMrjjZpiqQ_b6ML_DLe7X_S5lWPF0t_KSD9cHoiSpkinVYk9CRexYZmS5cG7ZW8JUDgicqlMEADmC3uxk2shoWoRWQFNsAixpgy7D_gQCqEhBCXU_XyPs4cJWvptLmB61iGhQn5TVYY06IzEukKKgLY0it3ZaZdg",
+            "width": 1600
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110134408286819184458/photos\">Anthony Carbone</a>"
+            ],
+            "photo_reference": "CmRaAAAA-KEz3QVkX89hMoxfuLNebfJDGOkMKXw3GCbTI5BeSWlL4P5DdYrM4QdTIbuppYftTPq3xz6mbzPNDeJz-9DD8rBGPstZ5OJXrBA-xEsXpcO656UatkR9nOY6-TZ-jfXzEhCpoCNQSA34ClfkOsDYcdjqGhQy3EFQetGALvEcLIA8Lks0rlZEGQ",
+            "width": 3036
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110134408286819184458/photos\">Anthony Carbone</a>"
+            ],
+            "photo_reference": "CmRaAAAAMlltZllVM7NeN03duVg6oSUJqy9x6ayVy2NZuv-z7SKsHnilAOJWGOeU3tz60gQSL9nK55Zl0wbrVfiQqIjBZvF7PwkARbNnX9G8qBSgT2twigD1lYuPFpiPnbKvdXetEhDonL-ze9sjMc2mlUc6IJXvGhSybf_7HwdpNMperYUiZpE3xuWclg",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJA_GTzOY0K4gRbuCIhWxvD2s",
+    "rating": 4.9,
+    "reference": "CmRRAAAAvmva8IR2m2GDgV2tPSpNAlAfOeL_Sf-Wzgc3j4uRHCaDBYGC88p8hDZ8PrZLmojD0zh_Av2kZb_7rbFPhUxA041uFOrHdkq2Tc2MAOqzm5FUYTF733FgGcpHVMrNKMthEhAJxAc4x2MPilhfF4BZY0GKGhQbvMGbDpDVwmP7rbyGibNI98h0Ug",
+    "reviews": [
+        {
+            "author_name": "Ricardo Jota",
+            "author_url": "https://www.google.com/maps/contrib/106487285002661084692/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bqRBo3e2fYo/AAAAAAAAAAI/AAAAAAAAIZw/R731oEcsk9A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great cozy fitness studio. Great vibe.",
+            "time": 1515713992
+        },
+        {
+            "author_name": "Lee Tran",
+            "author_url": "https://www.google.com/maps/contrib/118074536577066374779/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-YmjFZzya9hA/AAAAAAAAAAI/AAAAAAAACs0/9A69nTchZuE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Great staff, great facilities",
+            "time": 1503663880
+        },
+        {
+            "author_name": "Andrea V.",
+            "author_url": "https://www.google.com/maps/contrib/101683391944558298720/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-w8uiZgmLt3E/AAAAAAAAAAI/AAAAAAAAD10/Vzz-qTJ5YYI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Great place! Great Staff !",
+            "time": 1499909489
+        },
+        {
+            "author_name": "orlena lee",
+            "author_url": "https://www.google.com/maps/contrib/115244942813145943680/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-CSwn1_8G6qk/AAAAAAAAAAI/AAAAAAAABj0/MeDuDCP_xjo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "I had lower back problems and my RMT suggested changing trainers. So I went to Studio Fitness. I did 2 session per week (with 2 diff people) for a month and it was the best investment I ever made for my life. My posture was constantly being realigned, the trainers don't chit chat about the weather or your day to day, they are serious business and are making sure you are doing everything correctly. I trained with Mo & Sope, wonderful people, great personality. The clientele here is nothing like the GoodLife where I personally wasted my money because I never got results. The clients are serious about exercising, looking good and learning! and on of top of that, I got nutritional advice from the team. I highly recommend coming here!",
+            "time": 1369272481
+        },
+        {
+            "author_name": "KIAN FIT",
+            "author_url": "https://www.google.com/maps/contrib/115807887523993920734/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BH3uEJTx3tY/AAAAAAAAAAI/AAAAAAABWac/HjS6eqP6xfs/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "great facility with amazing manager ",
+            "time": 1479388945
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7714507198596440174",
+    "utc_offset": -240,
+    "vicinity": "74 Bathurst Street, Toronto",
+    "website": "http://www.studio-fitness.com/"
+}

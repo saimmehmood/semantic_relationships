@@ -1,0 +1,204 @@
+{
+    "address_components": [
+        {
+            "long_name": "705",
+            "short_name": "705",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W8",
+            "short_name": "M5V 2W8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">705 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "705 King St W, Toronto, ON M5V 2W8, Canada",
+    "formatted_phone_number": "(416) 504-7375",
+    "geometry": {
+        "location": {
+            "lat": 43.6431033,
+            "lng": -79.4038314
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447210802915,
+                "lng": -79.40258651970848
+            },
+            "southwest": {
+                "lat": 43.6420231197085,
+                "lng": -79.40528448029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d9a0b0d7ef517723f4c7468e39e2148f707d31f9",
+    "international_phone_number": "+1 416-504-7375",
+    "name": "Shelter Canadian Properties Ltd",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJO4_2ZeA0K4gRfTOSY1Jl03k",
+    "rating": 3,
+    "reference": "CmRRAAAACoCmaxP6iA0UvhLy90ZpwMIfghLKhea0XMH4kT7EY27r5F3LKuFS3ks5nkOuCAtKvyQUOrWrOyE7enTjzPmRaXWh16FUg6ixZCYibL70hRtEgxJMu2im-719F9x2_oXEEhCYCwW01kAaiZpzSDZY3rVEGhTWM9BSjy-ENFrvq-S0KwnKppypxQ",
+    "reviews": [
+        {
+            "author_name": "Ryan I",
+            "author_url": "https://www.google.com/maps/contrib/101996500045181867523/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-VkvlRt9__WA/AAAAAAAAAAI/AAAAAAAAACI/noDd-g-0CrM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 weeks ago",
+            "text": "This company has some of the worst customer service. Emailed 3x and it's now 3 weeks and still haven't heard back. They aren't proactive to individual owners.\n If you want anything done, go with a different property management. Avoid.",
+            "time": 1526384844
+        },
+        {
+            "author_name": "Helen Villeneuve",
+            "author_url": "https://www.google.com/maps/contrib/107029088340748484026/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-1erQMRKnetM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3unl9ihhCJ0L9zhGVJapSkuoTujA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Poor customer service thus far - I have been calling for 3 days straight to register with my building and book my elevator for move in and no one picks up the phone",
+            "time": 1463582931
+        },
+        {
+            "author_name": "Tyisha Young",
+            "author_url": "https://www.google.com/maps/contrib/107278299301216913794/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-a9-5QSS97C8/AAAAAAAAAAI/AAAAAAAAABk/PriN5BcgPUU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1504282659
+        },
+        {
+            "author_name": "David Jabba",
+            "author_url": "https://www.google.com/maps/contrib/117077969332492647701/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-0Nf6BRe-jDQ/AAAAAAAAAAI/AAAAAAAAAMM/y0pLxX7YwH8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "",
+            "time": 1311079859
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8778471503207478141",
+    "utc_offset": -240,
+    "vicinity": "705 King Street West, Toronto"
+}

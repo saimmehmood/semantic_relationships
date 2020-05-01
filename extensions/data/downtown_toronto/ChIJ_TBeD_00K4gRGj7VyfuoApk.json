@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J",
+            "short_name": "M6J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M6J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64464599999999,
+            "lng": -79.4164995
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64599498029149,
+                "lng": -79.41515051970849
+            },
+            "southwest": {
+                "lat": 43.6432970197085,
+                "lng": -79.4178484802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d1898834ae4e1f41ebcf9555cb9310af8e3595f8",
+    "name": "Queen St West at Shaw St",
+    "place_id": "ChIJ_TBeD_00K4gRGj7VyfuoApk",
+    "reference": "CmRSAAAAdaziVlSxuhAXN92Rpa91MZP-RqTD8TvuC88D6-QVWUcipUr1Ok-G_DpWHbGxWOoWX0FNwc0R8Nu0-gcujjrn7qyKVu5q1ow8Wb66K6df8J78PAxo6CAAImEjqbiBF0tQEhDxK7Mn7Pq7xmRjQ8n5K3sEGhRNQIUJZTdr7IJiK4M1QNfj3hD01g",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11025560637132848666",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

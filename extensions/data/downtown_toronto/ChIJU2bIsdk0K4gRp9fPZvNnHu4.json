@@ -1,0 +1,189 @@
+{
+    "address_components": [
+        {
+            "long_name": "203",
+            "short_name": "203",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave #203</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave #203, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(416) 977-7110",
+    "geometry": {
+        "location": {
+            "lat": 43.64352369999999,
+            "lng": -79.3936338
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64481558029149,
+                "lng": -79.3924987697085
+            },
+            "southwest": {
+                "lat": 43.64211761970849,
+                "lng": -79.3951967302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "277eec365d7f189a2a06f38b27fe35cb82e8c2e6",
+    "international_phone_number": "+1 416-977-7110",
+    "name": "Octopus Ink",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 314,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111588737864167604461/photos\">Octopus Ink</a>"
+            ],
+            "photo_reference": "CmRaAAAAZa-kAyH03713Zm6pE83cJ2NAqns8Awf-F86N-vFUWywnfyz7fzFoFrEBJGEVW4a4zY1CCZ8oIYXjmbbInl4ah_AsxkjqzSPiXPUdoYX5ZYBeA5lLHhKaM5WViozYPr3cEhAJrxG2SxAtlBLXWi7NabtsGhRK-wCBtjt0O1VHl7Avay-F4cWVPA",
+            "width": 851
+        },
+        {
+            "height": 1022,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111588737864167604461/photos\">Octopus Ink</a>"
+            ],
+            "photo_reference": "CmRaAAAA1PLEYvtxzpDPvev5ponzAz3C5Agdnhiqm0iymqf3EUR3Yj5AdgVAJM9cewQYbUNjbXIFXxkba1DyVumCpvM0UU7tZ6IZ1eTB2NSJxM9B1ymD5t8PcNML5hdKKVqMxMUMEhCm4xY9Xivmhc0x9oNyhFFWGhTPBf0yhyZEr_B1j_yZQ3XmKaZmrQ",
+            "width": 1022
+        }
+    ],
+    "place_id": "ChIJU2bIsdk0K4gRp9fPZvNnHu4",
+    "reference": "CmRSAAAAPgWihVw0K1llFeZiWRBlesaT2ii9Rio5x01UnGPRsmsbdXKxQSxVA8V-kX2zBxvETWsHP39Ukkl5CcAzfW0wk0YlhrcVRkz1sxJLT79ght5YUQkARzndlyW6tuY2RwW_EhAi0wTQ8ZiktOmBbntuQcHjGhTAH6JPHtkOhl6kEirHJYji73UdYw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17158265925427779495",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue #203, Toronto",
+    "website": "http://www.octopusink.ca/"
+}

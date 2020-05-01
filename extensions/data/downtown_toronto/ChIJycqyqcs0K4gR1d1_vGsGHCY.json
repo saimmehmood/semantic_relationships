@@ -1,0 +1,260 @@
+{
+    "address_components": [
+        {
+            "long_name": "710",
+            "short_name": "710",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Y6",
+            "short_name": "M5V 2Y6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">710 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Y6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "710 King St W, Toronto, ON M5V 2Y6, Canada",
+    "formatted_phone_number": "(416) 504-7268",
+    "geometry": {
+        "location": {
+            "lat": 43.6439945,
+            "lng": -79.403087
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452651302915,
+                "lng": -79.4017108697085
+            },
+            "southwest": {
+                "lat": 43.6425671697085,
+                "lng": -79.4044088302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "2f7284cc7116b11a66c58365fc2f21241c8aed21",
+    "international_phone_number": "+1 416-504-7268",
+    "name": "McDonald's",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 506,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111353890037377812079/photos\">Bilal Abou Gouche</a>"
+            ],
+            "photo_reference": "CmRaAAAAXUnjMcjdCJ8pePvExTVoJ5rzWSZQVVuxVdaLUQ7smkxPPDy7b64HpuY3mbAAidegte0ZLDv6tJguEkr22eH7YiWqISm-RLQuhqldjX2okA0mREQInGvbylDWoHFOrYtQEhDwCMK5J7yhFMdhaXLoKBisGhQKhh3484Y4NZMLLZrSvwl5h63iaQ",
+            "width": 750
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106631178858377086385/photos\">Adam Diamond</a>"
+            ],
+            "photo_reference": "CmRaAAAAEgPHA6ymBVYOUPkA_eNYXhgVeFXMSmnrNNNVQV1wL8Z6SSlmUBgBs3i7D_YIpRr3boURF11osOZU8UO3SgYDulkXKi4CCFSnslfD5aemxVWVcSbZugxhrUhE7dr-l2aVEhDqAzzqFtwoe1NwjK2kyjURGhTLXI5ZnHvQwKUsMx-Z7DJgqgzVDg",
+            "width": 3840
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115405483290188730351/photos\">Jeremy Marentette</a>"
+            ],
+            "photo_reference": "CmRaAAAASSDaopU6NBmsTRlwb__cRWFnyww2m21dkBFLHKLWADPKDR8-qWShMEHx44oOIYHcU_x2rIX2TsdbddnJ6r-VpS19TjL51Xa5aFkmClY_7n7A7WRbmhyysgEWMmslxD3fEhBu5R0S-rqkKTa1TWJurRbFGhS7boCHk5L_c1oaS9qeR6r_nRxz7A",
+            "width": 3984
+        },
+        {
+            "height": 546,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111353890037377812079/photos\">Bilal Abou Gouche</a>"
+            ],
+            "photo_reference": "CmRaAAAAmjPqBb2OTz3qjIKNRCVwOBtjEEC9tw4bcOubVwpfazgZnfhWM8X_z_NyY1ogxKZcc8w9BQQoPjwJSH27RJrxkIqduaIOwW_1QbvXDpMXreFVS12FicbnREMHyxvXZr7OEhCs8M8rxeMKNB119qbmaWTlGhQVfw3ljUM3VzHX2mvWb2cm_gr-Zw",
+            "width": 746
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106631178858377086385/photos\">Adam Diamond</a>"
+            ],
+            "photo_reference": "CmRaAAAAO6Nm4m8PZqItr4pwSD8IqwdDrQswMGHrem5u5Ze7Py6TbjtHvx19G7_jtb1lyalvO7qUQIyYvM6z8fNKsMIBF52WA4CUsN1kJvCxhZsBmrHyBAVGStd5kPGjZF0FJRK7EhD82XuAkGLHWfqOd0tjPl0CGhSoAVolna9ofzFASvxYl33QxudCJQ",
+            "width": 2160
+        },
+        {
+            "height": 496,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111353890037377812079/photos\">Bilal Abou Gouche</a>"
+            ],
+            "photo_reference": "CmRaAAAAnDG2fYS-e6CSSDTyy9zIfNSEuBNTsa6LGVsI60dgaoz9oIasvK5Zewu6CsFnVhXxQHkF5hfXF-_NXNlDaKdzeWvUtjL1NrDZLb_yCZdvP8UbRQmdQ7JeuvykflaLvpwHEhDprZeXpcUtYkdkK3G8a5uGGhQUOtSUT31gnXMOJ3NUBLuX98QM6Q",
+            "width": 750
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114673706278979683931/photos\">Curious George</a>"
+            ],
+            "photo_reference": "CmRaAAAAUlX89ZvvcNvOmLIe_Ra2ymhVtU5LMxND1B6fsD8b3q0uVT-oPNmc9bMczdFgeIoRaKZ7Mg36UdJCHAUcUeTCV2GlMalOsK0ImGvCMYm7_-yN1E-ASQ1WHRAHcdwUcNd4EhBhFZoj8c6iSKqoPmnYb3GkGhRFmro6CiMBYwQtQwJEs0SFranA7A",
+            "width": 4032
+        },
+        {
+            "height": 563,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111353890037377812079/photos\">Bilal Abou Gouche</a>"
+            ],
+            "photo_reference": "CmRaAAAAcpYacDCv0TOhEmY4qgkUoC7WcsYX9mkSSGXs8md8NtCVrtAOFgcRc7EYZAB0Js787ghgFy__nH6GRC_k42d4X0PlxHXsBZLNf2dHYwHeFrvsJfQ3NIXCcurnc-vGfI_cEhARmfK9Ec_-swH0U_2t9XSMGhS8cyxL_fsgRZJnL1TJOd-PqXzxqg",
+            "width": 750
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113668728178855204328/photos\">Rodrigo Duran</a>"
+            ],
+            "photo_reference": "CmRaAAAAG79Hwo4M_IIBIPxI2JdgQgFIuDwWDb4O3tXc7bWyohEfIrbgQ_yniE97hYVAtKnBE9thJWliW3UBMA4LFKHJShzTUgmxGejhtbVM2AL_RI8Znx1Wp1QMPwV7jkghzVYsEhDpm1uqy0n5AD6WrG8X73ReGhSA2rPvf4KwuLrFPEHOqEd5hqFEmw",
+            "width": 4608
+        },
+        {
+            "height": 542,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111353890037377812079/photos\">Bilal Abou Gouche</a>"
+            ],
+            "photo_reference": "CmRaAAAAz30Tg4d18YeD0zHXNNlfHT9rmZOFxfLuIIiu5OPxLMM-mzg9wIfQm3-ZElTwyXcwhCsXy8ZZNG6a2BAoxlEcjnbziKAhui0knSapR3zYxczTnzP3uzJyyqsRgsRSPhzqEhCEN5wWZOZS4y4hIVQKSOzKGhRikPsUvPSbW-3EaFfaNPolxP6JfQ",
+            "width": 749
+        }
+    ],
+    "place_id": "ChIJycqyqcs0K4gR1d1_vGsGHCY",
+    "price_level": 1,
+    "rating": 2.8,
+    "reference": "CmRRAAAANRq1_sWrkgEOvUMrfsRDa5ed8bz1GjVMxtu2s0ru9tvjvOkFGo9wFG59vWeZUg7InRtBYkIpvO91iiYooaTs0PJ6JaR6KgFy8jfn1zCiruqOpNDRf4q4zp-k0Z1I4eNrEhA1SHyJerQHHT_ZAgbwUZ57GhRIUaTKiCdhoTGIHYnfIrsQWVCWNw",
+    "reviews": [
+        {
+            "author_name": "Anthony Ishkhanian",
+            "author_url": "https://www.google.com/maps/contrib/115214259686027847722/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-WuX8gAREx5g/AAAAAAAAAAI/AAAAAAAAHjU/xSeNLHbSwKE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "This is the absolute WORST McDonald's in Toronto. I challenge anyone to visit and state they had a good experience. The staff is slow, rude, make frequent mistakes and have never made me or anyone I visit with feel welcome. The register is rarely manned which leaves a lineup of people waiting regularly. Their self-serve kiosks are ALWAYS out of receipt paper (this is not an exaggeration). The staff generally stand around laughing with each other and talking about customers rather than getting orders ready and out. The amount of times I've ordered and been told something in my order isn't available right now and I'd have to pick something else is countless... This has only been for my morning experiences as I work nearby. Don't even get me started on the service at night... It's significantly worse.\n\nI truly hope someone at the McDonald's head office reads this and gets this location back into shape...",
+            "time": 1527862567
+        },
+        {
+            "author_name": "Sydnee DiSero",
+            "author_url": "https://www.google.com/maps/contrib/102904577266427845477/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-EC-Krsg7NrA/AAAAAAAAAAI/AAAAAAAAAdw/06dF6XSKjyg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "My friend and I went to this McDonald\u2019s yesterday and I will never go back to that location again. I would give negative stars if I could. There was no one on cash so anyone wanting to place an order was waiting at least 20 minutes in line. Both the kiosks were out of receipt paper, so anyone trying to skip the line at cash never got their order number. All the crew were extremely rude and bitchy, not to mention very slow considering the rush of people they had to serve. They were making comments about the customers that everyone could here, such as \u201cwhat is wrong with these people\u201d or \u201coh my god, manners?\u201d. Meanwhile they were the ones showing no appreciation for their customers who were being very considerate about the wait times and line ups. \nThe lobby and washrooms were disastrous and anyone asking for napkins, straws or any condiments were greeted with dirty looks and sighs of annoyance. When I went up to the counter and explained that I didn\u2019t get my receipt from the kiosk, I was given a look like it was my own fault. \nThis crew (including the manager) all need to take the sticks out of their asses and learn how to properly work in the service industry.",
+            "time": 1527525912
+        },
+        {
+            "author_name": "Curious George",
+            "author_url": "https://www.google.com/maps/contrib/114673706278979683931/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fsIJeJ1PQnc/AAAAAAAAAAI/AAAAAAAAAr8/Aqpq66FG304/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Came here on a Sunday morning.  Order from the kiosk and got my order within 5 minutes for 2 breakfast combos.  Tried the new bagel sandwich and it was descent for the price.  Staff saw me struggling to hold 2 hot teas and offered me a tray to help.  4 stars for the friendly staff, speed of order and the descent bagel breakfast sandwich!",
+            "time": 1528048497
+        },
+        {
+            "author_name": "Spencer Monckton",
+            "author_url": "https://www.google.com/maps/contrib/109861924721994526738/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-8D1P4CvSJng/AAAAAAAAAAI/AAAAAAAATVE/yV5Ctj6ILSg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "Recently refurbished - looks nice. But service was already extremely slow before the remodel, and possibly even slower now. It's commonplace to wait 5 minutes for just a coffee, even when it's not busy.\n\nUpdate: still the slowest place ever.\n\nUpdate 30 May 2018: still very slow, slightly less so. I'm only ever grabbing a coffee.",
+            "time": 1527712743
+        },
+        {
+            "author_name": "Patrick Wilson",
+            "author_url": "https://www.google.com/maps/contrib/102705868116821011263/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_EO7HSDxvRQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1drsC4iV0tzZRFewOVq9YY2nlHeQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "These guys get a high volume of food couriers at night.  Sometimes understaffed when it gets busy late (understandable as it's 24h).  Good customer service going above and beyond to fix orders.",
+            "time": 1528599094
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2746076932582923733",
+    "utc_offset": -240,
+    "vicinity": "710 King Street West, Toronto",
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html"
+}

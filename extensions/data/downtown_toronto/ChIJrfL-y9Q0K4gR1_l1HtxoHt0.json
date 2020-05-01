@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "75",
+            "short_name": "75",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A1",
+            "short_name": "M5J 0A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">75 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "75 Bremner Blvd, Toronto, ON M5J 0A1, Canada",
+    "formatted_phone_number": "(888) 940-7575",
+    "geometry": {
+        "location": {
+            "lat": 43.642806,
+            "lng": -79.38068299999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442826802915,
+                "lng": -79.3794351697085
+            },
+            "southwest": {
+                "lat": 43.6415847197085,
+                "lng": -79.3821331302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "2f25695f1bdc57b9b0791a66c0d9df1e4c4505d7",
+    "international_phone_number": "+1 888-940-7575",
+    "name": "Le Germain Hotel Toronto Maple Leaf Square",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105413385603648235610/photos\">Le Germain Hotel Toronto Maple Leaf Square</a>"
+            ],
+            "photo_reference": "CmRaAAAA9Z69K3i19PxS49akaznw0nnI7ytcdCM-eayR8v_vf84muMHd1ud76odaMgwW9eTAJCURyG4Stb4I0K1Agsg52lHZdMgjAX9yC6YziYZDxX_syDytD8e0zM2MwGDiU7ebEhB6rRhDkuyejNDovNmNRYMVGhQjqwQp_voX4MWkpQ7P45L9XItEDQ",
+            "width": 4500
+        },
+        {
+            "height": 1534,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105413385603648235610/photos\">Le Germain Hotel Toronto Maple Leaf Square</a>"
+            ],
+            "photo_reference": "CmRaAAAAWEtiVPpwn2ISvUZdxQaQXp6alI-b0Vu-DByqmRtv5dSrlkIawtHdqPx_NTJgl7U1at4rYFf_zY7Dqr1T5UdEaVGmTt8g8HSqXarkdSqXrTnKbducu0yf_lLz6DgjG4sWEhCymUjblPNagC_67aO98NqEGhSENG4YsB_hbcK0vEwtxEVG7BH7Pg",
+            "width": 2048
+        },
+        {
+            "height": 3372,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105413385603648235610/photos\">Le Germain Hotel Toronto Maple Leaf Square</a>"
+            ],
+            "photo_reference": "CmRaAAAAdeYQgpGuDeu40oB6EIuVzbTi2KhZT7jce0of37liAVPsj65wodMSkIdxlNqG2omyiJ3PzxITrSu6bSxQYpgy8HUwrNQV-jsC24eXK7MqYgoM1R-Vo8y1LRwxcZjRtPYGEhCUlrUQ7VftQrhL-BiKbKr1GhQnXfRSMt36XKHBgH3x4eoX-Z7mSQ",
+            "width": 4500
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105413385603648235610/photos\">Le Germain Hotel Toronto Maple Leaf Square</a>"
+            ],
+            "photo_reference": "CmRaAAAA_BoKZLCaJo8JulBabxzWtyynBrZPwRmYLhKgP4xfmgw5u_G_D2H8v5FK7bega2AYVqgOINhsuliBGdktcGMGzK4VHUmYD-aDbESz1G0wvQxvwLF5KlG37X1GOBd8f3GXEhBKgsmsygxXOFKmOy0Xz7ZKGhRM_epkoKa-btypYXw3DroJ9Yv7Zg",
+            "width": 4500
+        },
+        {
+            "height": 3372,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105413385603648235610/photos\">Le Germain Hotel Toronto Maple Leaf Square</a>"
+            ],
+            "photo_reference": "CmRaAAAAM1CPetPm8pFs7ZdNy78d3Ha-vSw5VY5UbR8vS9sm6WkQ9UrZI0nLWuaosawkYSJYFUUxzk6NdCe7BxZCR_AL8IRCnS8Gq2vV82f3h_-Aq8Sa5vHicsRe0mb4ZIWB938aEhDDqZzSH95YsBv1S-mIkhreGhRqZa6sRHRn2FFc-FJ6_bY7lle88Q",
+            "width": 4500
+        },
+        {
+            "height": 3372,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105413385603648235610/photos\">Le Germain Hotel Toronto Maple Leaf Square</a>"
+            ],
+            "photo_reference": "CmRaAAAAGBWTBtFTWvKtWs7TmThS7IahFKg4zNMSznyrg38JUcxuj_49jJg7_5D7Mxt44Xdu3kQiJIsy92X76Om4qXV5ftOsLARgJ_Wj6FkHi5Lok2bRo1S63o_XKTdxStX4MEvzEhCHZNVPAZoDYbLxgTSEkqIaGhSQX8qO50WqBGwrDShzxouPl4o4JA",
+            "width": 4500
+        },
+        {
+            "height": 3000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105413385603648235610/photos\">Le Germain Hotel Toronto Maple Leaf Square</a>"
+            ],
+            "photo_reference": "CmRaAAAAcbeICpJD1e3rOaAV3kk6lBPln6dSDdB55YrzvgEfNptE-LXGu2iJB7Y6jf8eXfg3WfpQU02oqUyfxZZ_RNh_TYrKXGIPZbB4qnMLIrDbuXyxWdDKP821GDYhzOVLCoKdEhA0IZE24Pb8h_4wnaa4SaT0GhS1PjBUDQZm9GiKhu3m1-rt7ct4rA",
+            "width": 4500
+        },
+        {
+            "height": 3372,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105413385603648235610/photos\">Le Germain Hotel Toronto Maple Leaf Square</a>"
+            ],
+            "photo_reference": "CmRaAAAARF6Nuf7w712jVaCsCNIcy3FfmhhZe7vthzoph9bGZQfRKyi60uM4huh0GZ1BsiFu0Hc-WS004tgIOW7SjaKyAfSt723eQR1mkuqgYi3O7BMSEfIr5vxTIpeQ-RjadUlZEhCyaRy4ikZBfDW8o1pPxQjBGhQI7QuN4WwTe8NFYTyPPW_ZTW9SEw",
+            "width": 4500
+        },
+        {
+            "height": 3372,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105413385603648235610/photos\">Le Germain Hotel Toronto Maple Leaf Square</a>"
+            ],
+            "photo_reference": "CmRaAAAAy2XJ7IIvOi33qCayYnH_dsSMahE_ojDyJyKqy_W-DlAj8hnzPm2kBdjrJt8VoMyBcgYtJUw6z3Zu5EiSGs0FVzEUgvhJW2KdT0oMQQ19wIE4eg0b01gyAww0V-QgbrdrEhBvNsZOwiZfViJjYZpGXx19GhSl5cdGBb0g_E9uDenOhJ9MSIIfEQ",
+            "width": 4500
+        },
+        {
+            "height": 3888,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102118208893484594381/photos\">Nicolas Quilitz</a>"
+            ],
+            "photo_reference": "CmRaAAAAZRyETW8hggowq2JSHFgcEbrH8DVkOY9QeugPeE_YZ7OuYxuZJS9SSSBdhoNCUAfd9hqiMkRwOi54z-WEdsA6cJM6BmdFzKk9ea304YQUjo5qqSqtlaZo34Ctji1AShB_EhAr_GFmQNzyPTjwDnKvybKBGhRN2SWX682wrKc3t2PRth3NzPOEBw",
+            "width": 5184
+        }
+    ],
+    "place_id": "ChIJrfL-y9Q0K4gR1_l1HtxoHt0",
+    "rating": 4.6,
+    "reference": "CmRSAAAAWSB8cM5FsyIIcW4HO9IAYCma1Jy1luWb-0P5eiy8hhP-XMMhMNXL36IS0WLLjLxBGEauLaf1uNBaCKAQDC2wlWxjHH0SD2xv8dQwY43vSGztV3QRW69HxwQ9VZV6naIOEhCfkRmm_mQPw8cZ9CqleKtFGhRKvt1rFYC2lqpIET4_3ywOX1Vf7A",
+    "reviews": [
+        {
+            "author_name": "Jarrett jaworski",
+            "author_url": "https://www.google.com/maps/contrib/110488792141806045621/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Dvmy8oSKl6I/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0QzS2cDoVrWwwDL69R4ZoP4T1OVw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Very beautiful spacious places! Haven\u2019t stayed myself but friends have! Said they enjoyed they\u2019re stay and staff was polite and courteous. One day I will stay myself as it\u2019s a very good place with lots of amenities close by and the arena next door!",
+            "time": 1520478372
+        },
+        {
+            "author_name": "John Cathrae",
+            "author_url": "https://www.google.com/maps/contrib/105781420202435151193/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-TJ6a9U2xmXw/AAAAAAAAAAI/AAAAAAAABDc/4Abe3j752Co/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 weeks ago",
+            "text": "Good hotel. Clever decoration and room design. Thoughtful amenities. Great and helpful staff.",
+            "time": 1526429445
+        },
+        {
+            "author_name": "Wes Greco",
+            "author_url": "https://www.google.com/maps/contrib/106515548901177897210/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-vvEixYEDuJM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0gzpkDmnsR5SVgVnQS1o0K656eDQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Beautiful hotel, rooms are very modern and very impressive. Beautiful views of the city. Within very close walking distance to acc and Rogers center. Staff was very polite and friendly and willing to accommodate any of our needs. Breakfast consisted of fruit Muffins bagels. Amazing stay 100% will aim to stay here for all my future trips.",
+            "time": 1515502453
+        },
+        {
+            "author_name": "Simon Potvin",
+            "author_url": "https://www.google.com/maps/contrib/112921555425890649533/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-EzHhMYmE6FM/AAAAAAAAAAI/AAAAAAAADOs/DqMYLsihdo8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "We stayed on the fifth floor for three nights and had a great time. The service is second to none and everybody is so friendly and helpful. The room was clean, had a really nice modern ambience and definitely no complaints about cleanliness either. I'd definitely stay here again if I were going to Toronto.",
+            "time": 1518318412
+        },
+        {
+            "author_name": "Alaa Araji",
+            "author_url": "https://www.google.com/maps/contrib/104406368190275592560/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qJ3CGVSWcjg/AAAAAAAAAAI/AAAAAAAABxo/KcDuVdHuKqM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Wow! Round bed room was gorgeous and ridiculously huge. Walk in closet,  chocolates beside the bed, massive suite and living area. Gorgeous wrap around desk perfect for working with a view of the CN tower. Huge washroom with shower and pristine soaker tub. Pretty much didn't want to leave my room. Definitely liked it more than the Royal York. Wished I wasn't just there for a work trip.",
+            "time": 1521040033
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15933287826296535511",
+    "utc_offset": -240,
+    "vicinity": "75 Bremner Boulevard, Toronto",
+    "website": "http://www.legermainhotels.com/en/torontomls/"
+}

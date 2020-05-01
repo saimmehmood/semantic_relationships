@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "3rd",
+            "short_name": "3rd",
+            "types": [
+                "floor"
+            ]
+        },
+        {
+            "long_name": "1070",
+            "short_name": "1070",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H8",
+            "short_name": "M6J 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "3rd, <span class=\"street-address\">1070 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3rd, 1070 Queen St W, Toronto, ON M6J 1H8, Canada",
+    "formatted_phone_number": "(416) 594-2300",
+    "geometry": {
+        "location": {
+            "lat": 43.64382759999999,
+            "lng": -79.4214648
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450994802915,
+                "lng": -79.42008796970849
+            },
+            "southwest": {
+                "lat": 43.6424015197085,
+                "lng": -79.4227859302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a62651346cdbfea81c4f8c6d681d2b15daefea1e",
+    "international_phone_number": "+1 416-594-2300",
+    "name": "Ja Architecture Studio",
+    "place_id": "ChIJNWBlI_40K4gRfcwlYc70sWA",
+    "rating": 5,
+    "reference": "CmRRAAAAQHI9yCPQUf6JcNEEGAqhaT4i4G62bFEZftleNJNz7FIWf4rJg5pkEPG7LydcMchpCpNnkSOOTd5HPv2ZuSwV3Acdp2mfLK6s1J4cIduny80Qwcmfljw_gXRO2PvRHIrnEhBqXxbDxrs4ut_KwvuOKhdfGhTvEiufbNmevVOxtgLv_mKahQB2BA",
+    "reviews": [
+        {
+            "author_name": "avi odenheimer",
+            "author_url": "https://www.google.com/maps/contrib/115573188502229187033/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-8LM4TnpUWA0/AAAAAAAAAAI/AAAAAAAAGoA/bsCOPn-PzdQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1493752992
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6967619265749175421",
+    "utc_offset": -240,
+    "vicinity": "3rd, 1070 Queen Street West, Toronto",
+    "website": "http://jastudioinc.com"
+}

@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "1801",
+            "short_name": "1801",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1W7",
+            "short_name": "M5E 1W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St #1801</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St #1801, Toronto, ON M5E 1W7, Canada",
+    "formatted_phone_number": "(416) 410-9453",
+    "geometry": {
+        "location": {
+            "lat": 43.6429251,
+            "lng": -79.3741862
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441873802915,
+                "lng": -79.3733258697085
+            },
+            "southwest": {
+                "lat": 43.6414894197085,
+                "lng": -79.3760238302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bbd4da0a9fc9eb930af4fafe4e5bf59f89560e48",
+    "international_phone_number": "+1 416-410-9453",
+    "name": "Toronto Paramedic Association",
+    "place_id": "ChIJz9uEUP8tK4gRvI9TyL8-csw",
+    "reference": "CmRSAAAA-QyYOaejl-BWIBckg_AAwCwTMrQjxMyrYlp5GPEs4tFNWij0LdFAFcQ1fhmDrZslFLYY5D_94GDNrXmMAemVQZuRohWAKqyvIC-oQbSVx9L5x6_VsgqcDGeeAHwc7eh-EhCw71BlmyDWH4jTUKbSHzrAGhRdvsVPsfoMpV3UlPULhVV61RAVkQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14731906324502908860",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street #1801, Toronto",
+    "website": "https://torontoparamedic.com/email/"
+}

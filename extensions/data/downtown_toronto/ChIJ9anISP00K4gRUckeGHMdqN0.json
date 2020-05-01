@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "72",
+            "short_name": "72",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Crawford Street",
+            "short_name": "Crawford St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2V1",
+            "short_name": "M6J 2V1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">72 Crawford St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2V1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "72 Crawford St, Toronto, ON M6J 2V1, Canada",
+    "formatted_phone_number": "(416) 703-9588",
+    "geometry": {
+        "location": {
+            "lat": 43.6435172,
+            "lng": -79.4145399
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448663802915,
+                "lng": -79.4131900197085
+            },
+            "southwest": {
+                "lat": 43.6421684197085,
+                "lng": -79.4158879802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "71901c6895baf46c38f8daeed973bb58f344b433",
+    "international_phone_number": "+1 416-703-9588",
+    "name": "Xtraordinaire Hair",
+    "place_id": "ChIJ9anISP00K4gRUckeGHMdqN0",
+    "reference": "CmRSAAAAeQJsCGgW9fdq_1KBpP5oXnK8--cGGe8Wkcs2hR_aNTHFyD7CQILY8mLg4KPNjw9m4kOhF2LR-Dt8WM4ELVg3unLkQ5fdMytpuB4MlxbaC1EfGNzxiBETQRih90maXEkDEhBPsG77_jVEZAsAIucxYhzOGhQH3U6WOOh_DFfW4e0xkKpW2LN4vw",
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15972048458632579409",
+    "utc_offset": -240,
+    "vicinity": "72 Crawford Street, Toronto"
+}

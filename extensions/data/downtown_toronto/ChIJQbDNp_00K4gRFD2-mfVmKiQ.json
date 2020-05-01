@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "960",
+            "short_name": "960",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">960 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "960 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "formatted_phone_number": "(416) 792-1855",
+    "geometry": {
+        "location": {
+            "lat": 43.64466849999999,
+            "lng": -79.4170974
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64595163029151,
+                "lng": -79.4157242697085
+            },
+            "southwest": {
+                "lat": 43.64325366970851,
+                "lng": -79.41842223029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "c1038df174a9be1486fd44091dd767226a149d58",
+    "international_phone_number": "+1 416-792-1855",
+    "name": "Antikka - Cafe And Records",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 9:00 PM",
+            "Tuesday: 8:00 AM \u2013 9:00 PM",
+            "Wednesday: 8:00 AM \u2013 9:00 PM",
+            "Thursday: 8:00 AM \u2013 9:00 PM",
+            "Friday: 8:00 AM \u2013 10:00 PM",
+            "Saturday: 9:00 AM \u2013 10:00 PM",
+            "Sunday: 9:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104180772999383701846/photos\">Antikka - Cafe And Records</a>"
+            ],
+            "photo_reference": "CmRaAAAAnCzzIUn_LPWtUzVZ3P0-Oibk3gRN4tXFr25nuK5IznmInXBdbdew41NfRExar_Tnidg27BIX-dZqHCuosZ8pgGa3Waqm_ri_dbCTDe8O7K182RUPvEBtTt3aGJVXp2k4EhCRi7PDCsdd1U-u3Zxctl9rGhRH0XZyjk0hh7fdZNnubpjgoycAUg",
+            "width": 1600
+        },
+        {
+            "height": 3874,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAA7tjIlcg2ih98MQO4Vt1-FuEcavT4ewoBnb8DmTScV1xsEEkeRfD7-7taoZWgHu6CPBHVNwP-TI6UfSnBokkv1wtUkgWb4wFJ6K2W1VW0q4_mduxfMb7wqKFK0Q7hdNPxEhBPFnUkavOh9qHVcuFH42QrGhTFHlpgCYPReLHWtEM10JGA3MDr1g",
+            "width": 2905
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAAXfa2JKAi0C40UxpF5nDpbnaDq9rt26Z8gDLhpTSPNJ-dCZI7Gf1OIu8p1f3-1k_fZTtEIqTuI6eDpFidyCzUbyn-NfMofU1p3I7o6giMiIoRxULccKLxmjMnHkU_yDCXEhCwa0UgWhIQzprLSehpATcaGhTcLQQBgKlY_8X24txxLcM8lnhgMw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117199356891290470008/photos\">Hovsep Seraydarian</a>"
+            ],
+            "photo_reference": "CmRaAAAANUs_HYo0h0KAbIoApAEbdjtvQ4gsFSSy_R2uYhKqx8joqsg5jUn7P4dPAPIyLmDVHzTWMmqq2ZRD2LRnISjKhplaGiAG98soO0v8XpIR3ZyzexVq2UeaFx1k1GfSBidFEhCvVFF8NgcYtgWiiqZ5XANoGhRyu6fFtWkaG-DX9McxZxNnLIKYcA",
+            "width": 3024
+        },
+        {
+            "height": 3094,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104180772999383701846/photos\">Antikka - Cafe And Records</a>"
+            ],
+            "photo_reference": "CmRaAAAA8VLePBUuDf-xOjlcnZE1kh2yvX9TQHPzmQOUpKgAi47nDb4WWoNOWELqu_3-pMyXvhsuqaqvMze9OIysypKq1alyDdIo_leYXN_Tb2NHmrxJ7ybmuNh3kdhmCyVTZlyjEhD4yoYmKPgsR_pgiQYAzYDvGhTc2QpgRoOyetWmOKNgaiy3-S1LvQ",
+            "width": 4629
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103275115412882793122/photos\">Dale Street</a>"
+            ],
+            "photo_reference": "CmRaAAAAbFS9XOnLwNde6MDnAoO2-HvZ3PGGBCKy6yOfULBOsKBkoM_UBQd1pIrL475Tw2QnGZKfFGd5r4B3opvdl2Dcv_XJBo2uWaXIlkYx2mc3Ea8Gnzhp3ymcLXGBRU1-SjiqEhBtUTclTIy5xB-2BekwruwMGhTJblnmZ9AjbhyZO8MHH9Am79V83A",
+            "width": 2448
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107992502070125047884/photos\">Giuliano Golin</a>"
+            ],
+            "photo_reference": "CmRaAAAA4Rcq64VA1Mt0s8mDvj-xhAeQRn8Q2eQEldT7b5bR2TddKtUZxeUNfsIKbyidnT71j4U585bjvFfmxUsXeiGxBnSkHHtVhpe7EfL0iaiBgG_OATXPP_IvIPd3QNwUMakXEhBsZCwNOcG0u2Rubr7dwiIbGhRtxfxYYvErffn13BhJ5msqrwzIwQ",
+            "width": 4032
+        },
+        {
+            "height": 4640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109479558740454686624/photos\">Michael Anderson</a>"
+            ],
+            "photo_reference": "CmRaAAAAusWkVn5iPaYqZSuS4qfMmNMgKfMS-FLJjLaQ453Vc1UfqNvUVwKwEhV8BTtvU4JvfFaEQxpA0LbnIYcIKIxmd6RNPMjKn7inlO1fIgDOct_rqhTxvUZFpOF_P3oLCqMmEhCpVQCn7Y9afafrRWDwOt7qGhR3EqiPSH5u7fqCaG6BtmGrXVlPeQ",
+            "width": 2610
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112735614744484991775/photos\">Shabnam Kazemlou</a>"
+            ],
+            "photo_reference": "CmRaAAAA422anzn9ItbhzSaz1DCYiWb4-3JeSfSnEGzDBePa5dYN68WY6lds94cIt-ZUFiEoJhxt1uS5VVbAvpIITW33ZEpOSG-jAkTwaxsLm_xVzFXUjjdGIVwil8LnHUKMHZdFEhAcaWiK0tTtcyCIT1a8RhimGhS6y8BJgsePr1qr321fgFLxUwq1Zw",
+            "width": 2988
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107992502070125047884/photos\">Giuliano Golin</a>"
+            ],
+            "photo_reference": "CmRaAAAApvX6XnrDyn1ZnmL6TxyQNMi12iuTcq8-qyOXWdRtaq76vaT3_dMaIybwjzA29Xnj8ulmgG_X7iOfePFq_zjdfHuUJ-AbMbJ8letyRIuC458FAI8Qpc-Sj4VFfE5pHqYTEhD_8-AR8rAZTFDstiSu2j7TGhRioCBT3He5aGpPPonmA7nA3oLNUA",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJQbDNp_00K4gRFD2-mfVmKiQ",
+    "rating": 4.8,
+    "reference": "CmRRAAAAMlng24Bf0N7uv0cIDPyUyj_VOW5MmIAIHGEweyPzsT2EO0jEefPf-aXN86jnn1qYEoJoBVhJtlowN7vC2T9QVy3jls1k_OX5-MvDEMweXjtwLDhky2MqcG7kv7X-yrFVEhCfQhgcQWiZPOuXtgYQxtv5GhQ5WCpbWvZAZVj5EI0JoO0OePH4nQ",
+    "reviews": [
+        {
+            "author_name": "A Cartier",
+            "author_url": "https://www.google.com/maps/contrib/116167134721249142208/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bPAS-oMgXpA/AAAAAAAAAAI/AAAAAAAAIKg/HEu6OZfIdGg/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "I must have passed this spot so many times and I never realized that it was a coffee spot.  From the window, all you see is the old records and some rock paraphernalia.  Once you walk in, you see the espresso machine and the really nice cafe sitting area in the back.\n\nI find the atmosphere quite different in a good way.  Rather than hipster cool or lap top hording... this place has a bit of an edge with a lot of the exposed walls painted dark and rock posters hanging about.  If a coffee shop and a man cave merged into one place, Antikka would be it.  I do have to admit though... if a man cave could have the array of baklava as this place did, I may claim the cave as mine.\n\nThe front of the store is mostly clean and well stocked boxes holding all the records.  They have some brand new ones and some gently/previously loved.  The prices seemed reasonable... $14 for some?  I'm not sure what the going rate is these days.  Either way, a lot of the records here looked like in great condition and all in sleeves.  Perhaps thats the norm but it seemed like they really cared about what they are selling.  \n\nThe back of the store is mostly the cafe with a real espresso machine and an entire display of baklava.  I should have bought some!  There are a few cute small tables along the wall with really nice cross sections of a tree trunk as a table.  I like when the beauty of nature shows up unexpectedly.\n\nService here is quick and friendly... Even though he was answering a few questions on other thing, he wasn't stopping making cups of cappuccino or flat whites.  I did notice they use Hale coffee beans ... this isn't a knock on Antikka but I've decided that Hale Coffee beans are the most sour and acidic of the Toronto roasters.  To me, it's not a good flavour... which is unfortunate cause I'd love to support any Toronto roaster.\n\nFlat White - Even knowing it was Hale coffee beans used, I would say the skill of heating the milk, balance of espresso to milk, and even the pour... it's good.  It's possibly the best Hale Coffee drink I've had... even it was better than the one I had at Hale itself.  It still wasn't a great cup since the acidity was there but it wasn't as bad as other spots.  3.5/5\n\nOverall, great interesting spot for you to check out if you love records and coffee.  I bet you can score a great conversation with the staff as they seem to really enjoy their craft and the music.  I may not come back for the coffee but I'd be willing to try the baklava!",
+            "time": 1528761932
+        },
+        {
+            "author_name": "Sevag Titizian",
+            "author_url": "https://www.google.com/maps/contrib/109259916785268411578/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-UXEHHuIchNI/AAAAAAAAAAI/AAAAAAAAAEE/_fB8zIYzxcs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "This place is a definite go to if you love coffee and music!  If you don\u2019t love coffee and music, a visit to this gem is warranted,  it will magically change your life!  Amazing brews,  fantastic selection of vinyls,  great prices and a very knowledgeable and friendly staff.  You won\u2019t be disappointed by this unique experience!",
+            "time": 1528383443
+        },
+        {
+            "author_name": "Dmitry Romanenko",
+            "author_url": "https://www.google.com/maps/contrib/107800613955572206836/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-szKX5aVRgrU/AAAAAAAAAAI/AAAAAAAAAj8/h-SSFlE4Z4k/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "This place is apparently quite new. Coffee is absolutely brilliant as well as tasty pastry.\n\nAtmosphere is very welcoming, good music & design inside overall. I'm surprised to not see a lot of visitors, because this place is potentially hidden gem!\n\nUpdate: I went here again, and service is still beyond my imagination. Folks, you rock!",
+            "time": 1519516835
+        },
+        {
+            "author_name": "Sara Beatty",
+            "author_url": "https://www.google.com/maps/contrib/105244229604331445915/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-2dym6In5-bk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2hSzoKIcjg_gYuWDC_E8iptiVeqg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Nice vibe with excellent music playing and old vinyls. Coffee is terrific. It was a nice break on an afternoon shopping trip.",
+            "time": 1526335353
+        },
+        {
+            "author_name": "John Tashjian",
+            "author_url": "https://www.google.com/maps/contrib/109780469417419671429/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-l0htcPxGLGc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq33185Ai-dIQ96NO3U6TeZbu6T54w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Great coffee done the traditional way. Bought some records while I was there also. If you're into music and coffee this is a definite step",
+            "time": 1527527153
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2606008539419655444",
+    "utc_offset": -240,
+    "vicinity": "960 Queen Street West, Toronto",
+    "website": "http://antikka.ca/"
+}

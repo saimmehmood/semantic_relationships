@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "8-18",
+            "short_name": "8-18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Peel Avenue",
+            "short_name": "Peel Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1M3",
+            "short_name": "M6J 1M3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">8-18 Peel Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1M3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "8-18 Peel Ave, Toronto, ON M6J 1M3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64393099999999,
+            "lng": -79.4285472
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452799802915,
+                "lng": -79.42719821970849
+            },
+            "southwest": {
+                "lat": 43.6425820197085,
+                "lng": -79.42989618029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d7cb2d7f1705f4b29ff4fc6baa2b85114c115be3",
+    "name": "8-18 Peel Ave",
+    "place_id": "ChIJBydiK6s1K4gRBdwLciWht5w",
+    "reference": "CmRbAAAABFqEn_sh2R7Uv2Q0e7hGvN_EwbVfm06uND8UDBNwnhSSKmy4BeRvaZxVnbT2YKA22cNg4bLuHi8uyTp5v9al3ZEZHr-Bk3dNGUoph3dw-p0R_HL7odp3y6UWLvzPy041EhC7DSwfsbLqPEx6IGEGClOoGhRHU_3cOFzNhA4tCPUCsL0C5k5R7g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=8-18+Peel+Ave,+Toronto,+ON+M6J+1M3,+Canada&ftid=0x882b35ab2b622707:0x9cb7a125720bdc05",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

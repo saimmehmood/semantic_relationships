@@ -1,0 +1,214 @@
+{
+    "address_components": [
+        {
+            "long_name": "39",
+            "short_name": "39",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">39 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "39 Stewart St, Toronto, ON M5V 2V8, Canada",
+    "formatted_phone_number": "(647) 960-3604",
+    "geometry": {
+        "location": {
+            "lat": 43.6433238,
+            "lng": -79.4008788
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447522802915,
+                "lng": -79.3995604697085
+            },
+            "southwest": {
+                "lat": 43.64205431970851,
+                "lng": -79.40225843029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b334e2d480247f2bbc3bc62f453ffff975325978",
+    "international_phone_number": "+1 647-960-3604",
+    "name": "GlowTO Spray Tanning",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 7:00 PM",
+            "Sunday: 10:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 357,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115303915624418776513/photos\">GlowTO Spray Tanning</a>"
+            ],
+            "photo_reference": "CmRZAAAAq2kthGZMTFsZo4PYUn6PoR-6-UpbynbMRMzVSa6AER9jdU90yKu9MefJ4_5IDb0R46yUlocJNb5omB9Z8FvtGjWdid7KAORWqcN8F14OqJEfeYHsIVndMOUIxcu9oCygEhCPEGTsYNL-cckIMxvD9bXUGhSu4og5KmXVs25uUmtOCDWYYnLcIg",
+            "width": 823
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115303915624418776513/photos\">GlowTO Spray Tanning</a>"
+            ],
+            "photo_reference": "CmRZAAAAaa8Py_xKqY5EK9LH65Df5ulOeBEyhXodHXHI7_23JbuoCjwJdO2XLt8OgwCqREldNqpoxvPYW4xtKD-orkTSVvH4Dy1wpppjoftdFhqaD6M7yhM6nUQPyeQk0q_HeU6DEhBZqYz2G8unLusxbNUBKvojGhROlOYOuvouj34t3B6KlaYU-SwaFA",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJj3llgCA1K4gRH1dRDgjvRb4",
+    "rating": 4,
+    "reference": "CmRSAAAAqyZdK6780gvnF7Jo7iCstZzDA-s6j0Q2WC_hwXgGazSqT88MJYb9hHswvw1e01tU2riHQ8E3OkrRuzLp7TZoSpOn7InD1FdlAEfhzNQdLDWfE0Enb8xirCIGX14v3_fCEhCeNjXP7dTLgh4GqISNDO1cGhRJqou2XC1boWNYE7yMxY13u8wL-A",
+    "reviews": [
+        {
+            "author_name": "Katrina Pierson",
+            "author_url": "https://www.google.com/maps/contrib/114185979293222897982/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-928grn6sDM8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0bjlvLcADMawQnjHrK0nvfpbIkBw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1516937073
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13710627458478331679",
+    "utc_offset": -240,
+    "vicinity": "39 Stewart Street, Toronto",
+    "website": "http://www.schulzbeauty.ca/"
+}

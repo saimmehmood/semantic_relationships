@@ -1,0 +1,257 @@
+{
+    "address_components": [
+        {
+            "long_name": "1130",
+            "short_name": "1130",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street.",
+            "short_name": "Queen Street.",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J3",
+            "short_name": "M6J 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1130 Queen Street.</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1130 Queen Street., Toronto, ON M6J 1J3, Canada",
+    "formatted_phone_number": "(416) 536-3738",
+    "geometry": {
+        "location": {
+            "lat": 43.6433348,
+            "lng": -79.4239673
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446837802915,
+                "lng": -79.42261831970849
+            },
+            "southwest": {
+                "lat": 43.6419858197085,
+                "lng": -79.42531628029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "eea1b5b3abed572300bc337f3fccc27d4e94ec9a",
+    "international_phone_number": "+1 416-536-3738",
+    "name": "King Slice",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 12:00 AM",
+            "Tuesday: 11:00 AM \u2013 12:00 AM",
+            "Wednesday: 11:00 AM \u2013 12:00 AM",
+            "Thursday: 11:00 AM \u2013 12:00 AM",
+            "Friday: 11:00 AM \u2013 4:00 AM",
+            "Saturday: 11:00 AM \u2013 4:00 AM",
+            "Sunday: 11:00 AM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101858620377211327303/photos\">Dae Jeon</a>"
+            ],
+            "photo_reference": "CmRaAAAAbjpqCChdalmAzZnPo2GJGlYy91uLBgROgYFDLke7zsIAWJdMjn_P57NjMYEsBjc8dMAw3eWqH4zWJXpfeetpjkCtCTU5Ngimq8j4l8PNa3oKsyiOAbCvH1lfUPtoEVR0EhBnkanr1U16w6PJBkVLv4Z0GhSwOl7Rw1BZ4_QYXgVVvVJGLya3dg",
+            "width": 4032
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106676427807765859087/photos\">Gustavo Fernandes</a>"
+            ],
+            "photo_reference": "CmRaAAAAQU4TcnNgq9rNBv2aq7uIaQk6E1g-dDHEKm5Yf2PmyLnwYpQXmlud8bHnJaOQ_KQY-Qky3eRXWILD3HJtXjEM2Muwcx_4078z60uVx1eb0fkOnl2X2_7CbCHKR4GrFSotEhB4NqFpTO10qkNBVCbAdaFaGhT0_R0L2JWBT0aHtdS7Soo7FFgCdw",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJNfDhIQA1K4gR0vaKNkgX_yQ",
+    "rating": 4.2,
+    "reference": "CmRRAAAAAAJKj-ArXQfWdzwOeQwqxfgeHPMcrgiLuxw2zB7kh3XUbWkWdBJdnCe6pIalEMYP9B8FnIP2QPONWUidGlpXe2hpCv5Y1_1tYJcYDkXmLyI3fak-sF2XwUC7gt6rDxqUEhCK0PSz-w2jx4hZItb4NDoyGhQSOvUWRQl7_yu4DtEEEatVO6mK5A",
+    "reviews": [
+        {
+            "author_name": "Kieran L",
+            "author_url": "https://www.google.com/maps/contrib/111209724432629290926/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-pqjY3e5Mfuc/AAAAAAAAAAI/AAAAAAAAAa4/piANEV2wLgo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Huge slices, much better option than the pizza pizza next door if you want real pizza",
+            "time": 1527656334
+        },
+        {
+            "author_name": "Hamza Muhammad",
+            "author_url": "https://www.google.com/maps/contrib/101152436850694143941/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-2CskJncXVKI/AAAAAAAAAAI/AAAAAAAAM8k/fuUWpTrQH0o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Awesome Pizzas but average service. Love the Arabiatta",
+            "time": 1522949392
+        },
+        {
+            "author_name": "Dae Jeon",
+            "author_url": "https://www.google.com/maps/contrib/101858620377211327303/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-dMn6L9-D4_A/AAAAAAAAAAI/AAAAAAAAF-g/ak1fkinP35c/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "Good late night snack after a night out!",
+            "time": 1528672846
+        },
+        {
+            "author_name": "Hayley Stewart",
+            "author_url": "https://www.google.com/maps/contrib/103463614912511713923/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-c-Ti_ET2iHM/AAAAAAAAAAI/AAAAAAAAB3I/07Yk-GKFKwY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Arrabiatta for days. Tastiest pizza in the city.",
+            "time": 1503705013
+        },
+        {
+            "author_name": "Yuanzheng Feng",
+            "author_url": "https://www.google.com/maps/contrib/100767643762013704985/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-IcdjsNhf5nI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3URbkjttPnh7jIAuc-5_ApEjypuA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "so good",
+            "time": 1510173919
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2665875103346783954",
+    "utc_offset": -240,
+    "vicinity": "1130 Queen Street., Toronto",
+    "website": "http://www.kingslice.ca/#!king-slice-queen/zoom/mainPage/image1yw4"
+}

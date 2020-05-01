@@ -1,0 +1,189 @@
+{
+    "address_components": [
+        {
+            "long_name": "775",
+            "short_name": "775",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2K3",
+            "short_name": "M5V 2K3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "UPH1, <span class=\"street-address\">775 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2K3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "UPH1, 775 King St W, Toronto, ON M5V 2K3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64301200000001,
+            "lng": -79.406201
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444492302915,
+                "lng": -79.4048862197085
+            },
+            "southwest": {
+                "lat": 43.6417512697085,
+                "lng": -79.40758418029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "64b349af96d3b01db50d8e1cfbf68cc0a39b3e00",
+    "name": "Ellevate Health",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 4:00 PM",
+            "Tuesday: 9:00 AM \u2013 4:00 PM",
+            "Wednesday: 9:00 AM \u2013 4:00 PM",
+            "Thursday: 9:00 AM \u2013 4:00 PM",
+            "Friday: 9:00 AM \u2013 4:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115231586009431351914/photos\">Ellevate Health</a>"
+            ],
+            "photo_reference": "CmRaAAAA_eU42xQD0wsSDM0OeFfN_AWWNEYCQxDwG005pIi_1G523ZCTEufxPTAyG24IUQhFRrQJAghD6cckZOQnj125BQJ9-HIxLTn5jv9ZaB3t5St7-ObPT9DJEUd4B4q06c6PEhCP0SzWkJFQznknH-r3lEgqGhSSUWa70DPhZaOo-ZfhHtzYzAvg8w",
+            "width": 799
+        },
+        {
+            "height": 668,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115231586009431351914/photos\">Ellevate Health</a>"
+            ],
+            "photo_reference": "CmRaAAAAUrdQJoGFRTGZY4p5yejZFU0ofzdgorNu2qB-MC2IOhx8Ylei6mesf75S2ZYBgQ_Xzsu-hb7mMxxwC7NKI9ZJahcbCn_8pGQ5djw-ix8TQHcUQ98h2UTvXqpADPKtQ8BYEhCJM1YzFEe2-KMYq7ZFZhUFGhTAJmtdPDqtDLNPLyiGB19k2uXgXw",
+            "width": 668
+        },
+        {
+            "height": 420,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115231586009431351914/photos\">Ellevate Health</a>"
+            ],
+            "photo_reference": "CmRaAAAAhgezmxJmJW9W0f3FyyiWnjlQd89x5PJe6zEa20qRdv3ZYn29lT93ZDJ5pFXBbYqlZXA2EIes5kKY7vejO5cvN3DMxyVR48HVHrSMkoyoCOHdxdgonWlw1DXd7UZ8sM63EhCLpwVurScYgGbbq7wRPfFIGhQBrFMfEuz7n3e0zNiZSCn-CAoF7g",
+            "width": 1500
+        }
+    ],
+    "place_id": "ChIJOb20yeE0K4gRDox_CI0PYh8",
+    "reference": "CmRRAAAAhvDqVk-RrEwHnQMIJof_9fPmEKjdfUPy5n0AplvAbm9yDSdOKi_faTJhqfWIe55atWEsm6rNIx56XnZKTRAaw4Ur3rn9zevVFpx0A9AAjU9KLXKL-peNuSGwYCIrNpk9EhBoSu8h1HsVGcj5PQLDcKanGhR7fdaIvns2ePJUFY0sF0Zaz972yw",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2261387061300792334",
+    "utc_offset": -240,
+    "vicinity": "UPH1, 775 King Street West, Toronto",
+    "website": "http://ellevatehealth.com/"
+}

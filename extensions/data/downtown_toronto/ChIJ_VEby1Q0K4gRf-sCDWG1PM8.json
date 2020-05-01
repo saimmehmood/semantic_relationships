@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "984",
+            "short_name": "984",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H1",
+            "short_name": "M6J 1H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">984 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "984 Queen St W, Toronto, ON M6J 1H1, Canada",
+    "formatted_phone_number": "(416) 538-8882",
+    "geometry": {
+        "location": {
+            "lat": 43.6444203,
+            "lng": -79.4181665
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457155302915,
+                "lng": -79.4167979197085
+            },
+            "southwest": {
+                "lat": 43.6430175697085,
+                "lng": -79.4194958802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6de20f1793ec0cfad7f650c8e770fe559081cf89",
+    "international_phone_number": "+1 416-538-8882",
+    "name": "Dat Salon",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 742,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105583535892117759795/photos\">Dat Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAAv5wbkjHkldvQC7sUM0jRjS_Jxdz7ngR_PG_X1aLH2wuel14W0W1jqxyZna_ts-VEg-pWYCV6StNuWkM36U_OvtjMiaBNiWP4DKMruB73Teek4GFoM8f_QJnx1-n0zQ1tEhDBdva6d0lTHQaBDWptf_b2GhTLANIiHbCxqzBMSvd8q_yhSzJHPA",
+            "width": 742
+        },
+        {
+            "height": 3280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105583535892117759795/photos\">Dat Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAAisd2M-gWfMKysJAFvP7m1YfWSGBX2FNvdJFBf40kOTIi356uSzZYGlgWwj8YRfdo0xN5cff4vEHvMbZXVJIzpD_HjksB4hSFcemBffVgzXaqQclxB_kEX1EfZgeS8a-sEhCRbIZ4CIuIoqN7vF6cQ22vGhSQYrsVzrOA4R8fth6kwvQDJi-RLg",
+            "width": 4928
+        },
+        {
+            "height": 3280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105583535892117759795/photos\">Dat Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAAcK1rVSq1S5rx4X078VPiZoBtm-jCWe4jLfuoC-yjTM1eEoK1wZlqA-TCvw3HucLQ0GRgnuyieVKFERNbm42zvnjlbBFepaHNSLNKZu21xNMwsmtIdUtxvU86qF48XqwPEhADh5ZAb0UDMyLXjYFkthAYGhS0wXiuYdrxPTAYRnYeTQSHB2kfdQ",
+            "width": 4928
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117436387126867065884/photos\">Konstantin Shaburov</a>"
+            ],
+            "photo_reference": "CmRZAAAAi-i2OSY2NPhD7Kh32Rz3WwIsXAcW1P1wCb7-WKFAxA5IMT_LIf-J21j6Ovx0jFoDGC9qVySJDLzsHpYbk6XajeDzoN3ltxORhtScTc0faLcFTUitQ8XXjy4cpXVWZ16WEhCL187oSEmnyMy6O2b4XqmOGhTl1ntkrnfRstRxTxPaBN6hBE_MeA",
+            "width": 1080
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105583535892117759795/photos\">Dat Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAAywcTNwQ76zuU6KOA99GJXNX9CBcvubR1JUWqdcmBfC6m8th5qq_hU8go--WywN4rn1YT-c5HgHVBAsw1bduQbFev4iJ7FPkyfkDbYup65uBtXvADfqaRnX_Z2zbItGW4EhATk5uExrMGXFPIQFJPrRlLGhSSnep2ZnbtqKn-zjrMcQzi7mBSYQ",
+            "width": 5184
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105583535892117759795/photos\">Dat Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAACh5vmM_HrCen6Xi4TlqjSNL0OZYtMw-FCWXMrAmAM8PKZrfWoW-q4TpVYf284O5rj5VVW1zSnJKeG6ZOgCcyUDD3pHeqXj3RUx4e26rnHadVAnhjgr2z7B8e3E6sBpP3EhCzMT8cVJ8nfbU1M-3DQeZSGhT4Tz7Hfj_ZqCCoyGu7qDOaddUWUw",
+            "width": 5760
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105583535892117759795/photos\">Dat Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAASwLF_urx5Kbho37EYbp8QrbeYHJ-iMUHh0WPx7YdzCeZoMX7TW5vyzkJgs7W-WEkS4zIgco0Fp6Hk0KjYHRKLXW1c8jnFRo6VRKu1EH9VUe5eKxFS1pB90r9KkaeRaFtEhD6KIzDT7XC5GX_uiukpwYuGhQNa3SYTPl9haY58X1wtvfUpEx9GQ",
+            "width": 5760
+        },
+        {
+            "height": 734,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105583535892117759795/photos\">Dat Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAAw158PXZ6K5CaEvND698OyC1mRZ54SaWCSWK1TarKNLkGz1dML1F3XW7ZJd32W416lE5CeiStGpWs_oQ3vPZ_WiwqqTdmOa2qbMiiTwtwaEaF1-wWptsFUxon0a8Q7ei6EhBkHs-cDI-uBVf7XcgvH7mpGhSHOdsy3zc1YWXGOgMIJb6g92lihA",
+            "width": 750
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108311856180335253758/photos\">Ariana Biagi</a>"
+            ],
+            "photo_reference": "CmRaAAAABUvcfzUjLjF7pjFGsyBWp4VNP-HF4xIuUp8nGivDFGKUnSlmi_bJYLM9sYPmfK27GuAWuswagpGk4wiIHfFxcSPpgP0oQetAvRSB3F1mJzUEzlTDJhTz7TbMiFQq4GuHEhCcs2vwODgWFAppREro9QHNGhRrJffUBkUc91ne-zaMQOMEhSehxA",
+            "width": 1932
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105583535892117759795/photos\">Dat Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAAgkT694WQ2n_Z5hckjLaEm_PTJEBBG5z2jgk9Bf3YNKanTGbKuPeqWOXHHZpVJmZqpXO5RJrAKA566axIG9xYAuOkT0YfspPfCTGjLO17YLqfZGgnqHoftoNLnOMrYWaIEhDIMYDQjuiBX5WQPVtvysotGhQyUuwwEWNJFdTHqdjzYoMDo66fNg",
+            "width": 5184
+        }
+    ],
+    "place_id": "ChIJ_VEby1Q0K4gRf-sCDWG1PM8",
+    "rating": 4.6,
+    "reference": "CmRSAAAA4v9VQ9ADhSckkOU363UAxrwRHkwEI0WmK3drUXAzsKrO0GeQOIVgBK_mRPeohHGp8WgdGZtM0LenBirm_oXlXTycbU648WhWsIkWTjASUz6ypDvB5uuSnqds27DouIwGEhA3pjL7t06Vsl4r8Xf-lZTHGhQw1FBfiNytF7AgGdExDBuctP8Ukg",
+    "reviews": [
+        {
+            "author_name": "Deb Gurofsky",
+            "author_url": "https://www.google.com/maps/contrib/116459049162590338230/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_CNm6xbWfdw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq28rHgYa59HZJ2iUmpRVLsQkN-AGw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "If you're looking for a balayage that will change your life, you HAVE to see Stacey!! She is UNREAL!  For years, I have been going to hair stylists all over Toronto and none of them have been able to achieve the look i wanted on my hair.  Stacey KILLED IT!! She is literally the queen of ash blond!! Especially if you have dark hair and your blond tends to come out brassy, she will change your life!  Brassy NO MORE!! My hair looks so stunning, i absolutely love love LOVE it!!!! Stacey - you are a life changer!!!!",
+            "time": 1527683645
+        },
+        {
+            "author_name": "Annesah Hussain",
+            "author_url": "https://www.google.com/maps/contrib/102582910737203591369/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-wgdCu9U74-s/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1JBOXs3i0Bw1MKmqe8IFVFFVYaGg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I had such an incredibly positive experience today at Dat Salon with Stacey. I went in for a caramel balayage and she was so confident and comfortable with her work and since I hadn't coloured my hair in a little while, this put me at ease. She explained what she was doing, as she was doing it which was amazing and didn't leave me guessing. She was also great conversation during. The salon itself was also quite modern with amazing artwork (from local artists I was told), and the music just gave the place a \"feel good\" vibe. Definitely recommend this salon + Stacey! :)",
+            "time": 1521512844
+        },
+        {
+            "author_name": "CanadianFascination",
+            "author_url": "https://www.google.com/maps/contrib/114537174203720844507/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-xFUTAHUDpqU/AAAAAAAAAAI/AAAAAAAAA6Y/IZt_ggHRrjA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "I had an okay experience that turned into a literal nightmare! Long story short, my hair had pretty intense banding after a single wash after being coloured by Stacey in late February. I emailed the salon letting them know that I was unhappy with how my hair turned out. Stacey offered to fix my hair and the banding for free. I booked a time with her and sent her updated pics since it had been about a month since I had come in so she could see my current colour.\n\nShe replied saying thanks and that she would see me Monday (when we had scheduled the appointment). I didn't reply to that message in two days (I didn't feel it was a message necessary to reply to and had replied to all previous texts). So today Stacey sent me a message saying she was done with me. I've attached the screenshots where she said that my lack of response over her attempts to \"bend over backwards\" to fix what was essentially her mistake upset her and that I could go somewhere else to get my hair fixed. After sending that message she blocked me on Instagram and my phone number (I can tell because none of my messages went through after that). I called the salon and was told Stacey was busy. She then sent me another text saying that my general attitude was upsetting and I can go to a new stylist (she then blocked my number again). I called again asking to speak to a manager. I was told he had clients until 7pm and he would call me back. It is now 9pm. Based on her original message that states that the manager respects her decision, I'm guessing I'll never near from Dat Salon again. They seem content to let someone else clean up their mistakes and let me walk around with banding in my hair and apparently have to fork out money from my pocket to have someone fix my hair. It's a good thing that I paid $300 for this dye job that I'll probably never see again.\n\nI am honestly appalled. I was pleasant to Stacey in all correspondence but I should not have to be grateful that a stylist is fixing their own mistake. I understand that mistakes happen. Not all hair is the same but to expect a client to bend over backwards to make you feel better about your mistake is ridiculous. I'm the one walking around with hair that I literally can't leave down, I'm allowed to be a little upset. And the fact that a stylist and salon are okay with completely cutting a client off and blocking all forms of communication for little to no reason after they gave her a bad dye job is completely unacceptable and unprofessional. I've attached pictures of what my hair looks like now after ~5-7 washes. You be the judge of whether or not this is an acceptable hair colour to leave your client with. If they don't want to fix the colour, the least they could do is refund me since I didn't get what I paid for.",
+            "time": 1521769953
+        },
+        {
+            "author_name": "Claire Muldrew",
+            "author_url": "https://www.google.com/maps/contrib/106982285075001025835/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Xr72NY9i44w/AAAAAAAAAAI/AAAAAAAAAOY/JdtYBi7EqhE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Stacy is a cool chic with a bag of talent!\nShe\u2019s been doing my colour for nearly 2 years and she never fails to amaze me.\nShe turns this brassy broad into a golden goddess everytime, and with such flare! \nShe always makes me feel super comfortable and at home in the salon. \nI highly recommend Stacy Jones if you are a blonde, need highlights/ colour and want to leave the salon feeling like a million dollars!",
+            "time": 1527379760
+        },
+        {
+            "author_name": "Elena Cavaliere",
+            "author_url": "https://www.google.com/maps/contrib/112134787420344059183/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-hjp1kNgQKk4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2WKIz3O9EbASe8KEZJVnXDkgHlMg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Cut was lovely. My colour was warm when I asked for a cool tone and I could still see greys after explaining how coverage was my priority.  Won't be back.",
+            "time": 1525461353
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14933009892888472447",
+    "utc_offset": -240,
+    "vicinity": "984 Queen Street West, Toronto",
+    "website": "https://datsalon.com/"
+}

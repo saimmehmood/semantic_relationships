@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "772-800",
+            "short_name": "772-800",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N6",
+            "short_name": "M5V 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">772-800 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "772-800 King St W, Toronto, ON M5V 1N6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6430963,
+            "lng": -79.40672339999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64444528029151,
+                "lng": -79.4053744197085
+            },
+            "southwest": {
+                "lat": 43.64174731970851,
+                "lng": -79.4080723802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d9c2ba613923c26563e146bc8d271b4494e779bd",
+    "name": "772-800 King St W",
+    "place_id": "ChIJ3YBMx-E0K4gR_UR39dqPYpc",
+    "reference": "CmRbAAAANbpK4WH1RhZqeiNTOzQqrwPakcaLuV4CSrOAZbyoYWCewhyYDvRNTRo7NqxbsWJHoBrlNiYtqBhPApWJHNr9f0MRSIT6vxMaq0BbZnXwlcTo6I3Is8QA7Lerle6ES0bDEhDjVxZmFPjtL62fxVPOQzzlGhQDgZfvYf6YxtiHMt1k71OolbC3-g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=772-800+King+St+W,+Toronto,+ON+M5V+1N6,+Canada&ftid=0x882b34e1c74c80dd:0x97628fdaf57744fd",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

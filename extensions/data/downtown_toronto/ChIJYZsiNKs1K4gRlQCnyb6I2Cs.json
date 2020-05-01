@@ -1,0 +1,92 @@
+{
+    "address_components": [
+        {
+            "long_name": "440 Dufferin St",
+            "short_name": "440 Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2A3",
+            "short_name": "M6K 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">440 Dufferin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "440 Dufferin St, Toronto, ON M6K 2A3, Canada",
+    "formatted_phone_number": "(416) 665-2784",
+    "geometry": {
+        "location": {
+            "lat": 43.643834,
+            "lng": -79.4293531
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64518298029149,
+                "lng": -79.4280041197085
+            },
+            "southwest": {
+                "lat": 43.6424850197085,
+                "lng": -79.43070208029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fb54d9e5a769798f245bceae70f149dadf3f2602",
+    "international_phone_number": "+1 416-665-2784",
+    "name": "Topana Investments",
+    "place_id": "ChIJYZsiNKs1K4gRlQCnyb6I2Cs",
+    "reference": "CmRRAAAARwRG6lIsSB249_27w_SsAVX4cZQ1BAqPNoi2vweN2pUOPQHXt31Ika1XOcz6pdLnpEMoaJSIincbesze22sYdBFZr8lpDE2W-OTMPp8kLTXb_fcmK5rWlg2qQklSCTRoEhD4rcfAF6924jHEUq1uXjgKGhQ2edpXSeywNyQsT2DQFt--tTVQqQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3159425491608731797",
+    "utc_offset": -240,
+    "vicinity": "440 Dufferin St, Toronto"
+}

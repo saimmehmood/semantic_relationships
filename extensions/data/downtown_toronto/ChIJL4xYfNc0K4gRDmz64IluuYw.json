@@ -1,0 +1,173 @@
+{
+    "address_components": [
+        {
+            "long_name": "351",
+            "short_name": "351",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2T6",
+            "short_name": "M5V 2T6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">351 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2T6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "351 Front St W, Toronto, ON M5V 2T6, Canada",
+    "formatted_phone_number": "(647) 247-8003",
+    "geometry": {
+        "location": {
+            "lat": 43.6434127,
+            "lng": -79.3910993
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447743302915,
+                "lng": -79.3897555197085
+            },
+            "southwest": {
+                "lat": 43.6420763697085,
+                "lng": -79.39245348029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4e4a4f0bb5f67294ee98e0d69f310d2baee1d8e2",
+    "international_phone_number": "+1 647-247-8003",
+    "name": "Spa Smart",
+    "photos": [
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114082028365009658115/photos\">Spa Smart</a>"
+            ],
+            "photo_reference": "CmRaAAAAaKEHj1fTaUB9depRzofkYNouiOPV25TRPJUXSfe11aB-DlmwsyDii5F_D5Pgm1XnO6YXPiea9OQKIffFxFhtkqizcsK2M9Irl42vFB5f2a3e9B7k4WG2w1pdfIk30aO_EhA4vjVRGxMPl_AjmYRO5QzJGhSgRtueraFbQxtJmIzNyqHd5LNgCw",
+            "width": 800
+        },
+        {
+            "height": 567,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114082028365009658115/photos\">Spa Smart</a>"
+            ],
+            "photo_reference": "CmRaAAAApkx5tgWQzyfjYGsZBa0BCSZuHaHJq0oH0OKZBfCCIPsmfIVm2etA6zOXnWCzFD-Zxdrhrz8vGXIY3v-T3fmJ1chDyapmnfpBEjQPRB8_9tvKPxktmU2WC3sxmC-LSZuHEhDzi4GO1Mt9IL2Qep6S1UnPGhRXXT5Gd6ic27dEM7ozJbxlekLVtA",
+            "width": 847
+        },
+        {
+            "height": 384,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114082028365009658115/photos\">Spa Smart</a>"
+            ],
+            "photo_reference": "CmRaAAAAPe8rT85MJAafMZyiVa-D4BiLShcsJjugHh6E5h_q4w9q764Scvljdz40dYjUXQO05iXcvg_ygBtu3FEZubO4XeLpph1piq0qy0LLtKln09J__1ZuezF1BrOkkbuhqssMEhBfbmPRWqsR0gEBUCCGQuKGGhT_HC-GeWp7oFzju9r7KhLb1GyDHg",
+            "width": 512
+        },
+        {
+            "height": 282,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114082028365009658115/photos\">Spa Smart</a>"
+            ],
+            "photo_reference": "CmRaAAAATKRH2YupwRKAqmbOhs_WumWXSw1wbTRIQGn3M4RQDIvk_CVdxZT-GWrtW7whJx9Yt9vTjBEksKGmGINQERTonB1Djacz8namLgL3Sc7Ew7Oj9pbKKYaw9jQDXJP4W8kMEhD7kb6-g29TFoFWeJMf5SgvGhQhC0WWNaVUjA7r3akqSWT69orZEw",
+            "width": 425
+        },
+        {
+            "height": 416,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114082028365009658115/photos\">Spa Smart</a>"
+            ],
+            "photo_reference": "CmRaAAAACi22oLko-SL-OkAc1jcJ1oZkKisbzX8F_dU0ZUMms7srcv1eiInArRgszjDJIt42JbZxXfC1KZPM-BatDTBhXmJiMzMdjA4I4GGqiUZp4oL5clfRHEGz1XwcY008ghfjEhB-4dkx-3-NZU1nd7cOfbJTGhSxBcDeTp-z4WL4WsUaVa9cksvg5w",
+            "width": 500
+        },
+        {
+            "height": 564,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114082028365009658115/photos\">Spa Smart</a>"
+            ],
+            "photo_reference": "CmRaAAAApirjKaWsDtbnO7whsy78-ittvUmr3EcYt8V_jvHYlu7lCK8dGJCiv-nvOsFcdyPOpWKMDnCrxG4TmiVm8i7RYIRy06CSDfeVCUs71pqbyDaAWGuxuk-Nv6QBIKhRovUaEhBy-OGglsBBj1q9eSG7IZUnGhRF1bV3USIQRuqA8AdfK5Hfxi-FfA",
+            "width": 851
+        },
+        {
+            "height": 564,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114082028365009658115/photos\">Spa Smart</a>"
+            ],
+            "photo_reference": "CmRaAAAA5bvky7rUu_rH8d_0t4ADBMVyDskfEgs5UV-5k-gwRpIefa0GeLRLTtKCbxXG1-i5xjvvhMOfnI4P-K-oWQGtu_6S1cAHdFJZXqjl6y_HSGF0uT2rKSaUvYJysiNFItJfEhCjfM1vrvSkkl1Qw1ai7FXYGhRkv4X8reUtEDPrWyo-sY-E0QaeUQ",
+            "width": 851
+        }
+    ],
+    "place_id": "ChIJL4xYfNc0K4gRDmz64IluuYw",
+    "rating": 5,
+    "reference": "CmRSAAAAQhgfqA2c3NhKGP0X6SGG3kTqbOkJZZo1I_Fwz6vb3MwcY6L611VnnYhiRLhYEit0pGLBBE0N8-UZAmJ2MeSiNVZHwQ8f4SCe-9ftu323KkHdmbkI4g-xNL6f1A6DZ5joEhCwL9OsNqTaHxbwOTNxFoqnGhShH7xLmc5YdO_jwHI0JKowO-RLUw",
+    "reviews": [
+        {
+            "author_name": "Elizabeth V.",
+            "author_url": "https://www.google.com/maps/contrib/106167136168336519178/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-EVDYptAH7r0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1BgwjGeK3ijECwC3gOAv09Hf1raA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Manicure-Pedicure combo was great! I found Spa Smart Toronto on the web, called, placed a request & got the confirmation by email. On the day of service Olga (Spa Smart esthetician) arrived 15min. in advance to my apartment to set up everything. She did an excellent  job on my feet & hands. During the service, I was enjoying talking to her. Thank you Olga and Spa Smart team for spa experience.",
+            "time": 1356806830
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "spa",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10140257574465465358",
+    "utc_offset": -240,
+    "vicinity": "351 Front Street West, Toronto",
+    "website": "http://www.spa-smart.com/"
+}

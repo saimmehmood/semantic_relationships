@@ -1,0 +1,174 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1W7",
+            "short_name": "M5E 1W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St, Toronto, ON M5E 1W7, Canada",
+    "formatted_phone_number": "(416) 335-8000",
+    "geometry": {
+        "location": {
+            "lat": 43.64272,
+            "lng": -79.37412599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6439215802915,
+                "lng": -79.3732102697085
+            },
+            "southwest": {
+                "lat": 43.6412236197085,
+                "lng": -79.3759082302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "909a78fa75281bad661070a0c7e165a702c44974",
+    "international_phone_number": "+1 416-335-8000",
+    "name": "Arcus Consulting Group",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1638,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116439056039323645048/photos\">Arcus Consulting Group</a>"
+            ],
+            "photo_reference": "CmRaAAAAbdR6Ztg2PSOTe2EIngPpQcITs0fe1LqZefqfGk39PYAXCjqE_-F5QLedBlUAxHbMSiqCKmKWcRzdl2YkhJhEey3J3ZRF9_4iLo8RqkoxXqAeyqt1iV8FCmnQD1b3wQIiEhAfP_oyWQVrEB5GLwr9Db8PGhR8ZLH7zvbtcC3aUB7lDUE2D0CzPg",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJ8eiyYSnL1IkRMNzsZrpalH4",
+    "reference": "CmRRAAAAGmPmn7bbvGXUXtls7ZTv77TmYnv5waNo4nEnUUhHUQ80m-sEj-Cccdy7WD2QZzPtTZT1S_BK5JS7z8MMi8gH8_SJccrnqTU-889kKJ34H_9c5sfa5Hqxkq-e9YGIY1rOEhA8vDgiUM7NRIz6rUK99UBMGhQKpFz6d9lEXcI3ABSR6msCRWnHsw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9121014901969312816",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street, Toronto",
+    "website": "http://www.arcusgroup.ca/"
+}

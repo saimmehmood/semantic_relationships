@@ -1,0 +1,143 @@
+{
+    "address_components": [
+        {
+            "long_name": "952",
+            "short_name": "952",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">952 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "952 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "formatted_phone_number": "(855) 898-2378",
+    "geometry": {
+        "location": {
+            "lat": 43.6447481,
+            "lng": -79.4169481
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64601003029149,
+                "lng": -79.41556271970849
+            },
+            "southwest": {
+                "lat": 43.6433120697085,
+                "lng": -79.4182606802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c78b2e81d74ecfb0c39e50aa23350dce0f16659e",
+    "international_phone_number": "+1 855-898-2378",
+    "name": "Bike Share Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 754,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107361564184876838735/photos\">Vince Dumond</a>"
+            ],
+            "photo_reference": "CmRaAAAAXRSyVn-6tknlIvt8nPsew7sDA3GrKJl6ow1rjiecNrCuzPH6fA497ftWSw16rjPyyv6q9VNxuAmwcdP3ptZXqlnT0YDiPh_jdybagkotyhSG8ufm1qB3nC2Aoj_LWMu2EhDIbhelo_H-JFA4oMk4y2IgGhQn1SsriW0qjU1VQPx8rTWreQ0uGg",
+            "width": 940
+        }
+    ],
+    "place_id": "ChIJR4zvp_00K4gRM5dU66X4Le8",
+    "rating": 5,
+    "reference": "CmRSAAAA3B4Krog9m9lyWK9beA9jiagHGbnTzM4LHx4Wp8r7cVMNIPnAXAA24ArkXgCrBuDLNmQ6KGWE5qXgPIJRm88cj7S-tcgRMHKrhbxDgSKvJbV1X3lfbc-Q-Xo0HiIY650YEhAhmdz0_kUo-eMB2PB_nrgSGhRQl8XhqESPWKuTFPsZ2XoMd03_Gg",
+    "reviews": [
+        {
+            "author_name": "matthew nastuk",
+            "author_url": "https://www.google.com/maps/contrib/111681605849162776431/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-gkVdDa2s-Fo/AAAAAAAAAAI/AAAAAAAAAAc/M65RSos9Az4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Like this service!",
+            "time": 1518516995
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17234704740518238003",
+    "utc_offset": -240,
+    "vicinity": "952 Queen Street West, Toronto",
+    "website": "https://bikesharetoronto.com/"
+}

@@ -1,0 +1,203 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55 Stewart St, Toronto, ON M5V 2V8, Canada",
+    "formatted_phone_number": "(416) 575-1028",
+    "geometry": {
+        "location": {
+            "lat": 43.64324589999999,
+            "lng": -79.40126149999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64467468029149,
+                "lng": -79.3999433197085
+            },
+            "southwest": {
+                "lat": 43.6419767197085,
+                "lng": -79.4026412802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "95f6c377fff09346c8366026b9dc88038e0c1760",
+    "international_phone_number": "+1 416-575-1028",
+    "name": "Royal Lepage Realty Plus,. Brokerage",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 10:00 PM",
+            "Tuesday: 8:00 AM \u2013 10:00 PM",
+            "Wednesday: 8:00 AM \u2013 10:00 PM",
+            "Thursday: 8:00 AM \u2013 10:00 PM",
+            "Friday: 8:00 AM \u2013 10:00 PM",
+            "Saturday: 8:00 AM \u2013 10:00 PM",
+            "Sunday: 8:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 533,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103140476695172737354/photos\">BUSCHTEAM ca</a>"
+            ],
+            "photo_reference": "CmRaAAAAKs2h38b9AdiaIfU_bd4etY32ZV_ekfFdQ1nhGaVDx_HQXbTAexKlLn4Nviy-CoXNjkp3hmAuPYRlSVCQBwuOBJqWkUZ-o7dkR-VSPZul1qHdyru23HT2T6Ad1ReWcMPcEhBjM5pBO-9i_qyJVt_LiuLEGhTQVZaC6hlbrOfeMR1A509OAbRGGA",
+            "width": 381
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113132215055357042276/photos\">Royal Lepage Realty Plus,. Brokerage</a>"
+            ],
+            "photo_reference": "CmRaAAAADLAT9YAyPeDXIyO3j8qef9VjP5i4AB5gnSvFzsKW8juin96I6fqAogWviJe0A_VyjF0DHuqrLcOSLNuJznj0l3JWM-SrEoBk-XiB4_3cZ4wY_GHukDl3XoOb-mxk-hNYEhCAO7LdCQkqCshMTTn4NuEmGhSV1GG_xpLiWUJtINmUPZ0pjC4gEQ",
+            "width": 1363
+        }
+    ],
+    "place_id": "ChIJQwnd2t80K4gRm5J0Y0NXI-4",
+    "reference": "CmRSAAAAUbyYANGficXKICKpa08zAVX-SSZ4xoHNdb7qIwNiX9bw8G2czhpJ4oUtAyQevq_JgI-MxPI8HsHRPGyblR9mB2OBaZ6ZLBz8-vPJnaYTCOljTj7WspzrCf-oMwEpaeCsEhBJH0sPu2ASmbqtn9J8-DJ8GhQDit8JNZmJvJiA4DSbMvl3JxXcqQ",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17159654952154731163",
+    "utc_offset": -240,
+    "vicinity": "55 Stewart Street, Toronto",
+    "website": "http://www.mattbusch.ca/"
+}

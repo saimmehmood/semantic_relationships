@@ -1,0 +1,303 @@
+{
+    "address_components": [
+        {
+            "long_name": "555",
+            "short_name": "555",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">555 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "555 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(416) 205-9775",
+    "geometry": {
+        "location": {
+            "lat": 43.6444836,
+            "lng": -79.3990122
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6459127802915,
+                "lng": -79.3976941197085
+            },
+            "southwest": {
+                "lat": 43.6432148197085,
+                "lng": -79.40039208029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "00cd4d9628626cb32d32032b0647fde4672cfbf4",
+    "international_phone_number": "+1 416-205-9775",
+    "name": "Perfect Leather Goods Ltd.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:30 PM",
+            "Tuesday: 9:00 AM \u2013 5:30 PM",
+            "Wednesday: 9:00 AM \u2013 5:30 PM",
+            "Thursday: 9:00 AM \u2013 5:30 PM",
+            "Friday: 9:00 AM \u2013 5:30 PM",
+            "Saturday: 12:00 \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117163076160786880770/photos\">Tim S.</a>"
+            ],
+            "photo_reference": "CmRaAAAADh5KJ1Ss2DYDlrATylyHB_O_pqpYhN2efaEvjg4Ifsttr0ENQ2DZe374IWITzz642fEWn9BhHm8q7vXIy0MeeVMQooxbglQsIlzIKzd_5SQ6JFE_yRI2UAubjdf69wl9EhD5MyPyDmY-WuDfaeBxOQQDGhRMUD8uMZzuVV4TFDNaKs6CMPj_ig",
+            "width": 4032
+        },
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115705192845405387365/photos\">Taras Kupchak</a>"
+            ],
+            "photo_reference": "CmRaAAAAWhaLKZU3l5iPFM9tOOrsvaq-WWs1_fEi2YDr3gRAIarNrw5V22q_oPMveujBp_goIMJxgALqJ9Ca8nu0wQ2OxsClqhVAwOsVf5Mgdr_DWl7pq9ms154MK_qmsClAikKsEhBZBFVd4mZVAZkiT4AZ6JepGhSlKB4f0ttleicGlbm6ULFZNSiIdQ",
+            "width": 4640
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117163076160786880770/photos\">Tim S.</a>"
+            ],
+            "photo_reference": "CmRaAAAARPiWr7JuRTMderYWMjrYh6yiF7kOToeaMlmWlw4O-InlYlEBNBX6lN8DKddy6nwe9kUv07mBZzwh0Fl33XaevQTBLy1f-MJVlHKc3R2UQJT3c2ZtQ080Vwqi0LUr6occEhDspIPOFlGG9ab8TjKW4XpaGhQ5xD9F86OrIzS7197TXHQha9bTAg",
+            "width": 4032
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAERbA1Sc_IoMNDzeNg7_X5oqii6uguJMRhnnstouXX_yIwiZj9Rdue4mOzx_1AKXna950Fq7sZJ6SEfaV_5g30fWBIPP9CA5oJCvyLw2TC5tWL7vA2DyAYFvDAhpgJCSLEhCfiA9FxX8WokLoYtrmP-OEGhSF_mKTrHWfL_niQ1xgwZjYQtxE2w",
+            "width": 4896
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108306644875463537287/photos\">Matt Boston</a>"
+            ],
+            "photo_reference": "CmRaAAAAG7ic20uf4tJOQBajHuXpnaMbzfraKHg9R3hw5a08XF1qnwX6N5OdLmbSFkRJo-uQQvMrUO-XIrqwppoTGfjVpLarXN3uw6uXlt1_uQBkQKo8hJqVHlnfj3VkCC60KMg1EhBPK7kZsY4SAcFZRsJi578OGhQGrBDBE5AEGxudQVaRcaGSafTwLQ",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105807994049055045082/photos\">Curt Sachs</a>"
+            ],
+            "photo_reference": "CmRaAAAA1xdF4zZTzikGTsZOUb4mX4VLIrfvKLepsIwxDNL2i9sUwpVL-RMmSAwgb3QW6szHhvbIIs3fpnlBvEq4moMRslVd35Zbs4Nc5fduu6o-0jzieXo3k47il2li3rAZHW6LEhD2JMv-zA7ZVOA7gI4eq0NpGhSi403KTZjp9gAawcVAf4EgLIJbqA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115891039998059608855/photos\">Gad Acosta</a>"
+            ],
+            "photo_reference": "CmRaAAAA3szwGdjhB-IqbWvGfhNAbds4nhHNcVPLnLE5OWN-3EUx96UMEWAYVkdMvfpfYcyrmXhjVsr83SH5DNjUWoDlaoGk8LMQ4epMbePId3t31VKp1X7uW1DCCl75XddgLL8YEhCiHZ1zX2vTnhMLGdtd3R6IGhSaGfuyQwuk3RQoSY-5WoLy1PUbig",
+            "width": 3024
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108306644875463537287/photos\">Matt Boston</a>"
+            ],
+            "photo_reference": "CmRaAAAAV5Dcki4Z50BywWyUni5vvIQBpmmHVPQHN-Kojf0tlmSRYuzhzyqoOdRex1E9Xjd4XY7DWGETtbv9m_5w4xvY6I9xSZFPXpQ4ItCWNkmphmw6v1BHK77wxn3R6CxxmmdLEhC6TUL19tBBBrQ9iAO9eAgjGhQ4XlUdZgBWs9qeoAThWaeSqf1Rfw",
+            "width": 2988
+        },
+        {
+            "height": 278,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108211548210699820137/photos\">Perfect Leather Goods Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAA6CvHjzgCL67AXAYkilinohAfz-sbldsm6PHqA6c241CuQCRfklvzwi5AprKBX1yPJbwft8nC9jE1N1zY6kBo1Kk-JxEv94n-W-IVjgNV5HIY8NsKIxbeACrQITJDwmdtEhApvzHKq3HZ35hcC94rCCX2GhQDvFptUSC7HNV6du68yRnV30l0ag",
+            "width": 800
+        }
+    ],
+    "place_id": "ChIJhTOe7t40K4gRh3uf8WgTKco",
+    "rating": 4.5,
+    "reference": "CmRSAAAAZdLVRtYtMatvJ26fEJCgTgIlGZS4Hu2ADAd1OOe_-SX00QoK7_l39sCLw8bU9FyMfOP9w15epf_ezlaHCfdTY-A4SVNnAjvmHv-5YtzA63SIrASNixOkeK2aIZMgOFW1EhCIwcByxIdCltOaZJZUbinrGhQ4yA6zsUnkqc8RkD_sr-yYz3o7-Q",
+    "reviews": [
+        {
+            "author_name": "Liv Yap",
+            "author_url": "https://www.google.com/maps/contrib/114969568892067809100/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-jPsmUeDoZUs/AAAAAAAAAAI/AAAAAAAAAG8/vaYhlUm5w90/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Got a giant tear in my leather jacket and took it there for repair. Very happy with the results. It was done quickly and with great care. I wouldn't know which panel they replaced if it wasn't my jacket.",
+            "time": 1524343486
+        },
+        {
+            "author_name": "J M",
+            "author_url": "https://www.google.com/maps/contrib/103226505234083237605/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-AEF3bgvVgOE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0926bNr0rac0Y-OgzAwiYzqoLrcQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great selection of hides and very helpful staff. Consistently have had a positive experience every time I've gone in either to ask questions regarding their inventory, or for guidance on what type of hide would suit my particular project. \n\nLooking forward to going there again!",
+            "time": 1514677370
+        },
+        {
+            "author_name": "Ana A",
+            "author_url": "https://www.google.com/maps/contrib/100031448521421829346/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-yoYMRO3GcBQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2z14OASRW7BJufI6YynZPbp5jzRw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "They have good quality leather clothing for men and women in a variety of styles. I wish they would update their stock since it seems like most of the items are from a few years ago. The staff are friendly and knowledgeable.",
+            "time": 1513412813
+        },
+        {
+            "author_name": "Colin Nathaniel",
+            "author_url": "https://www.google.com/maps/contrib/117670392510007902658/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-yobvTzjGDEQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0r485wCrEvwpwCvOw4FfDSQv5mEg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Best place for clothing. As long as you want that clothing to be leather",
+            "time": 1521857924
+        },
+        {
+            "author_name": "Shaun Meeks",
+            "author_url": "https://www.google.com/maps/contrib/100357493474555506507/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-yu0OU71-mnc/AAAAAAAAAAI/AAAAAAAAFco/SCJbl2oYJfw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Very helpful and knowledgeable staff. Selection is great.",
+            "time": 1517804918
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14567195811157867399",
+    "utc_offset": -240,
+    "vicinity": "555 King Street West, Toronto",
+    "website": "http://www.perfectleathergoods.com/"
+}

@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "401",
+            "short_name": "401",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E7",
+            "short_name": "M5V 1E7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">401 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "401 Wellington St W, Toronto, ON M5V 1E7, Canada",
+    "formatted_phone_number": "(416) 967-1500",
+    "geometry": {
+        "location": {
+            "lat": 43.6434677,
+            "lng": -79.3950356
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64502158029149,
+                "lng": -79.3937688197085
+            },
+            "southwest": {
+                "lat": 43.64232361970849,
+                "lng": -79.3964667802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2dd8fa4ff2b88b64f8123e248d8c8935fe4b4abd",
+    "international_phone_number": "+1 416-967-1500",
+    "name": "Design Group Consultants",
+    "place_id": "ChIJF8wpBdk0K4gRiRElxkQGfx4",
+    "reference": "CmRRAAAAkViDloPA_oBrDHqnZEe78-p82sTX9sxvpfa1K9sYkoKcNZDVyy_S_mkHha24DbPb6a0LqqgYK5wMrCOSYF5EycYgMMhlKsTHSPZ-9bl2bAI-MjDnmRqeq09G00JK3QvUEhCsBb4pUfvTfzWfKgE7yCdmGhRZKYNSOatu-7syBgsddwO21Pxxxg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2197482035631952265",
+    "utc_offset": -240,
+    "vicinity": "401 Wellington Street West, Toronto"
+}

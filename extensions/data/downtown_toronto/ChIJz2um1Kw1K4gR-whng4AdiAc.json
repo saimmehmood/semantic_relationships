@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "98-84",
+            "short_name": "98-84",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Brock Avenue",
+            "short_name": "Brock Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2L4",
+            "short_name": "M6K 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">98-84 Brock Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "98-84 Brock Ave, Toronto, ON M6K 2L4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64441789999999,
+            "lng": -79.4334855
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64576688029149,
+                "lng": -79.4321365197085
+            },
+            "southwest": {
+                "lat": 43.64306891970849,
+                "lng": -79.4348344802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "96b4e7cba208bde867670b7d9d166738aeba62f2",
+    "name": "98-84 Brock Ave",
+    "place_id": "ChIJz2um1Kw1K4gR-whng4AdiAc",
+    "reference": "CmRbAAAARrxW2j-FoAXIZUDz0-qSZHjXu5SEXtU7iofsauQAO3QhCHjfo_OtbQBOsbdM6sdDOa99R1PxuzkmONNPh3BzmwVum9QUnTlRWWjX1hmUii7nPjXD5rxLENU1rnuj_0cNEhD0KdULOXzRYBWw-ygZUvAnGhRn8TwXy83zK86To9UO53syuPIl7w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=98-84+Brock+Ave,+Toronto,+ON+M6K+2L4,+Canada&ftid=0x882b35acd4a66bcf:0x7881d80836708fb",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

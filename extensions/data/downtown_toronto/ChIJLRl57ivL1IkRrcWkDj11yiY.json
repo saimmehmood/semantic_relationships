@@ -1,0 +1,289 @@
+{
+    "address_components": [
+        {
+            "long_name": "12",
+            "short_name": "12",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1Z9",
+            "short_name": "M5E 1Z9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">12 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1Z9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "12 Yonge St, Toronto, ON M5E 1Z9, Canada",
+    "formatted_phone_number": "(416) 222-0025",
+    "geometry": {
+        "location": {
+            "lat": 43.6428717,
+            "lng": -79.3762208
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442206802915,
+                "lng": -79.37487181970849
+            },
+            "southwest": {
+                "lat": 43.6415227197085,
+                "lng": -79.37756978029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c6aec48873a80f7e3502d9082274dc489d9663a6",
+    "international_phone_number": "+1 416-222-0025",
+    "name": "MAC Furnished Residences - Downtown",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 8:00 AM \u2013 6:00 PM",
+            "Sunday: 8:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 393,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAA_TBKxaA314DrOkzY1_YkhANUnPGvGbs1wYL_PhvcCBKru9SktP3T31WDB6Vieh8nDP9MN-DrePYj0qOUE_y8n9Ky-Tqped48QbMA1rZv6yImaSA2qGA2SFSPfI9oQSyQEhA5GVgk0EB-5-CuIYpBqKLIGhQAQ6tw5-oNg2wZbbfn22IP8JgDAQ",
+            "width": 700
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAAMwPoM7m5RgUJ0LA4s_fByEHdQK5RhA6lmz-031MOZSHNxJAYrFtuNPprnZ5ZvNlAABdJOhlZjHub4MzQNqdPNEKcNdZHOTFHND17uAx1lA4FGwdXUJzHDapv8rogNZ7REhAoKCwUmflm1yBx1OaU6WSnGhTmfP4CO077i7T9l5JhmFBx8B6yFA",
+            "width": 1356
+        },
+        {
+            "height": 1356,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAAY7oqn05wNNVqCVXIy2WkE6aFhiqKloMfw5T3cu9ujzhzVTu_yOVI7LKlbJP4BiUmcuPcDBXMLi9abtaMPp55msvPRccVOCw1uIXYr1c4RYmBgfWPjztJXPtxxFnNAQusEhCi9iO4XSOCmzRFSo9y4r-9GhTWJ4hCzNACWAZnagFTBPdS7UNTcw",
+            "width": 2048
+        },
+        {
+            "height": 1356,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAA6nObxUNmaOvLSTCiAB5vV-8GUPxOPw6S7mY8YFOdmrkd2FBlnhVLzHaw9zV7EFaOIKCys5kMrm7KW2Q6yMPpfPkk_zO7pH2LNpszNeQLdB1GSMT9Xfz5u895jUKTeBMuEhBTf0uNoP42Gg43adIguB9eGhQgiImpTMa8QRTM8kc7VpyIrGrFRg",
+            "width": 2048
+        },
+        {
+            "height": 1356,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAAzXzjnFExT8PkKwuhUNhJAxO_aJ-SaEcvg4DQ687y4xoiHrVFYeAf9vCkGQ_RQxmF5dcFBPKt83RoYkUB47lXBmzGbIvuNrTOilqBkFu0S7hAGawREKfGyc1FYH19GA4tEhC8FAzQHyRxMeRHQNnkOZAYGhS56jqPrh8ME7IVREzRKqOd-YXUTg",
+            "width": 2048
+        },
+        {
+            "height": 1356,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAAY8_fgKiQKcplmQAh8s2Vw5atL8rRKaFTUcUl0AaAd-RQMC-B3V-OM45wDmGfLd-oDQYyZBmt0MPf7E2-Ne8sb1NgewCysnoCch2HQHbVkqtEuNrBN0cj23VbXw4EtAwdEhAbOUd8McjaqVEIV7Pdj1bhGhSNi4lsL1QDiigGIk2HUaQa3FBbyw",
+            "width": 2048
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAAObHeILT7yGn0nSQs4Jo-gVurQc-vThwP_glZnRTk7PHVXVz3kpCCwb4a38_91KMO0f5hi0k3SBr8u7nVE1L17F5H18NoiAj8t9kXNtvIxdip2vCv54SEZoJzlBDkc0erEhCuy6pwXjk3MB4xw-SXeTrxGhRuds34gUsm2xPDo2xhq25V3KivOA",
+            "width": 1356
+        },
+        {
+            "height": 1356,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAAFyNbr5cBbiB7V13b2nWln4YJ00bQRB1pSzN1485Dn6xAbyGGS9p75HKUvRSNlt40JTBHgDHghm3z5vbUMYeAjFL9_dYMidIOqct-YQyK0yIuMkr8CNLzVpmoMdLOuHuqEhBDKbqTZb4I-33o1CTOR46wGhTLFZW8K01ECJH7Kxa7mZIYWpEvgA",
+            "width": 2048
+        },
+        {
+            "height": 1356,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAASbQlnIrXq0z_L6gNl68l-o3xJbb18Imjs6iEKzl-LOfks4rbBTq0CXCaRrH1XvkHMTiMMNQMEfTmQoW9IgpgnFmEtHKcSAWjGdeVbc6GvT8uEudeFAypZG0j18tS_UeuEhAq4gANRpTcAufc8P47q5NOGhQMdwEUFybuBkOfQ_4D2_5fNwJ3VA",
+            "width": 2048
+        },
+        {
+            "height": 1356,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107837672818521222556/photos\">MAC Furnished Residences - Downtown</a>"
+            ],
+            "photo_reference": "CmRaAAAAcJ4jPJbD--VgUkjYtHcD4-KCwG8C9TIoIr5N3_XljPjfTvStJ-4Qs4QNBOgEJH7X6bXvEBMIjeyxmX_U8ns7Bh3CMaUgQ4Kg1rgcjyegBldxEFvJ1yaF1xyfG-Fi4UnPEhCOeoTH_ZhNowbvZmYpAaJgGhTVmvGOY0uxz7oLeg61xBY0ok08SA",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJLRl57ivL1IkRrcWkDj11yiY",
+    "rating": 3,
+    "reference": "CmRRAAAAxEWnni-N7vh1oAGYP53AzQIl7B7Qx32euXaMy2s9u-QxCdmLp8A13Q4OiWdmzYT672EJNEhEEDc5ZdrnUltC7qLZpaKhc3UGrS6hl8JX1s3UTzBvNsha0Ki6MGx-MsL5EhBoK1atUo38dEFI-OsqAPpVGhSyzafNokbfK3zuKVFTgTxiI6LEMw",
+    "reviews": [
+        {
+            "author_name": "Teresa Di Maria",
+            "author_url": "https://www.google.com/maps/contrib/110851835864368688485/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-QXMGtcYbspc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3_Czhcs2O8rAdHUMScKnqOwTjGMQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "I consider myself to be lucky in dealing with MAC Suites and  their amazing staff ! I used their services last year (and currently) and cannot say enough of their professionalism, know-how, and top notch client care. They do not treat you like a business transaction  - they take pride in what they do and you truly feel like you are part of a big family! You will not regret working with MAC Suites, it will literally be a worry free experience...Congrats on a job well done!",
+            "time": 1527076157
+        },
+        {
+            "author_name": "Amin Mitha",
+            "author_url": "https://www.google.com/maps/contrib/100925188269229032384/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-eS3ReDlcx4k/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq37C9GuD9ULwwGslGZhCOre1HW1_A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "The unit wanted was a rip off. We rented a unit located 33 Sheppard rd in Toronto and paid $6600 for 3 weeks atay and the unit was filthy. The floors were so dirty that we had to go an buy a swiffer and clean them. required about 10 pads to clean them. the windows were dirty, the refrigerator was all rusted in the front panel, the shower head was leaking from the sides thereby reducing pressure and the sink faucet in kitchen was not working. The tragedy was that even after complaining no satisfactory response was  given. After paying such a enormous rental charge you would expect a 5 star unit. \nI have pictures and video to show\nVery disappointed with the management",
+            "time": 1437660086
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2795175423835948461",
+    "utc_offset": -240,
+    "vicinity": "12 Yonge Street, Toronto",
+    "website": "http://www.macsuites.ca/"
+}

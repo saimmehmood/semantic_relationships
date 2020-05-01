@@ -1,0 +1,183 @@
+{
+    "address_components": [
+        {
+            "long_name": "204",
+            "short_name": "204",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "488",
+            "short_name": "488",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E3",
+            "short_name": "M5V 1E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">488 Wellington St W #204</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "488 Wellington St W #204, Toronto, ON M5V 1E3, Canada",
+    "formatted_phone_number": "(866) 230-0090",
+    "geometry": {
+        "location": {
+            "lat": 43.64358860000001,
+            "lng": -79.3985421
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447630802915,
+                "lng": -79.3971221197085
+            },
+            "southwest": {
+                "lat": 43.6420651197085,
+                "lng": -79.3998200802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b3ae7e18642f3140ef692be5f731f713f3e558e6",
+    "international_phone_number": "+1 866-230-0090",
+    "name": "Taplytics Inc.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM",
+            "Tuesday: 8:30 AM \u2013 5:30 PM",
+            "Wednesday: 8:30 AM \u2013 5:30 PM",
+            "Thursday: 8:30 AM \u2013 5:30 PM",
+            "Friday: 8:30 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJRZyL3940K4gRNLdXmxrTBvw",
+    "rating": 5,
+    "reference": "CmRSAAAAJVDqn5W6V7PdLVG8S3S6L4hTba9qBKLhlKotketB_T0FxVMN_88f_YhR3h81dIsio00mS_H02_ETABkfOUCbkfIf4uLz_out0FHZUv5SMjmydopHRVscOc0tOndxrVNWEhBHoqKIkdJGUzaSYMWN6ZdQGhRPOgSJVrdD1ftxyW0yfstj1z15Rg",
+    "reviews": [
+        {
+            "author_name": "Ryan G",
+            "author_url": "https://www.google.com/maps/contrib/112534064921449073431/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-AtZmYPZ-sQc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2nnSk63Z2OdvXa0IJpHz1y7TIhLQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1504006821
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18160434658646931252",
+    "utc_offset": -240,
+    "vicinity": "488 Wellington Street West #204, Toronto",
+    "website": "https://taplytics.com/"
+}

@@ -1,0 +1,264 @@
+{
+    "address_components": [
+        {
+            "long_name": "#122",
+            "short_name": "#122",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Stewart St #122</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55 Stewart St #122, Toronto, ON M5V 2V8, Canada",
+    "formatted_phone_number": "(647) 348-0599",
+    "geometry": {
+        "location": {
+            "lat": 43.64324589999999,
+            "lng": -79.40126149999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64467468029149,
+                "lng": -79.3999433197085
+            },
+            "southwest": {
+                "lat": 43.6419767197085,
+                "lng": -79.4026412802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9b027f68bc50b3741e0a20f83ccc65d06e84ba7f",
+    "international_phone_number": "+1 647-348-0599",
+    "name": "Dr. Rachel Assayag Chiropractic Wellness Centre",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 667,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104331918870179081167/photos\">Sarah Thompson</a>"
+            ],
+            "photo_reference": "CmRaAAAAYgbkbhC9QHrW_TO-J5sgo-OlvuNYQ1i3OujDE9l7DZB7zXiDeniFBRM3y5GTCB6DQ553jxje001Jgw9kA1y3ATJMdkc6YZnJocHniVwL8uiMzrX5u5NV-GLTDLprYdioEhBoaNtgkXQONAJ7mEl1rF0bGhTpraiaFJtLv1fPUPWcg7IlFjJWaA",
+            "width": 1000
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111013845331425130855/photos\">Dr. Rachel Assayag Chiropractic Wellness Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAdrBoCLxgtEx_N0llywCwraCTcmuXi9YwKbNuRe6D76vh-kQwk0VLlxmKVMYPpcFF-yu9CpzM3I7t5xnRyvc6zJ3baO2mWZHhyGNrbAZusUQN1QSZ1DmArBhz_1awpfsZEhBMIj9iZ9nbs90ffX4t6xh1GhRh2iciVrXEP3asQodenNq9d-yVjw",
+            "width": 640
+        },
+        {
+            "height": 3984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115405483290188730351/photos\">Jeremy Marentette</a>"
+            ],
+            "photo_reference": "CmRaAAAAKy_5c0EoV9-gKK6ynEglBFcv2gZOtD7XzueAKl0SycopjPiJNgrTRKW803Dm7JD2RLXSPOlDOypt_X4IdnpZFVkN1DX2WvQRkN6-NczZQeAlrS8c80Zb4ykfmALQ10iPEhC6ijKR_cYbapjmv7A5C3skGhQ0qPbzYBez_IuT3hOb3W0u0nsONA",
+            "width": 2988
+        },
+        {
+            "height": 1293,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111013845331425130855/photos\">Dr. Rachel Assayag Chiropractic Wellness Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAA_YAODyXTbLqT-tj5mOJzDgAwDuZpbBJaP3GImeDrwvOP1hQSNewp7vbn4RkU2Evl_uHFct9-NY-drUUnPILyDlC0U6b8HJ6ejsBtfoIiaW2Ck38YQ5a6IgmGZuCQD-0ZEhDAf1EleIw92TvUoEaPVyMpGhRJGZIrh-jKe_fL3q7keyeCrRUuXQ",
+            "width": 1977
+        },
+        {
+            "height": 1293,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111013845331425130855/photos\">Dr. Rachel Assayag Chiropractic Wellness Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ8XgZfQjc23Jo52EwCeBe_OTheNkTkYwJ3NQxbnfljPxqqvRyZROtubLUqjW_2bAV2LncoAE8tY1J8aUFkI1x9cWBRV-WyU4DAh2FuqT5LLR8KMB9FlzI48YJlbpVNIYEhApSv4-IogUwHEhtK_aWb3dGhSfu_LuI9KOpQl_eJaL0nqGkVmVCw",
+            "width": 1977
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111013845331425130855/photos\">Dr. Rachel Assayag Chiropractic Wellness Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAosZDC52ZRkLnMoCA3dnN3SIeka6oIBozq3kyLpuKY0vbg97hVpWHATWQBBJqZk3J6T9zuiYsWYjTVIJfOldhnMjQ9pEZVnmkYsunCkM7Ojn02b4qv7GaFZhEs_WjOe_GEhCyvhVjSAA3lhl2CmA0UOqVGhT_iIMrN9IaroC2DOmksxrATOFv-Q",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJt9q5sd80K4gRJpbzDZUl67s",
+    "rating": 5,
+    "reference": "CmRSAAAAnstxw5qsrjQl6hS1gMU-XnJQPPGSJ5HAKVCMCW672P9-NAveELo0uKr8iJD1inGzwR4hcVDeOUj3YBpHENG-dEjrBsPi0iyzaYeiQoQaoRmhjZZzmyXFDW_APXgH764SEhDhzSdGrOyaTOEf3fxHqTvJGhTbcxa2gCUvDRX7cj-8dkeILRbS0A",
+    "reviews": [
+        {
+            "author_name": "Fatimah Krabi",
+            "author_url": "https://www.google.com/maps/contrib/106646009960577553410/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-RV8tbpYGNWU/AAAAAAAAAAI/AAAAAAAA-3I/xBkcTepVFVE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Best chiropractor I've ever been to. I always leave feeling better than when I arrived.",
+            "time": 1507733604
+        },
+        {
+            "author_name": "Marsha Patterson",
+            "author_url": "https://www.google.com/maps/contrib/112675388749625833938/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-QrU23kgKPl0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0bpTKdgc3yqQ8xcW1x4ul5Oimnvw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Rachel is the best!  \nShe was recommended to me by a colleague of mine and since then I have never looked back.  \nThe first day I went the appointment was 40mins. 20min assessment and 20min treatment and believe me she uses up all 40mins plus a little extra. The assessment is the most thorough I have ever experienced. She listens fully and carefully as you describe your ailment. She will ask questions to make sure she is on the same page and also find out about other treatments you may have had so she will know just how to treat you. She is knowledgeable with all the different method of treatments and can tell you what was done to you before her.\n\nShe is serious about her work; is extremely well educated and knowledgeable.  Can advise you properly and if cannot help, will recommend an alternative.\n\nOnce she gets her hands on you, she pinpoints the problem area and proceeds to 'fix' it.   Deep tissue massage, muscle & bone adjustments.  Yes.  It can be painful but she can adjust the level of pressure for your comfort but regardless, she gets the job done!!!  Your broken, she fixes!\n\nHer rates are ridiculously reasonable.  And if you walk in with a stinky mood, I GUARANTEE after a session with her, You will have mellowed out and that frown will have been turned upside down due to her open, outgoing, engaging, friendly, charming, cool, down to earth, breath of fresh air personality.  You can't help but smile.  \n\n100% recommend.\n ",
+            "time": 1452795215
+        },
+        {
+            "author_name": "Ofilio Sinbadinho",
+            "author_url": "https://www.google.com/maps/contrib/108943763880708344037/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-NXxPvhP9kOQ/AAAAAAAAAAI/AAAAAAAAEdg/HNdwBA71L60/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Best treatment for any body pain or injury HANDS DOWN. She improved hip problemsI had for over 10 years. Don't be fool by how nice she is because her hands powerfullll & her deep tissue massages are no joke. ",
+            "time": 1445626903
+        },
+        {
+            "author_name": "Ruby Seegobin",
+            "author_url": "https://www.google.com/maps/contrib/107441531971085707536/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-jKkGcSTZX_s/AAAAAAAAAAI/AAAAAAAAASA/o8dj724E0ZY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Rachel is amazing. :)",
+            "time": 1463603692
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13540958026733950502",
+    "utc_offset": -240,
+    "vicinity": "55 Stewart Street #122, Toronto"
+}

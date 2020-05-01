@@ -1,0 +1,343 @@
+{
+    "address_components": [
+        {
+            "long_name": "1087",
+            "short_name": "1087",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H3",
+            "short_name": "M6J 1H3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1087 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1087 Queen St W, Toronto, ON M6J 1H3, Canada",
+    "formatted_phone_number": "(416) 901-5472",
+    "geometry": {
+        "location": {
+            "lat": 43.6432475,
+            "lng": -79.4220782
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447312302915,
+                "lng": -79.42078141970849
+            },
+            "southwest": {
+                "lat": 43.6420332697085,
+                "lng": -79.42347938029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "231f933a8ab9e9b7f117a452f2f514b2436b1e7d",
+    "international_phone_number": "+1 416-901-5472",
+    "name": "Otto's Bierhalle",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 PM \u2013 12:00 AM",
+            "Tuesday: 5:00 PM \u2013 12:00 AM",
+            "Wednesday: 5:00 PM \u2013 12:00 AM",
+            "Thursday: 5:00 PM \u2013 2:00 AM",
+            "Friday: 5:00 PM \u2013 2:00 AM",
+            "Saturday: 11:00 AM \u2013 3:00 PM, 5:00 PM \u2013 2:00 AM",
+            "Sunday: 11:00 AM \u2013 3:00 PM, 5:00 PM \u2013 12:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103504474728892009727/photos\">Elvis Do</a>"
+            ],
+            "photo_reference": "CmRaAAAAEHOu-sHdJLPbA4CPulcAvCpe3oWVJ8cSrL8Med3QfF1OekB5aAaXAf_AUF5Y45_DP1JJXYHPUwfcEtftshFmGJobA8PLFR9IW-JtrlrwVjRhyhPSuXRbXykyqjeGmtrqEhC1EFrWy73AzaeO_nLn64baGhTAgnzFcKgksqCQ4GZqks-2o1jgDg",
+            "width": 4032
+        },
+        {
+            "height": 934,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105217651466167618992/photos\">Otto&#39;s Bierhalle</a>"
+            ],
+            "photo_reference": "CmRaAAAAiggeyZzT_xe_VsGn3ebdDAzjjO7Hv2CyAzSYrMlxxRJln8BqZSSZqGB5w1cqZA5s8O1vS-SRdpycWk18DFTGak56ejSKpfYCwBgfQrvnf7NAOrVju3n7MtrIXBIUh_ttEhD26A7DY0Vlc1e7WiQmeGYbGhT9oeJzqh0yArU_V7y-vHD_osNnIw",
+            "width": 1400
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687/photos\">Patrick Asselin</a>"
+            ],
+            "photo_reference": "CmRaAAAAYebQpfCHoMizEeiqbnvHJbNrF7lnUZ9Gs78xa3tLIUaCzmZhgQIMFAaUMCNvT9Z_5s98ji7VXRJeCbQ3USO9OBJMMpHDXqq3tIDSC2y6OXTJc8q6XrFzPqOsYs7RsF4EEhC3iuRx-UJvy4IUDifU_6CwGhRy5J6Ok6CqE3TPwA5um2Hj1_u0nw",
+            "width": 3264
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115656131001624388485/photos\">Katelyne Merza</a>"
+            ],
+            "photo_reference": "CmRaAAAAaoCbrbYPuBMOALyvZmY2sgeEyMmswjeWIsuHLsNRddSeDxkV8Vryw_aUhQhBOWvrtIascLdN0HOgebVJKKR3dXcVZEdDmdm_j9TV25FP-PZMVMChbzm75Z8uWA8wK-3NEhBoyOBhcEqAuxb4_ziKFVmlGhQlZnb-2nMAG9wI9GRvrZJC8yyznQ",
+            "width": 1080
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108830446897060268973/photos\">Jessie chiu</a>"
+            ],
+            "photo_reference": "CmRaAAAAt7T1GCIS8Kwzyn4WFwED6czkKVQNxmxQnCM0ta5XZaDSX8YxMco9MKck9PMz4fayg1fWkcApOYvgAq8de1md8oHXJJ9t7kdaBOWqPTJ-zUxSBB2tyxdftAlnv0jBN5kOEhDgbkJOul_25uk_l3yj9pIFGhRwzywwUftri0_7xGegr7Y2UEmTuw",
+            "width": 3840
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102717591247697933324/photos\">Sarah-lyn Harding</a>"
+            ],
+            "photo_reference": "CmRaAAAA8vkE-yFm2un6BJHn99_zdNCwAy9PZGIGt3KMAIHn8AufWVVWyHU6VpNIfoMVkei294l46yip-bqqOnsU8PozjRQXVhaURB_Yv4RNm7WmCP76wJoMpcjdMCuZLcv54t1JEhAF_dkHzYs-g0gB9ZvMAwkGGhRLb1B-1L9Cr1UVRqgu5jkafw4Uiw",
+            "width": 4048
+        },
+        {
+            "height": 934,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105217651466167618992/photos\">Otto&#39;s Bierhalle</a>"
+            ],
+            "photo_reference": "CmRaAAAAE0-r1PAgPil07XvogNIvaWmGqs438Pn4Gsk61Ui3upcUfq-WXFiuU9bPgjfyfueBBXr7tJ6lUsNnZmyQrKGb0Wx2fDKO2bk_Lh_jrfH_9fbE9Npcl_ysYMs6nqS9cMlWEhAan4hcngaWE3ffuNS4aaknGhRaIUoXN3AotF1P38DhhWAUcQ6vtA",
+            "width": 1400
+        },
+        {
+            "height": 1458,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101532042722482494796/photos\">Leilani Graham</a>"
+            ],
+            "photo_reference": "CmRaAAAAKyBDquqwFX0tpRgo3hD34ftMHJY99ew9i1AKrmo4gPoosN0bFdwchvHngTKp8SN_b8TfjGQFq0xaa8dwwanScpPvUaAh-qJkACUnuyIp0fXBhSwEhn9o6Z9v-zFnSgNXEhBp6KpKlAfQKGv9sjY1LQSXGhSAz1hgc_r5Q1UUxJpykzKimLjtyg",
+            "width": 1458
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109931028080092706751/photos\">Clark Yin</a>"
+            ],
+            "photo_reference": "CmRaAAAA4dlsyZuoIDH8zXIVuzZlbTvIUfY2B9fYF1lJ79qBfShyn7z1SLKzB0qjfukNE8LcDuTsR9Rbqk51iu_AOPWZPq4TjxrxZisueJttAdXvDhZCuI7FEXRRvBkQcKFe6IoPEhDL4rTymoSwrnt4-5kHfUT8GhQrW9UZxJv6E0z6eHiz61MZrWpfXg",
+            "width": 4048
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111200468463783926344/photos\">Marcial CN</a>"
+            ],
+            "photo_reference": "CmRaAAAA1W6nSqwxO7M_RK3tXazWq5lr4cWNVFR9xO49joJdXPZg4QIFm6TuXF7z7ke6Njl1w6NN68pacyIY177Nho32n_cbgOmotcGorTCm3580VdMvvNBt62MkDkmnAsyKBwCCEhCoKazVUIhbikiUClu027VsGhR9FbECSaiNfdB2_wM4BvYccZ8QrQ",
+            "width": 5312
+        }
+    ],
+    "place_id": "ChIJVwT41gE1K4gRXkN6wxdDMww",
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "CmRRAAAAvVJj5KZkgpS4tzm_3hoFbxha-hRHKdRidPIMFWWZC3jK10mZZvuqVefXfeY6Nwk87_M7U1p5pcGakGuIcyG5RrS3eMRGg5n5ZNx3d28RZKQGuQ126dLtg20K7FIPo85MEhBYzq8lNk35Co_AInYdfgBwGhQvaB6A6WarfK3aCfBN0xAkBSDItQ",
+    "reviews": [
+        {
+            "author_name": "Mata Kranakis",
+            "author_url": "https://www.google.com/maps/contrib/113440843723370600921/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Dqv_Tj55ul4/AAAAAAAAAAI/AAAAAAABmqE/SmBxUCogGRg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Great food, huge beer selection. Service can be a little iffy at times, but it's super busy so that's to be expected. Great place for groups, drinking, or dinner. \n\nCame back for brunch, and it was a novel and fun experience! There were a bunch of sharing plates that were stacked with tasty stuff. It\u2019s also not super busy at brunch, so great for a big group.",
+            "time": 1526524430
+        },
+        {
+            "author_name": "Burke Thomson",
+            "author_url": "https://www.google.com/maps/contrib/112254787126654782655/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0jdgKFUr3q4/AAAAAAAAAAI/AAAAAAAADvA/167TgE59ndI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "One of my favorite spots on King W for both brunch and dinner.  Their \"feast\" platters are delicious and full of variety.  The atmosphere is easy going and lively and the big windows make for great people watching.  Their beer list changes often and always has great options.  \n\nMake your own platter and include the Schweinshaxe (pork hock), you won't regret it.",
+            "time": 1528833923
+        },
+        {
+            "author_name": "Grayson MacLeod",
+            "author_url": "https://www.google.com/maps/contrib/118249311674585997647/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-dl9ZPtTwIpI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq21blK793z68kDT8bs4DL7kdZOIZg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Amazing spot. Food is a unique experience and incredibly delicious. I've been a few times and have never been dissappointed. Great selection of beers. Love the ambiance. Also play great music. One of my go to spots in this area!",
+            "time": 1528154034
+        },
+        {
+            "author_name": "Eddie Chan",
+            "author_url": "https://www.google.com/maps/contrib/111507975841396409118/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-29jUf3-Fiks/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq04CN5P0XliyUUHU3wPRSMN2NCU3A/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "We were strolling down Queen street one rainy Saturday afternoon. Hungry and cold, we were starting to be discouraged about the options for brunch until we walked by Otto's. One look through the window at the food bring served was all it took to convince us. The food here is simply amazing. Beautiful in presentation, satisfying portions and absolutely delicious flavour in every bite. Just a heads up tho, this is a lively restaurant so be prepared to speak up with your companion!",
+            "time": 1527961951
+        },
+        {
+            "author_name": "Carlos Hicks",
+            "author_url": "https://www.google.com/maps/contrib/106436720223018099785/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-SSGkvhHAOEg/AAAAAAAAAAI/AAAAAAAABXE/Q5biORcVbOU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I love this place! What a great environment.  The staff are all so charming.  The highlight is the kitchen.  The lamb tenderloin lives up to its name, and the Roast Pork Belly made me not want to brush my teeth; it tasted so good!!  Bravo guys!",
+            "time": 1527474648
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=879120121610257246",
+    "utc_offset": -240,
+    "vicinity": "1087 Queen Street West, Toronto",
+    "website": "http://ottosbierhalle.com/"
+}

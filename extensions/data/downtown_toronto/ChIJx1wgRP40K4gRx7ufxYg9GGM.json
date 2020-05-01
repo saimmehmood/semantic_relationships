@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "62-2",
+            "short_name": "62-2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Fennings Street",
+            "short_name": "Fennings St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3B8",
+            "short_name": "M6J 3B8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">62-2 Fennings St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3B8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "62-2 Fennings St, Toronto, ON M6J 3B8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6448464,
+            "lng": -79.4215878
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6461953802915,
+                "lng": -79.42023881970849
+            },
+            "southwest": {
+                "lat": 43.6434974197085,
+                "lng": -79.4229367802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c1de389a66bdd3e28b48ec246a050895a8e60b3f",
+    "name": "62-2 Fennings St",
+    "place_id": "ChIJx1wgRP40K4gRx7ufxYg9GGM",
+    "reference": "CmRbAAAAaH2wv01Ck-fFckW-Dkxbie0KkWyRrXVOvuo33ysPq71C6PizSOJRY1ibABL4DF4mYV_YeWU2Yz7EWXILT9wApmzNddWu3M9AhBC_t0HZrGCGG3mkJ3uEKDmodPOso607EhBjcgO2THspOzmQl7ES70eHGhSHQ-K2liHIN0VegBVkTU7jRN19ng",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=62-2+Fennings+St,+Toronto,+ON+M6J+3B8,+Canada&ftid=0x882b34fe44205cc7:0x63183d88c59fbbc7",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

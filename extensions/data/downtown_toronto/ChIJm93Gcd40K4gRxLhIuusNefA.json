@@ -1,0 +1,94 @@
+{
+    "address_components": [
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1T4",
+            "short_name": "M5V 1T4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1T4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Adelaide St W, Toronto, ON M5V 1T4, Canada",
+    "formatted_phone_number": "(416) 504-8078",
+    "geometry": {
+        "location": {
+            "lat": 43.6438739,
+            "lng": -79.409795
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6451948802915,
+                "lng": -79.40843396970848
+            },
+            "southwest": {
+                "lat": 43.6424969197085,
+                "lng": -79.4111319302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6736b4ae4f089b685b6864311a307e5429748607",
+    "international_phone_number": "+1 416-504-8078",
+    "name": "Hirsh Laboratories Ltd",
+    "place_id": "ChIJm93Gcd40K4gRxLhIuusNefA",
+    "reference": "CmRSAAAApRBvHHTW34e5KAygXiKVsGRAoHg1zg6eVs2jxGiGtKB-e3hFAK6PujC-Ymv3NFUhNow7dBRu73mwbaCjlXY40PfamJIdt2V4bEZC4gG61gecYwchCklQ4kNOldQTus1yEhBV9POo5F1VmNHiS1XddDbEGhQHomEtOsNchhy95gz4E8FTuVUyKA",
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17327896347378497732",
+    "utc_offset": -240,
+    "vicinity": "Adelaide Street West, Toronto"
+}

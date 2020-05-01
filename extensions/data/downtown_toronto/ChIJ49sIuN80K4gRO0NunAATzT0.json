@@ -1,0 +1,236 @@
+{
+    "address_components": [
+        {
+            "long_name": "39",
+            "short_name": "39",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">39 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "39 Stewart St, Toronto, ON M5V 2V8, Canada",
+    "formatted_phone_number": "(647) 960-3604",
+    "geometry": {
+        "location": {
+            "lat": 43.643316,
+            "lng": -79.4008873
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64474733029149,
+                "lng": -79.3995700697085
+            },
+            "southwest": {
+                "lat": 43.6420493697085,
+                "lng": -79.40226803029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "92d0ae5884a7fd524749b5705eae6432cf4ef452",
+    "international_phone_number": "+1 647-960-3604",
+    "name": "Schulz Make-up & Beauty Studio",
+    "photos": [
+        {
+            "height": 698,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109330127846910077586/photos\">Schulz Make-up &amp; Beauty Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAFp2-kef68EPRE7LQX_N-TOadgBlS6BmZ8XuuC1LFOGqVZCeVnoDm8_KZ6JnSdFdT5qc0uCgxmkEHY6U1QwyNlxFb7rSMXjqmGKV_p76wB71-WeCWYaVK4vdfpYqOX4uzEhAa4TsxlUy6KXK7JcRRL5N_GhTMdMZ3x3kQteEo2PdfM8otZK6IsQ",
+            "width": 1215
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109330127846910077586/photos\">Schulz Make-up &amp; Beauty Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAU76xvemvCEZGbHnVcDEZyhGqMYD6SdLjzASg5tFGWFwlyOHq7CixWR7Oe5jvOwrqONsOb1w34C9KxoqkZXqc3koCmJTR14d8MVvDpiJzy1U6eBluhd5BQDrDbgj7hSYNEhBACMrzgzhJsHpWhk7lYtp0GhSPZKEFeu7kiJFMNGGwyYD6_8q2OQ",
+            "width": 600
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109330127846910077586/photos\">Schulz Make-up &amp; Beauty Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAnzaG6EMa85UflnHo12OKrR5JJX1hKSREv1-x-DEO072Qtkam9Ft9s9vQsd2GqoJyq3uP_eVOkuywHZ_BZwiqBf3fjJLAbkU_Sn2n6bMw6gvorVu7SGZCwfRsW0XvGPkpEhDgwUc2CxZsyWQgcT2m5nTKGhQzGgWMRbMhGKZzzs0lSquMtYK5Yg",
+            "width": 5760
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109330127846910077586/photos\">Schulz Make-up &amp; Beauty Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAZmtZpFr2NDfSOCIOGdX5Q6QT25MYY8dXPujX9CAcffZHVDvLrkE7ENQy-LC7stakrYHebv0zK4k2PtsCHSkrIO6NvPYEIPkdvpOZVU9jakxup2eJMq7vuk9HHz-RGg6BEhCyvege02Jz2ky0cZCuZm4bGhSWN8GmuILt7CAjV7sIaziFgLFlJA",
+            "width": 2268
+        },
+        {
+            "height": 2880,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109330127846910077586/photos\">Schulz Make-up &amp; Beauty Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAYRKBPvaPGurPnIy9oDf0FIMGVaIEfQJGEOSzy7h-UI4uGQPXeF5wxJp1XWcsH0REemx0YzjpkCwiGNPZ2bX7_DYPTVPrhLWSg_N7-lthZ1Ju3w6K68-nBIDIqifN7BMvEhB48CjvCkTvmtYgOwv_UCNDGhSSzc0Jy7oOK-nFxm8HeJdn8KN0Zw",
+            "width": 1920
+        },
+        {
+            "height": 3984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115405483290188730351/photos\">Jeremy Marentette</a>"
+            ],
+            "photo_reference": "CmRaAAAAdsOQ-s_WT-2IHzVCVSgLt5eU-vPCzN4FGYev-PmG6GnlAu39KVkPS6L1L5QF6HZtwo6Tf6BMEyYikwf8MD7wkUsUfGMjR677csaB5sijJGDiFaAx6I2b5ItINb0uvFU0EhC4P6oT5w4lJK2fDAanveINGhSnpG4DgUBM-BaFSxEGZ-uqX2mr_g",
+            "width": 2988
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109330127846910077586/photos\">Schulz Make-up &amp; Beauty Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAyoOiTxJ5_Eco5mfljkPWlMJyInjKLraK5LsvQE6nZ1lH6wN2OlBGjPm0EGMJ1O9ERFXXD88n3DHDd8R7bhLfuGXU9Cx6xJErqUU9-eB-YQluattiRmMVJGVfR6H4XBdSEhDH-VcQ6TM_slRv-Gndy-MjGhR7EYA5ONO83yPzlvxdzjL2B1VnBg",
+            "width": 5760
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109330127846910077586/photos\">Schulz Make-up &amp; Beauty Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAedC6zS4Wy6t3ksUcX0-hauUz9eTFkIZKPu9URB6ypQrmfpnQHYrCIUsz_XoeJRzBBpsgEsic698i1jID26CBCgZVcLlKTwyplBHuOQTBfQkRPcdG9-p2g1Kl10GNHyIwEhAY7hswhQaRJjfWfUJkXx_gGhRit55dOvREffSnxFBc0vs6iW8bBw",
+            "width": 5760
+        },
+        {
+            "height": 1789,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109330127846910077586/photos\">Schulz Make-up &amp; Beauty Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAA9tNQGJ7_Gw8-YuO-mUn9bw_9PVYWQI9iVSXlaU77AYLlvdZeZ87LaD1iJX5dFUEK8ji7nYGy5Z8qbJe-rrul0rgLnUvcRYzUzOsKK4BOgf1LQlv2ITjisnM-luPKB3zFEhBZubWZkhYwb3yghCv2Qdg7GhQvdfC1c3YVZgTLVrcWU7AOSgZokQ",
+            "width": 1789
+        },
+        {
+            "height": 2579,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109330127846910077586/photos\">Schulz Make-up &amp; Beauty Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAmZURBnon0hIt6BEEjfaplfPux8FwnD9tbneESMWIzCMYRRNNi1nI_jK55IW1u90srLh-njQBBjrOX1MWcRYObOwgjVamJ7KKv2_1CrjoacD750cbHGu9byBXa_NObAWeEhBAgN1TUInWcab63FbcTIXmGhTjv8aOr55mlTmM_NB7k0sU4jzjTA",
+            "width": 3876
+        }
+    ],
+    "place_id": "ChIJ49sIuN80K4gRO0NunAATzT0",
+    "rating": 4.9,
+    "reference": "CmRRAAAAWzPK4LG9fq3XRsNhnOMebexx1dk-TtcSS8LTR09Bre8NeYN-eZbdBT4UCxoCwwtHUFbA8oLYSHngJIk7A8GEKTPH9fEyKqq03vKf-DdKGGtRjHDZMC-VcHy6yuL1--TXEhAxkIxlAHGcJ-dbURcskVJhGhQDMDYtLsSoWbRzE6j3xntN6q4YRg",
+    "reviews": [
+        {
+            "author_name": "D Philbert",
+            "author_url": "https://www.google.com/maps/contrib/110201178127506058469/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-ND8RXiV0OuA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1oxK2ql-F52vpCIJCjO9l-BW7DGg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Jenn is very highly recommended\n\nThe location was a modern and comfortable space and I loved the decor which was neat and clean.\nI got my make up done for a family photo shoot and my family could not stop complementing me (that's especially unusual for my mom).\nI was a bit apprehensive prior to the appointment, but that all changed once I met Jenn. She was fantastic! I was very very pleased with everything.   She used initiative and she had the right foundation for my skin tone.  She was personable, friendly and knowledgable. She's an absolute pro!    I could tell that she has a passion for beauty and a passion for helping me feel my best. Jenn is now my first choice for the next time I need my makeup done.   Give her a try, you won\u2019t be disappointed.",
+            "time": 1520966315
+        },
+        {
+            "author_name": "Kate Musgrove",
+            "author_url": "https://www.google.com/maps/contrib/108777681811459880071/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-4LDwC52O1Cs/AAAAAAAAAAI/AAAAAAAAAfE/vgxgg2xCFLs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I used Schulz Makeup Studio for my wedding and Jenn was INCREDIBLE. I looked amazing and my hair and makeup lasted all night! Jenn was well-prepared, so easy to work with, and did exceptional work. She was quick to respond to all of my questions before and after the trial and the wedding itself.",
+            "time": 1521127941
+        },
+        {
+            "author_name": "Laura Narducci",
+            "author_url": "https://www.google.com/maps/contrib/113905715413133989282/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zMyee5CB2vI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Py_pmKSJbAUrD-3lvqrF-AVnvzg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "I had Jenn and her team do my make-up for our wedding a couple weeks ago, and we couldn't have been more thrilled! Jenn and her team did an outstanding job -- our make-up & hair lasted all night, and we received a ton of compliments. From the bridesmaids, to the flower girl, everyone looked gorgeous, and there isn't a single thing I would have changed. I wasn't sure how I wanted my hair done = up or down - and Jenn was so accommodating and helpful in ensuring I ended up with the perfect look at my trial before the wedding. I absolutely loved my hair & make-up - it was flawless. I highly recommend Shultz Make-up & Beauty!! I cannot wait to get my make-up & hair done with them again in the future.",
+            "time": 1504105172
+        },
+        {
+            "author_name": "Nickey Rautenberg",
+            "author_url": "https://www.google.com/maps/contrib/110684767988084641131/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-kWvarRBFfv8/AAAAAAAAAAI/AAAAAAAAAyM/tyI6P0WIaVA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Jen is SO talented! I got my make up done here for a wedding I attended as a guest and got non stop compliments all night. I looked fab and felt so glamorous. I was so impressed by her calm demeanour. I get my make up done fairly often and sometimes it feels rushed or frantic trying to stay on a timeline or achieve a certain look... My experience with Jen was nothing like that, she totally read my personality and what I was going for with very little direction from me. She didn't cut any corners and you can tell she wants you to feel incredible on top of looking incredible - which I definitely did. Schulz will definitely be my go-to from now on! Also, the price was so reasonable especially for such an upscale salon with quality brands and for the results.  ",
+            "time": 1475377244
+        },
+        {
+            "author_name": "Myriam Camacho",
+            "author_url": "https://www.google.com/maps/contrib/114017046240459072688/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-USazFz40-x8/AAAAAAAAAAI/AAAAAAAAACM/YaX-PxLfqV8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Jen is amazing! There was a confusion with my first appointment so Jane gave me a complementary spray tan and It looks great! Will definitely be back. Highly recommended.",
+            "time": 1491679980
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4453236499884688187",
+    "utc_offset": -240,
+    "vicinity": "39 Stewart Street, Toronto",
+    "website": "http://www.schulzbeauty.ca/"
+}

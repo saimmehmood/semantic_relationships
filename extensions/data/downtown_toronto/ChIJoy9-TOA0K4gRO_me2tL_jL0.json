@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "766-770",
+            "short_name": "766-770",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N6",
+            "short_name": "M5V 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">766-770 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "766-770 King St W, Toronto, ON M5V 1N6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6433447,
+            "lng": -79.4055004
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446936802915,
+                "lng": -79.40415141970848
+            },
+            "southwest": {
+                "lat": 43.6419957197085,
+                "lng": -79.4068493802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c11732b837a58ab8a1933027b73e0805d9f4e602",
+    "name": "766-770 King St W",
+    "place_id": "ChIJoy9-TOA0K4gRO_me2tL_jL0",
+    "reference": "CmRbAAAAfBsmRb70tY6Ahw0I1FdaNAKwvAFYqJ-sdp8WT-j0sB3287oKWksgPC_pXLfU_jSpaYhe-3UQcZquZ9kXAZztiuhOuc4bSZ7jJZialC7mvOlq4RcKXnQVS4QL81mceOpFEhDnuNKrxmXDCtLmHwBSV1OPGhRE34nXfYHDHleiq9JoY4vb9TYFog",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=766-770+King+St+W,+Toronto,+ON+M5V+1N6,+Canada&ftid=0x882b34e04c7e2fa3:0xbd8cffd2da9ef93b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

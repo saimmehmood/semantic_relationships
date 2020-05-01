@@ -1,0 +1,262 @@
+{
+    "address_components": [
+        {
+            "long_name": "301",
+            "short_name": "301",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "511",
+            "short_name": "511",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1K4",
+            "short_name": "M5V 1K4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">511 King St W #301</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1K4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "511 King St W #301, Toronto, ON M5V 1K4, Canada",
+    "formatted_phone_number": "(647) 885-8833",
+    "geometry": {
+        "location": {
+            "lat": 43.6447126,
+            "lng": -79.3978704
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6461429302915,
+                "lng": -79.39655311970849
+            },
+            "southwest": {
+                "lat": 43.6434449697085,
+                "lng": -79.3992510802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "05fb1db4a2472669bb7330199fd35f799d81f0ce",
+    "international_phone_number": "+1 647-885-8833",
+    "name": "Digital Nar",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 9:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101895189387872081778/photos\">Digital Nar</a>"
+            ],
+            "photo_reference": "CmRaAAAATk6seaFqoW9bPXrWAHtgUZHoD4epDFUfxOTqtkhP16colUbrv7Nt89w4F6vPuRmSZcs6zrgpEB6u-bvWf3j7AATlV_7CNt7w1UaZFrqMFe-TjstvCbi1H8hRdKCtNgaCEhB2hb1oJNqhAAbv6CTpNxz0GhS0uaTjVJhQTuPDo_13XVL6gDv0ng",
+            "width": 1920
+        },
+        {
+            "height": 843,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101895189387872081778/photos\">Digital Nar</a>"
+            ],
+            "photo_reference": "CmRaAAAA25zG0492sf0GXqKOLTPgJ3nQ88qqGkrMbz_b9fit1QZv1IzLTnIN1apAMe4A_Cd8bAJFQKlcVQqm9tgBj8KyrO9rK6fRAVlgL48YBUnc6u0Bk6TcBUdP-hIhTitQYlhEEhDv5_EI7IUu49kYfCnIzjM-GhTg0JdBozmlq_krmltIyzdsYB6ELg",
+            "width": 844
+        }
+    ],
+    "place_id": "ChIJUVrht940K4gRp5my6KN93vo",
+    "rating": 5,
+    "reference": "CmRSAAAAmXhbnxrpvMCcZ7bqXmSTZW8kxWdwtI0zVyV3XNApKs3jUnO_ARwJDZgzbqn1J_pT2vv8peOekr1hm7mihb3g5lDEdOovMHyUgQX64Z9mNpYycGXgl4Z8LNFzz74VwAZ4EhBghqQqhnYEaf_qypw00m5hGhRnUdoMFlIpHa4_hTtyzUK3Drr0tg",
+    "reviews": [
+        {
+            "author_name": "Atche Mehmed",
+            "author_url": "https://www.google.com/maps/contrib/102612005049935668164/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-M3qfF-_O9I4/AAAAAAAAAAI/AAAAAAAAAFs/DuBy-Q9ujY0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Truly innovative and friendly folks. We never once felt unsure about their level of expertise and we wouldn't hesitate to use them again. They provided brilliant  digital strategy and continually made creative suggestions enabling us to remain in complete control of the planning. We are very happy with the results, our corporate branding looks sleek and modern, same thing applies to our website. They also delivered a great market research which helped us to create a stellar marketing strategy. Would highly recommend to anyone.",
+            "time": 1458250849
+        },
+        {
+            "author_name": "georgi kirov",
+            "author_url": "https://www.google.com/maps/contrib/102681830863982716901/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-LuitipJ0mbo/AAAAAAAAAAI/AAAAAAAAABY/v7Uu4ZDJ3WY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "The team at Digital Nar are extremely talented and professional. They took out time to understand my requirements and give me exactly what I wanted. Thanks a bunch folks. Highly recommended.",
+            "time": 1458325857
+        },
+        {
+            "author_name": "Soul Fiction",
+            "author_url": "https://www.google.com/maps/contrib/110891435045628944095/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rLrCENSmhyo/AAAAAAAAAAI/AAAAAAAAABs/IOJLZmrASg8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Digital Nar have done web design work for us on many occasions over the past few years. The quality of their work has been excellent and they have helped us grow our business from strength to strength. Tuncher and the others are knowledgable and able to provide advice that goes way beyond a traditional marketing company. Excellence is their forte.",
+            "time": 1458323459
+        },
+        {
+            "author_name": "Gergana Dimitrova",
+            "author_url": "https://www.google.com/maps/contrib/105453223405964385159/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-lSxnbQWg8Fw/AAAAAAAAAAI/AAAAAAAAACM/JhH1AFNtV6s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Digital Nar have made a name for themselves on the back of producing a great spectrum of quality digital projects. We are very happy with our collaboration and the outcome of it. Happy to recommend.",
+            "time": 1458399281
+        },
+        {
+            "author_name": "Deniz Veli",
+            "author_url": "https://www.google.com/maps/contrib/114007599445581004713/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-OZ_15MQmGcw/AAAAAAAAAAI/AAAAAAAAAAA/MlK6ehIvehA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Always impressed by the outstanding work of Tuncher and the team at Digital Nar. Their expertise and advice has helped our business immensely and I can always trust these guys to deliver on every brief we give them. Highly Recommended.",
+            "time": 1458327357
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18077024097248909735",
+    "utc_offset": -240,
+    "vicinity": "511 King Street West #301, Toronto",
+    "website": "http://digitalnar.com/"
+}

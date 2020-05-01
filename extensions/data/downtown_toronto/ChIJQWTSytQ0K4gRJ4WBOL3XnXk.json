@@ -1,0 +1,153 @@
+{
+    "address_components": [
+        {
+            "long_name": "15",
+            "short_name": "15",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "York Street",
+            "short_name": "York St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A3",
+            "short_name": "M5J 0A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">15 York St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "15 York St, Toronto, ON M5J 0A3, Canada",
+    "formatted_phone_number": "(416) 900-1060",
+    "geometry": {
+        "location": {
+            "lat": 43.6426286,
+            "lng": -79.38052069999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64389123029149,
+                "lng": -79.3795585197085
+            },
+            "southwest": {
+                "lat": 43.64119326970849,
+                "lng": -79.3822564802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "bde51b66a8ac756a4a178daec9e5b224168dd607",
+    "international_phone_number": "+1 416-900-1060",
+    "name": "Kidz Kare",
+    "place_id": "ChIJQWTSytQ0K4gRJ4WBOL3XnXk",
+    "rating": 3.6,
+    "reference": "CmRRAAAAYKuobw-Xa_EM0ZcfFDsnhmrm49fdQqgC17Odt0fk63SJEE9yBfMlFfrk3ttKOrGosZQQY3cREGX9pleDtvJdZouZaWypPvCr-WZjdN5SXjjD2nuCdLh8UrJ3saAPWb5lEhDnoifqvwipVJMVw82d15ZSGhT7ExLfjOOmcZCFB09sfWZ7NM5jvw",
+    "reviews": [
+        {
+            "author_name": "Luke Fuller",
+            "author_url": "https://www.google.com/maps/contrib/107716120230520372663/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-n_ql2SPWueo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1_xZWkqTK1GJvjz27A6TLEKdceug/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Exceptional experience! High quality daycare which focuses on individual child development. Thanks Jennifer and all the team for your care and dedication to our children\u2019s learning! We recommend Kidz Kare to every new parent who wants the very best for their child",
+            "time": 1509730201
+        },
+        {
+            "author_name": "Lauralee Guthrie",
+            "author_url": "https://www.google.com/maps/contrib/107298891819875845608/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-3xMyM41Bzkk/AAAAAAAAAAI/AAAAAAAAAIM/BQHTvoe1hcE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "I have recommended this location to many friends, they put child safety, health and education as the priority. It is often hard to find a child daycare that is professional and run like a business - this is the best I have seen. They also have nanny services and date night child care :) Also incredibly convenient to get to as they are across from union station. Highly recommended!",
+            "time": 1501885609
+        },
+        {
+            "author_name": "Mary Huston",
+            "author_url": "https://www.google.com/maps/contrib/117449106416437491158/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-gbvwW6eBpMs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1Wb_lXgH7RylVkSI_wMRki4GJl1w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "7 months ago",
+            "text": "Not very happy with this service. I met with the operations manager and spent much time discussing needs. We exchanged e-mails after this once, but two emails and a week later and no response. Unfortunately, for a service that advertises for permanent and temporary help and also charges retainer fees for this service, this kind of lack of response and care is frustrating and does not speak well of the caliber of service provided. It may be just a condition of circumstance, but not having any response, even after my own follow up says otherwise. \n\nAs a new mom, needing assistance with childcare needs, chasing a service or person by email is not convenient and as such, I have to provide a poor recommendation for this service.",
+            "time": 1508243427
+        },
+        {
+            "author_name": "Mary Sparks",
+            "author_url": "https://www.google.com/maps/contrib/103825123659505568110/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-07fUTLwWGtE/AAAAAAAAAAI/AAAAAAAAABg/Jsw9Mrcbcps/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Do not send your children here. They have the worst attitude. They not welcome people of different colour. I am utterly disgusted.",
+            "time": 1516320063
+        },
+        {
+            "author_name": "Caring M",
+            "author_url": "https://www.google.com/maps/contrib/108095471893225773385/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-m6cP2OJl78o/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3X3qSlB8yWEa4xWmoR21mMaqCTOg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 years ago",
+            "text": "A facility with great potential when our child first started (about 1 year : great location, brand new equipment, great staff). But soon we realized that:\n- The turnover was very high. Each weekly newsletter announced more changes (staff leaving and being shuffled around the classrooms) and how we must all embrace changes (kids don't deal great with those changes!) I can confirm that the staff was not treated properly for having kept in touch with some who left. In fact, when our child left the facility, very few among the original staff (1 year before) were left. \n- The owner is focused on the business side of things rather than the human side of things...\n- Flat TV screens were brought in the classrooms over the winter - let's not argue about whether they used them or not (they said they didn't but I suspect they did). Things became more painful when we were asked to buy all sorts of things to raise funds for different things among which new books in the classrooms (would you rather not buy new books that TVs in the first place!?!)\n- Every single new policy made parents life more difficult (ie limitations on stroller parking: only certain type of strollers would be allowed and preschoolers can't have their strollers parked at the facility, etc)\nTherefore, I WOULD HIGHLY NOT RECOMMEND THIS FACILITY.",
+            "time": 1446752966
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8763397657629656359",
+    "utc_offset": -240,
+    "vicinity": "15 York Street, Toronto",
+    "website": "http://www.kidzkare.ca/"
+}

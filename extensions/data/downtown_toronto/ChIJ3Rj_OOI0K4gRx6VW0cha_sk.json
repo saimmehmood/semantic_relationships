@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "795",
+            "short_name": "795",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1B3",
+            "short_name": "M6J 1B3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">795 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1B3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "795 Adelaide St W, Toronto, ON M6J 1B3, Canada",
+    "formatted_phone_number": "(416) 779-8446",
+    "geometry": {
+        "location": {
+            "lat": 43.6437486,
+            "lng": -79.40944929999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6451879802915,
+                "lng": -79.40813466970849
+            },
+            "southwest": {
+                "lat": 43.6424900197085,
+                "lng": -79.4108326302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "712e388e86c8f61c595d07149c4fbb96a0246153",
+    "international_phone_number": "+1 416-779-8446",
+    "name": "NoChargeSEO.com",
+    "place_id": "ChIJ3Rj_OOI0K4gRx6VW0cha_sk",
+    "reference": "CmRSAAAAVl8q1vyNX3P_BYXgmMm1hu7HEyOBW0BcOeqwAS9mXAIEhlT5X5TBLS3uWojfA5Nb2X0dYy83OijOvfEtcR_OwzCHRVPVHMHZ6txdnjJkF0Ao1-SKr6BqT2Mc5NEqGcUdEhBPn6fqreQVVDri1qtsyz7IGhTkRoP-jkihLn7yDmiUDtcjIgZiQA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14555170864260097479",
+    "utc_offset": -240,
+    "vicinity": "795 Adelaide Street West, Toronto",
+    "website": "http://www.nochargeseo.com/"
+}

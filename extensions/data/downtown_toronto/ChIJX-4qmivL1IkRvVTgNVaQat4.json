@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Harbour Street",
+            "short_name": "Harbour St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2Z6",
+            "short_name": "M5J 2Z6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">18 Harbour St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2Z6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "18 Harbour St, Toronto, ON M5J 2Z6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.643046,
+            "lng": -79.376994
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64439498029149,
+                "lng": -79.37564501970849
+            },
+            "southwest": {
+                "lat": 43.6416970197085,
+                "lng": -79.3783429802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "4c733cabea769037795eed82d76aaf8bf668e812",
+    "name": "The Pinnacle Boutique Suites",
+    "place_id": "ChIJX-4qmivL1IkRvVTgNVaQat4",
+    "reference": "CmRSAAAAsKdxY_g64gMVO-0HwKZdpk2qNQ3qwBSwAils7mmsJmaayI9sI5RNI8GoFagX4v5-nh4vyCSJjItIMaL0WjC-mo7qoBlPAbq8RXumJsms1EDyTwR24ZKGVDmTNvdYHYIzEhAii3hPdJ5wjb3aXVU9ZoRzGhSmhLHJBO_Oxxlp_rp1I_Lcl6Xp7g",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16026780923896812733",
+    "utc_offset": -240,
+    "vicinity": "18 Harbour Street, Toronto"
+}

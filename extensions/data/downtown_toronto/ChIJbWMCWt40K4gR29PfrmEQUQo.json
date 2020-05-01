@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "602-622",
+            "short_name": "602-622",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M5",
+            "short_name": "M5V 1M5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">602-622 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "602-622 King St W, Toronto, ON M5V 1M5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.644369,
+            "lng": -79.4004296
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457179802915,
+                "lng": -79.3990806197085
+            },
+            "southwest": {
+                "lat": 43.6430200197085,
+                "lng": -79.4017785802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "2e85f10106a42d01fe43fb91214b3aa050ed178b",
+    "name": "602-622 King St W",
+    "place_id": "ChIJbWMCWt40K4gR29PfrmEQUQo",
+    "reference": "CmRbAAAAsQgAofz1UxSOL1V5eqFePNIUiX15FMgkutW8bhGYA9qKVogiL0CCocUlrjILKYnBTC2P_rzqL9D-bvXfTin0WVyucy4ovcksKHR3uGk1Dj9jZgmfd9323wMP2jie5pXLEhCZLF2AXZ7EIl1CeMZ_wBuPGhQdEFnx_EL9w46EYvqHcbWEH4LBdg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=602-622+King+St+W,+Toronto,+ON+M5V+1M5,+Canada&ftid=0x882b34de5a02636d:0xa511061aedfd3db",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

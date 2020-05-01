@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "1100 \u2013 119",
+            "short_name": "1100 \u2013 119",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2L1",
+            "short_name": "M5V 2L1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1100 \u2013 119 Spadina Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2L1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1100 \u2013 119 Spadina Ave, Toronto, ON M5V 2L1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6432317,
+            "lng": -79.3939714
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64455733029149,
+                "lng": -79.3927514697085
+            },
+            "southwest": {
+                "lat": 43.6418593697085,
+                "lng": -79.3954494302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d91d29abb03b0e88da2992d97e8327b9d8437ea8",
+    "name": "MeetAChef.com",
+    "place_id": "ChIJkw_rrNk0K4gRSoh9vlpqqd4",
+    "reference": "CmRSAAAAipoWTvNO6pL5DDImoBv_4Rp57OJzPhUimKN-gWiKtEiCqvQ7ybc6eFqIFzapupGPOutXpyySo6byNYYvJSBcPG4UgCVm5UAKd6kyqwoVlEEk33AZCAwJ0QeuEeQPuNQFEhBnolVjFd8yPz4z52DXjcwQGhQD5u8EMOXwRmWvQbQTk6QyKk9gBQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16044472085459601482",
+    "utc_offset": -240,
+    "vicinity": "1100 \u2013 119 Spadina Avenue, Toronto",
+    "website": "http://meetachef.com/"
+}

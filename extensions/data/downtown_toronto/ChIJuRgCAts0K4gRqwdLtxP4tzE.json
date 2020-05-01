@@ -1,0 +1,246 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1C9",
+            "short_name": "M6J 1C9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "860 Richmond Street West, <span class=\"street-address\">3rd Floor</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1C9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "860 Richmond Street West, 3rd Floor, Toronto, ON M6J 1C9, Canada",
+    "formatted_phone_number": "(855) 255-9038",
+    "geometry": {
+        "location": {
+            "lat": 43.644563,
+            "lng": -79.41211899999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64591198029149,
+                "lng": -79.41077001970848
+            },
+            "southwest": {
+                "lat": 43.64321401970849,
+                "lng": -79.4134679802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "732e6c13b66f45574f16a8c484d55391d03a9b3d",
+    "international_phone_number": "+1 855-255-9038",
+    "name": "Wealthsimple",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:30 PM",
+            "Tuesday: 9:00 AM \u2013 5:30 PM",
+            "Wednesday: 9:00 AM \u2013 5:30 PM",
+            "Thursday: 9:00 AM \u2013 5:30 PM",
+            "Friday: 9:00 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111191789885065439085/photos\">Riyad Parvez</a>"
+            ],
+            "photo_reference": "CmRaAAAA1hJh-_I7gzzhF1-5cL6EjEAIEiE0TzUXT0PWykChNbtcaLkPyhuTRAjMpxcVL63WiysVbSuyUu23x1YewGxUJxthr5K61Ufje9maFqkIdZCobF8QB25bi7eszqAU_DHfEhCj6JGf3VO3y6ZjpWrRXEmdGhSDl2yQ42zrXMJJDp3sKeVUyTThSg",
+            "width": 3024
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106214980587580292774/photos\">Nile Jajo</a>"
+            ],
+            "photo_reference": "CmRaAAAAHMZCb5uhn_9AH40PlDOcZT8VOjFaDPXnHyNJ_eDlotjmseynSK4Z2Jrm7wlR1MhYmE3YDVmiQDOfnuXwuFeIHs3myEBf_lpLsBEFO4ZGWgx2RfOZoWpMZLU-sGL5uwsEEhAULc2jkCGqOYzeovYdS2G0GhRPyPZ7oCz-6Bq4hS79K6u7o43ckQ",
+            "width": 1152
+        },
+        {
+            "height": 4656,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108439977244396933587/photos\">Nathan Jousmaki</a>"
+            ],
+            "photo_reference": "CmRaAAAAElKjUuUwJMSCnrZAdJeu0ANJTDmKoG-RC4iaPGMxCE83Z7At-DaSOB5PBXWm4Xf24izPEiGQ038b_XPiHCvYPzSTSVXdSJ32dNup2oWiL5x5F64M8I40R5bPjhi9Z8i7EhBtYE66LUFBoz-2p_3adu-9GhQ9Oex9vROp5NgV1JZcG2mgqV_Yyg",
+            "width": 3492
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115387293416898948987/photos\">Wealthsimple</a>"
+            ],
+            "photo_reference": "CmRaAAAA0El4mF-JAQ_iPCmE3DaAvZrkPItQwhWneB4OfKtr_vbCmL9Zgf3FQZ_yC-yJwwp4HaEqIezSJluk3SLf1CVX2Vzw0CUJYeF4oHnhDrdEBub4-mBvBzowoJ4QpiSx_cDCEhCMuMgUrMN_LhPD6g6loiapGhSZqahzQbyes8WREvaSR1mZfEh8Ag",
+            "width": 3000
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115387293416898948987/photos\">Wealthsimple</a>"
+            ],
+            "photo_reference": "CmRaAAAA_oP4lLhKiGL2Cn3BgxTrcq70oIyJc5uyhEe9VivopdC0v4oJgmCXuI98wXFnIyQFHTE-_8Sc7x_45-DbXbp50_nrDSmkNPo7-04_sRnEvvKCXMvQH9TnVfSvfwHL-KQqEhDAEsTslNhIJj0amEZMr3wvGhTfWjdtciDyjJoeHdMWRwsT3-8IHA",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJuRgCAts0K4gRqwdLtxP4tzE",
+    "rating": 3.7,
+    "reference": "CmRRAAAAYfZBpXQ2aLBbEp_bDx2GHiS1Uw9GjwRp51-Wp9yPbvd-fa8yr-YBBc9djl_OL5urTwmRC8pYoOPKkQl_cnuY7X98j6dE9n3zBH9KZN0U1f42fnpVh4qkwBclVs7Jm7NFEhCjVMrQs3jAF-5SueA2_ilQGhThi4zsZg_voRp7gWCOn38RxZUeRQ",
+    "reviews": [
+        {
+            "author_name": "Danna Goldlist",
+            "author_url": "https://www.google.com/maps/contrib/111526880791487065739/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-H4nQFkQ3i_8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0qi-RgFFTU-tJeo-vz9qiORTwvFQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I have been a client of Wealthsimple from the beginning and have had nothing but positive experiences as well as above average returns. The account set-up and user interface is super simple and user-friendly and their customer service is always responsive and eager to help. Everything is very transparent including the account management fees and pulling my documents for tax season has been a breeze. Wealthsimple makes investing easy and accessible to everyone! It's a great way to start saving no matter your age or income!",
+            "time": 1523665577
+        },
+        {
+            "author_name": "Sonya Chand",
+            "author_url": "https://www.google.com/maps/contrib/108718278390871789429/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-c_qAnYBQF98/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0hY5f3ZO8Q46jGOh1kXSlawDPbfg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "As a person who knows very little about managing my money or investments, Wealthsimple has been a great place to start! Their website and app are really easy to use, you can set everything up online and they have lots of articles to learn more about money management. I've also called in to the relationship managers a few times, and they have been great to address my questions. Unlike a lot of the posts below, I had no trouble getting through to their line and speaking to someone right away. I highly recommend them for all your investment needs.",
+            "time": 1523672989
+        },
+        {
+            "author_name": "Matt Schmidt",
+            "author_url": "https://www.google.com/maps/contrib/104376148592532323752/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-c_mMxyEvY1o/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2pEOSpYQw_XoOOyDirSt9uUuu-aA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "I tried out Wealth Simple for 6 weeks to see what all the hype was about.  Communication with them was terrible/non-existent, and I found their \"magazine\" written by, and targeted towards 15-25 year old people.  Which, I suppose, is their market.  I do love the idea of Wealth Simple. Getting younger people to start investing anything, even $50 is great.  Their fees for someone just starting out can't be beat, and they allow individuals to purchase fractional shares so weekly contributions can be set low.  However, this is not the platform if you have significant assets, are able to purchase whole shares regularly, or desire quick responses to your queries.",
+            "time": 1524578677
+        },
+        {
+            "author_name": "Lorraine Franklin Interiors",
+            "author_url": "https://www.google.com/maps/contrib/107511720355177961936/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-vWWBel-YHzA/AAAAAAAAAAI/AAAAAAAADTI/mGuR3qwcT_w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I\u2019ve used the so called professional Financial Planners for years and now am so pleased I switched all my money to Wealthsimple.  It\u2019s so much easier to do business with Wealth Simple. I also know that my money will grow much better with them as their fees are a fraction of what everyone else charges. Keep up the good work.",
+            "time": 1523838800
+        },
+        {
+            "author_name": "Matthew Tan",
+            "author_url": "https://www.google.com/maps/contrib/103170100856511545362/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-GiYiZVO4DLU/AAAAAAAAAAI/AAAAAAAADR4/TRG5M-Ljm8o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Been a Wealthsimple user since 2017. Have been very satisfied with my experience so far. Easy to use and intuitive for non-finance savvy investors looking to save without a strain on thinking. Would definitely recommend to friends, however my only feedback would be to improve the amount of financial planning content as well as the quality that they have available. I think there's a need for millennial users and financial advice that they could serve while adding benefit to their existing service.",
+            "time": 1523743436
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3582604792159733675",
+    "utc_offset": -240,
+    "vicinity": "860 Richmond Street West, 3rd Floor, Toronto",
+    "website": "https://www.wealthsimple.com/"
+}

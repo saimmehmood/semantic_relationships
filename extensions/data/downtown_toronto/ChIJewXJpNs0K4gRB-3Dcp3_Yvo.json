@@ -1,0 +1,299 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "York Street",
+            "short_name": "York St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0B2",
+            "short_name": "M5J 0B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">18 York St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "18 York St, Toronto, ON M5J 0B2, Canada",
+    "formatted_phone_number": "(844) 467-2645",
+    "geometry": {
+        "location": {
+            "lat": 43.6431721,
+            "lng": -79.3822201
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445817302915,
+                "lng": -79.3805803197085
+            },
+            "southwest": {
+                "lat": 43.6418837697085,
+                "lng": -79.3832782802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "06b3a5ff39f1d48581b2c0f2c079639440ebf479",
+    "international_phone_number": "+1 844-467-2645",
+    "name": "Rangle.io",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAA2Kye6MWII9rFCV9WdD0LjU-AAUcE3udfga_7gz1XzD6W_8ndOXZ19VGtNivAjDZ72aHrWrDY_8vmXmQx_VBfbipkXOj3vO4XP25yAy6vclHYvl25iDJ20O6M-HJxVHReEhBzq6mRYuwE31-tqYvDw-rRGhRtSfdkFlDw03Xl8Q7NTzt1Pum4DA",
+            "width": 5312
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAA7iaTeVVoTz5TW8M-bAVtCwtoPvo3vVN5QcAY22n8YkluF8sEC78D9MeEdLKe3RDFyroTxX4BvQjlSMGkAFl61eXKwg2TuoQ0DHJWWpNJ8Rm2vKjY_WTKjTsICZ8Sv9FoEhDM0VRMI_tvqueXKCIc5EqfGhTw6VH0gJEEwTL54Xs-PnFERplSfw",
+            "width": 4160
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAA27pBNEsK_qsURsoqZiXMEPzLq7F2xXOpRFF20jBOQcUHL5RnEeqLm0lVmU1V9x9rFkf2BqDizyZHBhs-mT-8d9Kp_H_0nN0BIYH9Bqhit8nxIumd5WRvhEBPxfm56XYiEhDf9bQh_gZZIDlpVCR43sG_GhQDNzrkoKwWDG-fWG7DIioSefDhIQ",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAADgjOMIo9CyId9B01NmgWl2G7fMC_ocbn14ZnJAWX6LfcpSHQM8RGudX4S_jeYOTgTHF-gwE25OSsprqy6g8zG5fbHJGPLbTf71jbi1Y-sHmJt4ghH9g9iCAxj0NczoJrEhA6zfCbIkE36CW2lYP8Nz25GhTrfbEOWVCOOzhPN-3o-adcOT_RbQ",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAAPMoNjRiw0c4Z1MBPQDMkPxFGHjRfRRLqTUogTlYjNG057DSoHdoQ27iohDZDwLyyoy5aYrRTw5rzu4SotdEvrQdBNU5Ip7qlGjHLJkmWJ97ipk3i-GXkp5mTdG8gUV5bEhDT_voDdE0JqoFdoSdG52NlGhTUZ2o_RGPZxb7VEzi2NAwa92fQCg",
+            "width": 5312
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAAtNHtIt_S2ZacVStDN_Njbx_kU7UcXPvD043gszysSP9uFGtVz83SZn7VwdBFj1ZAd9NcCihsft0GgqdgE62uTXNFiSFMPaVno4TE_aYlYCF0k2BQ6g6NoUPgwox_SSzXEhAOH6lOSmMiPYoFeDlGMBZLGhRQ4xVi-ct1qOiZLaNMVgzBju9CxA",
+            "width": 4160
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAAOi7zM_vwN3a1ZYJkReYwUw5yZyGyujx8CHJNYnjxgzUON9dCRydKxmwMJPf4bdnAjO6HarQszLDoDbs4kIlBT-KGSxIZdVQ_wCLCdORyyzIMpAtCSgqW2HpXM9cERv9aEhCttOWBkL1sqJreZ1HjASc1GhSnXlsmgPoTUMfHGIaiW9rhOPiZbg",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAAtLigcgg3E-U3y8nD0DAadiTPA9HDosLOxVBaTUTHOC0j70qz0hUwKwEWoYQ4sY993yslHPhFYfzQaBO3HTC0HO7eZSMa5ugbKWsp_PCzm4Dmfn84ZZDFNMaZGR-TG-LBEhAapjM4MFn8Q379xC1aL2TdGhTUZTTf3ccaQmk1yC0ZGmwvK4Bzbg",
+            "width": 5312
+        },
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAAvfNApZVsEFUp4VM9PE9OPj4StLc5kjtkMLH-UOJqlMjMyR-eGxZm_qnMMEzArIreccuDi9EO8Ci_yfFJ3I0WCLjnoipYktjtS84ih0oH_SoSwIV5hXrpBuYrWZZ_y5QNEhDZ_f3ZvsJCJymD7Rmq8jfqGhQBqmEJcDF-ehIcSPtL4BKSYzEBAQ",
+            "width": 4160
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101838975688928829117/photos\">Jason Huang</a>"
+            ],
+            "photo_reference": "CmRaAAAA0Hj9b8MvQcLef3qV49O42vEQdS8_IOtAyRnvR2_zXMEVpKCHLOcpG3x0VDcoQ4xka6vtVBdZE8kQvOJrbvPFKly72azBHUV60KjhaArsJC9m_hPwTMcAdKlnTlRAL7atEhBEpBaphnvhALpYrJTU1JXNGhTaJ-NbJ4VIzKEbUKnTMTNLd_BiMg",
+            "width": 5312
+        }
+    ],
+    "place_id": "ChIJewXJpNs0K4gRB-3Dcp3_Yvo",
+    "rating": 4.9,
+    "reference": "CmRSAAAA4va3VvDi0kqRXINv1vmNNgZb485NOAIaysHHBLq_2Z-dmMkjyWpYcU_FzNp9HQUjZMqAKVQkdAD9UsGEvqL6OXlwUwjSah7r6GvfkqsDropu-LD3ieAzXEZWssSWnJlYEhAtd9QIhVgk_36HZ5MdvmcMGhRTvBy9aqa-lEN1Ou4ChfIQSnrs-Q",
+    "reviews": [
+        {
+            "author_name": "Marta Kule",
+            "author_url": "https://www.google.com/maps/contrib/106843694421406617167/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vttO5POBQFE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1kBPx2MkZQUIrpeucQ4cYfV2KkIA/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Super nice people! They host a lot of meetups, very active and generous in the tech community.",
+            "time": 1520436938
+        },
+        {
+            "author_name": "Amby Balaji",
+            "author_url": "https://www.google.com/maps/contrib/110450189941525038623/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-SYLY6xg-yTY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0z5XYIpnP7sJxSLyew-0BLqY8MRg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "They focus on modern JavaScript to bring your apps and websites to life",
+            "time": 1501199875
+        },
+        {
+            "author_name": "Tom Sommerville",
+            "author_url": "https://www.google.com/maps/contrib/118035691067413523581/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Kun3-iZssVM/AAAAAAAAAAI/AAAAAAAALBo/bkHTe7R9dk8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Rangle Rocks! This is a gem of the local software development scene... Specifically they're champions of angular.js and Agile development.",
+            "time": 1479247714
+        },
+        {
+            "author_name": "Mackenzie Drew",
+            "author_url": "https://www.google.com/maps/contrib/101789271973872075446/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--m8ReMbJxys/AAAAAAAAAAI/AAAAAAAAFSA/OUrZyS9CaN8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great time, free beer and pizza. Informative event for React.",
+            "time": 1488598877
+        },
+        {
+            "author_name": "Lee Stecklov",
+            "author_url": "https://www.google.com/maps/contrib/104823607697110263750/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-vTYBHts5WHg/AAAAAAAAAAI/AAAAAAAACvs/Fi2c9tq3gqY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "This place hosts conferences. If not busy OK, if busy the room config makes it difficult to see the presentation",
+            "time": 1490032506
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18042264108900019463",
+    "utc_offset": -240,
+    "vicinity": "18 York Street, Toronto",
+    "website": "http://www.rangle.io/"
+}

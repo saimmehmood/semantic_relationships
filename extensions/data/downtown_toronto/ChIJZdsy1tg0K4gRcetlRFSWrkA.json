@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "439",
+            "short_name": "439",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E7",
+            "short_name": "M5V 1E7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">439 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "439 Wellington St W, Toronto, ON M5V 1E7, Canada",
+    "formatted_phone_number": "(416) 595-9855",
+    "geometry": {
+        "location": {
+            "lat": 43.6433575,
+            "lng": -79.39671090000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448042302915,
+                "lng": -79.39539906970849
+            },
+            "southwest": {
+                "lat": 43.6421062697085,
+                "lng": -79.39809703029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "85cfabcd77bb34d54f3a2c0bf1316fb2233fe0b6",
+    "international_phone_number": "+1 416-595-9855",
+    "name": "Testing Board",
+    "place_id": "ChIJZdsy1tg0K4gRcetlRFSWrkA",
+    "reference": "CmRRAAAAqDHdwJe_DMIx2aEHAfjPnBfoErcDn2S9ZmSiflZYC9Wvhp3ywtv9R3ym7jwzGrNMo6LJ-n9f3QGPQjHAyfV_03-5Ku-sFCylWNYgTwRN0_kyNri_2saYMye3gVaRcIM6EhCY9rD1l-NKxM25yIy07TXPGhS4-HAe-RamBfq-dhQkeVthQjpxzA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4660827953043991409",
+    "utc_offset": -240,
+    "vicinity": "439 Wellington Street West, Toronto"
+}

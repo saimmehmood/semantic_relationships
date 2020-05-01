@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "438",
+            "short_name": "438",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E7",
+            "short_name": "M5V 1E7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">438 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "438 Wellington St W, Toronto, ON M5V 1E7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6438637,
+            "lng": -79.39705029999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450437302915,
+                "lng": -79.3956370697085
+            },
+            "southwest": {
+                "lat": 43.6423457697085,
+                "lng": -79.3983350302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3c46f9c6fd6517ccb536e5d1debed1f0414e8f90",
+    "name": "E-Wares Canada Inc E-Wares.com",
+    "place_id": "ChIJWWys1-k1K4gRHJ9Y28ZhjCA",
+    "reference": "CmRRAAAARxDvlnlO0NH09DRiEUdwtzKGvRLzdpscDGUNEmgwZyTQK5uEcKoaPLlwLeBLx9bljanJcS33Tuj1h6oiWNjIO9wRIN1GtBOOALr2WFYrtslM-pFJjWwAa4QwD51HQgdTEhBRO2wB1Pz_IdUxE2hG23ktGhT5-SaipO32xpuK2iFuS8MCeWBs-A",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2345357012664622876",
+    "utc_offset": -240,
+    "vicinity": "438 Wellington Street West, Toronto",
+    "website": "http://www.e-wares.com/"
+}

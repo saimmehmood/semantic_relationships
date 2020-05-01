@@ -1,0 +1,279 @@
+{
+    "address_components": [
+        {
+            "long_name": "1501",
+            "short_name": "1501",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "65",
+            "short_name": "65",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A7",
+            "short_name": "M5J 0A7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">65 Bremner Blvd #1501</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "65 Bremner Blvd #1501, Toronto, ON M5J 0A7, Canada",
+    "formatted_phone_number": "(416) 399-8667",
+    "geometry": {
+        "location": {
+            "lat": 43.64286140000001,
+            "lng": -79.380732
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64431743029149,
+                "lng": -79.37942611970848
+            },
+            "southwest": {
+                "lat": 43.6416194697085,
+                "lng": -79.3821240802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6afe3674e67688ff4a9172dbd3ad8e6aaabf0c89",
+    "international_phone_number": "+1 416-399-8667",
+    "name": "Cosmopolitan Furnished Suites",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 4:00 PM",
+            "Sunday: 10:00 AM \u2013 4:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 426,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115747399635992573475/photos\">Cosmopolitan Furnished Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAb_J9s-xCNSPcENFjgqjohnTUbh5b4weUuGb9PoQdBs5qDx6fvoWyLKWB5yOYzst4AHRnvRH0jKuscwZdNUBFvaHRV8y8Uda7luSFPqoFYbG_27V6x1i6TltH93EQoHTgEhAleuQaDyi2R8f3x-mGxELBGhRytfeZWy1TJepqpFjnzPU2Z4MS1Q",
+            "width": 640
+        },
+        {
+            "height": 1360,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115747399635992573475/photos\">Cosmopolitan Furnished Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAtZAPrSZwPY9TuqZiQow6YETTkX-HBII84Mc6hASAQ4K9bCBv_Yw9YZcjTpr2NMuh6Qs5VIPIMHdSIjTjMLiSBIHJ2gNwrt8GysUAH6EmTeK9zxRrruWye95eBWDXq3ztEhC1t-RzcqXhEamr3-Gvb30sGhR6Aj3YLLYOdZkG6IhrdiUBkpOXiA",
+            "width": 1364
+        },
+        {
+            "height": 462,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115747399635992573475/photos\">Cosmopolitan Furnished Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAHMkMu8jLUbixXMIKGpVFUWFlIVB7C4lvWBbVpWWpD7nEJj_6p78uaduKiW7aHRDm_dmfsEo4mYvJ8sRJ_GEmKmagwyC8l78yuAWcSVGcjFIGE6mxqnJ5yMMDY0Rn7V49EhD3tsZD3w40hkojn9Ei-T1nGhS_4o_UPu1KCMsbjFoxV2RNxOcjQg",
+            "width": 640
+        },
+        {
+            "height": 426,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115747399635992573475/photos\">Cosmopolitan Furnished Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAWYhCeHwI8tB8thtqBUKebK9DAj2h_bKwh7LzmQKNsVr-VPYng__ugog1zA1yAEvzmJWm2bnL0ujesDIa2b72qwrCV5P2Gut9qQ_C8RHoWvUgNd520d0WTPZPSEB_QpNzEhBY-2meYK_pTXgKUpTZO9FEGhRW1w6qxPLF7fOB7oHyJy3P4zjNXA",
+            "width": 640
+        },
+        {
+            "height": 459,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115747399635992573475/photos\">Cosmopolitan Furnished Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAoWvp5cyfNrXTEygFXdNkjghtCKtu2Zu0AcAYnW81WistQwmG_NgvrPsqUWGkdEN7MP-4kWmONm8jdJiQlnBJdhncpG1ikkVRnpl4l2dSWAZ-etf5MIguqSTFNaSxmkOHEhCPmyy7kkm7IYUef8VV_W_CGhS-uBMlMbYFDkP4RDFc-vxDl_MBTw",
+            "width": 640
+        },
+        {
+            "height": 426,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115747399635992573475/photos\">Cosmopolitan Furnished Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAWcpf4RU0FRkN5p31BV9f65XkAV1QgIKtkO1gYK8aOcP5psjGsjSdewOp65YA1R6xUzLpp9CBd1lx-yHyjdOCpGakdOfFSBW50uj1hRMZsTKX7ssyrDK5clGi5QCenClaEhBfRuC3xy2lk-HY_GDf3Wf0GhQYHinalwu2hO5DaTcC-19hoBefWg",
+            "width": 640
+        },
+        {
+            "height": 426,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115747399635992573475/photos\">Cosmopolitan Furnished Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAKYey65Abc74e1SytKpVn8zSWZJWSf0ciWc44d3HlkzXlctgd2QQ7YNGDLz0GmWrMTPlt-lRk86ukijPnpp0qKQsxMzm0S2_1iUDxQfUsZcZe6oW_1museDkNHqDmcfm-EhDzXIbpAHNKNiDDcVranCiAGhR4yJQtbJ3TAI9GLe7_W-Td1wWfdg",
+            "width": 640
+        },
+        {
+            "height": 426,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115747399635992573475/photos\">Cosmopolitan Furnished Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAjb_J6ebbT8mnaLmciqHk_Of11GRZZdqx8R0vGuRGhF3LyznkXAwJlzeNMXP2FiP6OT3l-aqK9Yr8lUYnAb55QFqjIfsKRNv5s4tiH-PCJexsLNRxtTvKDlMvCLqXZC30EhARvQIcN0GR_gDh44xWm_QvGhTVDaQPNzh_yB07TPgtlhFrP-0T6A",
+            "width": 640
+        },
+        {
+            "height": 426,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115747399635992573475/photos\">Cosmopolitan Furnished Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAATtd1mSU_Ei8PiqItVVVSvYY3EafoBTEl9lwOsbqAg3P4tR1brekEIYt4St3bbwJy56PNFmsB_RLLq0cRZ6EX0So2m7TfC_Vlud25bw4jvIH3p4VF18fW2fMWfTe2PL95EhD6ZSx1cCnHAnAybiewIEZkGhRVWslgU1GxnA8GkBZD7pZQE0110g",
+            "width": 640
+        }
+    ],
+    "place_id": "ChIJNc7X_Nk0K4gRquff4Klscv0",
+    "rating": 4,
+    "reference": "CmRSAAAAnzDoVjRefshwmDdK0eECuiRDn4mS-dkNl1TcoT1A5QitCyHAtqCXSbn6ZwzoS9BQgOEwM7YAwPNgsswelowr-1rotfG2iIYS80oajz9IYZGrmyyS-Nd6E-GFK6h4YQN5EhCuFP6fvy7p4gX8Dsg0wIrsGhSwSuId7M-vGcBJAA8sQLKPI43qqg",
+    "reviews": [
+        {
+            "author_name": "yagnesh darji",
+            "author_url": "https://www.google.com/maps/contrib/112571985164038992030/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-SSvdZ0qoW_8/AAAAAAAAAAI/AAAAAAAAGng/yaf1ThBSc1M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "I visited toronto and i rent furnished apartment from this company and i got best services i will tell my friends to stay here only when they visit canada.",
+            "time": 1361342020
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18262778915818825642",
+    "utc_offset": -240,
+    "vicinity": "65 Bremner Boulevard #1501, Toronto",
+    "website": "http://cosmopolitansuites.com/"
+}

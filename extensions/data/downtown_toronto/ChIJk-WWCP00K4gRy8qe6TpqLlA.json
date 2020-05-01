@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "938-960",
+            "short_name": "938-960",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">938-960 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "938-960 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.644623,
+            "lng": -79.4166477
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6459719802915,
+                "lng": -79.4152987197085
+            },
+            "southwest": {
+                "lat": 43.6432740197085,
+                "lng": -79.41799668029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a9190f885519496681378312ce044992d563a77b",
+    "name": "938-960 Queen St W",
+    "place_id": "ChIJk-WWCP00K4gRy8qe6TpqLlA",
+    "reference": "CmRbAAAAYFuceFF4k56CWnjWxR-D9AtfK7tPusdd1t9S-kLzcsvUud3C3xz-ov6buvweRSJVxoOFRVP2PTuiDQT5PhfddPxOrCdOM4rIS5aS3e8JqvBvhs1WJrMqgVkAs8iIzAdEEhA-NZiiUpBvijlsfeyYGhPzGhRjO4FSqYuKEasiBS89-DfKBHyTrg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=938-960+Queen+St+W,+Toronto,+ON+M6J+1G8,+Canada&ftid=0x882b34fd0896e593:0x502e6a3ae99ecacb",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

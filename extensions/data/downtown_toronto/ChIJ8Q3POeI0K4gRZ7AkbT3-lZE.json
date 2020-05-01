@@ -1,0 +1,189 @@
+{
+    "address_components": [
+        {
+            "long_name": "788",
+            "short_name": "788",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3V6",
+            "short_name": "M6J 3V6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">788 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3V6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "788 Adelaide St W, Toronto, ON M6J 3V6, Canada",
+    "formatted_phone_number": "(416) 504-8967",
+    "geometry": {
+        "location": {
+            "lat": 43.644015,
+            "lng": -79.409668
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453094802915,
+                "lng": -79.4082987697085
+            },
+            "southwest": {
+                "lat": 43.6426115197085,
+                "lng": -79.4109967302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f6fbd34b8d459c379ffab9d6a72d2cc41eba25d5",
+    "international_phone_number": "+1 416-504-8967",
+    "name": "De Oliveira Hair Care System Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 9:00 AM \u2013 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ8Q3POeI0K4gRZ7AkbT3-lZE",
+    "rating": 5,
+    "reference": "CmRSAAAAlkFI-nrMslqr66tobL2t-vvhxZdIH2XsjlsXF0piC4EAN9KDPw_uu3M8DyBcV8EMEUMRFdaighOuHortu40hYCk5UXbOMSxRcUhCs7wmcLJlyQ0_2RzeHmB8lTe679F7EhDX0YeESh243TEPPaq3RriIGhQ9OmNgMXqmxIFsUUPWkgDu-IBvRQ",
+    "reviews": [
+        {
+            "author_name": "Serena S.",
+            "author_url": "https://www.google.com/maps/contrib/109218715285792934769/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-nVFst6QyqNA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2REixHEe86mP0kCxCZVCPCjbBPYg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "These people are THE Hair Experts! By handing them your scalp, you'll be doing it the biggest favour ever. They will clean it properly and safely and nourish it on every level using their natural products. The scalp message that comes with their hair treatment not only does your scalp good by stimulating blood circulation, but it is SO relaxing. Finally, the service ends with a blow dry, so you leave feeling so stylish! Whether you need to address a hair or scalp issue (hair loss, dandruff, psoriasis, etc..) or just want to treat your scalp or yourself to a beneficial and relaxing treatment once in a while, this is the place to go. What I like about them is that they focus on the quality of their products and services rather than on their decor.\n\nI have used the De Oliveira services many times over the last ten years, and they've always been wonderful. When I was going through a phase and suffering from hair loss, they were going out of their way to do the extra things during the treatments to address and fix the issue quicker. They are very accommodating in that regard and also with taking clients for a treatment at short notice. Nowadays I like to go there at least once every week or two to maintain the health of my scalp and hair and to relax!\n\nIn short, the De Oliveira hair treatments are the best I've seen so far. I strongly recommend you give their hair treatment a try to give your scalp a treat and to discover what this excitement is all about!",
+            "time": 1471640480
+        },
+        {
+            "author_name": "John Campea",
+            "author_url": "https://www.google.com/maps/contrib/111496136411750052011/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Fx_kA37Eq9M/AAAAAAAAAAI/AAAAAAAAEzc/4mcEQdCdKGU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1477754639
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10490570446807019623",
+    "utc_offset": -240,
+    "vicinity": "788 Adelaide Street West, Toronto",
+    "website": "https://www.deoliveirasystems.com/"
+}

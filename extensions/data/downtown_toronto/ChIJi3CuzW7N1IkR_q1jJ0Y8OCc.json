@@ -1,0 +1,208 @@
+{
+    "address_components": [
+        {
+            "long_name": "527",
+            "short_name": "527",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Z4",
+            "short_name": "M5V 2Z4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "300, <span class=\"street-address\">527 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Z4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "300, 527 King St W, Toronto, ON M5V 2Z4, Canada",
+    "formatted_phone_number": "(416) 835-9315",
+    "geometry": {
+        "location": {
+            "lat": 43.64461049999999,
+            "lng": -79.39817479999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64605938029149,
+                "lng": -79.3968647697085
+            },
+            "southwest": {
+                "lat": 43.64336141970849,
+                "lng": -79.3995627302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "555bd99f200e5d7d80047bf5bb7dc284ffb6eb0f",
+    "international_phone_number": "+1 416-835-9315",
+    "name": "Korol Marketing",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 3:00 PM",
+            "Saturday: 10:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 797,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107531379624302980199/photos\">Korol Marketing</a>"
+            ],
+            "photo_reference": "CmRaAAAABw-VrGXRi0tN_LXtm_98I_gXGl0Qrf50g2Vy0wxpvnN0T7-MfVXlSsAmGK4vRfMGDwQ2_WHAjKwTEOEOZ5HeP1H8eQV6KIzPRnOyHNhTzrkutuAqnZR91epJ_FPgIPToEhBZ0UShxhAbizE9q9cVkBV4GhT78b8NnHP4L4c4HgMxqjALTFQadg",
+            "width": 797
+        },
+        {
+            "height": 466,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107531379624302980199/photos\">Korol Marketing</a>"
+            ],
+            "photo_reference": "CmRaAAAAzaeKG5LmrlbEh5lH1hG-77GdqF1WX8gk45aAfcy6S5iFXA5FkHSTlPx_hnYPeYAN0qGtxJuBxkgBxLDZQvznnSWCOtah0yUokwBU5gdjBo0jS6HxXUMEThXWMNUSWLXcEhCDk9CDjnA4R7puosJw2w2HGhSyYzKukYn7K3lNCuO0I9URADCJ9g",
+            "width": 828
+        },
+        {
+            "height": 425,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107531379624302980199/photos\">Korol Marketing</a>"
+            ],
+            "photo_reference": "CmRaAAAAT8TXubYA3SQdyBq2Pe1uIYCsqtdYF5EYpGLSv95OcT6CZa1-Xnck3a5nbswPRwX_KttTopesyHPQHvNhkcLEsEgcY8tewBFeqT_AUE_diJYFK8E7DOvSO57fIptWjOhHEhCEkJ5aB-RRWjeW6Uzqa73fGhQ8PA-HerDojSr9-tib26JE2wIHSw",
+            "width": 1400
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107531379624302980199/photos\">Korol Marketing</a>"
+            ],
+            "photo_reference": "CmRaAAAAK8dyEB77Xa1uT3V7F0CBBk9zRCGf_tNjt2z5wEzN0H5AkyyfLxkg0mW8wCol8glNdNFwwi3EWM6FMHsG0tG-PrtCOoyavS5JjFXSawv1xzPNzogE0ka_ebi5Ocsc3it6EhAG4-NT1M6RymWF66Ex5AmgGhRWRFPo9Alxa2Rqz8TXbrfAZ0zSMw",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJi3CuzW7N1IkR_q1jJ0Y8OCc",
+    "reference": "CmRRAAAAi3fiUKysnvpw6IKhuOImNO_xs-mbkdEBxCQBsr4fNbEog7-uPuDxD928ywwbqzb8sr8hk-x3hqe9knbthVHE8YVRUce452v-fGSa1E0yOCa1jSshNAgugNJ6frCtTwOpEhCw9qJh38Oug2PNCmgq3Yy_GhRBVGKC5tRLf4nOZx4o9PolulwKQQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2826075038181207550",
+    "utc_offset": -240,
+    "vicinity": "300, 527 King Street West, Toronto",
+    "website": "http://www.korolmarketing.com/"
+}

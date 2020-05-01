@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "Lower Level",
+            "short_name": "Lower Level",
+            "types": [
+                "floor"
+            ]
+        },
+        {
+            "long_name": "24",
+            "short_name": "24",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Lower Level, <span class=\"street-address\">24 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Lower Level, 24 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 572-1016",
+    "geometry": {
+        "location": {
+            "lat": 43.6441943,
+            "lng": -79.4025692
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454190302915,
+                "lng": -79.4011703197085
+            },
+            "southwest": {
+                "lat": 43.6427210697085,
+                "lng": -79.4038682802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2177c2e1f57528c654ce5794756bd94f2c3e6218",
+    "international_phone_number": "+1 416-572-1016",
+    "name": "Keller Williams Referred Urban Realty: Shaz Nayeri",
+    "place_id": "ChIJtY3uK940K4gRE4iw0Eks-D0",
+    "reference": "CmRRAAAAGFltzp9zHjFR9M-BSwD7_v-x8mqjUziXSDknjbQFI9aefbD3p8hC6_8KXh0-IGrx9WwxdrtSis7ODG3NUGWMjuPzxfL_-KZqwy459NJDCF-Z04_UbYyAfqHHFE3zM9pYEhCK_nCpRcbIVLDnJNcBCo_1GhRMhAYVbKmOp4LC3pKcc7ZM31Uz9A",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4465367726083311635",
+    "utc_offset": -240,
+    "vicinity": "Lower Level, 24 King Street West, Toronto",
+    "website": "http://sellwithshaz.com/"
+}

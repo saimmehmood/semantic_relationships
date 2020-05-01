@@ -1,0 +1,172 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.643766,
+            "lng": -79.40864619999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64513883029149,
+                "lng": -79.4072426697085
+            },
+            "southwest": {
+                "lat": 43.6424408697085,
+                "lng": -79.4099406302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f00383a96f90f7e4a399577f84a2bc896b405e82",
+    "name": "9thzero Solutions",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 502,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110501998319482700531/photos\">9thzero Solutions</a>"
+            ],
+            "photo_reference": "CmRaAAAAU7i-XtwT__9EfA92zPYaiupRXtUcHqYKTbwgkGZj6ZfMkPHNTKgZjGWxxm--YGioL_P9dNFqg_C3y0TWEZEIawuB9EJs6Jy-fGQiYrN4gw_tOUyXYdRqPQhslOPLd3AVEhAzu4ewRdvbVfKcF3kUi93JGhT2nr_XfbVs55pZhyEDEtiReX9-dw",
+            "width": 502
+        }
+    ],
+    "place_id": "ChIJDdUGJ-I0K4gROeT1DbWpcOs",
+    "reference": "CmRSAAAAln9s3eDRCNspAj7hQZWr2qcyBHz2XWMlK0JWpOj6DgAteri8YictcufpXgIeBbVkuwuz4MjM_FWofSvavnDKVQ833VlwnMbMtJu-7j2z2jo5uAobiS6mXyLWiJmrHlRcEhA5Cpcj6CT1ZHgFpd46ezkWGhS9HWCElhJA4gH0KiXhp-wtP9vidQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16965246391393051705",
+    "utc_offset": -240,
+    "vicinity": "229 Niagara Street, Toronto",
+    "website": "https://9thzero.com/"
+}

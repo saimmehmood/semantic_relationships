@@ -1,0 +1,254 @@
+{
+    "address_components": [
+        {
+            "long_name": "4-8",
+            "short_name": "4-8",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Beaconsfield Avenue",
+            "short_name": "Beaconsfield Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3H9",
+            "short_name": "M6J 3H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">4-8 Beaconsfield Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "4-8 Beaconsfield Ave, Toronto, ON M6J 3H9, Canada",
+    "formatted_phone_number": "(416) 203-9518",
+    "geometry": {
+        "location": {
+            "lat": 43.64343299999999,
+            "lng": -79.425316
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64481758029149,
+                "lng": -79.42379671970849
+            },
+            "southwest": {
+                "lat": 43.6421196197085,
+                "lng": -79.4264946802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d62c708abe0b6af32f9132031ba20361aa92ff03",
+    "international_phone_number": "+1 416-203-9518",
+    "name": "Primped Hair Studio",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108333840388097773426/photos\">Primped Hair Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAA9iGKHkkmgebXLVhy6k0feAVROkoJ2FMcEhxBxXJyGJLTzyIO4M-BeKLJLTnNc0dHv1_gW2Bf31PXryilzRfoyf8Ft3DfxB5xic7p_rn5aX88Wy1MHZ5iBHOyZwjN4gJ9EhAPDspJ03rpQc6Ik-XT-rAVGhShHHZD-W4LT0LfYnjqS315TI3O4A",
+            "width": 1560
+        },
+        {
+            "height": 716,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108333840388097773426/photos\">Primped Hair Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAcnoPP8kJ3m1Ckj6HR5f2aIOt1wzkgqYxZvDR7DFGHF4AJaxnrOYRpL3PuZpBKF6OAkQzzDbF84qlbdR6TNjAomNg3yggUE3rlaw21i99zyrmi-4Nob2xjt5Dk1Dhst3nEhAjd4469XCgnh7OnPwgFkmLGhToTN401ynlOvEnpy-bupy32gT9FA",
+            "width": 483
+        },
+        {
+            "height": 735,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108333840388097773426/photos\">Primped Hair Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAEbij6Y2jVHuGox76WmKNdqAZj_m4vI7a-VrDXwcGkXg13NBRfZ_l1B7MRd7yqLva_9i-90tkyFK8H0LE6qtxL924EfPkKqZDyDHrHkmSnTy_qrZ-mpzmVtoRch7gA9YmEhD9yEMzkoWMdNnGkJjRE_sxGhQPTNXJqea1IFSEvmgCq0a5yQiQEQ",
+            "width": 1005
+        },
+        {
+            "height": 712,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108333840388097773426/photos\">Primped Hair Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAjSICrXWF2PCcsfy_S2ZcP_1TQC-c7q_KPp7-1Nl9ccM9CGubsnMAzX6eL_DOnzaDMwZDmjVi-q9YwicEWj38ywnwQabenwFJYfmi9-7_DIMxck2tE9uKV2EfPuGqqopdEhDX3xmATP-bamAzyF9MKWNXGhR7lrn_SHTLTDvyjP90J_R_yoz-wg",
+            "width": 486
+        },
+        {
+            "height": 737,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108333840388097773426/photos\">Primped Hair Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAA124P_FONFg6YwDNmBj2vAi9ot8fqzQL3EvwQDoZs1ZKD5jHlzxu1ljUoQqvwDoHCHHFoYP69CEB-snOXgRRwC0NTs3pm90joYbtLCKuSxKdvlWqMIS5zjcDARMWrauGWEhDDZ0HbghCtXvIuhzW89rqwGhQdXtV4r2eXpqOC9cUq53Fo_UewvA",
+            "width": 1091
+        },
+        {
+            "height": 676,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108333840388097773426/photos\">Primped Hair Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAiLj8EeuFOrVKgiV2WwS8qD-HxIt0JyPdc6mIOpBiGAv8AOIBFSe1wkkHEVCD4aRH8Yy5qPb2S8XyIWU3XE2j4olDKDePc4Pgs4ORiam5dXvhjhz4mCdUMfS3wSHH6dwnEhBcrRX-9JPvVERHOGe1-0NIGhSk2DLP89fH6mdgIiCpH9aRmZPXHw",
+            "width": 1209
+        },
+        {
+            "height": 510,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108333840388097773426/photos\">Primped Hair Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAAeX2UEFfkHomF5CRlyJgH5CWgtAeHS4-kRhcmuSgk_tB1kuBxIZ9-KRLlPx5EnyAVWcxj1ZsgYgE8EhtJGonqKkpowGq56s2Q-76-dpOMFpjhKcbp8Ay9A9jrS_tDwtTQEhDXfu1IyhwhuEvZHHgLgjDXGhR2I8VixlwPMWajfi5iEant7vMddA",
+            "width": 509
+        },
+        {
+            "height": 734,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108333840388097773426/photos\">Primped Hair Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAA_ebm34VmmCVEatb4ZkrLMd8JSC3pS44aGJ72pRx8WhAX3hLGxpDOc1mJ3kZrAgv1NA6wRxjuvTQqWMxpId3NUyWOYHtPXDe1e1GY6UCozHaDm2YxKBQZ_o5r9w_bhllCEhDTPfIsz71LuWJP7feS95uoGhTOFGwZMcAQiuI88vV8UAc9l-Lrww",
+            "width": 1097
+        }
+    ],
+    "place_id": "ChIJ4dywAAA1K4gRJz7czYXwa2w",
+    "rating": 5,
+    "reference": "CmRRAAAAOse5BO-B6jxshfEunJbL_-gxtpcgoEHv41I4bzNWdR5HwtcLJ0k6T1NWyiNqTODp9f_jq3txMZuJR_gS7UBxnTfc4V9fya7NbKP3sf6tjq2Z4yZL5DzVDxr_3qTUWUkLEhACOarZ7OHpv5HkA9YkMdjRGhQ6kUkLcCwPZuoma-NjtyqlrHvaxg",
+    "reviews": [
+        {
+            "author_name": "Sandra Danilition",
+            "author_url": "https://www.google.com/maps/contrib/107753438868012212419/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-uz1Zq-Uyzu4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0j7swFx_B5iwADfekTcEqANxllBA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I have been going to Primped Hair Studio for several years and love the private and personal touch of the whole experience. Michelle does a wonderful job of colour and cutting my hair every time I go, never been disappointed with the work she does.",
+            "time": 1522438356
+        },
+        {
+            "author_name": "Jesika Steprans",
+            "author_url": "https://www.google.com/maps/contrib/105142831660868815446/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-2hSlHTrYDx4/AAAAAAAAAAI/AAAAAAAADGU/T7Oih0tvyCk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1495905971
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7812602436079336999",
+    "utc_offset": -240,
+    "vicinity": "4-8 Beaconsfield Avenue, Toronto",
+    "website": "http://primpedhairstudio.com/contact"
+}

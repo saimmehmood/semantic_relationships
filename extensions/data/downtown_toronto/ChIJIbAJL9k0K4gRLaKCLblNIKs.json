@@ -1,0 +1,154 @@
+{
+    "address_components": [
+        {
+            "long_name": "424",
+            "short_name": "424",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E3",
+            "short_name": "M5V 1E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">424 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "424 Wellington St W, Toronto, ON M5V 1E3, Canada",
+    "formatted_phone_number": "(855) 898-2378",
+    "geometry": {
+        "location": {
+            "lat": 43.6438342,
+            "lng": -79.3966495
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450649802915,
+                "lng": -79.3952556197085
+            },
+            "southwest": {
+                "lat": 43.6423670197085,
+                "lng": -79.39795358029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "794f7c1e875779fcae231fbeab805a26d27b4819",
+    "international_phone_number": "+1 855-898-2378",
+    "name": "Bike Share Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105981472158432610978/photos\">Ahmed Harith</a>"
+            ],
+            "photo_reference": "CmRaAAAAKIQu_-XbuRnCb8R-WyGvGYzTnqqK3FGwvLAyDhhaw1yQ8SMVWYxvR7WTTauk_EmRF_JcNDRWY5WBNCMItVfWzekO1jaSTIaN8jCMt0kUfFgdflA0obReW-L5tpvPIfDgEhCrAWmXOKfcSAmumc00MakBGhS8G32enRldiqJvoDAJXnt5eQTNfQ",
+            "width": 2340
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAUTLklr0taXMF637zmokFfBY42lC7ErDNTu2CZ1e6N550Pfr23gRJ0g1c4E_X-1XNA2zcXFYUa6rtkKkzsIi_SDiz6mqLlg-Q_LA6TBRAKqFn5Vf36YOo12AP71RfccumEhAcXtCmf2qhegk2teFgxb9qGhTa5Xpd5Kz2y1lZjzIPyi0q2IDyEg",
+            "width": 3024
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ4WeB_FyrBCF8z2vVRZIbXFETEzQjhtYo3y7Ei1uG77TSTpxAQ5e2fXfCBUELzme1RgLShipHS1w92TE_9XQ8rM86-05QpkwwQ6BhP7a71l-ghR37vu5pkthZwLryKHUEhC1L1moc7dnu9qrP9UNE8oiGhR1XumITVeCooZcpQUmijSWn7s5PA",
+            "width": 3036
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAgXZq6AgEwH13VLpMZUaQDmP_L7ihpe0HvbNaN9Awo3kh5Svd2CCI1qFe-J2pkZ7oRfxIMaxOqXOFPfFKrv33_t1rCUTc7ZdxOepb90cDwPdr4tdaDjMGkJ-WTzuNKGa4EhCmh5lShZqeR6oJUT17AuUqGhQtBSlPU0js2vnt7wk6W4j7NKu8vg",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJIbAJL9k0K4gRLaKCLblNIKs",
+    "reference": "CmRSAAAAqqwG2W0wLFb6hjPvC-nnSV1OdAab9m-NoZ-Vxi9HIoNXBnOrD8xzDzgt7ICyWnF8_uGj6OgseVIkJn8IpVP_PzqM_TaAwtr7pqvkYxzOjm877MpUud1RJXO-erbhF_BtEhD7d_aL8s1eqb5MXa4gnX2cGhRJRb42EUOqB6O9F4bOcmBfs1vl2Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12330941237468242477",
+    "utc_offset": -240,
+    "vicinity": "424 Wellington Street West, Toronto",
+    "website": "https://bikesharetoronto.com/"
+}

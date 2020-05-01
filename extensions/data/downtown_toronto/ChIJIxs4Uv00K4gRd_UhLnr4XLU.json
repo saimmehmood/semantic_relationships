@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "49-59",
+            "short_name": "49-59",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Crawford Street",
+            "short_name": "Crawford St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2V1",
+            "short_name": "M6J 2V1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49-59 Crawford St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2V1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49-59 Crawford St, Toronto, ON M6J 2V1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6431565,
+            "lng": -79.41435
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445054802915,
+                "lng": -79.41300101970849
+            },
+            "southwest": {
+                "lat": 43.6418075197085,
+                "lng": -79.4156989802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e25f53b7b7567cef17ddd1f19d581a68930514da",
+    "name": "49-59 Crawford St",
+    "place_id": "ChIJIxs4Uv00K4gRd_UhLnr4XLU",
+    "reference": "CmRbAAAAAyFXGh0W64ufqcS3rS1tAcn9T1hLwZd2kerCOwgcIPSlaWu0Th05wriRRiDFUYo2tgpkAemhXAsfPF1idjVHNjptrXYXS7lOO0j5YGgw9-IKnkwhEDjZQqUNmJPRWWHZEhDov04j4YzehB4KjIstNd0cGhRMykXOINLRwwFOuygzgiez1H2s5Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=49-59+Crawford+St,+Toronto,+ON+M6J+2V1,+Canada&ftid=0x882b34fd52381b23:0xb55cf87a2e21f577",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "Unit 3",
+            "short_name": "Unit 3",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "33",
+            "short_name": "33",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Massey Street",
+            "short_name": "Massey St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3W4",
+            "short_name": "M6J 3W4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">33 Massey St Unit 3</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3W4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "33 Massey St Unit 3, Toronto, ON M6J 3W4, Canada",
+    "formatted_phone_number": "(647) 456-5471",
+    "geometry": {
+        "location": {
+            "lat": 43.6428433,
+            "lng": -79.41294839999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441826302915,
+                "lng": -79.41164871970848
+            },
+            "southwest": {
+                "lat": 43.6414846697085,
+                "lng": -79.41434668029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7b6041a28bbb32e933e7b66fd719638072cc1ca9",
+    "international_phone_number": "+1 647-456-5471",
+    "name": "Lisa Davey-Realty Executives Plus Ltd., Brokerage Independently",
+    "place_id": "ChIJkZzYo-I0K4gRs53xaqzMSmQ",
+    "reference": "CmRRAAAAbh6LP1pJguWJDFTgD-lh_a5-swUVBNsvi1ESLf2rFM2jw3c3kHYytwcM3N90EI1OmLW03KOUGlmrTM3ks5ZA-N_gkAs_ALgiUfBq76NBIHEpjgJmcWL_YHOLCoxNP7NdEhBpO-r-Y54xBECxGDP5pMSGGhT_74Iez6yc5Mqeio8_ynTnmhTLlQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7226813592970042803",
+    "utc_offset": -240,
+    "vicinity": "33 Massey Street Unit 3, Toronto",
+    "website": "https://lisadavey.ca/"
+}

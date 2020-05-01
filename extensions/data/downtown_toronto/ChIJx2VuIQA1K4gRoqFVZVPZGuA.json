@@ -1,0 +1,283 @@
+{
+    "address_components": [
+        {
+            "long_name": "1124",
+            "short_name": "1124",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J3",
+            "short_name": "M6J 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1124 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1124 Queen St W, Toronto, ON M6J 1J3, Canada",
+    "formatted_phone_number": "(416) 967-1111",
+    "geometry": {
+        "location": {
+            "lat": 43.6433419,
+            "lng": -79.4238182
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64461763029149,
+                "lng": -79.4224410697085
+            },
+            "southwest": {
+                "lat": 43.6419196697085,
+                "lng": -79.42513903029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "d5b56a46ffd8c99231b8bc8e4f2c1cfa9e1312bc",
+    "international_phone_number": "+1 416-967-1111",
+    "name": "Pizza Pizza",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 2:00 AM",
+            "Tuesday: 11:00 AM \u2013 2:00 AM",
+            "Wednesday: 11:00 AM \u2013 2:00 AM",
+            "Thursday: 11:00 AM \u2013 3:00 AM",
+            "Friday: 11:00 AM \u2013 3:00 AM",
+            "Saturday: 11:00 AM \u2013 3:00 AM",
+            "Sunday: 11:00 AM \u2013 2:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 288,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109863456048920678160/photos\">Pizza Pizza</a>"
+            ],
+            "photo_reference": "CmRaAAAA9KXWm22WKWaTfNufwrN0DruGnjLpl2uXahGE0_xnyFeXiilEnF8YrAplkgeZhDBXCXBAWr8n-9vdmWTKGe1zXaWCe0QAZCOkOpKjHgzwBiq3E--u1H87LDxpirONqHmyEhA9VND8j67gbz5_khQcry0FGhQAYGfSdPv7XMUAtLF7af8vjaPx8g",
+            "width": 512
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106282611711638158666/photos\">DiabloZ World</a>"
+            ],
+            "photo_reference": "CmRaAAAAwmIwhCQHwq1S-uaW5UjyGqiwWhzYmRKPqGmLMq4mW_5AN9NNpaW1zumLF3O5FpJHSN_NJ8KG76ccxv5CiN7RmHV6zAMhAUdPrsrGuzkYiGSMYCBSOKdBPjvdWtPzMwliEhAlumlUfpTctSZ2g5_13eBgGhQ321Cgankcz4lwcc1apkgLMHez3w",
+            "width": 1920
+        },
+        {
+            "height": 2976,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106166479434539314808/photos\">Ken Peleshok</a>"
+            ],
+            "photo_reference": "CmRaAAAAD_EQoWdflvoGwrvbNO44zP4A40XN52cMfL-RGLRGiAigHx_Bml08kL8qMyGnttrHcLww7A75rDHxqaIHf1v4guirVER7wrEqaoAN73ApoHCRIK-90tTikAUYR6HtbtpFEhAa13Qe4G0-dYQqjvaL923yGhQ9nc6ETP0yE19Kc7v7S5wYxHqGtg",
+            "width": 3968
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106282611711638158666/photos\">DiabloZ World</a>"
+            ],
+            "photo_reference": "CmRaAAAA0KNYGZHgSkKicjkLS5iAdvs7v23aGVnfjYzD4bMzrSzpJ54ogYNY56DmV34KvpWv8NMoYpDKe0qLgfaypK5UhaX3UPPYhnZ6inIE6grSE6gHniq7usnj_Jib_ESZOw7zEhDuIxf2zpYAlmJ2_aIl6hsEGhTnvDa17l5VoZzLSVSH9UrDM9il-A",
+            "width": 1920
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109863456048920678160/photos\">Pizza Pizza</a>"
+            ],
+            "photo_reference": "CmRaAAAAruVc5QZ7IumcVqd87z83S2QAURssOrPayTDVy7iClcx7kAfnkeFMhfnnUNdM3mRNefflythOERNFtBiZSGyP9mlTx4pZQadeRLLU4YW3tNw2WQ4QsOOBP4Ye7rEEAmJvEhASx1cC9PddJg89N6mYY_6kGhRoOzxnohEUTNxTwmIEfmmYwNOUQA",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJx2VuIQA1K4gRoqFVZVPZGuA",
+    "rating": 3.4,
+    "reference": "CmRSAAAA1oi2ElMwARZAhUynEn8n7vte7xPrOCPlSYj5SB4CpDYr3s_6uxLCVJw3q8DTqQY19Sw7wHBcXeIgGbTEu8BnW2xODtZkSeg_RUmyXPcKjvyhScs_8CkwGAIo09znArseEhC48Nd1UISB0UZO_lK0PAnsGhQR_OwfgaOzoOYX6hyKtsUkE--ydw",
+    "reviews": [
+        {
+            "author_name": "Sean Smith",
+            "author_url": "https://www.google.com/maps/contrib/115285509469609847556/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3DfAuMWNL1c/AAAAAAAAAAI/AAAAAAAAnpg/rr0D_ir0U0c/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "As far as Pizza Pizza goes it's pretty standard. The double doors are pretty awkward but it's conveniently located and the employees are chill.\nI've never been a fan of their pizza but the wings are usually pretty good. Best part about their wings is the ability to get them without sauce on top so you can add your favorite sauce and be very happy.",
+            "time": 1527600499
+        },
+        {
+            "author_name": "Jermaine Christie",
+            "author_url": "https://www.google.com/maps/contrib/113994016689231214108/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-50lcIubOQas/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3fvHl6j_z0PvtLN_b-KC2tK41mjA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "This place is a joke. Whoever operates at night is a crook overcharging people who come in late over the weekend, pretty much trying to take advantage of the club goers from the nearby nights clubs. I was in there on March 16 2018 around 1:30am and was charged   over $11 for a small pepperoni. I even asked why its so expensive and the cashier just put their head down and said nothing. ABSOLUTE CROOKS!",
+            "time": 1521657154
+        },
+        {
+            "author_name": "Tommy Roberts",
+            "author_url": "https://www.google.com/maps/contrib/107860618820345403732/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-OzYowEbSat8/AAAAAAAAAAI/AAAAAAAAGxg/nFa1PeIjxpM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Fire pizza, wings are pretty small nice staff",
+            "time": 1526713673
+        },
+        {
+            "author_name": "Mohammad Hosein Abbasi",
+            "author_url": "https://www.google.com/maps/contrib/103577667581416367739/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--vrvj4EPfdY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq31odehdJK_MMYpZOownqMHm9CtvA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "There was an insect on my food",
+            "time": 1527408453
+        },
+        {
+            "author_name": "Hardik Patel",
+            "author_url": "https://www.google.com/maps/contrib/109647667929473673954/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-YhgccKUZmnA/AAAAAAAAAAI/AAAAAAAAAKw/PlmiMLd1pbw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Excellent spot for pizza lover!\nPizza pizza dipping sauces are on point!\nThe location is clean and staff is excellent!\nWould definitely recommend this location!",
+            "time": 1507808895
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16148458366095958434",
+    "utc_offset": -240,
+    "vicinity": "1124 Queen Street West, Toronto",
+    "website": "http://www.pizzapizza.ca/"
+}

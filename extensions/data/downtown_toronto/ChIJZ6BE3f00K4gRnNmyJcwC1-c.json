@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "6",
+            "short_name": "6",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ossington Avenue",
+            "short_name": "Ossington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2Y7",
+            "short_name": "M6J 2Y7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">6 Ossington Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2Y7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "6 Ossington Ave, Toronto, ON M6J 2Y7, Canada",
+    "formatted_phone_number": "(647) 345-6663",
+    "geometry": {
+        "location": {
+            "lat": 43.64439369999999,
+            "lng": -79.4191043
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64575803029149,
+                "lng": -79.41767466970849
+            },
+            "southwest": {
+                "lat": 43.64306006970849,
+                "lng": -79.42037263029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "702736f20dcf4c9bc75a2d0e8e7c32f97f61bc8f",
+    "international_phone_number": "+1 647-345-6663",
+    "name": "Parlour Salon",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 10:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1086,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103581179739661765617/photos\">Parlour Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAAI_bO_0fTQemcO_Ol6p02mBnCy7a1QazddBc4zUbuMR6S1pLREc4GHHZn9sXAvePvRPKslZ6QeFhpU2fLImc7Hd-2Y7DsNy-14YWtjPfkk-GNekt4mg72b2-tfcDJCteXEhCb6HfhFIBGGfBrmMOUFK1MGhRLhfRs60WFO2VHBk0dYjV32ykiSA",
+            "width": 2048
+        },
+        {
+            "height": 2461,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115506293010724443193/photos\">Sylvia C</a>"
+            ],
+            "photo_reference": "CmRaAAAAuXEjqmbTTOum_a5lrAOFJ4TG7EG33MVMCekWq0zcaL45uEIKa3mSEUsbwiTD2dF3Rqp5J4yOaaKmBTz-LIJr730R2WIymTlN0ltyzA7Av1sftX5RsS-gFdIGASNO69gYEhBK_5V0ZE_oG1kJ2jIunDISGhSkkqlRT2piGP2jcupqeqtWoE3J5A",
+            "width": 4772
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105981472158432610978/photos\">Ahmed Harith</a>"
+            ],
+            "photo_reference": "CmRaAAAAa15Fm1Jha-axZYcLy6Q9bi0lmJVL9edn3h4RPYA3XTkqZxh_BiD8j0TuYvzPXCwN4fln90T-lMyL9cjkekDQPrP9psSuSeSBy4gJ-uw7VrvH2YulDjnSW3Wtob7xEv-NEhBNAgtuoDS6Mbxvw9hBMP4AGhSKEljBZTau3fv00KKS6wuJ5IhtfA",
+            "width": 720
+        },
+        {
+            "height": 2880,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104939331826523975355/photos\">Jessica Thoma</a>"
+            ],
+            "photo_reference": "CmRaAAAApck3I6sJwjq0Kd1habE_h3pAzb4SEjFQVEMWmcKjjmH287zxCA9nmNCLOAKfz_KSpqdT8CjPaoC4w-FN0KaCx7X-Ebl2UuOiFcVdldnEBmRya1bz7LSZJhp3AK84GxWfEhBk6jWDByFpePibwWrOILwJGhS8wK0ncEdOatK_Doaw9ktSjLujCw",
+            "width": 2304
+        },
+        {
+            "height": 2960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115506293010724443193/photos\">Sylvia C</a>"
+            ],
+            "photo_reference": "CmRaAAAAenz3Fdt5J6sgi2CMD94qI8fTdv607WlixCrQsjMulDNI16RqyhXvsGyFsEI-99aM3Gv65LSIVV2bsleDWUbcZ2tHcmegmc4E9flXO37rOCiPIDEb6LbEq8ZfwbYLUvrVEhAf6NSoo_kMSWzQJhty58mGGhRLZsnNj528zfm5yyOD5GFuu0i0Jg",
+            "width": 6256
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103581179739661765617/photos\">Parlour Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAA0MjdtjfhEhGpHAU9rnWZSXrUWE8cjL5w_EZBkhyMpmukejFB_tn8WNje1enOelX62Xy8kYuOZ1fal_pRGWDQofQqaUYV77_mOjGR3VPYKsMxgwHsgmnX6hcWrx6LqMhHEhAiBKEAUWq2d7Ih4VI3M12HGhRJIRchU2xySRWmPAQAbcNxOeyXXA",
+            "width": 1080
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103581179739661765617/photos\">Parlour Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAAItUSZnsjdJHrZ8-myc5nG7h8G6HAJUN1BrdaV-bTFf3S4uuIot_JKpDiXaDkdARI2weQxzi7MJ8ceoAmIkUrd0pPwVj6guSo2HrPsOA2rHxsK-bg9Q7x1aGXeC0SK7hYEhAexZ31q4gOsRXUD1oLmKMbGhSMWE_chfWeUsawz1L56xyfSKaYSw",
+            "width": 1080
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103581179739661765617/photos\">Parlour Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAATR2R0BGBp7rNPIBzaCaWf3kfzuYdwrQLjSKB035OduCA6adodIc7eF8vb0Ytf1wPDQqC3mFgJujVSdEyMEMZe6SxciDKB4kvMaO0zw3lJ5Nt51y2qo8iTYqydMVWez5tEhCv-fsnE8e_h0PgJpQWYEQUGhRSV4MGzJvT3hLZLz5sltqjrATbTw",
+            "width": 1080
+        },
+        {
+            "height": 3088,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117683354529807150713/photos\">G S</a>"
+            ],
+            "photo_reference": "CmRaAAAArzxuopT1s_lIa4m2iXwAfm-u7F0RHaU4xB4hiMu66pO303WH7qxjUftTr3OA6xekG8dSHl_zCIX2a9yqPRyVq4_6I91gzASCrLD8-2MI1gV3MSydFaCLIDXtYD7knRtzEhAaY6ccTytd-KdYqe4iM93_GhRaxLznHrP4LIHfomdnQab_qN-55A",
+            "width": 2320
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103581179739661765617/photos\">Parlour Salon</a>"
+            ],
+            "photo_reference": "CmRaAAAA5yxJvifjJhR6vX42R5jQ9ZehM4m7u0zTEsQD_Tpoqrp1ez6KMjBh04n9aVztZFmctYzpLAtiGFORLdPc-hCbBFsdOpSAfEDi4hbOXlAcurfwpRxO41qa0qJMSPXGOQGaEhBlZYqxlxyPbLaxmBWvVb8fGhTJmfQatefi_kWiV9dOgK1xTB52Tw",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJZ6BE3f00K4gRnNmyJcwC1-c",
+    "rating": 4.4,
+    "reference": "CmRSAAAAYWU01eIRdULpz2ay1XdEdb3znQazQnAK3j0gkDcsZCpDOIkRyN6Lc7C0fm-dFG-cF71xzx3NhO3vGDLKOBI_9JlvLyTgZCgxszncn9znEox1kfCyfnugLiAxwuiOUWIJEhDwK-JjD0WZeGSlhaB50qBtGhRrldnm3kezY37mMSVgs0JRYWm4Ng",
+    "reviews": [
+        {
+            "author_name": "Aine Ganly",
+            "author_url": "https://www.google.com/maps/contrib/103714826092935486742/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-KZ-kcEZwGQU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq13zvcA_D2SklGqiZgozNLlv9NRtg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Just had my hair cut by Josh and it was great! He did a beautiful job blending my layers. He understood what I wanted done and made sure that I was very happy with the way it looked before moving on. Also, the bounciest blow out ever! I would 100% recommend getting your hair cut and/or styled by Josh.  \n\nThe salon is relaxed but clean and beautiful. The staff are friendly and approachable. The prices are surprisingly great for the quality of service and skill offered.",
+            "time": 1523293322
+        },
+        {
+            "author_name": "Sarah Dawson",
+            "author_url": "https://www.google.com/maps/contrib/115619268134946063318/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-yh62s8H049g/AAAAAAAAAAI/AAAAAAAAAMA/priyKrQJkR8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Nina hit it out of the park for me. I came in with a mess on my head. I had breakage from bleaching, an undercut being grown out, and I\u2019m trying to grow out my natural colour as well as my length. She fixed it up so nicely and gave it the polished style I was looking for. She had some great advice on products and on growing my colour out. She was a pleasure to spend time with and my hair now feels so healthy again - I can\u2019t stop touching it. I\u2019ve already gone ahead and booked my appointments for the rest of the year. Being from Hamilton, it\u2019s a good excuse to spend a day in Toronto. Really cool vibe and I finally like my hair again.",
+            "time": 1526857584
+        },
+        {
+            "author_name": "Meghan K",
+            "author_url": "https://www.google.com/maps/contrib/103332951378115817455/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-epxjtkZXP8g/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0RrI6V9MHUXvS_po8sEUsTg41ldQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I have very thick hair, so time and knowledge of how to cut it is something I've never been able to find in Toronto. I used to work in Liberty Village so I would pass by the Ossington location every day. Their website is very helpful, as it lists all of their colourists and stylists by rank and expertise. I used the online booking form and chose Stephanie, who is an intermediate stylist. She is literally the sweetest! She asked me so many questions and was very helpful with determining the right cut for my hair based on the style I was looking for. She took her time, (like, actually took her time!), and I think that makes all the difference. She's super chill, not bossy and really dedicates herself to meet her clients needs. It's no wonder why she's been there for 6+ years! She's a rock star! I'll be back to see her for sure :)",
+            "time": 1523275848
+        },
+        {
+            "author_name": "Lindsay McEwen",
+            "author_url": "https://www.google.com/maps/contrib/102787674202084006786/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-XpHk786sCvM/AAAAAAAAAAI/AAAAAAAAAPc/3royXNLnDTE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "This was my first visit to Parlour and Josh did a fantastic job on my hair! So happy with how it turned out. I'll definitely be back! \ud83d\ude42",
+            "time": 1526569660
+        },
+        {
+            "author_name": "Christina Rose",
+            "author_url": "https://www.google.com/maps/contrib/116745584585743578681/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-3TeNapj1EFk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq36c1NvsjKgGDldsl_juPhCiTM2DQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I've been getting my hair done at Parlour for a few years, with Martha as my stylist. She's coloured my hair vibrant shades of red, given me sweet layers, trimmed and softened without taking off too much when I'm only looking for a refresh, and is especially great at cutting my bangs the way I like them. It all comes down to communication, and she's super friendly, which makes her really easy to talk to. She listens to what I have to say which is key in getting what I want. I highly recommend Martha.",
+            "time": 1519696506
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16705824418583206300",
+    "utc_offset": -240,
+    "vicinity": "6 Ossington Avenue, Toronto",
+    "website": "http://www.parloursalon.com/"
+}

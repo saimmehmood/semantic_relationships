@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "50",
+            "short_name": "50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Portland Street",
+            "short_name": "Portland St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2M7",
+            "short_name": "M5V 2M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">50 Portland St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "50 Portland St, Toronto, ON M5V 2M7, Canada",
+    "formatted_phone_number": "(416) 570-2713",
+    "geometry": {
+        "location": {
+            "lat": 43.6432618,
+            "lng": -79.3998572
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446375302915,
+                "lng": -79.3983821697085
+            },
+            "southwest": {
+                "lat": 43.64193956970851,
+                "lng": -79.4010801302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f5ed02189779399b5c3f65d0baf1edfb982a13b4",
+    "international_phone_number": "+1 416-570-2713",
+    "name": "Shifting Momentum",
+    "place_id": "ChIJo7-zBd80K4gRaINIolk0ZP4",
+    "reference": "CmRSAAAAb0lYd4MvvzaKL1D_-1wbgZoKeZwJ_zpM1fVEqSJI9KJLG6wE044MQv61F25uZJ_FKnkRmFZoJFCgJo4ml2scHmnwNPmjZfTylJ1e61e4t5DPEMfD93kwH9jFd09ghiu8EhC4zENEmPW2bHuHdO_y428eGhTI28hObx1B9P7gQb5u6MczIZNRhg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18330833942884156264",
+    "utc_offset": -240,
+    "vicinity": "50 Portland Street, Toronto"
+}

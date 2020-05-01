@@ -1,0 +1,311 @@
+{
+    "address_components": [
+        {
+            "long_name": "1106",
+            "short_name": "1106",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1106 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1106 Queen St W, Toronto, ON M6J 1H9, Canada",
+    "formatted_phone_number": "(416) 855-4321",
+    "geometry": {
+        "location": {
+            "lat": 43.6434658,
+            "lng": -79.4230102
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447603302915,
+                "lng": -79.42164001970849
+            },
+            "southwest": {
+                "lat": 43.64206236970851,
+                "lng": -79.4243379802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "a6b20b02096205a7e6ffd1d2fef6de3d57b09ab3",
+    "international_phone_number": "+1 416-855-4321",
+    "name": "The Devil's Workshop",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 12:00 \u2013 6:00 PM",
+            "Wednesday: 12:00 \u2013 6:00 PM",
+            "Thursday: 12:00 \u2013 7:00 PM",
+            "Friday: 12:00 \u2013 7:00 PM",
+            "Saturday: 12:00 \u2013 7:00 PM",
+            "Sunday: 12:00 \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114331919870051800179/photos\">Hanako M.</a>"
+            ],
+            "photo_reference": "CmRaAAAADe4u-VGxBnVeUTvph1QZHTrLC4VnE-nd66DE2iaaORqV8iLaT1QJn_3aUW4sY1aDG2Qizo3REO-jGmY_rFCaW5ivGOO1zQuSfU8H6M5Oo1ObkennJUJ5Nq5anBd8e7XNEhDoUMVSqvwiTIxBL-0Zh2oDGhSRt6P4iFQUx4nxEpWVBIuwXlPLYQ",
+            "width": 480
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAA8oNF_uHR_ND1QWzGKa9NhF9Cpd7LY9KlbONED0Gf5dFWEKnSStGyOWb_E0s5b3EW02Q89L5bzCXAma9hPrbGAilaWuI2xjwqyKINeE10ZYS-JkQ6539CGGYz0w8ZBTiqEhC0w2PW8QZf-qyRQ0qL9NNxGhSV7jjwHipkrmPAr2wDlpLew6HNnA",
+            "width": 3024
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115579102763653529993/photos\">The Devil&#39;s Workshop</a>"
+            ],
+            "photo_reference": "CmRZAAAAeXDFKQDgkIT3XymVC6TuVK4touW37jEeN2Wqtdu6UOC3DeZ2XlX-f-me7_p9WPVY7XxNZ8eVb1dwG9DuxVvwBdYoBtuRotXc8uuSE2cSfZ8sMRrWZo-h_olKMnuc3FQoEhBW1NUbu1aDuYdDaCZEPhKQGhTfTyUVEw18v3YESXUCILo-oRlUHg",
+            "width": 4912
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAA5tQawzXQ2rpAXprf-DbdATXwdpIqJpjf1Ejib3vV5yrDt1VXwAZLMRUe9EFrXAr81p-rYaV9juEfr6E0zBdPLtW6wnFJXHM2ct2hxp6mwVPagbCb5A8LFZ2moupzPP99EhAavm5moA34ukVczG4yJZ_OGhSa5o0iua8hzLzHSpvyMCN4VVDClA",
+            "width": 2048
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAAuGyoJtrswgWmkzD0zKW9YeXEZVcefGkeFXkwZbe7gOxxn4OP1jaJcdB-nE6fNp4j5AT58TzXABVIig1_oGL2ehDsgejjkGTLtUyntccfb-t0WqlFZIf_j9Xfj0xNSBWjEhCnBrNjlvof6PK9pEQqvmNxGhTOOQjI8w8AZJF_OD7RlRJoWqByJA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAAU3H7Q2M808na0KNm6QBifoQ-aNiJV70l8JNoqRDdDPc5QEBXfJOhuXrtS_7oakmXmVv3m4-Ks-Ab8MCzlIICLrhrWYPOLj34Anmccfhczl-MKK8iDOtIvM789t8_JfxpEhB_XyGACcfJhbOsISofg5ClGhRz3C-8owuKHMAz3odqQyGLFCAA8A",
+            "width": 3024
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114331919870051800179/photos\">Hanako M.</a>"
+            ],
+            "photo_reference": "CmRaAAAAKH_GjrAdU3nuuVvD5mg-F8gATH2b8naDuLQm_l6hBrkzVhtgp0bZ1IR0K_Dt16DCSoAb5Dc5wxkqfReb-wF7cd3NdsX_G_QqcLoj64Bedee0gpSnpsM310ddeTRn8kLSEhAlwY3-4k01oUrybseTSoW4GhQz8U-21daW-U7-RSVGHyMK-9hD9Q",
+            "width": 640
+        },
+        {
+            "height": 2157,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115579102763653529993/photos\">The Devil&#39;s Workshop</a>"
+            ],
+            "photo_reference": "CmRZAAAATmx8DRB5MhBjhwiVQODYxrzTg41qzmbQegmtRe4Nm-qt0NEl26VsgPAe9CwySMft3NUKz063cNSsQzh1LKDqtXNw3zOiXRGQwQiZZ7ejjH52Uvu8rngPK1mnD4WNyt4DEhDTfT0FDJzTw0WX7QKNrunDGhTMv793UlJuIqZCGgLWnFxVOTfnUw",
+            "width": 3242
+        },
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105057148582026490385/photos\">Andrea Thompson</a>"
+            ],
+            "photo_reference": "CmRaAAAAF3FrcwyAQ-rOqj0yC47PLgciUldjb6xrudmnBTpdRkXqyHyFWeP_YDiblLYCBtw4VTOEepvawJ0Bit3PKIRAfLnDN7bna8WFdIc1pZT5j0AC7qL0AVZPv7_nvpLtQ7i1EhAWDky12AZ-cq4CLvKStGRzGhTLtWOPxqA-e98cT1uqm6HLFHASNQ",
+            "width": 1920
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAAExpDY0uesspxaAQxQ9FZUdMl1VghiLKPTAMKhurSvR8guny_dkYASCPXFMl13rLQQreoGc7Uufa00CoXprwz2dFXAnK-uQ8qhlTLtfDiHWu6GTNfZ97vOc9wkiGLJ6iPEhAnDLkNimFbygskt0xSC29JGhTFb81LvpziiiIpLZeK0VQ1BIfdnQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJ-fED1vw0K4gRr8MQL6or51s",
+    "rating": 4.7,
+    "reference": "CmRRAAAAEBy0ZvSLYRURCwYhCqREedmle4nlHPEnMYopfPnMcfoQQZ2mk2wxZrS0G9sW65gu2fPziPxEfOtsb-mF0RLSvIGTIlZHmxGW54YxWG4AzAyQ_OyQTabcai4Z1Dxfzk5zEhCejJpr4wX9wipn29n69KO9GhRPnRRaY_jl-eqZ1YGNV_Wb2sBEyg",
+    "reviews": [
+        {
+            "author_name": "Anna Sabrina",
+            "author_url": "https://www.google.com/maps/contrib/109067137735209296423/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-W7leLLDK9lA/AAAAAAAAAAI/AAAAAAAA-kQ/cFrVSvy6CMs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "We had a wonderful experience participating in their Wedding Band workshop session. The class was small and comfy with Sarah and Melissa guiding us through the session. Each one of us gets a bench and were able to learn how to use the tools needed to turn a piece of metal into a beautiful ring. Sarah and Melissa also made sure all of us were able to do each step, and even if we hit a snag, they were able to rectify it. They also took pictures and made us some tea/coffee, which were a nice touch. We're very pleased with the resulting wedding bands and would love to come back again to make another set for our future anniversary gifts for each other. Thank you for the beautiful experience Melissa and Sarah!",
+            "time": 1518559197
+        },
+        {
+            "author_name": "Kate Fogal",
+            "author_url": "https://www.google.com/maps/contrib/118097884315570388685/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-z2uby8G7Agk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3MXCwVFQ0_tPVgOiI8BvGAB0QqrA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Just finished our wedding bands at the wedding band workshop today! I was hesitant because the cookie cutter rings from the local mall can be much cheaper but the experience of making them ourselves was priceless! Enormous flexibility in metal and style. Knowing that every step was filled with love and care makes these pieces so unique. Thank you Sarah and Melissa! And Griffin too!",
+            "time": 1522884391
+        },
+        {
+            "author_name": "Heather Gemmill",
+            "author_url": "https://www.google.com/maps/contrib/109457701648693484957/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-pBSYYW8oeMc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3zPUney7RASHxmE0b48VdXZijw4A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I went to the Devil's Workshop for a custom piece and was so impressed with the customer service of the staff and beautiful designs. Sarah worked with me to make sure the piece she was creating was exactly what I wanted and suggested alternatives to the design to make sure it lasted forever. Highly recommend!!",
+            "time": 1528123579
+        },
+        {
+            "author_name": "annette",
+            "author_url": "https://www.google.com/maps/contrib/104350602851734114326/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-lobjOhI2aqE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2a2yNjw0TVabU6BlxRUex0sd7Bfg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The wedding band workshop was really fun! Melissa and Sarah warmly greeted us with tea and coffee in the morning, and made everyone feel comfortable and at ease. They were so helpful and encouraging throughout the workshop. They patiently explained every step of the way and taught us their ring-making techniques. We are very, very happy with our rings! They turned out much better than what we had expected.",
+            "time": 1518926600
+        },
+        {
+            "author_name": "Denyse Rizzo",
+            "author_url": "https://www.google.com/maps/contrib/104039852095656788877/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-bh5Nu4krNPM/AAAAAAAAAAI/AAAAAAAAEKo/Y4O4atRrRuE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We had such an incredible time at the wedding band workshop beginning of April! I would 100% recommend to any engaged couple. It made the ring so much more special and meaningful to me, knowing it was made by my fianc\u00e9 :) they\u2019re so knowledgeable and patient, we learned a lot and are so happy to get the exact rings we wanted :D thanks so much Devil\u2019s Workshop!",
+            "time": 1526216187
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "jewelry_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6622309787005666223",
+    "utc_offset": -240,
+    "vicinity": "1106 Queen Street West, Toronto",
+    "website": "http://www.thedevilsworkshop.ca/"
+}

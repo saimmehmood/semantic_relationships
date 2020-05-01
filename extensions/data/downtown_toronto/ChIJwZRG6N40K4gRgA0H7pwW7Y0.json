@@ -1,0 +1,154 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(855) 531-0078",
+    "geometry": {
+        "location": {
+            "lat": 43.6442837,
+            "lng": -79.39874669999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64583048029149,
+                "lng": -79.39747396970849
+            },
+            "southwest": {
+                "lat": 43.64313251970849,
+                "lng": -79.40017193029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8acdf4cac9a323effc3789e54407945f8327673e",
+    "international_phone_number": "+1 855-531-0078",
+    "name": "Spoonity",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118246414750626677379/photos\">Spoonity</a>"
+            ],
+            "photo_reference": "CmRaAAAATBAo7MKgNKzX2-HUzIbzUnY4tnZF38CR-xWehEBT2mJ3MG7mB-Z6k07WdYXyY1Yx2TLUcN4cE1xINmJZ0-giReBsVodLUjNEyT7HeY9lxK3CUgeHedWK-be5W1HNHE0fEhAtONSW8U8mmefNo7mxapgcGhTK9ozvFnDk0wsBt_WPdxNf5Rho9A",
+            "width": 1024
+        },
+        {
+            "height": 666,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118246414750626677379/photos\">Spoonity</a>"
+            ],
+            "photo_reference": "CmRaAAAA_vXLOMuMJshL0-pPerM0FzSCYOnbWE-ZE4D9lqS37Mg5CRfxLwdBoS-e-UxqoNOHPucPDFtc4f3qCjIeX2k1xmRio9911YehgiAznl2OCejL5pIHEg7QvX6or4pHyF5wEhCpYDYfttXJponMdiZsfGg9GhQr64kTnJyXd3EGmOvx8HC0eoU05w",
+            "width": 1000
+        },
+        {
+            "height": 666,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118246414750626677379/photos\">Spoonity</a>"
+            ],
+            "photo_reference": "CmRaAAAAPoO28GwNA_p-oxuk_TWLgywaZ6rgqo89a_2ynrVF3hJokZR1BmZv4QH5TcXkUY8r1VPJmZYyKGhIGFdUQgaFpXeHZKln4elKICfkLiNIWNlUvoV0lJA0Z9buePCE2Ep3EhAemSVL6iery3HXrWwEckTQGhS7QAiWuyOl7ShRvPCIDP4pihv6kw",
+            "width": 1000
+        },
+        {
+            "height": 509,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118246414750626677379/photos\">Spoonity</a>"
+            ],
+            "photo_reference": "CmRaAAAA32jP7yDSP3Up3cXE44SkdgLLkin2W66ZP5RTgJ3lE1JGHBgiEz1j659DYEvmce334_qF1HGtX3Je6OF9Svcb9PhZ0QwtcSYygc92jEV-SrGfasoCw54NZ-taJtG4UYkBEhAdR21p8wFwtq8DCQDpQ3BcGhQfLsA0nXM7j__5i4y0kTpNbwUo0A",
+            "width": 509
+        }
+    ],
+    "place_id": "ChIJwZRG6N40K4gRgA0H7pwW7Y0",
+    "reference": "CmRSAAAAKbTt-JDmrQAIibGPlT-Tm9F41MegmlHbMW-ADEM7DXAehkhEzX6GiUiODtVbJoBhybU_ob7W0Lxfat01cihzkexVx_SBnOh76ED-E9E_Leboq88t6dzuHZnVSP_z5-BmEhBLbOsyH0hWoG_4NKNxQY3PGhRA-SbOkt1C-PGV9jxznx52HS_20g",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10226855192092413312",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto",
+    "website": "https://spoonity.com/"
+}

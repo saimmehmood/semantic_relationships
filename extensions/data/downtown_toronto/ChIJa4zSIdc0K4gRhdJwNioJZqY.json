@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "444",
+            "short_name": "444",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2S9",
+            "short_name": "M5V 2S9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">444 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2S9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "444 Front St W, Toronto, ON M5V 2S9, Canada",
+    "formatted_phone_number": "(416) 585-5000",
+    "geometry": {
+        "location": {
+            "lat": 43.6438982,
+            "lng": -79.3889753
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452322302915,
+                "lng": -79.38761971970851
+            },
+            "southwest": {
+                "lat": 43.6425342697085,
+                "lng": -79.39031768029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bcb0f9579495032f183342f8dd6d6bdf6e75a9e5",
+    "international_phone_number": "+1 416-585-5000",
+    "name": "Canadian University Report",
+    "place_id": "ChIJa4zSIdc0K4gRhdJwNioJZqY",
+    "reference": "CmRSAAAAY2UTaG9-KXpda5XzHAIzRuO4x2oU5VNW1AJP-KD6QhWUfGJGUzk6e0EfHFtYsNURq7Rhd6jXYLbW_LRzMY7jdJ2ZeQcQCKeaN2N3gQSkwd31T0-N4VrPu6R4rdu8epwcEhCIlS7k6tZAu7USPlVa4qWxGhSRsYu-d1y1E-t65MnQjE4De5q8BA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11990281134827164293",
+    "utc_offset": -240,
+    "vicinity": "444 Front Street West, Toronto"
+}

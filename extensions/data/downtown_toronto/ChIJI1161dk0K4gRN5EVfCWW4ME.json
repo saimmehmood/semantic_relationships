@@ -1,0 +1,305 @@
+{
+    "address_components": [
+        {
+            "long_name": "361",
+            "short_name": "361",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3R5",
+            "short_name": "M5V 3R5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">361 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3R5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "361 Front St W, Toronto, ON M5V 3R5, Canada",
+    "formatted_phone_number": "(416) 846-0986",
+    "geometry": {
+        "location": {
+            "lat": 43.64317519999999,
+            "lng": -79.3916736
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445885802915,
+                "lng": -79.39035576970849
+            },
+            "southwest": {
+                "lat": 43.6418906197085,
+                "lng": -79.39305373029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "92a7f4981fa1c225c2380be11b8c3b4bb4b420a6",
+    "international_phone_number": "+1 416-846-0986",
+    "name": "Perfect Pitch Downtown Toronto Piano Lessons",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 10:00 PM",
+            "Tuesday: 10:00 AM \u2013 10:00 PM",
+            "Wednesday: 10:00 AM \u2013 10:00 PM",
+            "Thursday: 10:00 AM \u2013 10:00 PM",
+            "Friday: 10:00 AM \u2013 10:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116281437701565100938/photos\">Perfect Pitch Downtown Toronto Piano Lessons</a>"
+            ],
+            "photo_reference": "CmRaAAAAkHNiAzxcF4DtPjrAC7spCYfMiv6bjFqPkORsqirjqrpFx6t11BsHWmQOTqKTTAGSaShSsyZ6c95HObQyc38ob6TZIb8C6NISAz4USjS1hVkrDifP5ETNpe80Sv1-bdzSEhBGcYg4H4gaO6W4Q5oJNj4kGhTqTbLgi-BFCh1DX3taBisKeoMCug",
+            "width": 2560
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116281437701565100938/photos\">Perfect Pitch Downtown Toronto Piano Lessons</a>"
+            ],
+            "photo_reference": "CmRaAAAAPHM-VHV5iiDwLTTfJUzHmPHKuq3CzwZ4cimSDVEj1EY5_n5OGzJVGBMjHdMK2K_Zxbj1eTlu6FTQnf_1n6tuEl8zosn5aJ9h_eUInMiRgw_tJtTIBMM2oVRuFu-zEfTuEhDDSxa2gc5Z-fHQufP-MqNtGhRPqWx4szsJoJdYVloIUxuBGdX3Gg",
+            "width": 2048
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116281437701565100938/photos\">Perfect Pitch Downtown Toronto Piano Lessons</a>"
+            ],
+            "photo_reference": "CmRaAAAA_UC36KY7xbM001Hi0hnD9Y6r6V3zYdAssFhbsoapO15bp9wU1xtUC9-skO9FK7-4M4HUL0Oy7aKHvINGh5q1u9Q2PqSy88cB4oUIpUTaC-U48FtIy_WewUoSKqdJHEX-EhB9bb4DQIDf7rw3yWuWV97fGhSstybVz-8fOCd9k_x8TbL4sSTeWQ",
+            "width": 1536
+        },
+        {
+            "height": 864,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116281437701565100938/photos\">Perfect Pitch Downtown Toronto Piano Lessons</a>"
+            ],
+            "photo_reference": "CmRaAAAA8SE2sj1IAJolloVS6bNRiVwJfrBSrie5wDFM9BLaRbt65k9q5OgzwuQUnij44lb30GgL36wf873CMM94uhDXfcSm7bODu6S0CIrX3nNxSFvBzYe6y1T13_NCULXAdgnGEhBqfnNReLf9XFORDBHhGmqWGhSLQej4r2YnC6XU_surynv8qSZKrQ",
+            "width": 1536
+        },
+        {
+            "height": 453,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116281437701565100938/photos\">Perfect Pitch Downtown Toronto Piano Lessons</a>"
+            ],
+            "photo_reference": "CmRaAAAAklA-s8bWMridua_qRXg9e6fWbK2BoBqIWIaJFlij01sX6cS58-eq6RdxqhI_3326A-cG5R9wiBljLhdkl7R-S9NvjgPQ_NRdRRmc-4Naqf2ffF_PJiNMzPD8V-jRcrXxEhDZGgHpR4998RJS1nFSyBWaGhQngv3VFPLORHOti9sEOPXS40wydg",
+            "width": 604
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111203419953674179576/photos\">Susan Quach</a>"
+            ],
+            "photo_reference": "CmRaAAAAWGxGv7NmO3xvpyZYovT9drAYwRwJEgIzlSZnS7iU4jzqRTf_E_3XzJtY4o1E6aVS_WA60ymstTYXvjq4ntBG2pbD4ufxIB8F-OWf4XPXw4ArJTwIyONYA6mBim_2EX73EhANBoisKW6g4gPHjdn9RwspGhSMrrL8cOHutBcip04VKxKWaQdyNw",
+            "width": 6016
+        },
+        {
+            "height": 540,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116281437701565100938/photos\">Perfect Pitch Downtown Toronto Piano Lessons</a>"
+            ],
+            "photo_reference": "CmRaAAAA0bidXANMcoqN2yL1z6FV6pAsGCAMeiYp3gMuragFScil_Eh8Ad19B7A-s4e-3HHMF8ewG9isPLnGIM4WXb51dU7qkUYYyQgkewFeZhS-p8ldF5ZUHvKbFKoFU7CYz-PPEhBNpG8wQIcv44wrrRlaSN2bGhQ-W8bSYWL4eApw90LuoSFsYa9wWw",
+            "width": 960
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116281437701565100938/photos\">Perfect Pitch Downtown Toronto Piano Lessons</a>"
+            ],
+            "photo_reference": "CmRaAAAA8C9CFOP8-PCNF30LMbYuaBSi09hfd3P6azz5IIbjiOaKqQ8OT49sOtzVK7h5eLoP0OXR5cYOzMbAsO53DDF2Rxb3SqFIWWyYhyKRwsAd57eSTAWwoyn2PXqkexIUiHsGEhAUnkIWJesu_MXZezJkEshTGhSSDMAOhtxAcRmznlFICetz1RR_nw",
+            "width": 1194
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116281437701565100938/photos\">Perfect Pitch Downtown Toronto Piano Lessons</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ7kpgn8oj2wZpM7n3IsU9vfUOuC-PkrFNqhdl0ByTCvD0LC2bzg29mIKmxiFQtTsaSU-gAODE5cAKQyy7ooQ8RQxqcNcXHiWygyL8Djm63wd6zG8V2lqkj73wmJRPj0FEhBr7T7vEMV8e_9BhxKJDC3yGhR11oMzPn4ls5HB9arAAzKsdBPSLA",
+            "width": 500
+        }
+    ],
+    "place_id": "ChIJI1161dk0K4gRN5EVfCWW4ME",
+    "rating": 4.9,
+    "reference": "CmRSAAAANJ07aWjf1DpdS3-gWaBspaJqx2tEzshAJj_47uAX5yb3OEAsc2EEJrdsFL10TDumBhWQHAo0TbAq2AH8j_2i1vCuJatAOaH_rYZbQhw-yqFlhP443uvz3GJn1UUxIxR2EhCceeqYMkLiSBtc8B5KZA0GGhQ2B375o4UViNKNnZ0youjQNGrgTA",
+    "reviews": [
+        {
+            "author_name": "Mahammad Ismayilzada",
+            "author_url": "https://www.google.com/maps/contrib/116325823620877635015/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ObmX7FpbOZc/AAAAAAAAAAI/AAAAAAAADD8/jqM3GR1nI1w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Susan is a great teacher with a passion for music and especially, piano. She is really good at tailoring the lessons to your style, teaching different types of techniques, explaining music concepts in detail with a lot of useful examples and making the lesson fun and enjoyable. She is also very patient and friendly. As someone who has never played piano before and having made a noticeable progress, I highly recommend her to all the adult beginners.",
+            "time": 1525273865
+        },
+        {
+            "author_name": "Ian Perry",
+            "author_url": "https://www.google.com/maps/contrib/113742673330977441419/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-jBr7eHSevB4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1Kr2HeO3MV4brCzrtL-TLxUaNBag/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Susan is simply the best. I found Perfect Pitch through a Google search when I was looking for a piano teacher in downtown Toronto, and the reviews convinced me to sign up for a lesson. I am so glad I did. I've been taking lessons with Susan for about six months now. I started with only a very basic ability to read music and never had played piano before. Within the first lesson, Susan had me learning pieces that were fun to play and perfectly aligned with my skill level at the time. I am amazed at how much I have improved in such a short time since then and it is entirely thanks to her lessons each week and the clear instruction she provides to ensure you're getting the most out of your practice at home. I would recommend her to anyone who is serious about learning the piano.",
+            "time": 1512105484
+        },
+        {
+            "author_name": "Varun Singh",
+            "author_url": "https://www.google.com/maps/contrib/113749314135702200123/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-EfyNk0dgQOo/AAAAAAAAAAI/AAAAAAAALUA/sQBSa6nPrZw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I've had a fantastic time taking group piano lessons (for almost 8 months now) at Perfect Pitch and can't recommend her enough, particularly for adult beginners like myself who have little to no background in music. Thanks Susan!",
+            "time": 1526156466
+        },
+        {
+            "author_name": "Priscilla Chan",
+            "author_url": "https://www.google.com/maps/contrib/115310735686309338234/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-3YXuJ1BxoqU/AAAAAAAAAAI/AAAAAAAAAX4/soT5oqdzpzc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "I've been taking lessons from Susan for about 3 months now and am really impressed with the progress made so far. She is a talented teacher who was great at adapting to whatever previous knowledge I had with playing music (other instruments than piano) and pushing me to go forward with every lesson. She is also very willing to work with our schedules which is so important as an adult as sometimes life takes over. Thanks Susan!",
+            "time": 1503362261
+        },
+        {
+            "author_name": "Hadeel Fayez",
+            "author_url": "https://www.google.com/maps/contrib/113646365906708908468/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-r9_XRP-x9eo/AAAAAAAAAAI/AAAAAAAAAF8/j_A-3mhWm-8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "I took lessons for a month and half!!\nAnd I started with her from zero,, \nYes it was a short time but I really like being with her,, she teached me a lot about piano starting with useful techniques and reading simple notes,,\nI was so busy that time so I couldn't study or focus only on piano practicing ,, but now I know how to start,, she gave the first step to learn!!\n\nFor sure I'll come again with more passion and longer time!!\n\nI really recommend her lessons for all levels specially beginners,, cause she knows what she's doing,, she really was patient with me!!",
+            "time": 1505072489
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "home_goods_store",
+        "store",
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13970331131843023159",
+    "utc_offset": -240,
+    "vicinity": "361 Front Street West, Toronto",
+    "website": "http://kquach.wixsite.com/pianodowntowntoronto"
+}

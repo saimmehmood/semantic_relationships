@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "1050",
+            "short_name": "1050",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H7",
+            "short_name": "M6J 1H7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1050 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1050 Queen St W, Toronto, ON M6J 1H7, Canada",
+    "formatted_phone_number": "(647) 350-7444",
+    "geometry": {
+        "location": {
+            "lat": 43.64397229999999,
+            "lng": -79.4207026
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64524893029149,
+                "lng": -79.4193258197085
+            },
+            "southwest": {
+                "lat": 43.64255096970849,
+                "lng": -79.42202378029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "29d0313c9bf7d66affc684dbaabdef601953c4a3",
+    "international_phone_number": "+1 647-350-7444",
+    "name": "Sweet Olenka's",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 9:00 PM",
+            "Tuesday: 11:00 AM \u2013 9:00 PM",
+            "Wednesday: 11:00 AM \u2013 9:00 PM",
+            "Thursday: 11:00 AM \u2013 9:00 PM",
+            "Friday: 11:00 AM \u2013 9:00 PM",
+            "Saturday: 11:00 AM \u2013 10:00 PM",
+            "Sunday: 11:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110479073448074653730/photos\">Tadeo Thompson</a>"
+            ],
+            "photo_reference": "CmRaAAAAt1DLeg03xMWiShFOQi4LH4IMI0fRG5gT5K6CZa7aX_a9sV-1red2aakr7pxS10ND1KTj_pdR7AuOHj4B3mD_wZCIKPtWMZedlbQ0YpYz6blMAN3u24WQAxeWbzaXphzEEhCveG7hphTX3UwZVmMyxWz7GhRnHMjTm4uBAF77H5YqnUO1TtFkyg",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117501648669156410709/photos\">Olga Hnat</a>"
+            ],
+            "photo_reference": "CmRaAAAALfGYYw317HIbRM4AuTZOMm39BAWNEdXPfoTgGAXiEfrl9gfoIaWrj-PzvTzkWj7USwwhPozqiVKsvXpP5Jxiu_SrckZP3NhTF56iOt2CWj6WojO6i3tzHl3P4AYSyDkaEhDVN4Meyqq_bh5fTwgyDCsCGhQ5gqkOBEci3lFVdYs5YekjSdnHVw",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103767141381613208343/photos\">Mns A</a>"
+            ],
+            "photo_reference": "CmRaAAAA2AnJkXwUC5xpSByzl6JOS6EeNvKMaR12Ezdzf23lQOAGR6U6HeS5iQ7qvZCTNvK4rpd4Vbe-Th10zID9avZyhHs7QXUzBEz9FNpNnd0XDuz4L8fWBYEwP7pX4iHR4ZToEhDJYzmInnwBnEZBVBIVhE4DGhRu62OX11wsHcctz2E1PWln7e_Onw",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAAXdxN8LIE0OcbZvZo_TwCdRijLUPT0iqafDzdvHKcQn2CGXzMtsWa_e599ovnVNfQLmvZ5RCQ9zp8Fj4n4bP7N4fvd35hAXYTMfTub3bKYyEDbkW8fzssvqgi9ogBJEiuEhCLraqH6Ki6quN2BhP9RcT4GhTO-p8sXCJBOHhLOoBmocwWOHNxWA",
+            "width": 3024
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106929643790826389063/photos\">Mjpn Steven</a>"
+            ],
+            "photo_reference": "CmRaAAAAS84ZLA3f-vrvxxVl7cV_smRmAHU4cJ-NFlgks2vKtt8CJ3qMp3i7d8kc9h2q-0XsXatHJuVjuvLP0GFwNkoLM-QHCQp5gDHW3kPY_Ic4OGOTQhio23Hz5UZTwi-FE8NqEhCeoXBvRbthNH-ZFfu-uYs6GhQMBIur6y3BHmjApGDXHtpZSCWeXw",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103825898182601170714/photos\">RINA AIZAWA</a>"
+            ],
+            "photo_reference": "CmRaAAAA4RfXto6jtWIb7cQpOVxx2F6oJYzA_NUdRn-DdXJzamYJcLqBw__mGYE7878bDxKGhSL9inu1J06Ctk5_SofoBHAC8oS2X9atQnk529vwGQIpp96qulexm0tYtrSY7fOFEhCpcF9sTaQB9yCXS8-L_klFGhQUBwxWa8fvaITu8YPYFYMX6dsleQ",
+            "width": 3024
+        },
+        {
+            "height": 2620,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100341155438487307057/photos\">Kate Babak</a>"
+            ],
+            "photo_reference": "CmRaAAAAy8Uk7U10pW2BshvD5Rk8suiT2Pc6SeIHgzGgPNfpP7TqgcJvyhYnPgKhtJxxn_V7a-kFRKyRhG7dsIIMdsB0A7JVuG27Gz518cobbvHR93DZregtTC9wDA_aYpNngzb-EhCT-k2L7BjxLrXz6k6Sw9p2GhTK7ZbnD5ibMOq4TIjyZabYOgfAhA",
+            "width": 4656
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103767141381613208343/photos\">Mns A</a>"
+            ],
+            "photo_reference": "CmRaAAAADuKTMIOLSOa69vReKk71GhXh4KC0CGI7S9OqtOLM1bTOwO4gh16sQ5eTkMlVLNW2nhLjbLJj74pMS8nLzBu4S2QAEE-XaY4741U0Cx2-ifGRqAz196tHOO0Yjs4NtnCLEhA2WRbHC_8Pkqcg1-TFt0SsGhSts6StAEqnUogFqfvz7bQu1Mgeww",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102068028347063250484/photos\">Lesley King</a>"
+            ],
+            "photo_reference": "CmRaAAAA7Lmz9tfkt9a0uggrBM8WRLfxxvzDDou8-eZ-ExZ19WHtXe4btJiKqkYPYny-WWZGZj1BPLg2ROAhUFO6kFCRXHTmOpEBa719Os9RB9w8XO7aYPXACNrntWwXP6M5Bcx7EhAfKoA3Et_dFISutIjY4KHEGhT0WdHNzluM4UuFuNw2UfsPNllBMw",
+            "width": 3024
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103590192277488081074/photos\">Slavi Grozev</a>"
+            ],
+            "photo_reference": "CmRaAAAAfD7MBHodLIhgDUSpltsLAmwL-9cPFJkDfGS_2qlhJa1Tn_-3emwV_kC-epyk6GxbteZHNEHUQPkF541ZiH68RJOJNTC0p5rBdhPPjhJK4LM23ug7IlxqY5wdMRG1xt3AEhDIfM1UyJgJeQ59cTwo2lTbGhRJdPbdjIKF65wKh7pPGM1f7gNKcA",
+            "width": 1836
+        }
+    ],
+    "place_id": "ChIJ7ywOGv40K4gRRaU_JNBJRBo",
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "CmRRAAAA2gSzzEOctxrszk0xT-7lKtYEqrG-NXLOKv4Wsasftci9KFbTQR2TZmSWTFY_cTPIDx1TKow741GaPvY0iBKCszqNqv0cq_S4sKvUORGjNO3Fji9j6hlBRGMuZwK2w6_fEhBu9gmaoyEjqah65hgcMzN5GhRj1RbfFTPekfYMj-Y9ySmQud-4cQ",
+    "reviews": [
+        {
+            "author_name": "Samuel Edmondson",
+            "author_url": "https://www.google.com/maps/contrib/105475010061777012769/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-SGXId7DjnTA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3AUYtxH19NnCVi2mYQY5sbVrhiVw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "The best waffle cone I've ever had. It had a hint of cinnamon or vanilla and was also warm. The ice cream was pretty good, but the cone was amazing. They have lots of options including vegan and gluten-free.",
+            "time": 1527603382
+        },
+        {
+            "author_name": "Lillian JT",
+            "author_url": "https://www.google.com/maps/contrib/112407535158312021209/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-f7h4qqCC_wc/AAAAAAAAAAI/AAAAAAAA7Z4/LaSE0bDlxIA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "More than just ice cream. I've been here twice and love their ice cream. They have simple to unique flavours and dairy to vegan options. They also sell eye catching ice creams, chocolates, macaroons and pretty designed ice cream sticks.",
+            "time": 1527031347
+        },
+        {
+            "author_name": "Olga Hnat",
+            "author_url": "https://www.google.com/maps/contrib/117501648669156410709/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ObRBgfe2YQs/AAAAAAAAAAI/AAAAAAAAJZ8/2hAS9bdqWuE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great small place filled with chocolates, cookies, muffins, ice cream and very fresh fudge! Greatest cashier ever with lots of recommendations and ideas for ice cream combinations! We walked in at 8-57 pm, place was closing at 9 pm and cashier stayed longer to serve us. Greatly appreciate this as ice-cream was very delicious. They also have very funky flavours, so go visit this place! Highly recommended!",
+            "time": 1521682566
+        },
+        {
+            "author_name": "Ari Holtzer",
+            "author_url": "https://www.google.com/maps/contrib/112048000533510914261/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-pLvkfycSFcA/AAAAAAAAAAI/AAAAAAAAASQ/hW_h8l01oms/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Amazing stuff people. Best vegan options in the city for ice cream. Prices went up recently but still worth it.",
+            "time": 1528499393
+        },
+        {
+            "author_name": "Caleb Tarshis",
+            "author_url": "https://www.google.com/maps/contrib/107746945536808774612/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-tahC0i141QI/AAAAAAAAAAI/AAAAAAAAAeM/k6OQcXkFZWY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Been going there a lot. There's a huge chance if you buy something it will be very stale. Don't listen to the other reviews. My friend calls them sweet freezer burn. The last time I went in not only did they raise their prices to 8 dollars for an ice cream sandwich, the thing was so rock hard I almost broke my teeth off. Also if you buy something bad, they just laugh at you because the workers know their products were made in 1992. Don't even think of complaining and asking for your money back.",
+            "time": 1525786040
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1892718901712627013",
+    "utc_offset": -240,
+    "vicinity": "1050 Queen Street West, Toronto",
+    "website": "http://sweetolenkas.ca/"
+}

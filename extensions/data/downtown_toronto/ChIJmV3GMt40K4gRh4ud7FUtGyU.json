@@ -1,0 +1,222 @@
+{
+    "address_components": [
+        {
+            "long_name": "#401",
+            "short_name": "#401",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "645",
+            "short_name": "645",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M5",
+            "short_name": "M5V 1M5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">645 King St W #401</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "645 King St W #401, Toronto, ON M5V 1M5, Canada",
+    "formatted_phone_number": "(416) 504-5584",
+    "geometry": {
+        "location": {
+            "lat": 43.64381100000001,
+            "lng": -79.40191349999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452759302915,
+                "lng": -79.40061046970848
+            },
+            "southwest": {
+                "lat": 43.6425779697085,
+                "lng": -79.40330843029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a58d2ca12c0740436a7f348a78f9e4c6c1e1904f",
+    "international_phone_number": "+1 416-504-5584",
+    "name": "b&M Management",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJmV3GMt40K4gRh4ud7FUtGyU",
+    "rating": 4.2,
+    "reference": "CmRRAAAAT9xxgN_sQLksse6GmP2lkuo4YFY8K_fLmW2grzuj_xY9zdbpCSb0ZNFC8in5aGBMb_njD3jhdT4wWIInwhbvOuwLhkT3UXnyTylC-0NMyiY99CYDe8_5VR8o-ebXq3SjEhDgQoqJ7w_m4rt5cJ_epXVDGhSc36EdtR4o20kI5bHdcdIarNYuBg",
+    "reviews": [
+        {
+            "author_name": "Drew Miller",
+            "author_url": "https://www.google.com/maps/contrib/115976494031136963348/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fq-dNvXW7Kk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3jLn45IiYKlVS6B18rETzyyo8s-g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Ill never forgot what they said when i signed my papers \"Welcome to the family\".  And that's exactly how they have treated me.  I could not recommend this agency more and speak very highly of them.  5/5",
+            "time": 1522939229
+        },
+        {
+            "author_name": "Kyle Andrew",
+            "author_url": "https://www.google.com/maps/contrib/113337248680313769265/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ynnad2Mpcys/AAAAAAAAAAI/AAAAAAAAAHo/cwtt9Zp7Goc/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Fantastically managed and cared for since day one. My research indicated that B&M cares for their roster like family, which is why I signed with them. My practical experience confirmed this. They are indeed my extended family. Hard to believe since they're all much, much shorter than me but I state it as fact nonetheless.",
+            "time": 1502849493
+        },
+        {
+            "author_name": "Teona Star",
+            "author_url": "https://www.google.com/maps/contrib/117799158582382555843/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-8MF3hkyLbUg/AAAAAAAAAAI/AAAAAAAACI8/yV8wug2f1Os/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "They have a very unprofessional and rude staff, they also scam people out of money and get them no jobs, BEWARE",
+            "time": 1502316605
+        },
+        {
+            "author_name": "Karyn Inder",
+            "author_url": "https://www.google.com/maps/contrib/107783950629571930015/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-OVFp9yuU2fA/AAAAAAAAAAI/AAAAAAAAGGs/pNsQlCGj064/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1515081067
+        },
+        {
+            "author_name": "Pilar Cruz",
+            "author_url": "https://www.google.com/maps/contrib/109456878929123166826/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-IQoBZe1vN_Q/AAAAAAAAAAI/AAAAAAAAANU/zj8UI_n9R3A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1508232657
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2673780650839739271",
+    "utc_offset": -240,
+    "vicinity": "645 King Street West #401, Toronto",
+    "website": "http://www.bnmmodels.com/"
+}

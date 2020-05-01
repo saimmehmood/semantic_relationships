@@ -1,0 +1,221 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2Y4",
+            "short_name": "M5J 2Y4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "14B Harbour Street, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2Y4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "14B Harbour Street, Toronto, ON M5J 2Y4, Canada",
+    "formatted_phone_number": "(647) 259-8806",
+    "geometry": {
+        "location": {
+            "lat": 43.643146,
+            "lng": -79.376894
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444949802915,
+                "lng": -79.37554501970848
+            },
+            "southwest": {
+                "lat": 43.64179701970851,
+                "lng": -79.3782429802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7c831f1a044986974287df545e68a55e5b70701d",
+    "international_phone_number": "+1 647-259-8806",
+    "name": "Re/max Plus City Team Inc.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: 9:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109557687331644440794/photos\">Re/max Plus City Team Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAmsmRXmNi2X5C82LkZ9KhlbXcWmZRKBDJelQAOd-9GLQrIiKLOE9JR0WjmAp0jPhsjRzeHQSm6JgMUqGD5JNghQNP5vlZ0ZoF0-NXzvaXT6ODGmoK3zNYnJ8L0Z9yFMf4EhB9eKPIAyrryKa5xRZrgVkRGhTRXiO2ETyO1SgxuVAKN3pVyGd-cA",
+            "width": 1119
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109557687331644440794/photos\">Re/max Plus City Team Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAxhPR3HPwLBoFEkLuL1x4gjfAm5T4Khbozh5YtKhSXlhGb93bIVISQCWBsP3kMM4HY1NP0lzdejDPqbDaCggFFsOJPT_bi1ie_CQyimW7Tl55ln_peD4qg6GJ9HEktW1kEhCF75NY7-WOxkafnDBjVCkqGhSOQXSJprHU4mbcI7Ou4r8vfdpCpA",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJ33fKRSrL1IkRxR1GzLFvbOA",
+    "rating": 2,
+    "reference": "CmRSAAAAGzVVRMuBOKq4dEbg5dNNPrcs2Z2Ykz3BqvnOB78ocoGvFmP0QfKFeATEOFvCaajcYxnUxDL7qsjRaW0FVmroA9RchGgLyIjM1kGtJuwYVhaxmLbxFJXUGP3tWKnIxqdMEhD_GNddsHcnznd_rMCRIJ05GhRbmG0oFK1u3kRPUEAHKcrFSxCorQ",
+    "reviews": [
+        {
+            "author_name": "Rudi Spallacci",
+            "author_url": "https://www.google.com/maps/contrib/108902839012549559138/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-oqroIo9JGcM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3uWfwLfI76P3r4xJVcDw-h2gtNnA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Carlos Gonzalez is verbally abusive and will be rude to you throughout your process of working with him and even after a transaction is complete. Don't work with him.",
+            "time": 1528498442
+        },
+        {
+            "author_name": "Larissa Turner",
+            "author_url": "https://www.google.com/maps/contrib/102516052121062657747/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-xVwZj7u3li4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1igDlmO1Ugf82Cj_QzAlbTGTwX6Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Unprofessional people from the Owner all the way down to the horrible agents.",
+            "time": 1528481722
+        },
+        {
+            "author_name": "Michael Cuff",
+            "author_url": "https://www.google.com/maps/contrib/104357858236354797546/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4GEEXlJcAPk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0fDkTpV9usPRsHZ8Ib-ZMUsgRtiA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1513431078
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16171423171407650245",
+    "utc_offset": -240,
+    "vicinity": "14B Harbour Street, Toronto",
+    "website": "https://www.remax.ca/on/re-max-plus-city-team-inc--toronto-6724-br/"
+}

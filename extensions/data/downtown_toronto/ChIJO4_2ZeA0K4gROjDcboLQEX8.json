@@ -1,0 +1,261 @@
+{
+    "address_components": [
+        {
+            "long_name": "725",
+            "short_name": "725",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W9",
+            "short_name": "M5V 2W9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">725 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "725 King St W, Toronto, ON M5V 2W9, Canada",
+    "formatted_phone_number": "(416) 504-7696",
+    "geometry": {
+        "location": {
+            "lat": 43.6432914,
+            "lng": -79.4047263
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64473788029149,
+                "lng": -79.40341506970849
+            },
+            "southwest": {
+                "lat": 43.64203991970849,
+                "lng": -79.4061130302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "72b93494f3878fba2f2ec5e0aeab382d4bcf2981",
+    "international_phone_number": "+1 416-504-7696",
+    "name": "Mr Lee's Dry Cleaning",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 7:00 PM",
+            "Tuesday: 7:30 AM \u2013 7:00 PM",
+            "Wednesday: 7:30 AM \u2013 7:00 PM",
+            "Thursday: 7:30 AM \u2013 7:00 PM",
+            "Friday: 7:30 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102775325764780851496/photos\">Morris C</a>"
+            ],
+            "photo_reference": "CmRaAAAALr42J79D2gfujWioixvriZnnoT3tKonfp6E1PQRv6MZcLVmYE4mYLnZcoeiLSOpaNlDLhWmXft_HeGfHfsiOkH3jQwSXB8eHx4ZDmBlxhCYIVRtJnc_MVSfxkCSJMtISEhCyfTF0_2nj4RegJ3nPjfABGhQY64OTxMvmao2HFxPg17hOViZFYQ",
+            "width": 2048
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAA5RJGJIbgpkhyqsZAOdmfLLPYIdaQiHWcxgyv35ViAh46Lwmn_PI_BrTHLmomGY2122YsFRIrAPTLdLj__BiXUBl14Dwp4SOkQRg7H0ipfbrT-hoqG4Lf7L2nBWBbAAjEhANBsfaSKFd_syLvQ7sxUbvGhQv0IFc6F2AGPugODthkWqS7DJQtQ",
+            "width": 3024
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAZlvrmV8Rm0te1_31M5BcGBVquN4MKpQ-q6RB8x8vXNYpEy-nzwNSPwv0AYWihKAgjG7gvx3vBsFmGKKhwQMCQQ6gLNhrSlQxfvt3uhoQ4fYfpPSCYmTyqkDGXIahqx-2EhDuqH4JAiEXSA54aymtDH4YGhTCy8uFIjDR4lDrmTKx1cxJnakBPw",
+            "width": 3036
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAdSWj4IpWFRKTumtuy854XxdDxoyv0FwAv88AlEcTODWLrIuK5b3SD5RbbQ1Rv5WrxsPpHIeKbWy80h-zilgc8Fx6L0PfqoTYzNbIkhrIM1BUywMGvRDp9QtGMWeNgtrNEhDayU6DYWe5DjJQwrsL4ZUVGhSOY12-m26jwhXuX1GL_lXxSumliQ",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJO4_2ZeA0K4gROjDcboLQEX8",
+    "rating": 3.7,
+    "reference": "CmRRAAAAPjPXoeYsCaJOeUY0_ND4f4T4J2LGgXvvtUAPjv4Bz4icn6a1dqrccOSDJ4yWc-VrjrFNNIMGLR9t99WOj8OwvCExBdcd85MOX0gNF-XQ3tbGd2sUe_EwKnRq6QXpaKe2EhBrQg9S1raW0wHniScf1ErdGhS_7q0Zdt52lhJv9KuqX0UbnXl_hw",
+    "reviews": [
+        {
+            "author_name": "Janice Eadie",
+            "author_url": "https://www.google.com/maps/contrib/102704774657040941587/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Pol52ekobmY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Ts4XRDzttvgw4iTmq8l8D5rEUOA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "The UGG cleaning service is great...they look perfect again:)",
+            "time": 1510778142
+        },
+        {
+            "author_name": "Joanna Lau",
+            "author_url": "https://www.google.com/maps/contrib/117986563119925261170/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-2D4vUlOOt2k/AAAAAAAAAAI/AAAAAAAAAEs/n7GL39tOiA4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I've been going here for years and have always had great service and perfectly dry cleaned clothes. Will continue going here.",
+            "time": 1494899753
+        },
+        {
+            "author_name": "William W",
+            "author_url": "https://www.google.com/maps/contrib/100790732752895240760/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-D-3d7o0ZFsk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1vuz8vkKk92vwi3vYdc74bJFYmkg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great service, friendly owners, excellent work!",
+            "time": 1516029020
+        },
+        {
+            "author_name": "Reagan Brugmans",
+            "author_url": "https://www.google.com/maps/contrib/105936129920107255813/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-m2yziz_ENK0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2e5bg0g1u_k602OxKgcukODbjtTg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very impressed with this service. Dropped off a white blazer with mustard stains and they were able to completely remove the stains. Dropped off a second cream blazer that was stained with a full glass of red wine, and they were completely able to remove that as well! Very fairly priced as well.",
+            "time": 1466553392
+        },
+        {
+            "author_name": "Reena Pabari",
+            "author_url": "https://www.google.com/maps/contrib/117041591431198112970/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ZUniMisTdhI/AAAAAAAAAAI/AAAAAAAAAAA/Z8Oikw5LpMI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "DO NOT GO HERE. Bottom line. I read the previously written poor reviews, however thought that perhaps I would give them a chance regardless - which was my mistake, and I will not be going back here again.  \n\nI dropped off a beautiful (and sadly, very expensive) silk shirt for dry cleaning, and had it returned with tears along the seam and the silk pulled in multiple areas. When I showed this to Mr. Lee, he told me it was impossible that they caused this and that it was from wear and tear. I had only worn the shirt twice prior, and obviously did NOT drop it off in this condition. \n\nIn the end, it was a struggle to be reimbursed for the cost of the \"dry cleaning\" and he refused to admit that they caused the damage to my clothing. Again, I will not be going back.",
+            "time": 1443808164
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9156328776045178938",
+    "utc_offset": -240,
+    "vicinity": "725 King Street West, Toronto"
+}

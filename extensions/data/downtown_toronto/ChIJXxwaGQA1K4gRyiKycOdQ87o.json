@@ -1,0 +1,95 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J3",
+            "short_name": "M6J 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M6J 1J3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6431161,
+            "lng": -79.4246024
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444650802915,
+                "lng": -79.4232534197085
+            },
+            "southwest": {
+                "lat": 43.6417671197085,
+                "lng": -79.42595138029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a81121a9a9c609d1622b762836a932c3a01412b8",
+    "name": "Queen St West at Beaconsfield Avenue",
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAUIFI6xzPgcVNvmkf7GhWE8g19jW5B5bhzEI2jk6dRUVRXPomXnOvOwLB3quRtLnf-_pMB1u1058Hlgu6QupadyTR7Z7HNdWzYMwlaREv5FIvH7GMYOYZFMlbB1Bc5qKyEhCvKeHELVE4IbsCf8zaQNArGhSWNQssIkWXeq36W6T5tjPqiGuhDw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJXxwaGQA1K4gRyiKycOdQ87o",
+    "reference": "CmRSAAAAIZimQvh3u93l6r8tQgFc-92JdcE7EcJTLxCh4GsTJcw9HLsejXMFL02QtLJpiFvKQMmbjZEmevo38RlaJd2ssYtaeHTgZgOKxSRnkzI5v1cDEG1JerKwuHVNkQOZUnbTEhDPPj6b67_W9eHXSBVWAqLtGhSi8VzIs7ZQVxt19RzZQoHwtSQbmA",
+    "scope": "GOOGLE",
+    "types": [
+        "light_rail_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13471199865353675466",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

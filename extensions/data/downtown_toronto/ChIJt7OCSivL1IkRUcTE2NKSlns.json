@@ -1,0 +1,191 @@
+{
+    "address_components": [
+        {
+            "long_name": "15",
+            "short_name": "15",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "York Street",
+            "short_name": "York St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A3",
+            "short_name": "M5J 0A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">15 York St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "15 York St, Toronto, ON M5J 0A3, Canada",
+    "formatted_phone_number": "(416) 681-7152",
+    "geometry": {
+        "location": {
+            "lat": 43.642827,
+            "lng": -79.380375
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64406778029149,
+                "lng": -79.37951846970849
+            },
+            "southwest": {
+                "lat": 43.64136981970849,
+                "lng": -79.3822164302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9df09a34844cc1a4d8b89498240ba31bd7f004e3",
+    "international_phone_number": "+1 416-681-7152",
+    "name": "Keith Thomson, CFP\u00ae, CIM\u00ae, FCSI\u00ae",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM \u2013 4:00 PM",
+            "Wednesday: 10:00 AM \u2013 4:00 PM",
+            "Thursday: 10:00 AM \u2013 4:00 PM",
+            "Friday: 10:00 AM \u2013 4:00 PM",
+            "Saturday: 9:00 AM \u2013 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118135864979840725008/photos\">Keith Thomson, CFP\u00ae, CIM\u00ae, FCSI\u00ae</a>"
+            ],
+            "photo_reference": "CmRaAAAA0AtOhHQ7R_BmsUmRGTHce02fVs26by9z1E7Xr9jqZ-2gJYHoAndEaM3Ty8Z7_b6dbYWpa7O-4Ro2YjFY3jGhVjIEQ-IoO7MByOmwSy9-bCd0crWXy0vmMbWPN3G44ZffEhCYeBd6BLjhGAzQ3Ysl0xrZGhTNKgjFiwD-knaV7rWvHLTuSSFNXw",
+            "width": 1024
+        },
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118135864979840725008/photos\">Keith Thomson, CFP\u00ae, CIM\u00ae, FCSI\u00ae</a>"
+            ],
+            "photo_reference": "CmRaAAAA1epqAyQE5mp7i7p2OEb3Fs9y4Z-osL9jaecRo3RZuUbeNDAIkPMNSMnoMDO2SQcPJOO-faHvaQbZmbb9arvy6FcfT_-L0Qrj8QKcSTlV8tCwYWF2hPVdp69k6ab_5j4lEhBw4eDmJps8LCQJEiQ-X5TDGhRD0DbPrUUVC87m85yWkbk3VhUnpw",
+            "width": 300
+        },
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118135864979840725008/photos\">Keith Thomson, CFP\u00ae, CIM\u00ae, FCSI\u00ae</a>"
+            ],
+            "photo_reference": "CmRaAAAAfRc4B2SmBxEw46f4eS5OIA9ATYHHsGgmLb5kKW5bfjhLsiBfj4ds0t3QuHVc-TKibe4_ch1mVPuU7ah2huGIuDZS1VHBdUFawGZUfbNjSJjchTBi9gBCAu9fDZAMDwTnEhAZK84jjljgo8LSJZfKNrUeGhSK_o08z-mdzDcYM8-zsHLJvJhH9g",
+            "width": 300
+        }
+    ],
+    "place_id": "ChIJt7OCSivL1IkRUcTE2NKSlns",
+    "reference": "CmRRAAAAxF-OsYebgNI8e0zMewjrY0jfua3Bdrn7aFMVaAfwUMjeDHSZfAijySMdowKmfaVNZvDtGvpjOWgU_6p-La1mZfBZ5XWYqLIvMaBL7r4-99u_9dDcHt1cyhE5xE8d958_EhDQGYToayQNvZ02yjGqNBBdGhS2KcgiOApfNa_OJGnaEkoIFUaRmQ",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8905466747449295953",
+    "utc_offset": -240,
+    "vicinity": "15 York Street, Toronto",
+    "website": "http://keiththomson.ca/"
+}

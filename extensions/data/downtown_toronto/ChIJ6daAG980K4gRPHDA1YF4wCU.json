@@ -1,0 +1,216 @@
+{
+    "address_components": [
+        {
+            "long_name": "510",
+            "short_name": "510",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "508",
+            "short_name": "508",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E3",
+            "short_name": "M5V 1E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">508 Wellington St W #510</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "508 Wellington St W #510, Toronto, ON M5V 1E3, Canada",
+    "formatted_phone_number": "(416) 434-6487",
+    "geometry": {
+        "location": {
+            "lat": 43.64332479999999,
+            "lng": -79.3991496
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445610802915,
+                "lng": -79.3977547697085
+            },
+            "southwest": {
+                "lat": 43.6418631197085,
+                "lng": -79.40045273029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "def9b75622b83ab8919e00b7614bd15563ec2ed4",
+    "international_phone_number": "+1 416-434-6487",
+    "name": "teALCHEMY",
+    "photos": [
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111146115260227814033/photos\">teALCHEMY</a>"
+            ],
+            "photo_reference": "CmRaAAAAcaswbFvFZ8jiimXo2BSGQdXCAcyGu6bwqqMgVmUaVzJ9-sVAZWOYUUTBwCTgmihaITpOK3n19D9PMNi69KZwPixYuIFZGBqdZp8IRsMjRVYA959pJKA-GdCrP0Gl9tGfEhAUegBGCDpBBBkdyH6h5cXWGhS8xhznWB5s8Dm3dvC1RtsgYnpYJg",
+            "width": 250
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAFvhLWMQjNiCZ1x7o75dcqacy39nHZj2tZCMJKZvOhEC6z2fxRIhERxOVFHyV43oviQUkWLEpbgjFJg1x631XPu0OVpr53sDvIPjYeX6EoiPPC4-bVeI9recz-krmiUxgEhAY4goolWCw-B-WVhzac0ghGhT2YXWJ5Z2jHFaWsvEiZWL7QQeFrA",
+            "width": 3024
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111146115260227814033/photos\">teALCHEMY</a>"
+            ],
+            "photo_reference": "CmRaAAAANuiPjctA4dN9wMlIXXnhTF7nx6Gr4cGtvmadJ8Oafa2uUf1ow-rqFzutuJW74Hq6wZNYd4qTXKJgvJVL0Upp0ih_jAk9EcmSZGB3ibyKmT1HPbTzyYaWONEAiAWcnVFYEhDA6s8lLv8A_bUAy_bajDrTGhT0gutO9YslXmt0kj6Cm2vpLbCcCQ",
+            "width": 250
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111146115260227814033/photos\">teALCHEMY</a>"
+            ],
+            "photo_reference": "CmRaAAAAd9S4pUv50mABgLcGK8Uh6yDPls127t2I-VPPew-VYe7TSXbGywW7TOzgZRaiLQnSU77iufgYVmkrXifYjtBZHCQhczWrGN5L0ARXaLt0JxnbGcxCanXLWqFYLmYMuOo8EhD8jSKk7-Xqn_jEd5WlfTKNGhQHOemtikUo4tvP-QLNiFf4TSP5NQ",
+            "width": 250
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111146115260227814033/photos\">teALCHEMY</a>"
+            ],
+            "photo_reference": "CmRaAAAATfjaMmFGz-X63fixrfsQZ_FLE3rvWqBSwfYYyadONvu2p7fK2aIcLpSQZ7yedobaZOIdlcICqSvbJX2wbDBHvF-ZhP7lxtz8EBAWDQDCbCvjzNGYb6TOQA-Xy6Y6nMsTEhDAPo3YJT12r01r6JAnqzr4GhRbqbtBOZHjyTjuYXzKGD2svWb90Q",
+            "width": 250
+        },
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111146115260227814033/photos\">teALCHEMY</a>"
+            ],
+            "photo_reference": "CmRaAAAACbY7UsBPuEhj28uzBv7TfAAZBQeArEMfHnj-5AzZ8lTGBmozctEaugTnLNqXi4GwDI_Yi7jrKGlCfQX8p-x1irIIRlRCtzJLNvnogKPPLq00Zdo89QBpywF3iSVFQuQREhCKIC1u5_WnhOMXQjLtHFlsGhQ_gCwAs22eQt9Jrl_4jQq-pcnY_A",
+            "width": 300
+        },
+        {
+            "height": 3931,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111146115260227814033/photos\">teALCHEMY</a>"
+            ],
+            "photo_reference": "CmRaAAAAyjNBDwP2NpE8Jd6quwW0iAgOMqQEu-GU-h8R05uUgq37WgJYKup7zaSr-YIzmbCi_cRENMOzrLmU3ZdRJj3ZUbvJQAIPLHdl6v4XSWPBoOOfHbvLcvtawTP1sq2PdYBzEhATQC_xm72sXqA6z-20nDffGhRjypq_YQIseYDBVcikFcuTYvFdhA",
+            "width": 2406
+        },
+        {
+            "height": 398,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111146115260227814033/photos\">teALCHEMY</a>"
+            ],
+            "photo_reference": "CmRaAAAASVnkLtX3i1NZys7Ni7iNhe_zv-ZzXF4S-KO_dqwjQjXPtqm4Gx27_EE5UISiLxD4u-ZyWceinPQuYtyGJBdxuEqgULf5Gj4M-jXSuN2p2Q3dsEYwTDoV7VRteQuTAhd4EhDSh447ymRDeCufiPtnxLGXGhRLBF6XMoNw5jT37Qa6VdckU4MD7Q",
+            "width": 398
+        },
+        {
+            "height": 1064,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111146115260227814033/photos\">teALCHEMY</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ4geIvHdstRkpv6yv2KqQ-WOSu865uuVci3wFOjq9ttbnyATHglV8vq0oxVpVryinKk0G8NcnFOyRSKx_2hM2a_6Bz-kLjjI85_bK2KinhnGDBolwARVKH3eCmTWl0sBEhCXqYnUWlkT-O33jz3spM_tGhTsZNKFV9tjzcFYP2zXKwb1sHBm2g",
+            "width": 1604
+        }
+    ],
+    "place_id": "ChIJ6daAG980K4gRPHDA1YF4wCU",
+    "rating": 5,
+    "reference": "CmRRAAAAhLtLZywl_XKIUrtHrFUNu_HtQFqIlg7dYUEPx8D8x6-Ui0ZhRP3falIn95aLRX6E1CePtkCFouy902q3uYZaewoRKuDkBvuS12F158uhAQs9EKKKrpJsgirPdC5iF8axEhA2hCBmeg4bXbsyCbHiOTnPGhR03AkNyFqVdN9J9sX04T-Cdse5nQ",
+    "reviews": [
+        {
+            "author_name": "Peter Tilva",
+            "author_url": "https://www.google.com/maps/contrib/100360980465217542848/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-4cbe7LGYiAU/AAAAAAAAAAI/AAAAAAAACl4/jbb1voQ2TB8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I like teALCHEMY\u2019s tea. The staff are always accommodating and knowledgeable. My favorite teas are : green tea & Chocolatey mint  ones. Collection is great. Most of the time they have some promotions going on. I highly recommend this place to tea lovers.",
+            "time": 1463623990
+        },
+        {
+            "author_name": "Colleen McNamara",
+            "author_url": "https://www.google.com/maps/contrib/103706255939091057208/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--pbIr9xbGmI/AAAAAAAAAAI/AAAAAAAAFPE/0PmYqAS6OSo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Tealchemy has the best selection of caffeine-free teas that I've come across yet. The teas are aromatic and soothing. They have teas that will give you a (natural) burst of energy at the start of the day, plus perfect blends for a relaxing pre-bed cup of tea. OH! And the creme caramel rooibos are addictive. My only criticism: I wish I could get the teas in every grocery store! ",
+            "time": 1457023830
+        },
+        {
+            "author_name": "Helena Voidonicolas",
+            "author_url": "https://www.google.com/maps/contrib/115128319024835753832/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Pavz32DX8mc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq19wTAF7CjYoKKANdk-8-KevxP1UA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Great selection of wellness teas. Their digestion tea is so so good",
+            "time": 1457639465
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2720306673964052540",
+    "utc_offset": -240,
+    "vicinity": "508 Wellington Street West #510, Toronto",
+    "website": "http://www.tealchemy.ca/"
+}

@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Blvd Toronto",
+            "short_name": "Bremner Blvd Toronto",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A3",
+            "short_name": "M5J 0A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Bremner Blvd Toronto</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55 Bremner Blvd Toronto, Toronto, ON M5J 0A3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64288500000001,
+            "lng": -79.38061700000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64423398029151,
+                "lng": -79.3792680197085
+            },
+            "southwest": {
+                "lat": 43.64153601970851,
+                "lng": -79.38196598029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1dbaab56d3ca4339884f918b72b03a35c28b3c17",
+    "name": "55 Bremner Blvd Toronto Parking",
+    "place_id": "ChIJfRrHy9Q0K4gRDO3ZrjtScQg",
+    "reference": "CmRRAAAA-1btCd8J8Kh5a8jUBbkjaGLAPVBXvfp5qDBg2IqVSlYnuY5-yai-53nIDSxDcDepAw9C2NrsnlJT2zg9uIQWlAo91UDf1dYo4RX84-TlvBqQd9oWuisxF55Fr5RaB3GVEhA3lGR29TeE5SoIOL76_nsPGhRt9ZFSO9TWImSFO3Yv9MipQqAuIA",
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=608357840961793292",
+    "utc_offset": -240,
+    "vicinity": "55 Bremner Blvd Toronto, Toronto"
+}

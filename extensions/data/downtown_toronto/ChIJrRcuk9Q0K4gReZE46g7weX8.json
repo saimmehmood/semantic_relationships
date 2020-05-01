@@ -1,0 +1,309 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2T8",
+            "short_name": "M5J 2T8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "PwC Tower, <span class=\"street-address\">18 York St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2T8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "PwC Tower, 18 York St, Toronto, ON M5J 2T8, Canada",
+    "formatted_phone_number": "(647) 340-6892",
+    "geometry": {
+        "location": {
+            "lat": 43.642987,
+            "lng": -79.382302
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6443359802915,
+                "lng": -79.38095301970849
+            },
+            "southwest": {
+                "lat": 43.6416380197085,
+                "lng": -79.38365098029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "ffa6eb46ba20c97eb93779b2c90f635d642c62c8",
+    "international_phone_number": "+1 647-340-6892",
+    "name": "iQ FOOD CO.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:30 PM",
+            "Tuesday: 8:00 AM \u2013 8:30 PM",
+            "Wednesday: 8:00 AM \u2013 8:30 PM",
+            "Thursday: 8:00 AM \u2013 8:30 PM",
+            "Friday: 8:00 AM \u2013 4:30 PM",
+            "Saturday: 11:00 AM \u2013 6:30 PM",
+            "Sunday: 11:00 AM \u2013 6:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 616,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108450804382062529078/photos\">iQ FOOD CO.</a>"
+            ],
+            "photo_reference": "CmRaAAAA64y7c58ylpYUhjVaYxq22KKTsGbzf4lKIfPgq_sU8BT8q-h-XwPeeehCANYS7eE-vkI_CxWd80sPenIAoKqp-sOliKGhmU5_j55m1xTTXhsP_M6Khvut09ABHrKM_joXEhAAJClrwlZ3mfvh6lLDuyzCGhS8T40ircFdrQNBRCU1p1V85xKXHw",
+            "width": 1098
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101003140142464988276/photos\">Your Ex</a>"
+            ],
+            "photo_reference": "CmRaAAAALcNRSmcMY6vA9tL-hzvwEoanHJW-l7rp9xYxM344GUtrIHNRjlG9YZvJjG4E7axkXBVod_E7h60pVQ2GSOp5HWyvidcCmejwIciQMAovkHjO4bsvvusuY8d-nSxg9nYJEhAhAZKQNc3UdGb8KdjkvrLzGhSbjHDg8VXHyweRxIaPR3ffejv3UA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105897186008664885547/photos\">Brent Snider</a>"
+            ],
+            "photo_reference": "CmRaAAAAy8Q3UtQjqarlv62gwmiBgmSW7gLygNR6zZDxZfREYBwAwMsT4JV9vzXfhbVpTUMu5Zst6DdsTCNbYeSD6xuNKZsuHTdd9Cy2I86FcibacQRmOpHj5hxsI3ltOqMaoVV2EhA5Tt6LZYFOOXICewudoeWeGhTe9XlzfuzJYBP9yyYWmm1Ud-OMxQ",
+            "width": 3024
+        },
+        {
+            "height": 1452,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108450804382062529078/photos\">iQ FOOD CO.</a>"
+            ],
+            "photo_reference": "CmRaAAAApmobQcRJFYSOrmyNslJNWNT4BIChvcwGIQMkSkcs8jDui_viqvwp4kniLkW1ovMsjEuCl5apurZg1qpmGV0wp6V6x2GX8Esol9-TVTWzQbINwC_3oDPOgc9Qy5Z8ZGpKEhAzc8MQBDryk0IQOlbmt173GhT3QBhN4PdN63OL_SweQD1wOL-Q3w",
+            "width": 1368
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117437239953450319553/photos\">Neil Chaudhuri</a>"
+            ],
+            "photo_reference": "CmRaAAAA-EdEkkBvNVteCZjTHUVvi2yGFEaoWS847lWpttv5Y3PVJwGcW0DomrXOk5jQCbqEMALCT_2UuIEwylyZ0Gh8wJ-9BCJ33h8-Fbyqw4-N9448xF8onMYnwJs3uoqwYXZBEhB1gUIYcVa0Fnzdst_wlTojGhTbanUWFG2ok5K5yNUIsFFyyJRiFQ",
+            "width": 4032
+        },
+        {
+            "height": 4128,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109048313059031782935/photos\">Maddie Rollins</a>"
+            ],
+            "photo_reference": "CmRaAAAAU4sv8CS4mKmvGc2u_rCtcGbmRwReMeE0ETRDJub1aN9xv7gxUGrbtWbcMc9oYeE6p-m6xgTWZoB_ceqSAsQjWe0YPh06ifqxwpDdWM0qIq8Ik4I_8SgXyBaMhKGWRTTREhDj8fVWQAaJ_vrKoqjZXQduGhQapC8a8RNJHB0r3m8nfMUjFWTSLw",
+            "width": 2322
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102480389937998925983/photos\">\u5218\u529b\u94ed</a>"
+            ],
+            "photo_reference": "CmRaAAAAenAa3gOybCuhWSR2WtWfso01fbTgK_tG7nj_v86FMwO3UFgxfwK7VbQ5dLaw89oVjUBVLlDzGAngY-jegyI7ueVl49aHiwZ7N9p9uBjgP0G6npr2Hyv-s0-k8J4TlJsoEhAFluT3mgPYgAz57aMk5RM0GhSEvb9EWxCy78Mkj285bRVwErpmNA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115300649540604859454/photos\">Sravanti Mudunuri</a>"
+            ],
+            "photo_reference": "CmRaAAAAfLlMFm3xnV_mphY2V6qaZ-hDpp4QJfSObC610d7B01u8VmVHdFhxwEdt75MrLej558q7iurrNYa8BwT3Em3l39PhddSaEW5Pz2ML-ZZouWiYKbHBzBiFvlE9fl-3HRH_EhCsx8Cblfw63zXrK5azrzwEGhQBk3tnKDzii5S8yTrPfguwmy3Q8Q",
+            "width": 3024
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101076259592000821717/photos\">Andrae Griffith</a>"
+            ],
+            "photo_reference": "CmRaAAAAmhGZSSsKthaf-hMS5QkEXaTwyn28JLHT4a-5szp6hcMJp9O3oYlyE3LBzdHz6PXJ-JTMLEfuv7hu7f5B8OyDl6_EAVwoRSjqUU46COcC-lx-jcekCKijMzqvGwUZUSM2EhAgqeREz6mL_2hvcgRKrlgxGhSpgOkweNOouqZCvJzS5TZbQCbi7A",
+            "width": 2992
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109906457669621204815/photos\">David Michaels</a>"
+            ],
+            "photo_reference": "CmRaAAAAkxloOEuyfbNj6K1O_siZKQS7VSebz72Szf5Kt1i-z7zYOQxom3PJHdeyl0eeHGbRDlUoIZNk_1yoXwfzqC6f-Cn4pTM9B6qgq8510bo2ifZIbArVXYFZ4T-1m2_WUTGdEhBR0MUQId7UgfHb89XvRsu_GhSnw_NiptujNMh5clpznyjwAMR2fg",
+            "width": 2340
+        }
+    ],
+    "place_id": "ChIJrRcuk9Q0K4gReZE46g7weX8",
+    "rating": 4.4,
+    "reference": "CmRRAAAAbbkKg3UxDL_cpTrDI0gkyPU3Igf44ikStLstSpgn4Tjwq_-6aHDg-y4-bxNXMh1mIZSzWUDPmoX72P0qOiyTj16aYM2NCQr9a6-8vdZvM52GXN9A0-oTwZoKLNVA1tFwEhBQ0Yv0_9a7Cdy8fB8AgZMIGhQRB3Udi5t4vF5m-XnXKN3tHl0R8A",
+    "reviews": [
+        {
+            "author_name": "Your Ex",
+            "author_url": "https://www.google.com/maps/contrib/101003140142464988276/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-lhvQqugS8Nc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1MfBedsFOHE7OfnKLYrn3_nkiB-g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Very chic and modern. This small cafe focuses on a small health conscious menu. The clean and industrious looks make the cafe look impressive. The menu has many gluten free and vegetarian options which means it\u2019s a good place for some people with allergies or restrictions. The smoothies and baked snacks are very nice! Coffee is good too!! The food is a little on the expensive side as you\u2019d come to imagine which is why I gave it a 4/5",
+            "time": 1520460590
+        },
+        {
+            "author_name": "Edward Wong",
+            "author_url": "https://www.google.com/maps/contrib/117743306880248236406/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-SMAIJLQSbcw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2u_47dTGVw58cNIkZRxYukbF6ncw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Interesting place!  Haven't had lunch in the downtown area in a very long time.  The tops of salads was refreshing.  I'd have lunch there again!",
+            "time": 1528078773
+        },
+        {
+            "author_name": "Dmitry Romanenko",
+            "author_url": "https://www.google.com/maps/contrib/107800613955572206836/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-szKX5aVRgrU/AAAAAAAAAAI/AAAAAAAAAj8/h-SSFlE4Z4k/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Update: I do, however, hate their order pickup system. Enormous amount of people on business day are staying and waiting to hear their name in noisy environment... They should rather write name on box with food.\n\nHealthy food, nice atmosphere and good service. Seems it's also now cashless. Coffee is good.",
+            "time": 1520602153
+        },
+        {
+            "author_name": "Travis Weninger",
+            "author_url": "https://www.google.com/maps/contrib/106563428955372240469/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-HY6__oAKEZU/AAAAAAAAAAI/AAAAAAAADmI/nXQNyjB5OY8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Go to spot for a healthy lunch in the financial district. I've had everything on the permanent menu and can say without a doubt everything is great. First timers will probably like the Lima box. Their coffee is supplied by Pilot Coffee Roasters which is phenomenal. Would be cool if they had a loyalty program for people that go very frequently.",
+            "time": 1520357122
+        },
+        {
+            "author_name": "Marcella Agustina",
+            "author_url": "https://www.google.com/maps/contrib/112844739280413455764/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-nTPjJWWCNVo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq06NjzttnPAM8U-hDp-FF12455a1A/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I use to eat this most days when I worked downtown. I've tried many options but the best in my opinion is the apple cob. The combination of the cheese, cranberry, spinach and quinoa is top notch. \nHere is the apple cob as well as the 5-star salads which were \ud83d\udc4d. Each totaled $15 which is quite reasonable. I'll definitely come back when I'm downtown again.",
+            "time": 1518750684
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9185636861848621433",
+    "utc_offset": -240,
+    "vicinity": "PwC Tower, 18 York St, Toronto",
+    "website": "http://www.iqfoodco.com/"
+}

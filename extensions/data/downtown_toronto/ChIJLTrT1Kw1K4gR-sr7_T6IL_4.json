@@ -1,0 +1,103 @@
+{
+    "address_components": [
+        {
+            "long_name": "86",
+            "short_name": "86",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Brock Avenue",
+            "short_name": "Brock Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2L4",
+            "short_name": "M6K 2L4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">86 Brock Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2L4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "86 Brock Ave, Toronto, ON M6K 2L4, Canada",
+    "formatted_phone_number": "(416) 809-9554",
+    "geometry": {
+        "location": {
+            "lat": 43.64447,
+            "lng": -79.43361399999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64582963029149,
+                "lng": -79.43221601970849
+            },
+            "southwest": {
+                "lat": 43.6431316697085,
+                "lng": -79.4349139802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "935902d2861caa35994ec198c34f1dd77a0fb95f",
+    "international_phone_number": "+1 416-809-9554",
+    "name": "Studio Dalmori",
+    "place_id": "ChIJLTrT1Kw1K4gR-sr7_T6IL_4",
+    "reference": "CmRSAAAAF2iTp16g-9vG7J4TqZt3fmw-NqTZFBrvSBBj-cKRoXvD_0FlGDt0InP26aUC-yNyy3SttlGDK2Uy7PSuccIiIHNL3QqCrFjGRxdByrF1CQmsqgLupC_nm5zs-hWFJ0w7EhDwn1pQal_U7YpX-uiJaZJfGhThrILw1G7K1erYPJRjNNqSrWonKg",
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18316008013669583610",
+    "utc_offset": -240,
+    "vicinity": "86 Brock Avenue, Toronto",
+    "website": "http://www.studiodalmori.com/"
+}

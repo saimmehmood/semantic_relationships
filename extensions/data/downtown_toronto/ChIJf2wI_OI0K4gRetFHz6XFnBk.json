@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "853",
+            "short_name": "853",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Richmond Street West",
+            "short_name": "Richmond St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1E2",
+            "short_name": "M6J 1E2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">853 Richmond St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1E2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "853 Richmond St W, Toronto, ON M6J 1E2, Canada",
+    "formatted_phone_number": "(416) 520-5813",
+    "geometry": {
+        "location": {
+            "lat": 43.6443777,
+            "lng": -79.4120238
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457682302915,
+                "lng": -79.4106911197085
+            },
+            "southwest": {
+                "lat": 43.6430702697085,
+                "lng": -79.41338908029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fbfcc740b8328b1e734db87e15a034e33f35042e",
+    "international_phone_number": "+1 416-520-5813",
+    "name": "Choroid Etnertainment Inc.",
+    "place_id": "ChIJf2wI_OI0K4gRetFHz6XFnBk",
+    "reference": "CmRRAAAAintzp0fPg_NRLFezo_XFPdp5fcJqrUpTaWryLJaCoMdt5DUMlFUUgbzeOm9DMA6446r60TWB7bqPkmOO0kbv9GiJU368Hpz5MMVzuhJdxeJYPd5MNULtk9ROrtqny6PXEhB-DYIt4KMIjO-StjHPrnmfGhTO9qTszaawnUJRKEhN4nClBDUV_w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1845567263252926842",
+    "utc_offset": -240,
+    "vicinity": "853 Richmond Street West, Toronto"
+}

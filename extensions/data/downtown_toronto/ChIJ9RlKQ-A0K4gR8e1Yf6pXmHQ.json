@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "718-764",
+            "short_name": "718-764",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N3",
+            "short_name": "M5V 1N3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">718-764 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "718-764 King St W, Toronto, ON M5V 1N3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64353909999999,
+            "lng": -79.4045418
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64488808029149,
+                "lng": -79.4031928197085
+            },
+            "southwest": {
+                "lat": 43.64219011970849,
+                "lng": -79.4058907802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "63eec531db8b6b65a43e97c649d3cdd140fb8b80",
+    "name": "718-764 King St W",
+    "place_id": "ChIJ9RlKQ-A0K4gR8e1Yf6pXmHQ",
+    "reference": "CmRbAAAA1xh2wHnSDma2-k3XdWiPsM0oZhPL26OAq9cn_ED-QyWvmD78JHRs8KGFMK2Fpwi2eoSdYjOMr2vqwU7z7Zg52Bwtiy8TdaOlkAepX6Imdp2FXGufNEnSnOazQzoalnskEhBoOcSf8082ufMGvf5Wff0zGhSn3ZLiWQ-o4iYPUckP09HtCyg5Nw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=718-764+King+St+W,+Toronto,+ON+M5V+1N3,+Canada&ftid=0x882b34e0434a19f5:0x749857aa7f58edf1",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

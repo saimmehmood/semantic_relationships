@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(416) 593-1101",
+    "geometry": {
+        "location": {
+            "lat": 43.6445031,
+            "lng": -79.39881079999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64594208029149,
+                "lng": -79.39749651970848
+            },
+            "southwest": {
+                "lat": 43.64324411970849,
+                "lng": -79.40019448029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9c35ea0dec64e83a6eeab208858705c68039ac7e",
+    "international_phone_number": "+1 416-593-1101",
+    "name": "Sterling Buttons Ltd",
+    "place_id": "ChIJp3KV6940K4gRZrZeygLM1ks",
+    "reference": "CmRRAAAAqYIigSVB5lds5cEbtvGh2a6PTcrE6r6Q3-z9DX6V-hiiuVA14paqZbW6SpUD8b19BgioCb4n2m9uFE0KUeqWFLdqryo9FuHBvP4JVwAbJ2mA9TJlIgEgqH0FFL85DDWOEhC5f7K17hT83pRXf9br5vHqGhTmFcfGD3VdARmrw6Yuym1k-OIzTw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5464779510217881190",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto"
+}

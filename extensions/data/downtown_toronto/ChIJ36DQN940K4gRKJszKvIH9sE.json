@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "642",
+            "short_name": "642",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">642 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "642 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 930-4909",
+    "geometry": {
+        "location": {
+            "lat": 43.6443295,
+            "lng": -79.401483
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64559613029149,
+                "lng": -79.40010141970848
+            },
+            "southwest": {
+                "lat": 43.6428981697085,
+                "lng": -79.40279938029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f3670bfaf22a88ddf073483448b2e80bd739c05d",
+    "international_phone_number": "+1 416-930-4909",
+    "name": "Bolt Solutions Inc.",
+    "place_id": "ChIJ36DQN940K4gRKJszKvIH9sE",
+    "reference": "CmRSAAAAsK0cUB4JQsyX5lu1bN0AkUxlR6sENPYj63OnZLf_s6KNRnA_1yap_z8LqkR2gHi_VQ8FZO8qtjhsADMB8PKZhsU4UQlg_B36B6tgxDFKXRtJLXEEAWPy9jQqeqQGY06_EhDdba8brA8GW2bfdkpZvLEhGhScIGcvcNS3AWC5XMuERO5sqpG9vw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13976367230262418216",
+    "utc_offset": -240,
+    "vicinity": "642 King Street West, Toronto",
+    "website": "http://www.bolt-app.com/"
+}

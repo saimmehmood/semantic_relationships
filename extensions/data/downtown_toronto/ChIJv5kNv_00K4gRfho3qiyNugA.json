@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "1106",
+            "short_name": "1106",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1106 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1106 Queen St W, Toronto, ON M6J 1H9, Canada",
+    "formatted_phone_number": "(416) 925-4222",
+    "geometry": {
+        "location": {
+            "lat": 43.643466,
+            "lng": -79.42300999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447604802915,
+                "lng": -79.42163976970849
+            },
+            "southwest": {
+                "lat": 43.6420625197085,
+                "lng": -79.42433773029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a68649ddc36f167c80256398682d45a24edaae59",
+    "international_phone_number": "+1 416-925-4222",
+    "name": "Craft Ontario",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 7:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2992,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112866162328461996780/photos\">Rob Shostak</a>"
+            ],
+            "photo_reference": "CmRaAAAAuknCsSwPTd6l5P94fwm4t_78KZRqxqbhh3OIOMOO455MVUaYrxbIcQe85m4efPGaIDwMIUrrVN4NZaInhVuI3DRbT-CPoEmJJl7m2IlLR73lu5WBqEEmmOr2qS02ssPDEhDYdvjPubH2FpmDLdJpR-3VGhSxMyr8tVwH0jI2qIB4SS4-LOZIsw",
+            "width": 4000
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAAs49guX2SjeTKEp7BinGObvIzf5sGoe3pOtlnhJUc5NklVLy4HLZsmRo7QiCB0-aH3e4C-Svf11KkJQWgmqLRMiH7DWLheJpLCi460YtJl0PoF2-mP7Xo5QAbWBQgzLPzEhCMFzvzkqCRGMQF0NRVCLG1GhSJQsFitQvHWzDk_Sv3Xonu2xBfkw",
+            "width": 5312
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101262294584691028385/photos\">Bernice W</a>"
+            ],
+            "photo_reference": "CmRaAAAAxbSMx-7u1KX0SofXALut5s_jJULJ9fGJaAJ45Tmqzm7RNwNDWHvE0eXUPASE51VAznrEpnDyz-Te_LRV7KZFUtkCHhUId9iJ_xvEmaYceRWEmvQNUwAlTae6DmgzCfMYEhBwIyhWhhAFvodR9YWQSI9VGhSnLml4YSxCXuf5H2a_8MqEQpcy8A",
+            "width": 2268
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAAnJsB14VVW_2F79RyGbSuNivxzu3nCvGY5vqeXK8KJEcpkF143idTxB1YSY2e0sLRKKSh351Y3FYrPc_yjY3eMvBKw7J_9wdYX-UE-QhJQKvDjsY5TAh3DzTjXNWMx1BVEhA9ExbDFqVzIShJL32CvVxBGhS6RohTwGM_saEicppNLmJ6BuC3sw",
+            "width": 5312
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116575893111785470835/photos\">Maria Vassiliou</a>"
+            ],
+            "photo_reference": "CmRaAAAA2uqx9TicU_vc-FHTo5rPVx4MZ2uwrhYaAZXm1QNG_sq3xT2NUkYnaKvbvlNgENgZ71ztOFNn27Y7qKvuFlanbAkRCih_hwkLdig3DQLm0WmA8JNvDUAYzJI5_DBpb3EpEhBXjNatzyDGoGBvzL-3w1CgGhRzI-hMTOh8Rm9DqtqK5PCDRA5sYQ",
+            "width": 2268
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106178898162898962389/photos\">CC</a>"
+            ],
+            "photo_reference": "CmRZAAAAE91ApcRqXUubHjcuyql7qnPjPhBqMypdfSyDaLSAFPM8qGSixIvubYCcEjVIP45q6Hj6yKeRwgY81USLzD5zC2gR9C5qRCGR-KQ9UBn8jskZVoqMNPU2MO0I-FKAgdZEEhCb0X55H5FOYIPBdULNUPdIGhSdg6Rmy0zAkX5h5f4765-3KoMBuA",
+            "width": 2268
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAA69kSSb2pDxlLgfbjic58gF634ienwXGi9ULlSEqUUs-3GSdYkUd8N4mk9Id6j7US1v9O3hPO0PfR3AYwSacJIOVAh8dM0FPIIHuQwSorj6eG14B3vI8RWQH3rn65_zhAEhB6i4wnkayBQl9JVFhia_EpGhQ6mpx4NOxvpMGOPf9vfbhlpk2Hsg",
+            "width": 5312
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112866162328461996780/photos\">Rob Shostak</a>"
+            ],
+            "photo_reference": "CmRaAAAAcO65tRQsi8PZiWwMxHlF16hE-teeL3csNCptZ6zMlhKTK3Y3JLAFq1N5dVTAeBABi27OnFp4Ve3LRTTRkQvOGXNMP3XwCKGtieXWiv7jn0xMdwoBuUEppkBPeoTKwVciEhDmtDOnQOWe8TCtjufdalC3GhSUzZuJuyGr9hAKMwv7j0C1dYyrWQ",
+            "width": 2992
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116575893111785470835/photos\">Maria Vassiliou</a>"
+            ],
+            "photo_reference": "CmRaAAAAA1XwukkAsxKp3o2BkUnP4t1wsHzqL1jb1KDYIHQfZu1CA4nxo78csProoqWvxCjbHshGORls3m3mNCPbK8onMCWfWdOo5qJ3RnWreJYsjyx4ODdbExobAlKI1ZVwJLRqEhDgNDe_azBhXMGx-6epEF-UGhQAGHWOztBX9BO-R9ktG4yxAyWFZQ",
+            "width": 4032
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAA38Xw52-zaLq_pEAc8kQ00JRyF0RbWqt8TUie2CtrCMiGxKlnS8jptpzM-ZRIOJg_0tPd20qfcv4qDXFIxpTBrfAFM314Gug43So2H76Ps3mF8riQdAAoVRYuDzMGyER1EhBWCewBi8ZE91wyTFCE9yXHGhQK98oPoYJvlq0SJKwPZkIViEXMMQ",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJv5kNv_00K4gRfho3qiyNugA",
+    "rating": 4.5,
+    "reference": "ClRQAAAAfJr2pwzjY-8ZuTpTY1ekeTs9th6nWeGSCEk6sochEF_mDrUXjN8uS17GKcTMR9fCNZgKhjFS38DvIliHQRZ9Kd9oF50iISvXKDplRrfOUxMSEOLFTDySlC0mk_AfFuXrs1EaFJ2YxEzfgxFxZ1Fpz7bDxDfsUhHJ",
+    "reviews": [
+        {
+            "author_name": "Tamara Hannah",
+            "author_url": "https://www.google.com/maps/contrib/111070061628743679605/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-KHM3pgMuAJQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0vxPnHeyAy_LUaW6iKhred9Wu-BQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "We were well taken care of during our visit. The staff is engaging and thoughtful in their relationships with artists and visitors. Thank you.",
+            "time": 1526413431
+        },
+        {
+            "author_name": "Catherine Armstrong",
+            "author_url": "https://www.google.com/maps/contrib/115118200819554822916/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4S670CNnn3w/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Of3ma7ZTJMxhOCSzVke5VnmNPIg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "Uniquely designed home art and pottery all by local craftsmanship and a superb place to find a gift that is not mass produced",
+            "time": 1508906375
+        },
+        {
+            "author_name": "Jin Won Han",
+            "author_url": "https://www.google.com/maps/contrib/102877006734724446679/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-29vxZ5_kDMA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0K-FlzPbH3nmE23lwwgG7sx-MX5Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "This place carries high quality artworks and exhibits most updated trends in art & craft.",
+            "time": 1509983138
+        },
+        {
+            "author_name": "Allan Kaplan",
+            "author_url": "https://www.google.com/maps/contrib/114727108613677113683/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-JvyvD2G01xs/AAAAAAAAAAI/AAAAAAAAAFw/pVvdS7OY_hk/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Lots of great choices. Out of the way location.",
+            "time": 1513865435
+        },
+        {
+            "author_name": "Pam Cameron",
+            "author_url": "https://www.google.com/maps/contrib/103933055033520911714/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JaerEXeeDgg/AAAAAAAAAAI/AAAAAAAAMZk/K57PNo5e5No/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Fabulous artisan shop for unique and wonderful gift ideas and treats for you. I think with a great emphasis on supporting local artists.",
+            "time": 1497043457
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=52509568641997438",
+    "utc_offset": -240,
+    "vicinity": "1106 Queen Street West, Toronto",
+    "website": "http://www.craftontario.com/"
+}

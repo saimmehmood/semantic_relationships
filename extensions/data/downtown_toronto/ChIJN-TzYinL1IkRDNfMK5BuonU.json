@@ -1,0 +1,180 @@
+{
+    "address_components": [
+        {
+            "long_name": "1801",
+            "short_name": "1801",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1Y5",
+            "short_name": "M5E 1Y5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St #1801</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1Y5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St #1801, Toronto, ON M5E 1Y5, Canada",
+    "formatted_phone_number": "(866) 764-0110",
+    "geometry": {
+        "location": {
+            "lat": 43.6429251,
+            "lng": -79.3741862
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441873802915,
+                "lng": -79.3733258697085
+            },
+            "southwest": {
+                "lat": 43.6414894197085,
+                "lng": -79.3760238302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "82f7729c7700468ea26ce4e92f8c720e69e140cb",
+    "international_phone_number": "+1 866-764-0110",
+    "name": "Xperei Inc.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 932,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111437937243882731442/photos\">Saud Ahmed</a>"
+            ],
+            "photo_reference": "CmRaAAAAC-dvvhLMQQJjmAfpYgPnGromoseVEvytl1kv_EKXGog4DOO3Jk_Vu_oscYRDMmVpLs1jB3ufkqInGP1-eo7bvu5YpwTp0fdG175T1f7A66J9Eur2pJ-431K05Wc0WlnXEhBzTy97hxCNeEWEL82ksAJHGhRuiQUeqXQd3oLz-_9LEyBV40LjKg",
+            "width": 2400
+        }
+    ],
+    "place_id": "ChIJN-TzYinL1IkRDNfMK5BuonU",
+    "reference": "CmRRAAAA_F9QYjsrfDnphwu7b-rN0m8vIl8uaC1jpE05Yxhuw8SkZk2vqLqKQd0cduSyGiF6CR0wwD6SKcCZvPnyLGE_FAK2sbB8TZmAw_izyyJUD0lGkuljEd2SILHxCpvvIVHUEhBjTa0h0ebkdNXtcEgxLLqAGhS5guLiibGB8OWmmEmVAT3BBoWVRg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8476459014153885452",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street #1801, Toronto"
+}

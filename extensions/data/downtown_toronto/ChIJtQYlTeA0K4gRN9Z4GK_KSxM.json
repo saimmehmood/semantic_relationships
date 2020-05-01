@@ -1,0 +1,248 @@
+{
+    "address_components": [
+        {
+            "long_name": "766",
+            "short_name": "766",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N6",
+            "short_name": "M5V 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">766 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "766 King St W, Toronto, ON M5V 1N6, Canada",
+    "formatted_phone_number": "(647) 726-2100",
+    "geometry": {
+        "location": {
+            "lat": 43.6434449,
+            "lng": -79.40572329999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64473248029149,
+                "lng": -79.40428716970848
+            },
+            "southwest": {
+                "lat": 43.6420345197085,
+                "lng": -79.40698513029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b69ec6f4c9d49c1c3edcec6fcdbc54c7b22a2ebb",
+    "international_phone_number": "+1 647-726-2100",
+    "name": "Martindale Dental - Toronto Dentist",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 8:00 PM",
+            "Wednesday: 8:00 AM \u2013 6:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: 8:00 AM \u2013 1:00 PM",
+            "Saturday: 9:00 AM \u2013 2:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103918356765536888083/photos\">Martindale Dental - Toronto Dentist</a>"
+            ],
+            "photo_reference": "CmRaAAAAdfJIvL8m9LC-1ngtkahmUWNQzcUqqG_vmcnDmQzqm6wSbM4hMZd2PWlCQNsrTWAqV8itiCjLlKVo_TVg7Z_vjZ9GiV39gfYqcdz_i5vKViZxfEtbwQzydX6Ff4Wy_j3YEhD-PALAlL7X6pu9VBBg2T1pGhRWT6huKxXKXpKEtFkXYmdAG3PWBw",
+            "width": 499
+        },
+        {
+            "height": 270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103918356765536888083/photos\">Martindale Dental - Toronto Dentist</a>"
+            ],
+            "photo_reference": "CmRaAAAARMsJvq4cs1JvPyzpVyZI5TYVeKy-0wZKXMSTsejgMg-elHIC_pQ16z6H8eQlcm1EUZYykvRD1PuRQ62Cc9jqauOgziti8Hx06IzFL7lFns4XKHddTwOQHler4EdHht3DEhAU6QAAnftOiKBUDnGYLJsuGhSBcE-4DGUDVdpku_giv3WNhShxRQ",
+            "width": 480
+        }
+    ],
+    "place_id": "ChIJtQYlTeA0K4gRN9Z4GK_KSxM",
+    "rating": 4.7,
+    "reference": "CmRRAAAAIXbnqx_9tReg8ZwdNm4eSfLfTa_Oa0iRKDq1tqtYvTkAyDzYt7No5AXOIz4hH_ogn3JlOMLUkLJkwiIt25HCJ-ilbBKmtTUXs7KsaxYdArhOqlBXIBVjEfKmgBdN1BhhEhCKvilxZKpjqSpr3C0Ipc2gGhRVdbSNVQCRmjZMZeSWDehsNY9n9g",
+    "reviews": [
+        {
+            "author_name": "Marloes van der Linden",
+            "author_url": "https://www.google.com/maps/contrib/107010405874426602151/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-yufBy8Ewc2Y/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0Kzpxyml4T9k4ckeYY8LlgBEbfag/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "First dentist experience in Canada for me, definitely recommend Martindale. Visiting the dentist isn't fun normally, but everyone working here is so friendly and comforting. They did a total check-up and cleaning, all went perfect.",
+            "time": 1528209972
+        },
+        {
+            "author_name": "Phoeberoz",
+            "author_url": "https://www.google.com/maps/contrib/116835728065505289734/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-kik2bjbMFs8/AAAAAAAAAAI/AAAAAAAAv7M/dLEybQVUWrE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "NO PEDIATRIC DENTIST \nI was very disappointed coming in the clinic for an appointment, done with my child\u2019s checkup and later finding out that the dentist is NOT a pediatric dentist. It clearly says on their website that they do and so as details why you need to see a pediatric dentist. They even asked why my child needs to be seen and did not give information ahead that they don\u2019t have pediatric dentist. I paid for something we did not need and already knew about my child\u2019s dental issues since we have already seen another dentist but not located in Toronto. Very frustrating.\n\n**Update** Edit- \nAfter a week from this review, the General Manager followed up on me regarding the issue and offered a refund. I was informed that she talked to their staff at King Street prior to calling me. She also informed me that their Pediatric Dentist is on maternity leave. (Which the Dentist who checked my child probably didn\u2019t know). I\u2019m rating this now a 4 star from a 1 star.",
+            "time": 1519856112
+        },
+        {
+            "author_name": "Phil Malin",
+            "author_url": "https://www.google.com/maps/contrib/114846011889558660775/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0A6T1z5gcDg/AAAAAAAAAAI/AAAAAAAAAEI/8IPAGUqw2b4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "These guys are nothing short of excellent. Talented, efficient, friendly, and just fabulous.  \n\nI highly recommend to anybody looking for a dentist or just not happy with the one you have to come here to see Dr. Sabrina Panetta who is clearly a naturally talented dentist.  For cleaning Michelle is simply a true artist. Totally painless and efficient, such a great outcome.  I am really impressed with the whole team here they make going to the dentist something no longer to dread.",
+            "time": 1522083663
+        },
+        {
+            "author_name": "Katie D'Angelo",
+            "author_url": "https://www.google.com/maps/contrib/116676714833378251461/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-nzmtQsKSnn4/AAAAAAAAAAI/AAAAAAAAAKs/F_c7Zq9UecE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I'm an very anxious patient and both the dentist and the hygienist there have always gone above and beyond for me.  They explain things as they are happening and my options, they let me \"take breaks\" during procedures, and I trust them completely only after 2 visits.\n\nI wouldn't go anywhere else!",
+            "time": 1527689075
+        },
+        {
+            "author_name": "Tony J",
+            "author_url": "https://www.google.com/maps/contrib/103257024692871970373/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-abLw2LZDmfI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3PXY4KoPMZsPKGsoo7PjMgiKN64g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I had a very good cleaning with Michelle. Very informative. I returned for a filling with Dr.Panetta and wonderful assistant Amber, they both kept me at ease during a tricky filling. Amber was very calming and comforting as I hate the dentist lol",
+            "time": 1527698571
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1390427763352589879",
+    "utc_offset": -240,
+    "vicinity": "766 King Street West, Toronto",
+    "website": "http://www.martindaledental.com/"
+}

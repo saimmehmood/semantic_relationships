@@ -1,0 +1,90 @@
+{
+    "address_components": [
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J",
+            "short_name": "M5J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Bremner Blvd, Toronto, ON M5J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6428569,
+            "lng": -79.38179219999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64420588029149,
+                "lng": -79.38044321970848
+            },
+            "southwest": {
+                "lat": 43.64150791970849,
+                "lng": -79.3831411802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8cbb12d35413554b2595f7949805baca505b3987",
+    "name": "Bremner Boulevard",
+    "place_id": "ChIJhQHl6dQ0K4gRtUfLd___Uak",
+    "reference": "CmRbAAAAtbPelPzEsLZGSFdYs970vodk8Q1Gy5iSGaOsWIuK5kecyGWmt7oAKVV2rL9Mvjs87PEdbKNaeYhgm6QvfJmTo70364UtPW9PZVZeSfBypgJI7accQLUfRjezl3TPyAYOEhB8JJnY0iBcJNmKkMSQ1CqXGhRvtiuOFlPM_ZJdA5ndcc-lnPpeXw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Bremner+Blvd,+Toronto,+ON+M5J,+Canada&ftid=0x882b34d4e9e50185:0xa951ffff77cb47b5",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

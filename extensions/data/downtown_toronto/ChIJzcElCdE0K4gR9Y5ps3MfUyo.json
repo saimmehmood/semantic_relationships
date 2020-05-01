@@ -1,0 +1,229 @@
+{
+    "address_components": [
+        {
+            "long_name": "2900",
+            "short_name": "2900",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "120",
+            "short_name": "120",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A8",
+            "short_name": "M5J 0A8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">120 Bremner Blvd #2900</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "120 Bremner Blvd #2900, Toronto, ON M5J 0A8, Canada",
+    "formatted_phone_number": "(416) 850-1163",
+    "geometry": {
+        "location": {
+            "lat": 43.6430454,
+            "lng": -79.38311089999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64439438029149,
+                "lng": -79.38176191970848
+            },
+            "southwest": {
+                "lat": 43.6416964197085,
+                "lng": -79.38445988029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bca4b273ea0c21e6f97692248b9fc3426f3df8df",
+    "international_phone_number": "+1 416-850-1163",
+    "name": "ole Media Management",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100440211990678609894/photos\">ole Media Management</a>"
+            ],
+            "photo_reference": "CmRaAAAAGBVMVkXy6t8NCKlXDPh9HPPIESxMvOavF6-3VOaKhNqycgbfz6vT6MY1F8_xN-IbWErstzMiwgxOWtkdcenM0YaKMjap5H4tkgQs-KpruHcXnu74NmPueBjC-1VXUlc0EhAmwByUSGbMtiJ0lnCUnCEeGhRDldJ-m4Jf1aYxDtjw6_eUopHlLQ",
+            "width": 2304
+        },
+        {
+            "height": 1541,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100440211990678609894/photos\">ole Media Management</a>"
+            ],
+            "photo_reference": "CmRaAAAA8dJVEpxG4CibbXK-rr5CEGnTr44Ra9LyTcslSm_kSCVFmNR4QxWVKfNScbHkZAH3p59N43CiHyj6FhK1cIrL7TsINjGNWd4znxCUo01XgcoetQ-1hlTOUnxnmKO2EzbtEhBPOOuOKvgHyvupD67GqNW1GhSHpL22LMRf91ITozhB2-Fvh5OVmQ",
+            "width": 1541
+        }
+    ],
+    "place_id": "ChIJzcElCdE0K4gR9Y5ps3MfUyo",
+    "rating": 3,
+    "reference": "CmRRAAAAtH3r8zsAENtW4RVcMPBytVueub1eZxfD8O6UuAbPezearP-Hy9-mJq22FBZoC-q5Y88RjQ538S1jn1R2hC7yiJw7HTUx76aM2KtljyZXzd-KCqX-BsNGmRz7PSrGJNgFEhBh6qTIBq9PqG6QX0etRYmaGhT2AjCxVv6VMSVaoEGkJIDlDP3HOg",
+    "reviews": [
+        {
+            "author_name": "Mark James",
+            "author_url": "https://www.google.com/maps/contrib/111679892042035873653/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qiHQvktcOhY/AAAAAAAAAAI/AAAAAAAAAMk/P-8h8XB2SAA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "If your youtube videos ever get a copyright claim by this company and you dispute it, they will just reject it even if your video doesn't have any copyright music in it. I have even emailed and they just ignored me.",
+            "time": 1425125194
+        },
+        {
+            "author_name": "Tom Leighton",
+            "author_url": "https://www.google.com/maps/contrib/103458239375516139638/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-qKOGGEdvTT0/AAAAAAAAAAI/AAAAAAAAARw/ElaL2BlaVrg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1520268052
+        },
+        {
+            "author_name": "Shane B.",
+            "author_url": "https://www.google.com/maps/contrib/111758781910887013906/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-k6yq1gHHHcA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0BF7TxWK1300RPfX1dZ3-tkADZZw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1494944481
+        },
+        {
+            "author_name": "Guilherme Ver\u00edssimo",
+            "author_url": "https://www.google.com/maps/contrib/101343723021833586931/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_Vf4jcaqE3k/AAAAAAAAAAI/AAAAAAAAC8o/bkFQH1mRGzU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1473442276
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3049815954451697397",
+    "utc_offset": -240,
+    "vicinity": "120 Bremner Boulevard #2900, Toronto",
+    "website": "http://www.majorlyindie.com/"
+}

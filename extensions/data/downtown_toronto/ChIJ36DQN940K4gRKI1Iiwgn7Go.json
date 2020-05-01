@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "642",
+            "short_name": "642",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">642 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "642 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(647) 880-4487",
+    "geometry": {
+        "location": {
+            "lat": 43.6443295,
+            "lng": -79.401483
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64559613029149,
+                "lng": -79.40010141970848
+            },
+            "southwest": {
+                "lat": 43.6428981697085,
+                "lng": -79.40279938029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "549029ef146d61ac4a4b55d6ae97782555172842",
+    "international_phone_number": "+1 647-880-4487",
+    "name": "Chinook Capital Group",
+    "place_id": "ChIJ36DQN940K4gRKI1Iiwgn7Go",
+    "reference": "CmRRAAAAZatbiZDodD6YYN7DSF9WHG0z8H2Skn0BxjL2a5EKwq9aCtYXoXrj8jJmgA4C9snnffRxr0XJGlc5oLxozpbBZdwuwDdyGa74T29gpRmBwpMKP0aUi913amZYVcKTp8p9EhAJsE1oFevZtlR46ds6p-dpGhSb5vzlrAk0QreqP5-7xr-K_ugqhw",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7704575980174085416",
+    "utc_offset": -240,
+    "vicinity": "642 King Street West, Toronto",
+    "website": "http://www.chinookcapitalgroup.com/"
+}

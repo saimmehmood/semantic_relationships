@@ -1,0 +1,236 @@
+{
+    "address_components": [
+        {
+            "long_name": "29",
+            "short_name": "29",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">29 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "29 Stewart St, Toronto, ON M5V 2V8, Canada",
+    "formatted_phone_number": "(647) 674-1153",
+    "geometry": {
+        "location": {
+            "lat": 43.64344559999999,
+            "lng": -79.40065670000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64483843029149,
+                "lng": -79.3993246197085
+            },
+            "southwest": {
+                "lat": 43.6421404697085,
+                "lng": -79.4020225802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "946cc45d6b51df0a42b9b3150ed3433c1f4cee20",
+    "international_phone_number": "+1 647-674-1153",
+    "name": "Hidden Gem Hair Stuff",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1754,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106122478008419384765/photos\">Hidden Gem Hair Stuff</a>"
+            ],
+            "photo_reference": "CmRaAAAAZYKi1TYXtNSriuomyi-CBpvAfEqvsHYXK1-bOfOMnJlMzEbwdAj9oML1_EacMU15pbi_pXKF-kpG_kePlDDcBU63qUZyEih8SV1d_8RxsthoC6S65m20kcKgjVKyCymzEhBWjklai2sQlMLDUR3XZEADGhRItWYMiG3ccNns0wHJntehlc47Gg",
+            "width": 1751
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106122478008419384765/photos\">Hidden Gem Hair Stuff</a>"
+            ],
+            "photo_reference": "CmRaAAAAvEsTM5GKkBMUppISf72-7PfTa_uC04gNKH7KopOy_PX0_KmC3RxQWU2qW19FXwzQOCAE9veIEgyy9Dho47wsZLh32IiU9pq6Mp9jnC0hE9VGzeIS2awSNT7VFCMoJ9TwEhBCN1nVN0WzUloxPXDOAcuEGhSUD_idwpH7QhldJGCrwTmYiyKh_Q",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJ0_xyrt80K4gRxo4Xju175Wk",
+    "rating": 5,
+    "reference": "CmRRAAAAk7rqCL6F_A4zZsQuvirSaPNCbE6KNilfa58kf3NOy37NrXXNBHPaPlUhs-I6Gb52gKy1l1WJXqkzA-_64k8PZMZPJrXav0SOi6dMrXZ6MzbKlYTMH0jMWSCnOjU8i5-zEhAFufhMYsJzddix8xZ3KGDNGhRC0UrqKJBqR_hrVagu7sUseHZmYA",
+    "reviews": [
+        {
+            "author_name": "Lauren Magda",
+            "author_url": "https://www.google.com/maps/contrib/117083871672764245338/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-04_-C9aQCCo/AAAAAAAAAAI/AAAAAAAADaI/Cb8HflPnFaY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "This salon truly is a hidden gem! The energy in the space is refreshing. Ashley is a true professional and expert at her craft. I am the pickiest person with my hair and in the 3 years I have been going to her I have never been disappointed. So happy I found her and this salon!",
+            "time": 1526738001
+        },
+        {
+            "author_name": "Darlene Karr",
+            "author_url": "https://www.google.com/maps/contrib/107388953264177113038/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-IZq-FpPCG74/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0itcl3Q1zVZJoLyPhxQtv46Q3E4A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Excellent hairdressers! They are friendly, lovely, and honest. Very comfortable surroundings. Top quality treatments, all products used are of a very high standard. I love this place!  You \n will leave there feeling and looking amazing!",
+            "time": 1525379903
+        },
+        {
+            "author_name": "Simone Jardine",
+            "author_url": "https://www.google.com/maps/contrib/108202068823837040901/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-OJXGojVkMIc/AAAAAAAAAAI/AAAAAAAAAJw/XSZiuGYAsKo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Ashely is an amazing hair stylist. I followed her from her previous place because she takes the time to make your experience what it should be. You never feel rushed. She is always willing to try what I ask but knows my hair better than I do. Always a great hair style with Ashley. I'd recommend her to anyone who wants to love their hair \ud83d\ude00",
+            "time": 1526306946
+        },
+        {
+            "author_name": "Alyssa Brunt",
+            "author_url": "https://www.google.com/maps/contrib/107741781499244096169/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-dTXavBNif9M/AAAAAAAAAAI/AAAAAAAAACk/7BRsqNTMPN8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "So good! The stylists definitely know what they're doing at this salon :) I saw Ashley and she did an amazing job colouring my hair. She gave me exactly what I was looking for and so much more. I'd recommend this place to anyone!",
+            "time": 1528059704
+        },
+        {
+            "author_name": "Genevieve Lacoursiere",
+            "author_url": "https://www.google.com/maps/contrib/103549088822786118804/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-9h38bbUMJjM/AAAAAAAAAAI/AAAAAAAAABA/s05MG_t_v9s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "The best salon in the city, hands down. The stylists make you feel like you\u2019re right at home, the place is cozy and welcoming. Marie-\u00c8ve is an expert at her craft, and will give you the best hair you\u2019ve ever had. Hidden Gem won\u2019t be \u201chidden\u201d for long. I highly recommend this salon!",
+            "time": 1527188908
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7630641403870547654",
+    "utc_offset": -240,
+    "vicinity": "29 Stewart Street, Toronto",
+    "website": "http://hiddengemhairstuff.com/"
+}

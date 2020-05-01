@@ -1,0 +1,127 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite 8",
+            "short_name": "Suite 8",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "850",
+            "short_name": "850",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Richmond Street West",
+            "short_name": "Richmond St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1C9",
+            "short_name": "M6J 1C9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">850 Richmond St W Suite 8</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1C9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "850 Richmond St W Suite 8, Toronto, ON M6J 1C9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6446572,
+            "lng": -79.4119185
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64592843029149,
+                "lng": -79.4105390197085
+            },
+            "southwest": {
+                "lat": 43.64323046970849,
+                "lng": -79.4132369802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "988c84d9f9888bfdab93154c633b5b9cc437a0f5",
+    "name": "Girls Just Know",
+    "place_id": "ChIJu7bg_OI0K4gRUEV1STpgYYs",
+    "rating": 4.5,
+    "reference": "CmRSAAAAmFTn5x-7GPE4Lbf733Q-Vry9JTAP0ti5zfOhQMpHTUY0smnQS2rIn4jy5E492uJcGRolml2SZ_y-3E3JaylwH-3rUHFDv-vKMvCaYL9VJtHhiFt1vPgt_edj8ZiVvVJcEhBzbqGaAMsiBmX4IK9q-4gRGhSuXh9Zs5QcZSkMZ_RFUHpZaUctlw",
+    "reviews": [
+        {
+            "author_name": "Hailey Hastings",
+            "author_url": "https://www.google.com/maps/contrib/106572657860764688875/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-JI2cYtc5C9M/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1JqdnIJTebTeiDMbiuCojv3oIYsA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1511493313
+        },
+        {
+            "author_name": "Amanda Sa",
+            "author_url": "https://www.google.com/maps/contrib/110085088702919350565/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-A-LaSNfsMSY/AAAAAAAAAAI/AAAAAAAAABA/yDHd1U0-u-s/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1508980803
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10043414447469708624",
+    "utc_offset": -240,
+    "vicinity": "850 Richmond Street West Suite 8, Toronto"
+}

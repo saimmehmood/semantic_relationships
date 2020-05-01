@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "45-49",
+            "short_name": "45-49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">45-49 Spadina Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "45-49 Spadina Ave, Toronto, ON M5V 2J1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64341599999999,
+            "lng": -79.394065
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447649802915,
+                "lng": -79.3927160197085
+            },
+            "southwest": {
+                "lat": 43.6420670197085,
+                "lng": -79.39541398029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "438d6de9e3e6a3bfb872e39ae3fdff5b6b45d027",
+    "name": "45-49 Spadina Ave",
+    "place_id": "ChIJOwkIrNk0K4gR1RwLbVuqMqY",
+    "reference": "CmRbAAAAb3KxxQbdBdClYyr4_FmGwsqt5oUPEZNL1qjbq6JWmsnUskP1k6uq22hqF6c9h6uLY51KIr4V9EFA_VrP6hMCzRBf-5N8wP4ZdJSdT-SLLAi0ftDbDofDRKyBJT9XJgVfEhC10byUPkv1vdNS1SIi8P2-GhQ75_NenrFtv0PHHWIzez8FmS_gXw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=45-49+Spadina+Ave,+Toronto,+ON+M5V+2J1,+Canada&ftid=0x882b34d9ac08093b:0xa632aa5b6d0b1cd5",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

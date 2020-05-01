@@ -1,0 +1,240 @@
+{
+    "address_components": [
+        {
+            "long_name": "202-626",
+            "short_name": "202-626",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">202-626 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "202-626 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 345-1777",
+    "geometry": {
+        "location": {
+            "lat": 43.644366,
+            "lng": -79.401094
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6456530302915,
+                "lng": -79.3997204697085
+            },
+            "southwest": {
+                "lat": 43.6429550697085,
+                "lng": -79.4024184302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+    "id": "300ca7225577fae422accff0f14ddb6ef5e3a63e",
+    "international_phone_number": "+1 416-345-1777",
+    "name": "Ward Technology Talent Inc.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM",
+            "Tuesday: 8:30 AM \u2013 5:30 PM",
+            "Wednesday: 8:30 AM \u2013 5:30 PM",
+            "Thursday: 8:30 AM \u2013 5:30 PM",
+            "Friday: 8:30 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 344,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103395936544531996813/photos\">Ward Technology Talent Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAnEZPDvJnZ6wiK9pTCN8uOlwnZoR0O8LSJodYV2E4kkTbY65LeB698eA6OVFU47vZ8FT7PX5TKRewwvpVJLRm_M-M4dYuMhrDaYwhvNIXPEQ8s9l736bet5kYI-23H9geEhDXyvDhzYDisAG6iEeBDMKvGhTPuiZv6cPyG6oPwYr1mG9FLkuqsw",
+            "width": 978
+        },
+        {
+            "height": 547,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103395936544531996813/photos\">Ward Technology Talent Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAApQKPX5eiKMJe0b1VojQNSWTCkLrUjvM6Ti65VoHBad_pBM1drNKyvDhVGexiBZ9bgWneLof65PdMXUA8yqZWaEmV3nZLOC6uql3Oi07aCcc5y0lszgM_O86vFfvm-z_qEhCyna0dK4_xfiG0RxUHkSroGhTJ6pAbBoIKdAfiQSbUG7ackyAaNA",
+            "width": 548
+        },
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103395936544531996813/photos\">Ward Technology Talent Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAfnebm0AkJIdhb4TQlUfaQY7S_Gll_4eUSkAsubyPoD--OklWreZdZRT3oiY0Rv1DHV7bnvqppdgkz7hPXup7XFZpujdLKkBm7ql5w2h_EwHgi40XvfKI51oiWWAGFkyXEhC2NQ2KVHuBwpB_eaMukRj0GhTxF9FloGirboNE7SAecdkPiE5auw",
+            "width": 600
+        }
+    ],
+    "place_id": "ChIJuyTTTt40K4gRPGIq5q32IL4",
+    "rating": 2.8,
+    "reference": "CmRSAAAAGOuJIvHSIBHTjF6TPEkFZ8OSIvQDFo64Ly2jS3gQbHafNHZNgkcgHxaMFnGk0faaQ4zCwe8q5m5qhXXBjwL8eZHfUd5jhgDI4bQMp5x5zTuqP8PqBi21EqOciO-vCmXZEhCSg7xJY_3zAngZ_SUd6ffiGhRW-p7ohCl4SuxARZSFrubvmB1rqg",
+    "reviews": [
+        {
+            "author_name": "Pari K",
+            "author_url": "https://www.google.com/maps/contrib/108148393711814972076/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/--OBR-u7FAZg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1yRpIf0fV7kDqZhCQu-4uySmZeFA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I worked at Ward Technology as an IT Recruiter and will always have very fond memories of the company and their team. This is hands down the BEST technology staffing agency that I have worked for. \ud83d\ude4c\ud83c\udffb From its humble beginnings when the company was founded by Peter Ward to now being looked after by his son Jonathan Ward, the company has seen amazing growth and given back to the community with several social events & MeetUps. The company takes good care of all its IT consultants including arranging quarterly lunches & get-togethers.\n\nFrom an employee perspective, they have a great downtown location with perks including yoga classes, smoothies, monthly President's Club, monthly socials, health benefits, Friday team lunch, Annual Club trip, they celebrate your first placement, they celebrate your work anniversaries and even your birthday! \ud83c\udf82 \ud83c\udf88 You can win gift cards for each placement and bonuses.\nGreat boss who motivates you and listens to employee feedback. Good clients and earning potential. And most importantly, a team that feels like family. \ud83d\ude0a",
+            "time": 1527885730
+        },
+        {
+            "author_name": "Shilpa Williams",
+            "author_url": "https://www.google.com/maps/contrib/110372516165480487998/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-J393pU_GShw/AAAAAAAAAAI/AAAAAAAACJA/DF5OIbhCH74/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great place to work.",
+            "time": 1487757713
+        },
+        {
+            "author_name": "John Kane",
+            "author_url": "https://www.google.com/maps/contrib/116820148231730585942/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-OXNj_bPL0jo/AAAAAAAAAAI/AAAAAAAAeFU/4Ozi7iuo0LI/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1510876501
+        },
+        {
+            "author_name": "D J",
+            "author_url": "https://www.google.com/maps/contrib/116387338697865730618/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-47RUTK13Uhk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0tL-UeWf5Faco7JMBb5tBIKteV0A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1500401208
+        },
+        {
+            "author_name": "Ron M",
+            "author_url": "https://www.google.com/maps/contrib/109854268985231355334/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-GJyFEIOc_5Q/AAAAAAAAAAI/AAAAAAAAAHo/2M9UXV8bbGA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1443188404
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13700221293212361276",
+    "utc_offset": -240,
+    "vicinity": "202-626 King Street West, Toronto",
+    "website": "http://www.wardtechtalent.com/"
+}

@@ -1,0 +1,199 @@
+{
+    "address_components": [
+        {
+            "long_name": "1108",
+            "short_name": "1108",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1108 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1108 Queen St W, Toronto, ON M6J 1H9, Canada",
+    "formatted_phone_number": "(416) 530-1100",
+    "geometry": {
+        "location": {
+            "lat": 43.6435725,
+            "lng": -79.42306599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448123802915,
+                "lng": -79.42167446970849
+            },
+            "southwest": {
+                "lat": 43.6421144197085,
+                "lng": -79.4243724302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "999b43b45f788a85cfd2c6678a3aa1af22e0e97c",
+    "international_phone_number": "+1 416-530-1100",
+    "name": "Childs + Riley - Bosley Real Estate Ltd.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 700,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110328263436465164842/photos\">Childs + Riley - Bosley Real Estate Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAdIU8WVvDrR5KOFYBHy3fkjdVNR6o38l3gt2TyUm7phzXR23kXDF6jA4-hgXQO5iPsBqjKZ8jHYUpQrBT81qWbpod3g2gskZRrL68HZ88O13XDMAz82-2_Cy-1iXW3t9rEhBzTktVtkkIq3rRR3BUsKsNGhT9uIpCww8dlizIkERTOz3piA5BwQ",
+            "width": 1240
+        },
+        {
+            "height": 1329,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110328263436465164842/photos\">Childs + Riley - Bosley Real Estate Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAA_YZ6pR0qsV4pfwfteU_NN66MFZSJPM8WwaTaQ621IQGojXA6fbrCChqVYGvlRKyFoX9K4KFbRdjSNKQ3Pf0KHlcAYZ379awAdc3TTGLp9Z8s6yx8AOJiN0zMNqg6LSIzEhAfrw84T_raQU0JEXu6z_K7GhT5dGwOQdjmmCLuvXM7HodisTYqDQ",
+            "width": 1336
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110328263436465164842/photos\">Childs + Riley - Bosley Real Estate Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAieZlUP3iKihAoS55QgpzZbG72sdgKmY7Ztj7ptS36WHaMgmyLMLzHDGUVcjqmMKYho8Fq8DtVZP6eagby-ohwHEIk-L3VTgJxZ4U66IiqVriUOQveTarVX6YwTW_jJtHEhDE1sM0Bs5ayZWUEDvSs6cfGhT68GW-39WfMfN9hTyp317GuuviJQ",
+            "width": 1500
+        }
+    ],
+    "place_id": "ChIJQd8WKAA1K4gR4Y8mF1d1TlY",
+    "rating": 5,
+    "reference": "CmRRAAAAUBAkLRebEAGZA6WW-DJEs_C-vl7e27rinRBEZ10chg0pAhXpMDlIkRxDtxY9BFjV7S99iAMwMKoma99YSLtQeel-2irYV1_uwVnvY_mi-C5QI7RgXT5-sCShsRn4TokqEhAv_KxIkCkZ0fgcZmvAPhMTGhQ-W_Vfr2OlY5Fb3KMjBsI29oyE8w",
+    "reviews": [
+        {
+            "author_name": "Caitlin Vanderkooy",
+            "author_url": "https://www.google.com/maps/contrib/113250226178783441524/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-zQkJjuAP30Y/AAAAAAAAAAI/AAAAAAAAAEI/qzT4AtShWHM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Ashton was a fantastic real estate agent who helped us to sell two condos and buy a house all within 6 months. She was very knowledgeable about the condo and housing market, and was able to provide good advice about what price to list our condos and what price to offer on our house. She arranged the photography and staging of our two condos, and the photographs were beautiful! She helped us out right until the day our house closed, and even offered to stop by our new house to confirm that it was clean and all the appliances worked on the day before closing! I would highly recommend her services to anyone looking to buy or sell property!",
+            "time": 1520370036
+        },
+        {
+            "author_name": "Jeff Schwartzentruber",
+            "author_url": "https://www.google.com/maps/contrib/101184123651947976515/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Vqk1ib15AyE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0MFM-pDdw_T6ktqqlaAwBNZR3YJg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "My husband and I worked with Ashton and Jessica for the sale of our condo in the Junction. Every part of the selling process was made easy with this team. From the staging, to the marketing, to the sale of our condo, everything was seamless. Ashton and Jessica took care of everything and made sure our condo was ready to be sold. Our condo was listed and sold within one week, with multiple offers from buyers. We are so pleased with our decision to work with Ashton and Jessica. We would recommend them 100% for any selling or buying needs!",
+            "time": 1493039318
+        },
+        {
+            "author_name": "Nicole Scherbina",
+            "author_url": "https://www.google.com/maps/contrib/113564761181176932086/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-G4xAcy43bqc/AAAAAAAAAAI/AAAAAAAAAqY/M-s9l9uMpBw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Buying real estate in Toronto? You need to talk to Ashton and Jessica. \n\nAshton helped my partner and I purchase our first home, and it absolutely would not have happened without her. She knew answers to questions we didn't know we had, was seemingly available around the clock, and is one of the loveliest people you'll meet. From the moment we met her, we knew we didn't want to work with anyone else. \n\nAshton knows every inch of this city, and better yet, she'll take the time to get to know you so that she could find your piece of it.",
+            "time": 1484618259
+        },
+        {
+            "author_name": "Tannis Waugh",
+            "author_url": "https://www.google.com/maps/contrib/103768052214932370054/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-BvBuGZRUwZw/AAAAAAAAAAI/AAAAAAAAA5Y/kXZ_M9AwSj4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "What's remarkable about Ashton and Jessica is their high level commitment to their clients.  It's clear that they both care  and it's reflected in the documentation and comprehensive steps they take that go above and beyond expectations.  I have no hesitation in recommending them.",
+            "time": 1494596301
+        },
+        {
+            "author_name": "sho k",
+            "author_url": "https://www.google.com/maps/contrib/108293693587326319127/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-qQ-ahYMGeQo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq04r_N44XoXpy3_IuL52RDONXuo_A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1484589536
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6219037152356241377",
+    "utc_offset": -240,
+    "vicinity": "1108 Queen Street West, Toronto",
+    "website": "http://www.childsandriley.com/"
+}

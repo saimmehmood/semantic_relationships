@@ -1,0 +1,235 @@
+{
+    "address_components": [
+        {
+            "long_name": "786",
+            "short_name": "786",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N6",
+            "short_name": "M5V 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">786 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "786 King St W, Toronto, ON M5V 1N6, Canada",
+    "formatted_phone_number": "(888) 997-3133",
+    "geometry": {
+        "location": {
+            "lat": 43.643336,
+            "lng": -79.40635999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446080802915,
+                "lng": -79.40498121970849
+            },
+            "southwest": {
+                "lat": 43.6419101197085,
+                "lng": -79.40767918029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ed8ee72815d3e41d4b5a202ecc091ddb8ff9c633",
+    "international_phone_number": "+1 888-997-3133",
+    "name": "Sowingo",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1535,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101290889380710813886/photos\">Sowingo</a>"
+            ],
+            "photo_reference": "CmRaAAAA-lEGHGkLBng0X_Deav39Ij1GUI7CWKfXI7l2JXNdBX9Ber_ELZdQ1uDYnsakBmdbj4Xb6gjKSx9c_cvcuFK9MVJRynp1GXlA7yPH6BdheNyt3SvlhZQMZFrGLcK6UfzvEhBrE6gPzrZxW2s8odoE3sAoGhTK8-UtMAgvpMWRgj2FcXRJ4QaPHw",
+            "width": 1535
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101290889380710813886/photos\">Sowingo</a>"
+            ],
+            "photo_reference": "CmRaAAAAnCEHz5Rdd4ynmOsuJi7PfU7r7AhnsDaONgrs-Na6BC_oFKiW39gUYfV3sK6IdhX6R9mS5UUcGCaaMnMoSgAEpVwR4kJmWtruOCajYyfUIWTKDOP7F1gaE2TwKRGF_4rnEhBZgLnad5Iti2eN8TzLj3szGhSAPSLvl_I2yvl7YxGa_tFp7rRgjw",
+            "width": 1920
+        }
+    ],
+    "place_id": "ChIJgQU55cpAK4gRJzJ-MlSGexY",
+    "rating": 5,
+    "reference": "CmRRAAAAYj8KWLKyTusIeVaDkr8vGMhvXGbwAm6sJ9uz0jJU4QvEaG19DUCVsb6ljHPcc5tjKxrc-X_Oy7mx-mgwyYnr6o_Z0jqALd-_gzqP-FN3BxfCaCYIq6vWqI2wTQfR8nW4EhCF7qRBb6mwwh3bzID0ZgQQGhRCXuixY4kJOpsysnOCEAuV9CBbxg",
+    "reviews": [
+        {
+            "author_name": "Ayesha Syed",
+            "author_url": "https://www.google.com/maps/contrib/117385293348847570491/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-epr6at_JmHg/AAAAAAAAAAI/AAAAAAAAc58/fYmjEuVvk7A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Sowingo has completely changed the way our office purchases and organizes our dental supplies. Not only am I confident in the ability of this software to keep track of our supply levels but my favourite feature is that it also alerts us when specific items are running low or expiring so we are always stocked and prepared. The integrated marketplace is easy to navigate and it makes ordering supplies very quick and simple. We finally have an organized system in place for our dental supply inventory thanks to Sowingo.",
+            "time": 1515638114
+        },
+        {
+            "author_name": "Vanessa Gallego",
+            "author_url": "https://www.google.com/maps/contrib/114716421732643076185/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Jm4iXRcLTz4/AAAAAAAAAAI/AAAAAAAAAAs/R-pz-qvHaK8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Sowingo has without a doubt changed the way our office keeps track of all of the supplies. With its easy to navigate software, we never have to run out of essential supplies to keep our office running. It tracks inventory and alerts you when it's time to restock. It is very easy to use, making it very convenient for all users to navigate without any issues. It has all of the necessary features needed to facilitate the tacking of dental supplies. I would highly recommend Sowingo!",
+            "time": 1515796719
+        },
+        {
+            "author_name": "Stella Chafchino",
+            "author_url": "https://www.google.com/maps/contrib/104575835359085237776/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-rE_Fv3bpXuE/AAAAAAAAAAI/AAAAAAAAAY4/FIs4uOCijwI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Sowingo has definitely been a game-changer at our office and it has helped us become more efficient when it comes to ordering/managing our inventory. We never run out of products or have to do last-minute rush orders and an added benefit is that Sowingo keeps track of expiration dates and ensures the practice isn't losing out on any money. It's cloud-based technology is also convenient for being able to check your inventory from anywhere - including your mobile device and there's no need for any unwanted/time-wasting backups. Sowingo is an excellent platform that I would highly recommend to any and all dental offices!",
+            "time": 1517030847
+        },
+        {
+            "author_name": "thompson Dental",
+            "author_url": "https://www.google.com/maps/contrib/115085435042727845959/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-V6UnZji1GH4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq21SXOpWHGtvYxLP0UxENAhKJQKZw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "My staff really enjoys this software . It has made my office manager's job much simpler to manage the inventory and control the monthly budget.  In our office, multiple associates use implants. This software manages the implants , both from an inventory perspective and business perspective which is what i appreciate about it. I ignored inventory related costs before because we really couldn't find an effective strategy that was simple and easy for anybody to use in the office.  But I highly recommend using this product to make those inventory headaches much less painful.",
+            "time": 1516324084
+        },
+        {
+            "author_name": "Nicole Konstadakos",
+            "author_url": "https://www.google.com/maps/contrib/112196666543375435601/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-FbX2XYW0H78/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2qxfx-mKf7EMTxXA0b3osqeSx4SA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Since we started using sowingo in our office it has become a vital part of our day to day routine. Time spent keeping track of inventory, writing supply lists and keeping track of large orders has been greatly reduced. Their software has also taken the hassle out of maintaining an accurate sterilization log and managing our implants! The easy to navigate design of the site makes it easy to learn as well!",
+            "time": 1516068476
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1620036187152331303",
+    "utc_offset": -240,
+    "vicinity": "786 King Street West, Toronto",
+    "website": "https://www.sowingo.com/"
+}

@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "700",
+            "short_name": "700",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Y6",
+            "short_name": "M5V 2Y6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">700 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Y6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "700 King St W, Toronto, ON M5V 2Y6, Canada",
+    "formatted_phone_number": "(416) 603-4843",
+    "geometry": {
+        "location": {
+            "lat": 43.6441335,
+            "lng": -79.4033477
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453165302915,
+                "lng": -79.40194086970848
+            },
+            "southwest": {
+                "lat": 43.6426185697085,
+                "lng": -79.4046388302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0d67b6f89128e62705508059c87cf8991274347e",
+    "international_phone_number": "+1 416-603-4843",
+    "name": "Westside Lofts",
+    "place_id": "ChIJa4zZfeA0K4gRTFalQ28vY8I",
+    "reference": "CmRSAAAABLDXGa7PhsR4zqScoivE_EVRarY6SoBZa-KxJ3WgYruanLXodmHCnGfFgovZHGfUHY6kxDvaOaXnmfMpuFKlo1xNiJzE7evnAiFUoxONZF6euy2AsfP5QCActdhZ5mg_EhDXAO0FJ2aFMRI_u-cCUBIXGhTcRbjy6X-5Zuwm6kSRn3saovyw2g",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14007091420975158860",
+    "utc_offset": -240,
+    "vicinity": "700 King Street West, Toronto",
+    "website": "http://www.westside.to/"
+}

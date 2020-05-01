@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "formatted_phone_number": "(647) 993-8756",
+    "geometry": {
+        "location": {
+            "lat": 43.6435987,
+            "lng": -79.40875419999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450111802915,
+                "lng": -79.40725996970849
+            },
+            "southwest": {
+                "lat": 43.6423132197085,
+                "lng": -79.4099579302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "80257e9ec9a19b82b07d0e237410589ec5854750",
+    "international_phone_number": "+1 647-993-8756",
+    "name": "Rexfords Foodbar & Lifestyle",
+    "place_id": "ChIJGYAUJ-I0K4gRmXwkWfWQCu0",
+    "reference": "CmRSAAAAO5KezfqafsD4_bsdeBJlCyvxoqJcsfpZTX_lBR9Icb6mFBB7RYB9E4ZbbGiUal3pA_0ohf3MCRk39Ln1nCZXQGAsnUeuxOKxtaX16nuq6hajDnFExCgl4vzRUu1Djc1wEhDGtN0Ojq8nY1HemlGnUcnEGhS3mDXGwb1E9UY1OGvSJuAAk-rgKQ",
+    "scope": "GOOGLE",
+    "types": [
+        "meal_delivery",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17080623920192978073",
+    "utc_offset": -240,
+    "vicinity": "229 Niagara Street, Toronto"
+}

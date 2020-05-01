@@ -1,0 +1,246 @@
+{
+    "address_components": [
+        {
+            "long_name": "761",
+            "short_name": "761",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2K0",
+            "short_name": "M5V 2K0",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">761 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2K0</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "761 King St W, Toronto, ON M5V 2K0, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6430533,
+            "lng": -79.40607419999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444833302915,
+                "lng": -79.40475661970848
+            },
+            "southwest": {
+                "lat": 43.6417853697085,
+                "lng": -79.4074545802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/post_office-71.png",
+    "id": "82586415f50e9b8865b35efade122b099bc05a4d",
+    "name": "Canada Post",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1530"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 9:00 PM",
+            "Tuesday: 8:30 AM \u2013 9:00 PM",
+            "Wednesday: 8:30 AM \u2013 9:00 PM",
+            "Thursday: 8:30 AM \u2013 9:00 PM",
+            "Friday: 8:30 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: 11:00 AM \u2013 3:30 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114645179008584460392/photos\">Camille Kiffer</a>"
+            ],
+            "photo_reference": "CmRaAAAAc8sWv1xJuvfkSiSfzuMzhNpQJ84mAiX1bSmArI-wcLd7PJXrdMq2SwdrUOqxIpboXdr_GO1hogMp6cLL-Y8a1lnMwvd-vCkm6hLYOwuzg3J7L1h5zeAKxYd_QQkP_-VYEhBMGW3q7gApMugLhcDeLH-bGhSp4z0myF4i-w9xe8lEeNJY-GYYKg",
+            "width": 4048
+        }
+    ],
+    "place_id": "ChIJyTBLtuE0K4gRMurYn2VyyFA",
+    "rating": 2.8,
+    "reference": "CmRRAAAASWmUBy7rP0xac2mT6vlcru7-vOjCvq2YraW111sm6x0LpPKHihg_yW3XD9X5M3wl9kmbTI-sXiop9cikPFBS_m2m-4CZmZW8z3BF-5kBOnVnavTGOK0fb_XzCEoyS__SEhCkyUsjVIVLOJzhS8p_WBAcGhTIrv3LZBipOGJLNmEThcwFnhMNyQ",
+    "reviews": [
+        {
+            "author_name": "Stephanie Gibson",
+            "author_url": "https://www.google.com/maps/contrib/112133960950825886906/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ToFpBhT5A3k/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq323q1W4EKFGh0CjDRMy2-qhLXKfQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "If I could select 0 stars I would!!! On several occasions I've tried to \"pop in\" to quickly pick up a package, only to wait a minimum of 25 minutes in a long line of people with only 1 person working at the desk. Need to staff up this place during peak times.... this is brutal customer service. Will think twice about ordering anything for pickup here again.",
+            "time": 1528239690
+        },
+        {
+            "author_name": "Greg Cube",
+            "author_url": "https://www.google.com/maps/contrib/102853180142803964717/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-81fP3YWbIr4/AAAAAAAAAAI/AAAAAAAAAJk/EC9LSIYG_XQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 weeks ago",
+            "text": "Waited all day at home for a package.  Received a \"delivery attempt\" slip that says, \"Your item will be available today.\"  There was no attempt - I was home all day, waiting.  Tracking then shows, \"available for pickup.\"  I walk there (with a broken leg) only to realize your hours aren't the same as Shoppers' hours.  It's 9:15PM, your staff is still there, but refuse to give me my parcel because, \"the computer is turned off.\"  I can see my parcel sitting on the counter!  C'mon!  Tomorrow is day 3 of waiting for an \"expedited\" package that was shipping from a place 40 mins (drive) away.",
+            "time": 1526514041
+        },
+        {
+            "author_name": "Shodan Shreeram",
+            "author_url": "https://www.google.com/maps/contrib/102075572593149680105/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-MGECVH0ZNys/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3QUXf-jBpmgmVs0OAhaC5G8Q0Nng/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "poorly informed staff as to requirement for picking up packages!!",
+            "time": 1515535441
+        },
+        {
+            "author_name": "L Zou",
+            "author_url": "https://www.google.com/maps/contrib/109993130792451759004/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Jc3FO-Ubvgg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2n68JmgxTUKhoCUJT4AZkVKuIeVA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Staff is very friendly and helpful!",
+            "time": 1504528957
+        },
+        {
+            "author_name": "Praveen Allu",
+            "author_url": "https://www.google.com/maps/contrib/111941769314373113599/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-EFOR-dTOqJo/AAAAAAAAAAI/AAAAAAABAgk/6te7R6PhH3A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1503053141
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "post_office",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5821028299175422514",
+    "utc_offset": -240,
+    "vicinity": "761 King Street West, Toronto",
+    "website": "https://www.canadapost.ca/"
+}

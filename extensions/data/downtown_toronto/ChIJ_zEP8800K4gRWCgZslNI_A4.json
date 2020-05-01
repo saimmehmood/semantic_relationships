@@ -1,0 +1,242 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "York Street",
+            "short_name": "York St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2T8",
+            "short_name": "M5J 2T8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">18 York St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2T8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "18 York St, Toronto, ON M5J 2T8, Canada",
+    "formatted_phone_number": "(416) 363-4040",
+    "geometry": {
+        "location": {
+            "lat": 43.6431646,
+            "lng": -79.382246
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445769802915,
+                "lng": -79.38059286970851
+            },
+            "southwest": {
+                "lat": 43.6418790197085,
+                "lng": -79.38329083029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "4c17d844e7114ac20cf1fbe5abb7fc3dca23d05d",
+    "international_phone_number": "+1 416-363-4040",
+    "name": "National Bank",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 5:00 PM",
+            "Tuesday: 9:30 AM \u2013 5:00 PM",
+            "Wednesday: 9:30 AM \u2013 5:00 PM",
+            "Thursday: 9:30 AM \u2013 5:00 PM",
+            "Friday: 9:30 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111596044779789783634/photos\">SHOVAL SOLOMON</a>"
+            ],
+            "photo_reference": "CmRaAAAACMYQ1K8jHE9TCNig9GiUfgrUQQfQ4eEY1s1WQf7pBj4YHzt2iYxfpwu-wGj33txY6YvBiVr8_5vMArtpfvvaOEXv1yfkuxzVw7wU8ffVmlE0xCjbT7yCvEFQKLJbdDPGEhC407eE3N0sNUNgD_OdL8VIGhQXvoU9C5FPoGwV3ZRUAsXkAyIBHA",
+            "width": 2610
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107998522186779171955/photos\">Behrooz Kashani</a>"
+            ],
+            "photo_reference": "CmRaAAAAXbMqR7rYK870tm6ToY_blvqJ4_rVXmaQOhhxOBEgO93P4Pf1t2ZHaLINg9zu8ptSanFVDasBdWa6GoeOfSPa6eIo_J9kDKklxge-W2JlLnSLR547Q_155ZHyg_pjepSaEhCbUO-7T8Hi-oRmRImHmBmEGhSVxEOe7cckqhemibpOjEe1WHMhTA",
+            "width": 4032
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101295199050961258637/photos\">National Bank</a>"
+            ],
+            "photo_reference": "CmRaAAAAx0n9WBhDeMPxTPxjvN1PvAAZcKgXAa4j4PsBzm9ClRC0Ewm0bdg-bf8axL0dc4yhITjWLSOUH1Eg9dKaNKm4QZLt_KASK4dsb8-ey01rJnu86eLX55VPbck47iEQ-NPLEhBxcX3QzwqKg6SeDqg9ReUtGhRdwfq7P9rF_-tWgr44Y1p5UOj3DA",
+            "width": 1080
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101295199050961258637/photos\">National Bank</a>"
+            ],
+            "photo_reference": "CmRaAAAAB5ZYqoGiMJZGzThgysrkUnEYmvAbyN9lfcJs-rDklgWOGACAorHj-n7kkkjL9zWt-_yZhSFqDO3dsU4CmhG3TjuiM3wJzbYokhSWiz5Tg3Aua1M309bQcBwanJZHRQ6kEhAe6ISrHDlb-vB7mtZoj7VFGhSpI4MaXx1yayyLTN7OAY6YhyWR0A",
+            "width": 500
+        }
+    ],
+    "place_id": "ChIJ_zEP8800K4gRWCgZslNI_A4",
+    "rating": 4,
+    "reference": "CmRRAAAAbMs2S15jFnrpAaDtoKd4RxNquT7zD-avaKITpmauS8HGak4dvpx2atKuCuCMcGI55wOO-TX1z5v6qUJ5j3uHNYR_VoJPWP_0GWlYRSlNOTpuXkUDrt5I2rdhDfc5H791EhBqetGc551jYgvld44U4NtzGhTAXBOKUUAJyN0AiYxJpiIfuNFowA",
+    "reviews": [
+        {
+            "author_name": "Victor Kozlov",
+            "author_url": "https://www.google.com/maps/contrib/107333424489674023163/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-YPMZBW0NMLs/AAAAAAAAAAI/AAAAAAAAAlY/XA3yaVlf_PQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "I'd put zero stars, if I could. Got a Line of Credit opened with this bank approx. 3 years ago. Soon after that the Bank introduced a fee for NOT USING a line of credit in the amount of $75 a year. So, you have it, do not use it, but, - you'll have to pay! Moreover, they charge that amount against the line of credit itself, that essentially means you'll be paying interest on those charges on top of the charges themselves. So, the bank provides ZERO value for the money they charge. Seriously? This is called  - stealing customer's money. \nWhen I brought this concern to the branch, - the service I've received was poor, - constant interrupting, not listening, total ignorance. With the amount of competition currently on the market, - this is a horrible service and a bank you cannot trust. Steer away!",
+            "time": 1521568667
+        },
+        {
+            "author_name": "Behrooz Kashani",
+            "author_url": "https://www.google.com/maps/contrib/107998522186779171955/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Tv0Usfrc1Bg/AAAAAAAAAAI/AAAAAAAAMvc/RY_ngvrKqs8/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Great bank",
+            "time": 1528746788
+        },
+        {
+            "author_name": "Lucas Homem",
+            "author_url": "https://www.google.com/maps/contrib/107549167007862489125/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ru14YaxJPAk/AAAAAAAAAAI/AAAAAAAAAKQ/g6cPqj14PUI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1514330899
+        },
+        {
+            "author_name": "Sohan Vandem",
+            "author_url": "https://www.google.com/maps/contrib/116790677902735249104/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--cKijnwUpr8/AAAAAAAAAAI/AAAAAAAAADY/M7xEZh-F1YQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1501898453
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1079817534969555032",
+    "utc_offset": -240,
+    "vicinity": "18 York Street, Toronto",
+    "website": "https://locator.nbc.ca/branch/national-bank/18-york-toronto/"
+}

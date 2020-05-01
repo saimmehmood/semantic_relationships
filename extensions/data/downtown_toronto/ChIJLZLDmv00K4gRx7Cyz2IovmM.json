@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "336",
+            "short_name": "336",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "norning side avenue",
+            "short_name": "norning side avenue",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Scarborough",
+            "short_name": "Scarborough",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M1E 3G3",
+            "short_name": "M1E 3G3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">336 norning side avenue</span>, <span class=\"locality\">Scarborough</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M1E 3G3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "336 norning side avenue, Scarborough, ON M1E 3G3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6436244,
+            "lng": -79.41752249999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6449733802915,
+                "lng": -79.4161735197085
+            },
+            "southwest": {
+                "lat": 43.6422754197085,
+                "lng": -79.4188714802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "fdb6b07591def1b8cd27407fed8b3e8b5cadd3fe",
+    "name": "shanghai's chinese restaurant",
+    "place_id": "ChIJLZLDmv00K4gRx7Cyz2IovmM",
+    "reference": "CmRRAAAAbnCr3PxzWAlJRY1E1F82oovmys1PZ1RM7kuX0wH7MSPqOwBr2D6fVlpsaae5Y8j7O8d3kPV02WAY1Y7ASXndB8fyCu8yOnFuQYJCbgyt_G4Zb6LfD9VA8_eiu8SJk_KGEhAf16gEpoQq2xHhaGCy1OXYGhQhGm0JSWixZK_oS48uLSNXD5yZEQ",
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7187226460186390727",
+    "utc_offset": -240,
+    "vicinity": "336 norning side avenue, Scarborough"
+}

@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "257",
+            "short_name": "257",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L7",
+            "short_name": "M6J 2L7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">257 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "257 Niagara St, Toronto, ON M6J 2L7, Canada",
+    "formatted_phone_number": "(416) 457-4066",
+    "geometry": {
+        "location": {
+            "lat": 43.6444123,
+            "lng": -79.40935189999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458141802915,
+                "lng": -79.40787541970847
+            },
+            "southwest": {
+                "lat": 43.6431162197085,
+                "lng": -79.4105733802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f52e8a430b28ba258925b63a0d074fbdc97381cd",
+    "international_phone_number": "+1 416-457-4066",
+    "name": "Fine Wines of Portugal",
+    "place_id": "ChIJ7bxRMuI0K4gRLWqCe8qLaqs",
+    "reference": "CmRSAAAA2Mb-vLU3bQRy-VS9lNypKPK8kRj7aFeMUFTQuBs7fzWVuQQ4md_LVwQ-6N5hpgPdOXWsnvt_lb_KZee-aYm9YJy0RrhtF51QXY0UfEN0063PJVKvihQ9wJsxx0siTXWmEhCf0SrII0EVlnR0APFlx8bvGhS6ZugNh_r_OLUE5fLH6DgRiteQqA",
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12351838629788805677",
+    "utc_offset": -240,
+    "vicinity": "257 Niagara Street, Toronto",
+    "website": "http://www.winesofportugal.ca"
+}

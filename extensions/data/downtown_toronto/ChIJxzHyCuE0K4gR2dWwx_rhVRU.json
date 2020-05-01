@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "717-679",
+            "short_name": "717-679",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1B2",
+            "short_name": "M6J 1B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">717-679 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "717-679 Adelaide St W, Toronto, ON M6J 1B2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6444492,
+            "lng": -79.4069483
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457981802915,
+                "lng": -79.40559931970849
+            },
+            "southwest": {
+                "lat": 43.6431002197085,
+                "lng": -79.4082972802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "22937bec774d4b318b3ae279788a726690849399",
+    "name": "717-679 Adelaide St W",
+    "place_id": "ChIJxzHyCuE0K4gR2dWwx_rhVRU",
+    "reference": "CmRbAAAAF3aMjI3ej6fuk2EvysDprzNOXmt92v4ve6jSaCdoJnqNaG7PTPKkiAQ0tCiKsOGLGyDLjdtTCckqJKi4zANxiFUghZHuP5hMGB1YCWNbXykNG5hFa9gpNTY9IbfQaC74EhCK6TG9rfBzjWeN4cmOzLZdGhQ_KKafR62SvAtyBTJ10hmuO22Xnw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=717-679+Adelaide+St+W,+Toronto,+ON+M6J+1B2,+Canada&ftid=0x882b34e10af231c7:0x1555e1fac7b0d5d9",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

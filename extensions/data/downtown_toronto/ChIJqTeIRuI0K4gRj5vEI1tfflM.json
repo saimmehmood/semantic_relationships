@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "800",
+            "short_name": "800",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3V9",
+            "short_name": "M6J 3V9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">800 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3V9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "800 Adelaide St W, Toronto, ON M6J 3V9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64391649999999,
+            "lng": -79.4101991
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452055802915,
+                "lng": -79.4088246197085
+            },
+            "southwest": {
+                "lat": 43.6425076197085,
+                "lng": -79.41152258029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "da766fada421084f771002445af86557f83f20c2",
+    "name": "Meegwetch Place",
+    "place_id": "ChIJqTeIRuI0K4gRj5vEI1tfflM",
+    "reference": "CmRRAAAAF2dv0wEjeEtnMaeeAi9kYkStJvbBHNWIrnXY2DjN8lNJBh1VQnHmm2bzb1bPgjRvx4EyoWQYTTnebKMSTnnvBJ2des3Er9aw3nCxOS6KnPL8NXAitF5XbEK_weMgqWJaEhABhyq_LPGu7wuR6x-ufjcSGhRJ7ojr_j6JUiqt2bJF2yMFrbxIhQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6016350997260311439",
+    "utc_offset": -240,
+    "vicinity": "800 Adelaide Street West, Toronto"
+}

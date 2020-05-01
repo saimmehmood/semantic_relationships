@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "Gordon Bell Road",
+            "short_name": "Gordon Bell Road",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 0A6",
+            "short_name": "M6J 0A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Gordon Bell Road</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 0A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Gordon Bell Road, Toronto, ON M6J 0A6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6436645,
+            "lng": -79.41988649999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450134802915,
+                "lng": -79.4185375197085
+            },
+            "southwest": {
+                "lat": 43.6423155197085,
+                "lng": -79.4212354802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "3889184ec12283500e7ea560652b993f2b55b18b",
+    "name": "Gordon Bell Road",
+    "place_id": "ChIJDXOvB_40K4gR0apVrZ7WaBg",
+    "reference": "CmRbAAAAiAXVmPcDx_igTsSTX1ootuuZ-7L_5xeX9ZWF-OoITCfjAiFSS08XMdH7aOJ7hb0fmzoC2LskSLVggutt-MO1zzcG-H7dnsbcX97OBinM0sV3uI7G5oarFK2kiToAXWZ7EhBly_KIjaJ2nXyycG5VCbFWGhQVOmRdDIeYTUefYLEigtTuVb7TFg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Gordon+Bell+Road,+Toronto,+ON+M6J+0A6,+Canada&ftid=0x882b34fe07af730d:0x1868d69ead55aad1",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,227 @@
+{
+    "address_components": [
+        {
+            "long_name": "1108",
+            "short_name": "1108",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1108 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1108 Queen St W, Toronto, ON M6J 1H9, Canada",
+    "formatted_phone_number": "(647) 995-1590",
+    "geometry": {
+        "location": {
+            "lat": 43.6435725,
+            "lng": -79.42306599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448123802915,
+                "lng": -79.42167446970849
+            },
+            "southwest": {
+                "lat": 43.6421144197085,
+                "lng": -79.4243724302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6e38949faba89e3cbafeb79800eb3d97fe4ed81e",
+    "international_phone_number": "+1 647-995-1590",
+    "name": "Joseph Tavares Bosley Real Estate Ltd., Brokerage",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 12:00 \u2013 5:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1188,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114785545739928101033/photos\">Joseph Tavares Sales Rep Bosley Real Estate Ltd., Brokerage</a>"
+            ],
+            "photo_reference": "CmRaAAAAYg5_nvS-VA6h3ZSZtHop5AhiUV3t9SsnL8dxer4RGGSMqUFIuyOA7QUsHsHhBXEyqRaNhy9nm9ZvFup9NgrrRkie7ZqS8-IwVwD6qAizyB1huojly7QaCWUXF1E_pxmNEhCBmL7ze3scEVlG1g0zDjMiGhQgngQ09warAkhjFReBzrunArsZ4A",
+            "width": 2647
+        },
+        {
+            "height": 314,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114785545739928101033/photos\">Joseph Tavares Sales Rep Bosley Real Estate Ltd., Brokerage</a>"
+            ],
+            "photo_reference": "CmRaAAAA62l5Nxx69O0z4EfWn7jjG0l64ON4uLUz09FU6yqZYYgvSOzA3-uY6Ob2BC6E4xcLx4iklZZoSzWb7qgUcwA8_yF0pTju3Y2YcNNZm5hmelfjHQRZUL3kKo7OvtEok5rDEhDTomIwksgy5WpgBEQWWCPIGhTAYdNaxzzLd__oc5l5s3UBwtMEOA",
+            "width": 902
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107568259293981075199/photos\">Joseph Tavares Bosley Real Estate Ltd., Brokerage</a>"
+            ],
+            "photo_reference": "CmRaAAAAYcKe-wNuhmfay6lIaqFp6KUgjQ0a8376RgXOMmE2V5cztIR0EuLLnYBmIB3nmuBfxmGOSJF_NT5btz0ud21cDiTft5l7-gJuKsjf0PvDDZLbY5c9we9pZnaUscrnF7h7EhDXlgFROGBQlRGfB1jqx1jwGhSm094ITDbfBzqQ2ey0m-b4jTlthA",
+            "width": 960
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114785545739928101033/photos\">Joseph Tavares Sales Rep Bosley Real Estate Ltd., Brokerage</a>"
+            ],
+            "photo_reference": "CmRaAAAASrMBKiEiTt_7x-CwEBPjurR0WnHisRF97ENBNbTl5EDH8-kqb5eMuF0iY9r9aY269FnXyA0speCeQFTLPvS1a_EjDTgELk0UuzxL-NkkXPBhIoszTYOj4ceb_jt7WnyuEhDthXn0I0K7nLomHeSoIGsaGhRWxilJbZFgSOsS7qVr8tab0RfnQQ",
+            "width": 1000
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107568259293981075199/photos\">Joseph Tavares Bosley Real Estate Ltd., Brokerage</a>"
+            ],
+            "photo_reference": "CmRaAAAAohVLr4BnlDPoaLgu4GSuW5apGWZk5JOsSaVjc_O-RGhctcWPpHgJU40Jek7_JeRV54-oiFxbDO5p0I1_rSdtk_KceykpWnjcEupn9qX2tdLzcNBH_Uwy_3FeDDBUQtsbEhA1m3t4QFyQ4wXcC9p2blaVGhQy8X_Q-Sjx7FCDk6uf8vAhbT4rww",
+            "width": 1334
+        }
+    ],
+    "place_id": "ChIJN2fD1_80K4gR9sMpkB9HlKs",
+    "reference": "CmRSAAAAbufUCreJFJyh6WXorBYFTKVYbLW6H6-tZzoIWnawbnu_IUiXXBZFEWycf-fm28Ep_I4MILfZ1Q8a7ABMm4w856EMXuqAaP5z407hFCLr7KRzziQTAXavd1kiN28ZP0m1EhBziMCnIVP5FQ7mRsNla1oAGhTJmGjvErsHlB866Vz7eIcMl1uajw",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12363585077927068662",
+    "utc_offset": -240,
+    "vicinity": "1108 Queen Street West, Toronto",
+    "website": "http://josephtavaresrealestate.com/"
+}

@@ -1,0 +1,286 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "floor"
+            ]
+        },
+        {
+            "long_name": "742a",
+            "short_name": "742a",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N3",
+            "short_name": "M5V 1N3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "2, <span class=\"street-address\">742a King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2, 742a King St W, Toronto, ON M5V 1N3, Canada",
+    "formatted_phone_number": "(416) 399-3518",
+    "geometry": {
+        "location": {
+            "lat": 43.64362589999999,
+            "lng": -79.40470660000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64491913029149,
+                "lng": -79.40333601970849
+            },
+            "southwest": {
+                "lat": 43.64222116970849,
+                "lng": -79.4060339802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "07d19029b17e4f480a79953d3c9a3ffe90887ea3",
+    "international_phone_number": "+1 416-399-3518",
+    "name": "The Chicken & Waffles Band - Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 2:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914857895944206619/photos\">The Chicken &amp; Waffles Band - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAME_zmQCYQGRxR59m0d02K_wiKkdKAPZaYIq3fVyrZpXfz79tP7vttl6lnFq_KnZXfs7QAvvLiwYUQkqLYgkTTkBPvfTk8SpsSf29AkNLgeTyRsbdThnRTfGdO8iG7WQREhCc2JPuMea27XdjWbIIpmkUGhSx7mWks2CNdjFrTb9Ts9mP9pUu4A",
+            "width": 3264
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914857895944206619/photos\">The Chicken &amp; Waffles Band - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAzdLQ1EFezBpzLHIKh5xNBRYF2bkT_oCwkFI2aqn470sV_HquFxpsdnjgjmcD9OvTq5SZf0dB1i2loahv1B0Wcub3vCXR2BTe6aW0brifQyZsjRNFWmdWdziGkiMtDDaGEhAB8q5SknD-7jQNsO1JpRpNGhT9MHLCbE3rQ-aEuohgrDRDRZ3FCw",
+            "width": 2448
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914857895944206619/photos\">The Chicken &amp; Waffles Band - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAcEMLTuQohntCalj74kHEG90RuUqPNwGoNIXKLXY-YHYU32ZXvK5BsLf_nqjcaClK3jR_C9xOJ1lAICiQAAQNCD09aNqDSpVFMGlLwvL6EBPHx-Uor9N4GJPAILuuH2V5EhCeVUWimSVTp_Unsigr8oF5GhRMDxMkuLB6Zt33DD4NcK4aCYhqPw",
+            "width": 2048
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914857895944206619/photos\">The Chicken &amp; Waffles Band - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAI9oQOMbOOVo3Zw48CnrDoFLfaUG8IoWmfYsirmtI4KVxeQ42YJlg-cyI7OhTrkpQr3JmuSoE25miC3WXbRaVAiMUrpQ4V-9D2GPcaq8ArPQjQ3jTy63I3-yckfXuVJjVEhBS6Y49oOCbtaK-LOCAE8fLGhQXY6bBb0J8vCi9z0jIFMYrc5cPoA",
+            "width": 1936
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914857895944206619/photos\">The Chicken &amp; Waffles Band - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAfSk3AInfVS5ATROTkWuUb0wpKgmP1XUobtAhiBIYeyDsR6S91plEUZn1ockAhH1rzRfoeViYviTs4PJyFAH-MsEilGaJMJEj_qDPG2zsm0QwEfhBfhsKZ3m0hAquV4mHEhCHb6WDMCGhDtFYM6tlT8eHGhS92mjnixEXPlgHnfDkTtVdiu_qRg",
+            "width": 5760
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914857895944206619/photos\">The Chicken &amp; Waffles Band - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAPRESfrvEQut4c66qqcjAbSLhtd2qKjOfyMchjy9gQXNZ8rioLZJosI18DWVNrjJla_Tmi4jRvYRdr9GzQWM8RN6bP0S7RLFJ1_ablMPf16BKaxQFTOHPNlej82ATGlRVEhDMkQiqc8DXayKuhM9czYbgGhRnPzYX3xAanSTanYa-qFg9PJnqLw",
+            "width": 1936
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914857895944206619/photos\">The Chicken &amp; Waffles Band - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAANinpySFcmdoM2tj6ZfBwNXzQuoSLe9PWKMdJEwaGGL_awZSJgraC2ZuaKNniH2U_-gGgU7gWLn8njzmZsxayY29MwI9WRRCAD454ygFcM70ywRytscqeANyvJRLAA5azEhCKX90AWl15RFWD0Z4yi3x9GhSOpG6YjWcz9_HALSLXIRBARf6dOA",
+            "width": 1920
+        },
+        {
+            "height": 1151,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914857895944206619/photos\">The Chicken &amp; Waffles Band - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAA7lCWYTLh5rSkt678Z9APX5BSZNkUjHiSpJwkjZAz4vKYIQVw61RSAt31GyceGKVQzX1T59pPJNWWaxBxX6VKOpOqE1w_b2Tz_jS7bY3O3gOSdSC0UtbWrS9lW3_rffXqEhD20hpdl1RRJga64BjBang6GhRMtFy2hSo7voL4pg4UET2tUHnMpA",
+            "width": 1447
+        },
+        {
+            "height": 1305,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106086707960554215458/photos\">Deryck Roche</a>"
+            ],
+            "photo_reference": "CmRaAAAAcK9aAvBL6-Yrb29nP9LOUy7anbGI_5SbXz1lxjP3B7SNOlh7D5hnoa5Eral7s6eWpMiLN01gEAnZCape0mSgDIkyawxZf6uR5WKbaWCvf6iaEGa6yoIhcDcY8NI-TJUcEhDPNblJu4Zw7kepvWym-dceGhS1jHjT50MqKTr8Uy50pEbbMK8xyw",
+            "width": 2048
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111914857895944206619/photos\">The Chicken &amp; Waffles Band - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAA3l8yAjALlT5GuQMdJKxByoBu8-LqZcA69pA71hkVgeJ0poN7ekc8E9w453PNICWhT21HSj8bLCcqNXPGZc7c4mbCpycaE7T-PE-8tq8bUj42soqZY3C3DC3aSUem2oEEEhBEu6erKG0AcuvahKJXS6qNGhS46mQUqz77lPa4d49Pv8oRvjW3Rw",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJiRA7W-A0K4gR0FuD-jgE0o8",
+    "rating": 5,
+    "reference": "CmRSAAAA-huQoyeiglm3YGF8XhUQVKaT5HT9pplcZziZDu98SXlmX-suri0POMCFeIGElwKC6wvzc3Yhf-YhLe5DgVqNXQPos6dJ0pR8kafvf0QisTQ-rBOoZNgfFTrn252R_dm9EhC35EeyAmgYuk2bHc0SOG62GhT6Li6qdMqtmPe-WA0Pxn7Zzk3hVg",
+    "reviews": [
+        {
+            "author_name": "Emerson N",
+            "author_url": "https://www.google.com/maps/contrib/106595555838418184800/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-xeHKHmuOaTM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq14VQ4fBgHHQIeUMgbX4W6w5yl9aA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Without any question, the BEST band in Toronto. Hired Chicken and Waffles to play for our wedding. They did not disappoint. Everyone had a blast listening and dancing to you guys groove out. They carried the party. Many people were wondering who these guys were and where we found them. Not only are they amazing musicians, but amazing people as well. We thoroughly enjoyed listening to you, and working with you. Deryck was with us every step of the way for planning as well, and the rest of the band members were approachable and helpful. They were fun and easy going, and most of all they played some amazing music exceptionally well!  We look forward to continuing our friendship with these guys. Amazing band! Thank you!!",
+            "time": 1478564156
+        },
+        {
+            "author_name": "The Chicken & Waffles Band - Toronto",
+            "author_url": "https://www.google.com/maps/contrib/111914857895944206619/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Exd_uRp00Ao/AAAAAAAAAAI/AAAAAAAAAXM/iC3f2nvpOB8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Best R&B/Soul Band In Toronto !!!!!",
+            "time": 1404918652
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10363350335300525008",
+    "utc_offset": -240,
+    "vicinity": "2, 742a King Street West, Toronto",
+    "website": "http://levelindastudio.wixsite.com/l2musicproductions"
+}

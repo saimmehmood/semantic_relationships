@@ -1,0 +1,206 @@
+{
+    "address_components": [
+        {
+            "long_name": "45",
+            "short_name": "45",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gordon Bell Road",
+            "short_name": "Gordon Bell Road",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 0A6",
+            "short_name": "M6J 0A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">45 Gordon Bell Road</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 0A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "45 Gordon Bell Road, Toronto, ON M6J 0A6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.643621,
+            "lng": -79.4195685
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6449079802915,
+                "lng": -79.41822136970849
+            },
+            "southwest": {
+                "lat": 43.6422100197085,
+                "lng": -79.4209193302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f3caa062d9314c6c8ecf2d0dc4b6090f99c86f84",
+    "name": "Canada Wide Parking",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 12:00 AM",
+            "Tuesday: 6:00 AM \u2013 12:00 AM",
+            "Wednesday: 6:00 AM \u2013 12:00 AM",
+            "Thursday: 6:00 AM \u2013 12:00 AM",
+            "Friday: 6:00 AM \u2013 12:00 AM",
+            "Saturday: 6:00 AM \u2013 12:00 AM",
+            "Sunday: 6:00 AM \u2013 12:00 AM"
+        ]
+    },
+    "place_id": "ChIJPapp_v00K4gRMeJ4_EwK1yg",
+    "rating": 3,
+    "reference": "CmRRAAAAbllC41FYGB1XYU7dWDttKWJYbYEs8juyOgel77du6or4cajgTHd-hAVUwj76i9T5ltH6CVQNHp0_qfChTG_66MtHE7aW8fxvzCSLYlqQ4CLmsYqMNsl2SWrNKxsqMikREhAYt9b4fvpD1YxERtzMg9iFGhSmHfaTdm_Cx3LhSSd0ue_3WxNiXw",
+    "reviews": [
+        {
+            "author_name": "Paul Keegan",
+            "author_url": "https://www.google.com/maps/contrib/111326415352920895265/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-02khopADEsk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq11aYNcBOjxcIVUmz8hSOSnQDQfbw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Cheap parking at a price.  They advertise secure lots with cameras, but many of their lots are in bad areas that see daily break-ins and thefts from the vehicles.  Many of their cameras are clearly fake, and they do not respond to the police's requests for security footage (if there even is any).  I've seen piles of glass in these lots on a daily basis and had it happen to friends of mine - especially the lot at Spadina and D'arcy (the neighbour residence, the Sunlight Trading Co is a condemned building full of junkies who do the thefts).\n\nPark literally anywhere else.",
+            "time": 1524115428
+        },
+        {
+            "author_name": "F\u00e9lix An",
+            "author_url": "https://www.google.com/maps/contrib/105329921276363437101/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-zU44mzrZwbQ/AAAAAAAAAAI/AAAAAAAAVZY/ieLriegxqKk/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Close to CAMH, only 88\u00a2/30 min.",
+            "time": 1517770715
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2942832207279481393",
+    "utc_offset": -240,
+    "vicinity": "45 Gordon Bell Road, Toronto",
+    "website": "http://www.canadawideparking.com/"
+}

@@ -1,0 +1,126 @@
+{
+    "address_components": [
+        {
+            "long_name": "21 Strickland Av",
+            "short_name": "21 Strickland Av",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 3E6",
+            "short_name": "M6K 3E6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">21 Strickland Av</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 3E6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "21 Strickland Av, Toronto, ON M6K 3E6, Canada",
+    "formatted_phone_number": "(416) 234-1942",
+    "geometry": {
+        "location": {
+            "lat": 43.643296,
+            "lng": -79.43104
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446449802915,
+                "lng": -79.4296910197085
+            },
+            "southwest": {
+                "lat": 43.6419470197085,
+                "lng": -79.4323889802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "2d8a75842e9e581abcc2e2165bbd7ebd0f53b02d",
+    "international_phone_number": "+1 416-234-1942",
+    "name": "Breakaway",
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110220819095165866163/photos\">Fred Budan</a>"
+            ],
+            "photo_reference": "CmRaAAAAhCDGZTmT_5MAVUw04zzt9WZb1wN2ihnbONoOM5BNF-RoS-XzcQj0AZU2_zueaRUKTUxJ3hZUMYncAI-UvYZdOe1u6OE8TiUHiguTGdCqU5OPm6suuH4bMZ1eqKYIFPsIEhCOeSMBXCr-Bj6YcMai1hciGhShbaFSYZWya-ELv3cnboLokNLIJQ",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJzy0Rjt80K4gRtPcLMPTN7mo",
+    "rating": 5,
+    "reference": "CmRRAAAASSo6zj85wZjjxmfgmygy_yrPOXl5SUd3KXmlDjmqQUG1Ka0DM5w3nANLimEpWXpmXWxzLMRcQujF4eWbU7SM6-JxaajSuLF5LiVxbgcD6IMzsiHs8SKemRrOujqZvbluEhAWz0zw7i-NzKT-WjyVS1RrGhSj9iRsv_R0DYyAS5PaRFqI4V2T_g",
+    "reviews": [
+        {
+            "author_name": "Michael Joseph",
+            "author_url": "https://www.google.com/maps/contrib/102713997724723645066/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0ffVXJJBV3k/AAAAAAAAAAI/AAAAAAAAUSw/J408jc8IpkQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Because there's people there that actually care about you",
+            "time": 1455805970
+        },
+        {
+            "author_name": "E Thompson",
+            "author_url": "https://www.google.com/maps/contrib/105868465708635414379/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-nK9rKuosKD8/AAAAAAAAAAI/AAAAAAAAClw/X2011WpYBD8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "",
+            "time": 1498936040
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7705322461139302324",
+    "utc_offset": -240,
+    "vicinity": "21 Strickland Av, Toronto",
+    "website": "https://www.breakawayaddictions.ca/"
+}

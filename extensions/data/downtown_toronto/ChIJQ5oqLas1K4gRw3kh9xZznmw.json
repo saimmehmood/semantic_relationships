@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Peel Avenue",
+            "short_name": "Peel Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1M4",
+            "short_name": "M6J 1M4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">18 Peel Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1M4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "18 Peel Ave, Toronto, ON M6J 1M4, Canada",
+    "formatted_phone_number": "(416) 531-9508",
+    "geometry": {
+        "location": {
+            "lat": 43.6440687,
+            "lng": -79.4286999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453395802915,
+                "lng": -79.42732141970849
+            },
+            "southwest": {
+                "lat": 43.6426416197085,
+                "lng": -79.4300193802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8d135ba4c97b6a2541015c17cd02ec898e066c95",
+    "international_phone_number": "+1 416-531-9508",
+    "name": "Portland Group",
+    "place_id": "ChIJQ5oqLas1K4gRw3kh9xZznmw",
+    "reference": "CmRRAAAAPk00lziPjMnDF4T3WnenZz8uaIlbozuR08864h37UAT06lM4a4ih1tc7qo1S1CzY6uu1ttoAn7u8WWZ9QQwBBz19Dp6QzbmAfROkic4ikfHo0lmrf1UEPTiVQyE5FMmcEhB_jwumJky4Y6MnjiAKAWnVGhTuM_o97Yq9SRaX9_dsiUPDTei-oA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7826819744889141699",
+    "utc_offset": -240,
+    "vicinity": "18 Peel Avenue, Toronto"
+}

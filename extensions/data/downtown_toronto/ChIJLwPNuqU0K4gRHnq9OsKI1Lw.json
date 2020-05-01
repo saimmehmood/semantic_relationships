@@ -1,0 +1,119 @@
+{
+    "address_components": [
+        {
+            "long_name": "33",
+            "short_name": "33",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Draper Street",
+            "short_name": "Draper St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2M3",
+            "short_name": "M5V 2M3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">33 Draper St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2M3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "33 Draper St, Toronto, ON M5V 2M3, Canada",
+    "formatted_phone_number": "(416) 960-9000",
+    "geometry": {
+        "location": {
+            "lat": 43.64292270000001,
+            "lng": -79.39798809999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64426238029149,
+                "lng": -79.39667846970848
+            },
+            "southwest": {
+                "lat": 43.6415644197085,
+                "lng": -79.3993764302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "87bf321591479450f37e905727a2dec20f461c0e",
+    "international_phone_number": "+1 416-960-9000",
+    "name": "MDC Partners Inc",
+    "photos": [
+        {
+            "height": 2340,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115705192845405387365/photos\">Taras Kupchak</a>"
+            ],
+            "photo_reference": "CmRaAAAAt7gXlFX-CVqBDpavQ79CyASicSeA6HP5WWJg28e-FajRUL7CFznHI7URsmltbQ0_kAJelvCrdNtMi1fg6GxCL1IZ-0YhABwDWv2JVKX2kRlYrOXoiKAzt7rzwnaFVIpmEhCEcx4VVL-WqHO9eZjCCFQ5GhSJgHoi1RoTPDsRR0c3QNUEX63v6g",
+            "width": 4160
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115405483290188730351/photos\">Jeremy Marentette</a>"
+            ],
+            "photo_reference": "CmRaAAAA_UBzR0i3K1ulpXHrOYwp8zEgW1PwyxgspDZGM6N3HJrhXr94R6HHb7YXrfdnxYlCqZHQGDP680qzVq-Njuc-pN7rjdwtiGRsPVP2oGnBEpQGlzkeBqKQs_dDGctsocCGEhCbU7PQwC0YtorFrnfHm9xqGhQs8sPI0bKx824SPkq5xIH5XaGFLQ",
+            "width": 3984
+        }
+    ],
+    "place_id": "ChIJLwPNuqU0K4gRHnq9OsKI1Lw",
+    "reference": "CmRSAAAA4EA1l35w9UvFeVHX0NJx9siw5sM2LjMxA6VX_iusiQs77F_Livv7wNCUswbzCpEna1ZMUZxEhifE9E3djoUCNB8VE7hIcgAKERuzcF5ZnIKMtK3KgCCE2MvFi0Y8Sis7EhBPUtwU5Yk9Q55J_kyglmDUGhS0GOZEjvRJRXgnTfcCIncsEPAQNg",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13606650741983640094",
+    "utc_offset": -240,
+    "vicinity": "33 Draper Street, Toronto",
+    "website": "https://www.mdc-partners.com/"
+}

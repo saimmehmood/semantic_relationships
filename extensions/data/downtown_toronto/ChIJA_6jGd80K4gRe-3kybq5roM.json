@@ -1,0 +1,164 @@
+{
+    "address_components": [
+        {
+            "long_name": "504",
+            "short_name": "504",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E3",
+            "short_name": "M5V 1E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">504 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "504 Wellington St W, Toronto, ON M5V 1E3, Canada",
+    "formatted_phone_number": "(416) 849-1874",
+    "geometry": {
+        "location": {
+            "lat": 43.6434576,
+            "lng": -79.3989406
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446532802915,
+                "lng": -79.39752926970849
+            },
+            "southwest": {
+                "lat": 43.6419553197085,
+                "lng": -79.4002272302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f0844b1d2c0ea2328d4f8de53a26d6c1accebca3",
+    "international_phone_number": "+1 416-849-1874",
+    "name": "Venture",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJA_6jGd80K4gRe-3kybq5roM",
+    "reference": "CmRSAAAAu9RY9-Wi0PVzb_4-595zX4Nn9BnXNi-J6YeW3AA_lc9P9CRm2A0fG4gULOnsDUHjf3J6FSFVoVVAyD6_h2oaxTa3pIZ-3V7KaehR1DRdK8ovKokZiJnXFgEYH80kxJXYEhBAZv0JmSgwtdZiRaH9SkJ_GhRx3qco0yYEwjSI9gD2gV2y92jXSg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9488725676818492795",
+    "utc_offset": -240,
+    "vicinity": "504 Wellington Street West, Toronto",
+    "website": "https://venturecommunications.ca/"
+}

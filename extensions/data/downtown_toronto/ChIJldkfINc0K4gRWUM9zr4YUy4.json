@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V",
+            "short_name": "M5V",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M5V, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.643856,
+            "lng": -79.3888702
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452049802915,
+                "lng": -79.3875212197085
+            },
+            "southwest": {
+                "lat": 43.6425070197085,
+                "lng": -79.39021918029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png",
+    "id": "753c32df8225f55958a3e651abe354e7c8a52545",
+    "name": "Front St West at John St",
+    "photos": [
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107116917968415758852/photos\">Azzu</a>"
+            ],
+            "photo_reference": "CmRaAAAAehaNO5zbaeUIEfbBM6yDhDr-OG1XYmQHbfDLcTkPYeGcFKqfGfQn6sGq6JvsoNnrS6e_Z44t55BHG4oglbyU4aysoKCXd3syUkuviR3fTReovA2pP2HSoTaVu5Rjg1BSEhDD5zaJvG_Ny6EHxIQNdSABGhSpPBr5oS3q3Fafx6QvGNH9bQWtWA",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJldkfINc0K4gRWUM9zr4YUy4",
+    "reference": "CmRRAAAAALz7-K6qzRHIH1YtOnAq0xAHA0GvAwRIln1S0usHgwZArZzNz4k-CW0EkfcZIQgm5F1zk1JrhQWblYpYswW90dxr1nYZcJc4jIup5I7XzpROQD0V67_vs0GgDpFlYCCjEhCIYo8AH9DUVrYXRsKCzE3SGhSROGADuW89xJ_T3GIeVDm7lbxNtw",
+    "scope": "GOOGLE",
+    "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3338038956594643801",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

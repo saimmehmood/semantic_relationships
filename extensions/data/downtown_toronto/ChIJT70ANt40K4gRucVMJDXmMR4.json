@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "651-611",
+            "short_name": "651-611",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M5",
+            "short_name": "M5V 1M5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">651-611 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "651-611 King St W, Toronto, ON M5V 1M5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6441515,
+            "lng": -79.40148210000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6455004802915,
+                "lng": -79.4001331197085
+            },
+            "southwest": {
+                "lat": 43.6428025197085,
+                "lng": -79.4028310802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fe8344a4fe2ee7c5deda7af1398332f180e98182",
+    "name": "651-611 King St W",
+    "place_id": "ChIJT70ANt40K4gRucVMJDXmMR4",
+    "reference": "CmRbAAAACqo-IbwRxbBjXdb0o2eDZKdqLadjbGePUAeYdNdqz0fYiCDhGwiCEnDci1KIswNr7klcjX7yOqkXyWbdPttzqpY0IRO2bVcOIbjbe2hUgsdGPNEz8JKui36no4KksP6ZEhClsZC_Jtv8MN3m1p_8Fxz6GhQLy68Ryw7OT3TZIc-GiSi-roVh1g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=651-611+King+St+W,+Toronto,+ON+M5V+1M5,+Canada&ftid=0x882b34de3600bd4f:0x1e31e635244cc5b9",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

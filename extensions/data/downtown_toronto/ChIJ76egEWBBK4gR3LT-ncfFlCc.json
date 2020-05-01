@@ -1,0 +1,171 @@
+{
+    "address_components": [
+        {
+            "long_name": "1801",
+            "short_name": "1801",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1W7",
+            "short_name": "M5E 1W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St #1801</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St #1801, Toronto, ON M5E 1W7, Canada",
+    "formatted_phone_number": "(905) 607-3240",
+    "geometry": {
+        "location": {
+            "lat": 43.6426616,
+            "lng": -79.3740705
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6438607302915,
+                "lng": -79.37316196970849
+            },
+            "southwest": {
+                "lat": 43.6411627697085,
+                "lng": -79.37585993029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3b34f0b062281f37bd4e5f6e371773409fd92807",
+    "international_phone_number": "+1 905-607-3240",
+    "name": "Rate Technology Systems Ltd",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1715"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1715"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1715"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1715"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1715"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:15 PM",
+            "Tuesday: 8:30 AM \u2013 5:15 PM",
+            "Wednesday: 8:30 AM \u2013 5:15 PM",
+            "Thursday: 8:30 AM \u2013 5:15 PM",
+            "Friday: 8:30 AM \u2013 5:15 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ76egEWBBK4gR3LT-ncfFlCc",
+    "reference": "CmRRAAAA9G1BEmGDJVYcGzVwzaI9jR4aZ-BUiufL-4zrzfWgu8Ks6bKyPL_2tGzQTtGFv4xVOLZWQ37MMsfRH1-tGwJf5ek8mhw_3cEH8fClSs_FMWgY4H6aYiJPqrcNqCUXpA3PEhA6OiAnXGiYxoYmUtB4hmXEGhS4NNsqnf0VzEG3V2JL8J0qHgkxKw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2852121925172245724",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street #1801, Toronto",
+    "website": "http://ratetechnologysystems.com/"
+}

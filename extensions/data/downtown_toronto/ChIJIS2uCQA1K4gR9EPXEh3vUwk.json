@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "1164",
+            "short_name": "1164",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J5",
+            "short_name": "M6J 1J5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1164 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1164 Queen St W, Toronto, ON M6J 1J5, Canada",
+    "formatted_phone_number": "(416) 535-7837",
+    "geometry": {
+        "location": {
+            "lat": 43.6430561,
+            "lng": -79.4253313
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6443237802915,
+                "lng": -79.4239509697085
+            },
+            "southwest": {
+                "lat": 43.6416258197085,
+                "lng": -79.4266489302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "70eaad1b380b2ad310bc533c7250296c1a049dd4",
+    "international_phone_number": "+1 416-535-7837",
+    "name": "64 Steps",
+    "place_id": "ChIJIS2uCQA1K4gR9EPXEh3vUwk",
+    "reference": "CmRRAAAAUKtkvCHyKXpBu1Oy4BYqrAkPC5x3vm79AG0k6VAwV7-BlUesAAtAwlUYjqPZO-QjslJ6mVlNaYMGs1rFoHApAMW47EDauCj9u0qzXXN7OPoB_eQA17YC4vNx1U5zJWmPEhCHd0NuDBqt8DhycZYzFznyGhQ1oYVOrtpriCgT59sWGhsAOEWD-w",
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=672143677557523444",
+    "utc_offset": -240,
+    "vicinity": "1164 Queen Street West, Toronto"
+}

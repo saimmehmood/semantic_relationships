@@ -1,0 +1,143 @@
+{
+    "address_components": [
+        {
+            "long_name": "705",
+            "short_name": "705",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W8",
+            "short_name": "M5V 2W8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">705 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "705 King St W, Toronto, ON M5V 2W8, Canada",
+    "formatted_phone_number": "(647) 993-4145",
+    "geometry": {
+        "location": {
+            "lat": 43.6431033,
+            "lng": -79.4038314
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447210802915,
+                "lng": -79.40258651970848
+            },
+            "southwest": {
+                "lat": 43.6420231197085,
+                "lng": -79.40528448029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6d3b8a6f87147ae86308063c13ad3cc42f33e405",
+    "international_phone_number": "+1 647-993-4145",
+    "name": "Condos N Homes - Naveen Varghese",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107120184591016920842/photos\">Condos N Homes - Naveen Varghese</a>"
+            ],
+            "photo_reference": "CmRaAAAARS9IwiOt7Hw1ZGKpsBdNggKx4WKE5b0qc8HKnwrgPiFs0OQCoLbaq-h3CoqGw3Zn-zqiS35cp7omLGpoxjGl4jF3uy6zkTM25ZgpRtpJUGEoMfnip_S77qLvzd-Yv9RzEhAbap8RhcM-hhXi-LgzRWwQGhS3qIcdWsuZwEwoustsYQlQg5fqFQ",
+            "width": 2048
+        },
+        {
+            "height": 832,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107120184591016920842/photos\">Condos N Homes - Naveen Varghese</a>"
+            ],
+            "photo_reference": "CmRaAAAAbFVkA4YiI7xIcSCVfFFAgIrZTYe6O5-YP4cyIZj0ni_B5hknSuSZY6bxTPhKpWjFDcek4RsNEMKoIgcke8n6Yw7NSwNmybyMwmDvkTDt7ty0g3jL1spq4VdCIYqCFOVQEhC2ESAMZTBkDnOaFw_AuCXfGhRGT8TCxKasHusGqvbdtRFu2kib9A",
+            "width": 834
+        }
+    ],
+    "place_id": "ChIJAQBAbOA0K4gRt9awnn81SJE",
+    "reference": "CmRSAAAAguuLzwiEhXuwe4OtOULruuTxNk3s12nGksOKZO0tI2XC8Auk6O02jntOD9HzYctuTflnrnFO_edy9aS10j0sfag-df5kJj-NIyUpv6oJ7xAmMeOrr_I4D8EFV9SC2WX_EhCKUiqmV8hhWElnMfrEU13oGhQdBrGe2Hyh7CDwfunY1VYOs3D2Zg",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10468676156062226103",
+    "utc_offset": -240,
+    "vicinity": "705 King Street West, Toronto",
+    "website": "http://www.condosnhomes.ca/"
+}

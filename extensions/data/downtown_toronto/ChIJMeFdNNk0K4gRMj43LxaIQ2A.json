@@ -1,0 +1,240 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite #200",
+            "short_name": "Suite #200",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "495",
+            "short_name": "495",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1K4",
+            "short_name": "M5V 1K4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">495 King St W Suite #200</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1K4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "495 King St W Suite #200, Toronto, ON M5V 1K4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64440020000001,
+            "lng": -79.3970355
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6460542302915,
+                "lng": -79.3958061697085
+            },
+            "southwest": {
+                "lat": 43.6433562697085,
+                "lng": -79.39850413029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9ab69c33248edd4417e48d60401b255be591257c",
+    "name": "Foodora Toronto",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2916,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116434591653906538710/photos\">Pagan Eka Cheung</a>"
+            ],
+            "photo_reference": "CmRaAAAA8wHjuxuKgv_4pESAX_5djJ0BcBMJP4wVmmTp9S40c16L70DYr2B5cZAgyQ_8E3bkArSj-z7UyTyeQV48BcTuKrmhhKDQN3QN54wpVla3bnv5GK5bMX3ixoxa4XRWHQqWEhDafikCJ_58xbyu-S77XI7CGhTPhO_I7m3RJorx9-t8lOLuvcIekA",
+            "width": 5184
+        },
+        {
+            "height": 2023,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106672647501667572480/photos\">Foodora Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAzCrpWhSunh7Mo0EIMHNWa6k_bXD5KQdUwK_7EfFhox_wb8vSx9kTywISR-njeJRw8CRqzT2f_t3NhQcxNwt_Duhzi0iM-OtEYUIGV2Vq6YyOcXYwMFcYy_5Whri28tFUEhBKvEOCAJxV2FYrRHIi49sLGhSk0KnrsKICcrh3JaBzgIkZqNdyYQ",
+            "width": 3074
+        }
+    ],
+    "place_id": "ChIJMeFdNNk0K4gRMj43LxaIQ2A",
+    "rating": 2.7,
+    "reference": "CmRRAAAAIZdJnEhB-6QiI6fZyEnKwrF01lD3Mtp_M9kD_E1gk73Z_OO0HM57sngvaiJepM9o1DG0HV8o3fK0F22v6IY84TchyLt6N9SZjEftwKlofDY1w6v4nQ5xrj2P2QBPhJ8VEhDFUkkx9qe5yGI_-fuPeNyPGhRNrhAQAKZF4VoOj7df7FHIzFpFOg",
+    "reviews": [
+        {
+            "author_name": "Lee Alan",
+            "author_url": "https://www.google.com/maps/contrib/100597105411798262184/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-OT9RYUmQRwA/AAAAAAAAAAI/AAAAAAAA6l4/3LQ0aunrWM4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I have been using Foodora for a month now and I absolutely love it. My friends always use these kinds of services but I hadn't tried it out yet. I love how you can browse from so many different delivery options instead of just the usual pizza or Swiss Chalet lol. I never use cash so I always hate ordering food for delivery because I never know if I will have the right change for a tip. So being able to include it in the app ahead of time is wonderful.  Of the five times I have used it every time the food came very quickly except the last time where it was about 45 minutes, but the delivery guy was just a young kid and it was pretty hot out so not the end of the world, still faster than pizza . I'm sure that sooner or later I will end up with a bad experience, but so far I'm in love!!!",
+            "time": 1527635336
+        },
+        {
+            "author_name": "Frances F",
+            "author_url": "https://www.google.com/maps/contrib/100518984389363615839/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-OHJnr-MDjr4/AAAAAAAAAAI/AAAAAAAAADI/Ty6yWus23I0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "I received a voucher in the mail for $10. I figured why not? Let\u2019s try them out. I placed an order at Basil Box square one around 7:40pm. Prior to ordering, it says free delivery, but when you place the order it charges you $1. Okay, sure that\u2019s fine. It also says 20 minutes or less. Around 8:20pm it says 15 minutes. It\u2019s been 40 minutes but okay. The mall closes at 9pm. So ten to, I call the Restaurent and they advise the food has been ready for awhile but the driver hasn\u2019t come yet. They advised to just message customer service which I did. Currently waiting to hear back from customer service. Very disappointed. Just stick with ubereats or SkipTheDishes... way better service",
+            "time": 1527814493
+        },
+        {
+            "author_name": "Ben Godin",
+            "author_url": "https://www.google.com/maps/contrib/107853569160776908406/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Pi8XrH4kRGE/AAAAAAAAAAI/AAAAAAAABms/SQHtHetAHwo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "Both time I\u2019ve ordered with them the delivery took over an hour. First time they were missing two food items, the second time was Chinese food without any chopsticks or utensils (not to mention no soy sauce, napkins, etc). Sucks when you spend $60+ and you have to eat rice with your hands.\n\nTheir response email \u201cvalidated\u201d my concern. I always tip 20% but both drivers were not helpful. I suspect they do not pass the tips to the drivers. I asked their support staff twice if they did and their responses were evasive.",
+            "time": 1522981098
+        },
+        {
+            "author_name": "Sisi Ye",
+            "author_url": "https://www.google.com/maps/contrib/108130799965018416461/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-v6OUp8avv40/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3cBR8Ve8wfIfCv98Lbw2LPT8DDBA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "great service overall & quick delivery times. nothing better than to order foodora when you can't get out of bed on a sunday morning.........",
+            "time": 1527795222
+        },
+        {
+            "author_name": "Peter W.",
+            "author_url": "https://www.google.com/maps/contrib/116623674540825034294/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-gWzMNRzKCcw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1XeevunfedFE_GD_jj5mRbiCwyCw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "Ordered a pizza that ended up having eggplant on it as a main ingredient, which was not listed under INGREDIENTS on foodora's menu (I checked the restaurant website's menu and it was listed there). I sent them my complaint via email, but was told that because the pizza was called Melanzane (Italian for eggplant?) we should have known, and therefore no refunds/credits would be given. I didn't know that we had to know italian to order our food accurately. Terrible way to conduct business guys!",
+            "time": 1528305520
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6936537479943503410",
+    "utc_offset": -240,
+    "vicinity": "495 King Street West Suite #200, Toronto",
+    "website": "https://www.foodora.ca/"
+}

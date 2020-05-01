@@ -1,0 +1,90 @@
+{
+    "address_components": [
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E",
+            "short_name": "M5E",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Yonge St, Toronto, ON M5E, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6431621,
+            "lng": -79.3753358
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64451108029149,
+                "lng": -79.3739868197085
+            },
+            "southwest": {
+                "lat": 43.64181311970849,
+                "lng": -79.37668478029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "8885a8ed36c59418c2df44ac17564c007aae13dd",
+    "name": "Yonge Street",
+    "place_id": "ChIJHxNA5SvL1IkR78VOdWW0jKo",
+    "reference": "CmRbAAAAGIdFyolJA8RF4jx2DMayG6w5PvRovMgtTTAL9Qm0HcnyRrQaSoruR-gcM8TR_0SwUi1-EGgYvmU5_yQSeJRjX5afXMbxF-bQMmwKq6-aXeTgCToBFL4j_Ay8NrL43bxIEhA3hHZ7eLivNPG5FA-_NrIGGhS_8k_VrUnih8vj7hC2j5BF7pDmLg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Yonge+St,+Toronto,+ON+M5E,+Canada&ftid=0x89d4cb2be540131f:0xaa8cb465754ec5ef",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "1024",
+            "short_name": "1024",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H7",
+            "short_name": "M6J 1H7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1024 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1024 Queen St W, Toronto, ON M6J 1H7, Canada",
+    "formatted_phone_number": "(416) 530-9777",
+    "geometry": {
+        "location": {
+            "lat": 43.64417999999999,
+            "lng": -79.4197133
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64545043029149,
+                "lng": -79.4183361697085
+            },
+            "southwest": {
+                "lat": 43.64275246970849,
+                "lng": -79.42103413029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a79a6c1208952d78d2d1cafeeb025eb953eb73d8",
+    "international_phone_number": "+1 416-530-9777",
+    "name": "Kathleen Kurtin Architect",
+    "place_id": "ChIJRw0e4v00K4gRbIn0-Hoh6xc",
+    "reference": "CmRRAAAAO_psneY9MudxAVPttfPfw0tkM2LL3cv_csL2oA6E2yfZQtDsydNQLe0g3ZZqYdbQlYtJNyRMhAqREtJLTje8Sdxv0H5W6iTrHNicwvdJ5gMIb1RkhZ5QjqnGMZDw20NUEhDTOQoYC3TsfsyZdAZKUoyvGhS9pxRV7sGC8TVz-Mp5QsfrKVzqlg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1723508094445848940",
+    "utc_offset": -240,
+    "vicinity": "1024 Queen Street West, Toronto",
+    "website": "http://kurtin.ca/"
+}

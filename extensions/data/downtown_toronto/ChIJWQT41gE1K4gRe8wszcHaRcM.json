@@ -1,0 +1,299 @@
+{
+    "address_components": [
+        {
+            "long_name": "1087",
+            "short_name": "1087",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H3",
+            "short_name": "M6J 1H3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1087 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1087 Queen St W, Toronto, ON M6J 1H3, Canada",
+    "formatted_phone_number": "(416) 792-1268",
+    "geometry": {
+        "location": {
+            "lat": 43.64328649999999,
+            "lng": -79.42208
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447519802915,
+                "lng": -79.42077616970847
+            },
+            "southwest": {
+                "lat": 43.6420540197085,
+                "lng": -79.4234741302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d1295bd6f79b0851f1c42890644c13f4e26fdc64",
+    "international_phone_number": "+1 416-792-1268",
+    "name": "The Great Hall Events Venue",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115413199227741868768/photos\">Alex Kraisel</a>"
+            ],
+            "photo_reference": "CmRaAAAAEq12Q0mXvpuFfOUmlW0684wAchvSp6CzK4GR28LQqLS3HSe7SMZ7oXwqyYZqOk3VioPBtHiCCRf7eqkc9IAtMu19eQQG1-h6zn4p5z6WKvVUZK0KewgcoHcfIa8kJiF4EhDeC6PSGgVGms0yxKY7bHKNGhRIMpMdMtBTR6qAFSF14uasYrYYCw",
+            "width": 4048
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAGNTDD_zhuJbWecbIPxGHmQezZGgdnWjrVQ-LEW1RVnz0h2PnOC6KbVilRYcRxs8Imn2N_cPg7wGjV-8pJg5mLsBn_j-4MPOfmo-MJL-39Lw60qmNSFvIOECJtk2QIEQQEhBteH1qag31uLKrgsh_JdjfGhTYadY9FVrlXm_cUauMlaVmGKSMpQ",
+            "width": 3264
+        },
+        {
+            "height": 2432,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109542499512567531183/photos\">pamela erickson</a>"
+            ],
+            "photo_reference": "CmRaAAAA0bLx8zvGt-53BELqkg7um_OjZL1Lrt9AD_y24hw4FzXBAy6A8xuFkNWGnv6MIZrjsNSsWPymbIGJS4yfNRa1JBCQ5o7am856mJhlEQeJPxLNqrjI19WYAA12qgxMqZvnEhCBT7FW7uagCKrxkGuFs7gKGhRvgADYSD0d91op-l5z1uWWaEHjVg",
+            "width": 3286
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105395390720074700265/photos\">Anthony Kentris</a>"
+            ],
+            "photo_reference": "CmRaAAAAK0qn__UdisxdnnlOmjv6bnrfcBisA7lBa_o4wR1E-za3Ea9lPivfBJl91BIlyYm5Y0kla7-PBd8bazueaokt613UHYs3EhgMXXhrog7LUGYYwSTdP-dLE1ECzXaTJmSaEhC8NfIyr6pbpugGREaBFK8QGhR0GnrECrq_XIKT3mSm-o2OqHGmgg",
+            "width": 5312
+        },
+        {
+            "height": 853,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104585134970747716449/photos\">The Great Hall Events Venue</a>"
+            ],
+            "photo_reference": "CmRaAAAAHJS2o0N9lqopJOAUDG5VzSxF6-Ct36pZPJquP5yjRr6xAJ79NZpOzm2DBsJUAJdU9NBzNsiczV2yRnC0GSk3aeut-OENMgDiXQ6c_gjEKXxeDF7IzGOpBNBZup3TjP6ZEhBDYrxDHaQbwNu6MrWOPu6SGhTIOCFLHLkRar81OwMRpHwmn2dzeA",
+            "width": 1280
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109842572145184656715/photos\">Dan Wilson</a>"
+            ],
+            "photo_reference": "CmRaAAAApdoqBimlw72yT_xDwbRKw8yiSIHuGK4JUAGL3MjM5KhXN8GrIL5dxN2xNsDwrdkbebR4MvxZDN95wlLXaaR6xyL5mNyCyP4A6xnQm9Ta1JQuue8cJDJ6DWZ7dR3aETuCEhDWmtcfWG5XP5GV1JtMI56DGhRQh1WTE1mmNSEJU1dejFz4QidcKg",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108659594191791507660/photos\">Mike Stewart</a>"
+            ],
+            "photo_reference": "CmRaAAAAaENBFAv51CXSkIkfVPvB7LWjbUMUZeOlyombjxfTsfMlveJhC6f3UM7zmVZVqLg86C0jcElzqgz8m64p7gUaj7gILr2XvZojO07kN5Tydgunwngx7Fw39Vk0JsgKg-x5EhCckplsXOecmp4QIlE53kWYGhSlgfU5tBnv0KmG9q-deU19euKdtg",
+            "width": 5312
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\">Dan Levy</a>"
+            ],
+            "photo_reference": "CmRaAAAAFmJqqrf7oaaMHZVcs_H0E4IA1XRl8vyQhxP8KolPXUq93GgmWag_HeV56-heyv23oVFwWl23L1NKncrNVe5k8bugMS8nVPflxulEptgu0ZBxVJHG-51R2aIMM4wx2SNhEhCmEskCQE1Gc2T0oqzW2losGhSHugexuP_LZ3OhOapouQxLmFfgtg",
+            "width": 4048
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104334869369699685722/photos\">Gosdan m</a>"
+            ],
+            "photo_reference": "CmRaAAAAiJucL0m8UR1RL8MXNPaEYMa1fbO9HhLRrSYG-1dij7eqzv-50Sy3QOSXFQQ68axIqjKf1anJkb-hZ-4aV9zREvYMOfQt0sQAitqG9vExEdtGp1X1NqrYN5V5kmKUSVOLEhDLP5umuH_koiTnnxiYWQogGhQHsEpSQUqPv-inKUFjRcIGBcjmcw",
+            "width": 4032
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105195768166402504366/photos\">Rick Jennings</a>"
+            ],
+            "photo_reference": "CmRaAAAAu1acTAabLUGvNvsPlu7ekZ4Dyz0z12kqfjkTB6mSQ1Oie933bYNKRA5fUpaB-Ry8nGfjILaQrFdt-uq0wxZKKYa_52jMep2SZ3LntO31semtBIhI6Azu4mRDrCgBNNgrEhAzVOg79jytPIUkluxXsdOnGhSOTRvRyIRjhw89mAmoLd8xqU5D0A",
+            "width": 4608
+        }
+    ],
+    "place_id": "ChIJWQT41gE1K4gRe8wszcHaRcM",
+    "rating": 4.4,
+    "reference": "CmRSAAAAlS9olHicNjcz6Fs0RKUCcwGitDBIWNzvjUyGyNtcNJzSABy_F1rVqXqFgpm_itw9nE9HUCecX67tumP_8lbzBmXhBZcouVIq5m2W6tUGx1uxKOLI8WJqiIGrLAGZggacEhCQ8nw6YMpttjvg3AVoBVuuGhR7fR6tkQmAdk4nDH2WFJU22AdgQw",
+    "reviews": [
+        {
+            "author_name": "Josh Perry",
+            "author_url": "https://www.google.com/maps/contrib/115635923254813842496/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-lrJ7JqJi1Ss/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0kl-rTvXoMUXs4uyxpYZeLICZ6Aw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Wow. One of the best venues i have ever attended. Not a bad spot in the house. Granted, 8 bucks for a bottle of Heineken made me feel like i was at the ACC but hey, if you want a classy venue you pay to play. Predrink at home if you cant afford the good life, right? Gorgeous intimate setting and outstanding acoustics. 5/5 for sure.",
+            "time": 1527731176
+        },
+        {
+            "author_name": "Maria Ma",
+            "author_url": "https://www.google.com/maps/contrib/106120487699170015957/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Bl6FLAdt6L8/AAAAAAAAAAI/AAAAAAAABDs/IJpcuplMXwg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "I've been to a couple of events at The Great Hall and I honestly think it's the perfect size and setup for smaller, more intimate concerts. Saw Christophe Mae a week ago (ish) and that was one of the best concert experiences I've had. Love the way the balcony is set up, you can survey everything clearly and nobody blocks anyone's view since it's just a single standing line. (There are two tiers though!) And when you want to get in the midst of the action, you can easily wander down onto the main floor. However, the alcohol is quite expensive (10/drink) so make sure you budget accordingly!",
+            "time": 1526558144
+        },
+        {
+            "author_name": "Vips",
+            "author_url": "https://www.google.com/maps/contrib/101663212355633401801/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-CMAwAVs66f4/AAAAAAAAAAI/AAAAAAAAkD4/OhqgEF1VdMk/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Visited here for a wedding reception. Venue was really nice and I loved the upper balcony area which is great for socializing and nice if you want to take a break from the dancefloor.",
+            "time": 1528755425
+        },
+        {
+            "author_name": "Matt Mernagh",
+            "author_url": "https://www.google.com/maps/contrib/112416907914372205873/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-tBb0XIf4tZ0/AAAAAAAAAAI/AAAAAAAAwd8/BUJO_jz0BFs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Wonderful old venue. Really enjoy going here. Its great for wrestling. Its too bad doors never open on time. I dont think that the venue but the promoter.",
+            "time": 1522794676
+        },
+        {
+            "author_name": "Sean Andernacht",
+            "author_url": "https://www.google.com/maps/contrib/104916902584859183964/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-4Lt6IOU-16c/AAAAAAAAAAI/AAAAAAAAAPk/_muMJPVoWcQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Easily one of coolest venues in the city! Great sound, aesthetics on point, multiple rooms for different vibes which is perfect during events like Long Winter. This is where I met the love of my life so I may be a little biased, but it truly is a great place!",
+            "time": 1519407384
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14070893136694791291",
+    "utc_offset": -240,
+    "vicinity": "1087 Queen Street West, Toronto",
+    "website": "http://www.thegreathall.ca/"
+}

@@ -1,0 +1,261 @@
+{
+    "address_components": [
+        {
+            "long_name": "523",
+            "short_name": "523",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1K4",
+            "short_name": "M5V 1K4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">523 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1K4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "523 King St W, Toronto, ON M5V 1K4, Canada",
+    "formatted_phone_number": "(416) 645-3344",
+    "geometry": {
+        "location": {
+            "lat": 43.644681,
+            "lng": -79.3981534
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6460992302915,
+                "lng": -79.39683141970849
+            },
+            "southwest": {
+                "lat": 43.6434012697085,
+                "lng": -79.3995293802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "09e12fa62ebb6675f68efa9c9c93efb3fd6b5805",
+    "international_phone_number": "+1 416-645-3344",
+    "name": "Ari Dental",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 8:00 AM \u2013 5:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 3:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115705192845405387365/photos\">Taras Kupchak</a>"
+            ],
+            "photo_reference": "CmRaAAAAiIwjudZBjtiRzNiWV_tRcO012KXyZRk3vIxMvN__z_XKTjXZZSkma9irI45xrSRFm9rkKRpZy3chQHbr6uJIAfgscdhbhx3Lii0Mg2MlkxmdAtfDYdPPDv-C58DsQAh0EhAVJLNJycUaLE7zNS1v7LyNGhSGTDd1nXlx9QzUSYFOXJkgcg3qXA",
+            "width": 4640
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105807994049055045082/photos\">Curt Sachs</a>"
+            ],
+            "photo_reference": "CmRaAAAAa72YkbaBchw_j4hxOswas9YS_uYeNezBkV8QIPB9XquqYSWvR4rkPhl55-Fqg1pt2B5qondbJ63HAcw8zkYmZh_YBwsjlN89o0uo_a86UzPzAUGmR39wC1EaUM-KeuDREhB0FZMk-Wl7RVHmioK7OoOTGhR8VJPF_9xDVqiVyEpOPa3-u4xZjQ",
+            "width": 4032
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108956474691542291306/photos\">Ari Dental</a>"
+            ],
+            "photo_reference": "CmRaAAAANAlQQ7PIuyMlPY5OHrwbOkKXC-MfsMtkj6eg3a9kSSqtto1GOIHF3sXRb7beKn8uXJokLR7Ymw-XnnlORQul1Do5yeBGJXGnlkmRXL8uZUqk1J46NRhtmyjKoe7vrrrvEhAL_S3ojUydhZG08fXEqw28GhRuez7b2ucBqiVEicKs7kKvBJUvnQ",
+            "width": 400
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108956474691542291306/photos\">Ari Dental</a>"
+            ],
+            "photo_reference": "CmRaAAAAa7gVVXCvz1_56hMMsNsQ14i1zo69tvCZFk3xdJOG2hdxx5JVlKDAiMgRyE8N_F9ZOYjEJILm5ZjQxhlLJAsxEZqQ8tvo3VwwXBknPaw48AowCDJKzTQCUDM_0nWGSgieEhD--4CgTYJhmRaSF9FMc6HOGhRSwoVHLQKL9an3eDv9TAmJcEJ9Iw",
+            "width": 400
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108956474691542291306/photos\">Ari Dental</a>"
+            ],
+            "photo_reference": "CmRaAAAAK56nkJTiE0B-kcpMSvmuYPa_OzVLPqajTTXTWCL_sJ_SZE61Nea1nKu7SvLqUa4acBVSL-KucOOC-bxX7dA7vOS9__BxZJ7ICBDDkPOSMuMlxpIUQGHCHn_7XNnljbL5EhC3ux-3Ov7TjMoikVaRix9mGhRuwPilh1UEj_RfxtzqNsWQsCjb2Q",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJjey5uN40K4gRrhQwJbwP2z4",
+    "rating": 4.6,
+    "reference": "CmRRAAAAZowdJzsLZR5vE2U3250BlgA3miTwrPWbuq_uVo8PjFclgACRSzS131xdAE2J1pxsl9W5p2Gk5TSq8zSJpjpPdYd6tiRilVpfnG5JNG62XajR9ku48GNJLh4FJK1D9U3EEhA2WSDQ8TUzGt3jvoF_shaPGhTiRycCL1NaxGkKh61bqcF_KNsNOg",
+    "reviews": [
+        {
+            "author_name": "TM",
+            "author_url": "https://www.google.com/maps/contrib/107991207814934133638/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-VrMZffaZv0g/AAAAAAAAAAI/AAAAAAAAAGU/oMzQ0W7qEF4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "I've been going to Ari Dental for a couple of years now. He was recommended to me by a friend to get my invisalign. Ever since I switched dental offices they have been amazing. Everyone on staff is great and very professional, both office locations are very clean. Although, they are not close to home I continue to go for regular check ups and cleaning. I also take my daughter there because they are always accommodating and helpful to our needs. I highly recommend Ari Dental to anyone looking for a new Dentist/Ortho treatment.",
+            "time": 1527036819
+        },
+        {
+            "author_name": "Michael Ruggiero",
+            "author_url": "https://www.google.com/maps/contrib/102948159873185549890/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-vKzDfBLb_lo/AAAAAAAAAAI/AAAAAAAAAK0/5KctLC4I7RU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Ari Dental is by a large margin the best dental office I've ever had the actual pleasure of going to.\n\nThe hygenists are second to none, they make you feel so comfortable, they remember me, my family and my interests, and they genuinely care about the patients oral care.\n\nWhen I first went to Dr. Mohajer my mouth was ab absolute train wreck, he didn't scold me or make me feel uncomfortable, he first took care of the problem I was in about - even before my new patient exam! After that he INFORMED me about what I needed to do, and guided me through the process.\n\nContinuing with Ari dental was the best oral decision I've made, I no longer fear the dentist, I actually look forward to going.\n\nThe bottom line: If you anything but love your dentist, Ari dental is the way to go, and even if you do, it's worth it to try them out.\n\nThey has a customer in me as long as they are in business. Period.",
+            "time": 1501025116
+        },
+        {
+            "author_name": "Simona Carnevali",
+            "author_url": "https://www.google.com/maps/contrib/109543142752301271717/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Yebq2yeYI5U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2aNaoxf_poYq7G6DPWLx9NL6_nGw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Great dentist, very reasonable rates. Strongly recommend!",
+            "time": 1505308269
+        },
+        {
+            "author_name": "Yulia Danilova",
+            "author_url": "https://www.google.com/maps/contrib/111541326080063492799/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-eDK1397-I7o/AAAAAAAAAAI/AAAAAAAAABo/zqlsKi3CPT0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "10/10, 100% great!\nAri Dental was referred to me by a friend when I finally worked up my courage to go to the dentist after a long time (4 years!). I have a huge fear of needles, not much tolerance for pain. Dr. Mohajeri was wonderful. He was very detailed during my intro visit and very considerate during the treatments. He and his team provided me with a proposed treatment plan and quotes immediately and let me know how things would work with insurance. I had all the work done in 2 weeks and look forward to my next visit! Everyone at the clinic is very friendly and professional. And the place is very clean, modern and relaxing. I can't say enough great things about Ari Dental.\n\nPS: I previously visited Portrait Dental in Liberty Village and I had Dr. Mohajeri review their treatment plan. He mentioned that there was a lot of unneeded work quoted and my revised treatment plan has saved me a considerable amount of money.",
+            "time": 1444239726
+        },
+        {
+            "author_name": "babe burgess",
+            "author_url": "https://www.google.com/maps/contrib/106055957580634660145/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-gxbWLhyMzoQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2UOwrn7TUCxTntrRodiIDPTVcPlQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Dr. Mohajer is a great orthodontist with lots of experience. He is professional and his staff are super friendly. I started going to Ari Dental around 5 year ago, and my experience has been very positive. The office space is always nice and clean which is very important to me. I highly recommend him to anybody looking for a dentist/orthodontist in Downtown Toronto.",
+            "time": 1423247163
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4529231151003341998",
+    "utc_offset": -240,
+    "vicinity": "523 King Street West, Toronto",
+    "website": "http://www.aridental.ca/"
+}

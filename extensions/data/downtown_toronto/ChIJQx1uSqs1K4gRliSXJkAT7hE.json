@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "442",
+            "short_name": "442",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dufferin Street",
+            "short_name": "Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2A3",
+            "short_name": "M6K 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">442 Dufferin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "442 Dufferin St, Toronto, ON M6K 2A3, Canada",
+    "formatted_phone_number": "(416) 454-9413",
+    "geometry": {
+        "location": {
+            "lat": 43.6439014,
+            "lng": -79.4296425
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452898302915,
+                "lng": -79.42811336970851
+            },
+            "southwest": {
+                "lat": 43.6425918697085,
+                "lng": -79.43081133029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1b4cb33ebc510138849487649af715297c188030",
+    "international_phone_number": "+1 416-454-9413",
+    "name": "HANNUN LYN",
+    "place_id": "ChIJQx1uSqs1K4gRliSXJkAT7hE",
+    "reference": "CmRRAAAAmMoC5yS_fajA7BSAuw0fDR7F9evpph_03nmPShsTVQ9ySPtrPkpucWhSGl8lEsPLzQP1rMTysEklDk06u1i9y6Jt6oR0yj1UMpSCEFxG3GAZzn3du2ER7rgJy74FiEDHEhBvAnNaR8eA9d51XIG1v8_dGhQVqu64iS49qg_4zSdfDfLle6DzdQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1291991309348185238",
+    "utc_offset": -240,
+    "vicinity": "442 Dufferin Street, Toronto",
+    "website": "http://hannunlyn.com/"
+}

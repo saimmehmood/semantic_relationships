@@ -1,0 +1,133 @@
+{
+    "address_components": [
+        {
+            "long_name": "600",
+            "short_name": "600",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "144",
+            "short_name": "144",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 1G2",
+            "short_name": "M5J 1G2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">144 Front St W #600</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 1G2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "144 Front St W #600, Toronto, ON M5J 1G2, Canada",
+    "formatted_phone_number": "(416) 726-9489",
+    "geometry": {
+        "location": {
+            "lat": 43.643991,
+            "lng": -79.388975
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453054802915,
+                "lng": -79.38761071970849
+            },
+            "southwest": {
+                "lat": 43.6426075197085,
+                "lng": -79.39030868029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "df2faae86c20038f2186cbf05fe5bdf3b53dc158",
+    "international_phone_number": "+1 416-726-9489",
+    "name": "AugmentHR",
+    "photos": [
+        {
+            "height": 351,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112525115448461826644/photos\">AugmentHR</a>"
+            ],
+            "photo_reference": "CmRaAAAAnL_f3D6VK3Fszrj-4VZw4kja9qd0PXrWiOtTCXY-1-9G0CG6_fMSpQ9bU22rR_Dtp_yqrVZ9wNgdXELQK1ApNgKz50peGZ914sg_E2bWzeN_mh3dTD536IZASrt-ZRdQEhAOWcTwZ4k3vceSQazFXXlhGhSNbUEERErKt1F26zki2SE3MkaDVw",
+            "width": 1348
+        },
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112525115448461826644/photos\">AugmentHR</a>"
+            ],
+            "photo_reference": "CmRaAAAAs_1MLuMBm-H2Y7DDKAf2IXC9X8GYEWSzCLbRshkgVLr9GXdsP4F42f4ff7DtgPeFsnqBxGuAVpkbTmfiCF9riIsuExWSsXsFfPZZoUREuwgj1p3uDRWkN7x8hObI1HN7EhBKuDRdpmbLB1OvsWIW7vgUGhT8SEWApOD3lQ_YBoWHR64LTZUEvg",
+            "width": 1080
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112525115448461826644/photos\">AugmentHR</a>"
+            ],
+            "photo_reference": "CmRaAAAAf-sObegqrBhTZQGEoUrRfjTQwCEd1pguIZMcoHwO8LPMoJyUpDK2C2CygkUsBnXsaFmUP3ksYJAAZpe2Ii-BPSypqz8vw38kaTIs6-uYiA37-Q4PXxP2MDXMLnsfP07GEhDo_e9q_-YEklcYA-ebBnpVGhSVVUkOmGXbqh_3zATStE56jmUOkw",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJNYysIdc0K4gRfDB7GHL0rSU",
+    "reference": "CmRRAAAAaEGZuD3UkTqZTsTAhV0-sQ_ok8BzRbS8D9ONWZiG3VgQnSu64pStMQJlKe9eEYqyauyoLfgs2zh9ycceWgWClzIZT2CBvCb67fROm8Lxy-3l4MUEPXIgGEmoj7Gt6-wUEhC6M8PozmaE1C37JDHXnqNBGhSAelvyLohb5B_u_pwYbgHxb9je4A",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2715094921248452732",
+    "utc_offset": -240,
+    "vicinity": "144 Front Street West #600, Toronto",
+    "website": "http://augmenthr.com/"
+}

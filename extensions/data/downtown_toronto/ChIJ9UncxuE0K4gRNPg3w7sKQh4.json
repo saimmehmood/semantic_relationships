@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "787",
+            "short_name": "787",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N4",
+            "short_name": "M5V 1N4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">787 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "787 King St W, Toronto, ON M5V 1N4, Canada",
+    "formatted_phone_number": "(647) 352-4161",
+    "geometry": {
+        "location": {
+            "lat": 43.64297320000001,
+            "lng": -79.40665829999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6443853802915,
+                "lng": -79.4053338197085
+            },
+            "southwest": {
+                "lat": 43.6416874197085,
+                "lng": -79.40803178029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "4b262ce54a89c3ea7d438621afac2d597dff578c",
+    "international_phone_number": "+1 647-352-4161",
+    "name": "Simit & Chai Co.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 6:00 PM",
+            "Tuesday: 7:30 AM \u2013 6:00 PM",
+            "Wednesday: 7:30 AM \u2013 6:00 PM",
+            "Thursday: 7:30 AM \u2013 6:00 PM",
+            "Friday: 7:30 AM \u2013 6:00 PM",
+            "Saturday: 8:30 AM \u2013 6:00 PM",
+            "Sunday: 8:30 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110499885490625339676/photos\">Ev Delen</a>"
+            ],
+            "photo_reference": "CmRaAAAAtVNrngVAjDOg2fiUK1enRZjv9N3jWUQWS1l3PQGC7ZaMxJq_2ZvMQy9mD9izjEoIwvSOKcnE9G_IKeRVFXkR4WBArABq1COuAo7AV7egnL4kS3ufKuyMqied9Xpws3GBEhAzNuVsxZXOXDO-rG65YyjjGhROnGbuBHksA0y1AIWzKQpSSmmuoA",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113096057792256108200/photos\">Onur Kurti\u00e7</a>"
+            ],
+            "photo_reference": "CmRaAAAAKEoaC1CWUEIyF8Fqvy_uJ9gqBw6VpuKoU0NMrVZbmEejuPVbMviAPG7bcimypfqCU7YboSqBmsrvZ65xVDiB08OnBE_jDmTcZ1fK8OXnWcMNTo-hNrbA3Fj5TA4tp7-iEhBV8mLoz1m46OXrC12ejO_ZGhQPOoXTQEBcqiP5ecNNwWmnVARx1A",
+            "width": 4032
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAAn8U2xmrDRMG6efsLpluz5BL2IhYZoX5KSjGYwzKYuC2G-uRES23pTe8gtExsE7ALY4fdSqrrOWfSDEu60eoLRc2KFwA2E9G6TKXD05WeaeufvCpqpCl2edIZx1BQUtKEhDwwYbJRR1KcpjZE-kZ5mYgGhQihqHR4yuCnx4IMeboMOTJ3GSNSQ",
+            "width": 3036
+        },
+        {
+            "height": 3717,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAAFbar4nJ0l52aoNJ1I-r1qfR8lgrs4GdXNOtM8wjoetnGZUjCRf3RiCQ3y_VrYuN7ND4ARi5PXgnvuKRxmII-30ZvimddaPVPRjrcw6rO4ELJEgEFLZh06zkawesHIJT9EhBlGlLIvUas3SSBvI20mNZZGhSd7ALNLDYCT-TqirQNiX-mp1H1Nw",
+            "width": 2788
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105115041266222726725/photos\">Caroline Chu</a>"
+            ],
+            "photo_reference": "CmRaAAAAN5I7QSqxKIIdHbXLA0V_6e0wdJ0_KBkeQTCfpWyAY28C1wDjXhlswQ--8jcoeNTyHj77oUrBPFC7HD5VYvYqx7A9nZHJfbhMRubjXohu2gkeU57_mq2jblY4dey7rhdqEhD6eWncu7Cy-QyO8OCkPRN1GhQaLjv8n6IFAetoxXzVraKeiC1jLQ",
+            "width": 1536
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101635343536023614002/photos\">Ignacio Ortiz</a>"
+            ],
+            "photo_reference": "CmRaAAAA79aDAxKJ5cYeSYs_R2fPhPcJd_lckqc_M2IXNIflRDhhBEwQKB72HeN5kAHFMf3bYCp1x8JKDC5Y8AqQnAlQEGNQTtKJpDZqBW2zlu2YyxxwkrRRGNq0txcacRMl2q8LEhDS0nSGMO0S2KtXC-aBCNmtGhQVJ3nzFFd7sNWj3oiobQc9lVx-ug",
+            "width": 5312
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118162523130517376227/photos\">Anna Triggiani</a>"
+            ],
+            "photo_reference": "CmRaAAAAq2FT9JFgI8_SZPMcDzXJBSxAwbQnSQx4k7IpdLPuDbcWaTc9-0Ixq76D_ixqo18VY38KxERDoyyqHJfNVxvgn9kGDcRWZmrfPcBnU0RnsTFaxcVXJnLf8h4l2iNqrZhwEhAzZSb_3rE6UByyGwHD5JuKGhTs_X_ha6cggCnx87oaSp9hlxLD5g",
+            "width": 1440
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109071650974496300937/photos\">christina iannozzi</a>"
+            ],
+            "photo_reference": "CmRaAAAA0e7u7gG1W3NcuHlFCC4P_0LYwOxox7EYwsYhvr-qGhBjY54Ecy2qFT4tMQt2ImGwauEdGbRPddth9Y5P5x3hTG9hg-Okk5vowb3N_688hLMgqI3QjTkeonFOo96gbH45EhC_ArwzhJUA2CpPSMmJno3GGhTkXfmx-F1DB1rQU3bg763nEPOQIQ",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115647774255523975657/photos\">Nidhin Stanley</a>"
+            ],
+            "photo_reference": "CmRaAAAACwZFlNrNEnTh38msyOQHUGges7ZnhOCjroS8OxFpKxmsC2hcO8BDmp_FYDN3cRb_33adlfiwCfEZvoOrRJzRMrGsGw2glG6Qru7mf1XbV-4IKqC9_x3a773MlrFO2PZjEhAl2fCGcUvhhQ2wIf9I4sUDGhRyUFbnqfu07lOVm_nC1woYA3YNuA",
+            "width": 3024
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104325614277852229613/photos\">Lale T\u00fcner</a>"
+            ],
+            "photo_reference": "CmRaAAAA3kgiOleFkltaKUwQoFsnHjNSr24c1vbNoaEkOJGM9MND-3jKprgKMYbZ77tkxqDKPjyPKMpP3quvI99KWCNdRVJRXNz8wwVTB5sVqrBUvaCX2HWyRYnZDoGTwI4dCVgtEhCFMElYH0NsI-MbdxvM8gMSGhQxVOeiOr5fcuAh34p7Xxn2PCNDoQ",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJ9UncxuE0K4gRNPg3w7sKQh4",
+    "rating": 4.5,
+    "reference": "CmRRAAAAkRJfgBrTjxhm2ZN-9lHVXRXW7EGR7mBkso4m2MVcapCagJVZa9iw_Zqo2oyrDlGPwU4CGS_pyAklt4cpWXJFMGLb4vbCNwFkQ-1IX7d2Uz88RyAK-1XNX2uthwbKhjDJEhCBJQ1dDUEzRRs-g5Ez3twHGhRFehddWBCDnJwSX8syv6jifrNVhA",
+    "reviews": [
+        {
+            "author_name": "Michael Tran",
+            "author_url": "https://www.google.com/maps/contrib/102213482609947366649/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-D3pqQNwXAro/AAAAAAAAAAI/AAAAAAAAKVk/eyGmOXHJi9I/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The venue design has that open rustic look and it suits the food very well, in my opinion. Great spot for a small one on one meeting, if conversation is not information sensitive. The simits? Amazing. My girlfriend and I personally like the original and the vegan options. Their olive paste is amazing, rich in flavour.",
+            "time": 1525717358
+        },
+        {
+            "author_name": "Ev Delen",
+            "author_url": "https://www.google.com/maps/contrib/110499885490625339676/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0nfESvuoi_g/AAAAAAAAAAI/AAAAAAACx-o/FUdFwUHhds4/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "A small, independent coffee shop just west of the Downtown Toronto core specializing in Turkish style tea, coffee, and light food; in particular the simit, a bagel like sesame coated bread. The staff are very pleasant and the atmosphere is chill. Internet is good and there are plenty of outlets. The coffee is great. The restroom is clean and spacious. If you're planning to work for a while they will open a tab.",
+            "time": 1520449080
+        },
+        {
+            "author_name": "Andrew Foot",
+            "author_url": "https://www.google.com/maps/contrib/104311403291194601237/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-on_dNaFhlZ8/AAAAAAAAAAI/AAAAAAABilU/QmvuZeyMPIk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Good coffee shop. Unique offerings. Both the Turkish coffee shop their regular coffee is great.",
+            "time": 1528116652
+        },
+        {
+            "author_name": "Mi Mi",
+            "author_url": "https://www.google.com/maps/contrib/106996344296826482803/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-eE0WSgs9O7g/AAAAAAAAAAI/AAAAAAAAAD8/jhM_YMv6tdg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Nice atmosphere. Bagels aren't too doughy. (I prefer mine double toasted). Good friendly service.",
+            "time": 1524427243
+        },
+        {
+            "author_name": "Kevin Tran",
+            "author_url": "https://www.google.com/maps/contrib/117451968715430569143/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-MEJdoPJB0KE/AAAAAAAAAAI/AAAAAAAAAws/6tnXPfbL8vg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Good little cafe to stop by and to have a quick coffee. They serve a nice Turkish coffee and the croissant we had with the olive tapenade were fantastic. The staff at the counter were also very nice and friendly.",
+            "time": 1523648219
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bakery",
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2180316971151128628",
+    "utc_offset": -240,
+    "vicinity": "787 King Street West, Toronto",
+    "website": "https://www.facebook.com/simitandchaicompany/"
+}

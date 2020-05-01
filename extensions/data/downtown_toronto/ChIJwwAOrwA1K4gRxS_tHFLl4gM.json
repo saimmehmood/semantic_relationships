@@ -1,0 +1,184 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1E5",
+            "short_name": "M5E 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St, Toronto, ON M5E 1E5, Canada",
+    "formatted_phone_number": "(416) 537-0710",
+    "geometry": {
+        "location": {
+            "lat": 43.64272,
+            "lng": -79.37412599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6439215802915,
+                "lng": -79.3732102697085
+            },
+            "southwest": {
+                "lat": 43.6412236197085,
+                "lng": -79.3759082302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "863b857a5e8c531c0586ebd5f5fd409a24a12e9c",
+    "international_phone_number": "+1 416-537-0710",
+    "name": "HitTheRoad.ca",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 5:00 PM",
+            "Tuesday: 10:00 AM \u2013 4:00 PM",
+            "Wednesday: 10:00 AM \u2013 5:00 PM",
+            "Thursday: 10:00 AM \u2013 5:00 PM",
+            "Friday: 10:00 AM \u2013 5:00 PM",
+            "Saturday: 12:00 \u2013 4:00 AM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106600334922882347276/photos\">HitTheRoad.ca</a>"
+            ],
+            "photo_reference": "CmRaAAAA-kJ8dKn7_1UOKpWWPvsnMFHZ_GadidTs-YKvyUo7izIRATTXTfP3pP2ALa4aMqs8-yjRVf6x_jsR9S_lXWiW0kGmG5DJTnoGqpKAJp4u1MFuYtf0GW0TFIyNP2rJEi3xEhCpkduaJ-hCQ-zKc85CtEgaGhTPKY-4-8KHrSayp5UwveThxPoRLA",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJwwAOrwA1K4gRxS_tHFLl4gM",
+    "reference": "CmRRAAAAJON8_bPmFtbzjPc6CXeuqZNtK9HHmaaOs9Kd-zkEqi8lsu2YymUhu690feA2KabAq0IHw9doGjQ9gfJGyXtjfDF81QM_zN9NdLzQnWpJX-hbTlfNhKf3YlNvTSVf_5m6EhDzG-xxYncsm5Y8NZAtgMr_GhT3cZnsJG8dm-DEINB5sUEl25o9Vg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=280038267685777349",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street, Toronto",
+    "website": "http://www.hittheroad.ca/"
+}

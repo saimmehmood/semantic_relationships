@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "24-10",
+            "short_name": "24-10",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Strickland Avenue",
+            "short_name": "Strickland Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K",
+            "short_name": "M6K",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">24-10 Strickland Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "24-10 Strickland Ave, Toronto, ON M6K, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6430865,
+            "lng": -79.431178
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64443548029151,
+                "lng": -79.4298290197085
+            },
+            "southwest": {
+                "lat": 43.64173751970851,
+                "lng": -79.43252698029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a67a396674ee5f3786f0d21e4f7524a4d383f156",
+    "name": "24-10 Strickland Ave",
+    "place_id": "ChIJsY3Uoaw1K4gRjWLfKIt5b7k",
+    "reference": "CmRbAAAAH9O92KkGAWhrLHQiwXM7whkJskWlkHJFaxWdcqxOqMLIod8c7BuCWvnNsChtFFFdUlYIpxm-9N-vwmK0CpCffqIVS1bw9JHyFZAmRu6xxV3CHyJF5eGqmzIXJwYjs14AEhDtj9T9_DVIFw5fgAukgtJGGhTMEcJjDq4xiyoRwZqn_GTMz3Sb9Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=24-10+Strickland+Ave,+Toronto,+ON+M6K,+Canada&ftid=0x882b35aca1d48db1:0xb96f798b28df628d",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,113 @@
+{
+    "address_components": [
+        {
+            "long_name": "701",
+            "short_name": "701",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W7",
+            "short_name": "M5V 2W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">701 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "701 King St W, Toronto, ON M5V 2W7, Canada",
+    "formatted_phone_number": "(416) 939-9944",
+    "geometry": {
+        "location": {
+            "lat": 43.6431033,
+            "lng": -79.4038314
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447210802915,
+                "lng": -79.40258651970848
+            },
+            "southwest": {
+                "lat": 43.6420231197085,
+                "lng": -79.40528448029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "608badd96b8512f2754a36b6c60811ecb06326a4",
+    "international_phone_number": "+1 416-939-9944",
+    "name": "Varia Studio",
+    "place_id": "ChIJU8lIZOA0K4gRflDzR5NXuCg",
+    "rating": 5,
+    "reference": "CmRRAAAACRxf6HzK07Vfv3QB7lzuqHaAZnYwsdSuYdFfKjTq9aAP8ISg7q4pfPk_fpphTDtWtXmWHuEHraMLjd0iZgQu8s4MdtLkCPnShRB9MHhz9WDbXJYwQlRMxurecPDzPESFEhDXF9_cBeo9ih5uUaw9fagCGhQWXRbQcwb0NRFV_iPRjQ5_MDx0zQ",
+    "reviews": [
+        {
+            "author_name": "Heslie Chua",
+            "author_url": "https://www.google.com/maps/contrib/105185556110593833634/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6wmqYyw8Rwc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3EXda47l5cBmWoB7UML_ZXya3doQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "We had our maternity and newborn photo shoots with Varia and were extremely happy with the photographs. Varia is a true artist with the lens. Additionally, she and her stylist Eleni worked so well with our son --- they clearly have the magic touch when working with babies. Highly recommend Varia to anyone looking to capture treasured memories of their little ones!",
+            "time": 1340340610
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2934191447310815358",
+    "utc_offset": -240,
+    "vicinity": "701 King Street West, Toronto",
+    "website": "http://www.variastudio.com/"
+}

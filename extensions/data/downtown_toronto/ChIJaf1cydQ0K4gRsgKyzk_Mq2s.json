@@ -1,0 +1,120 @@
+{
+    "address_components": [
+        {
+            "long_name": "65",
+            "short_name": "65",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A7",
+            "short_name": "M5J 0A7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">65 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "65 Bremner Blvd, Toronto, ON M5J 0A7, Canada",
+    "formatted_phone_number": "(905) 565-0422",
+    "geometry": {
+        "location": {
+            "lat": 43.64286140000001,
+            "lng": -79.380732
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64431743029149,
+                "lng": -79.37942611970848
+            },
+            "southwest": {
+                "lat": 43.6416194697085,
+                "lng": -79.3821240802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "32b6554047163d3e398006b1e861d140ff8ea4ba",
+    "international_phone_number": "+1 905-565-0422",
+    "name": "Premiere Suites",
+    "photos": [
+        {
+            "height": 1148,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118057424653102506056/photos\">Premiere Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAQmFA_W1leJq-Vxcq32p214Hc2IxGUyyBnfBAhjYPJn4E6XXco6k__S5i_QIGuukX269O_UfbBaKha3tVRyuPCJCT800PXIlklgXJR2jF7GoAohoGwQw_ZLUVyWHkQdHFEhAdyuEntZ67ji5D1j6k_VaYGhRkeJT9lK3EtY-gNvZSXPr_qGcrpw",
+            "width": 2048
+        },
+        {
+            "height": 278,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118057424653102506056/photos\">Premiere Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAD1P3S0W4MCo2lvAII-xl0or-8OBznVMj4x5BKko0NfonfYW7OwS4-HmNGN4e8hUyco6TH3uFT2veSJVYNDQX1IJE0Bd99LjDm3pg2O_t3AXCAQSnG3fbIvn4hOCbDnMSEhCZ1e9sbdg4np6QTU3cu-wHGhTybemU8Ml8xABm8FEKxIfmjkEX5g",
+            "width": 278
+        }
+    ],
+    "place_id": "ChIJaf1cydQ0K4gRsgKyzk_Mq2s",
+    "reference": "CmRRAAAAPM1bf2XtFMDRxpEp4qkyyetv83aE3CzMQEjOjCKPmQLg6MtaP4zJQxFvExFWOw8UhT-8rYPhIkZx_-_xxxrh7ZsXoHnMLyihKUnGYe_ND6wSUJFLfHz7kpHw9zIzeO3cEhDfUhnsOnmGI4kyU3S39MMRGhTmgd4UrPlQ25MMStNWIb5kvvL0HQ",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7758519426218066610",
+    "utc_offset": -240,
+    "vicinity": "65 Bremner Boulevard, Toronto",
+    "website": "https://premieresuites.com/furnished-apartments/toronto/maple-leaf-square-65/?utm_source=google&utm_medium=organic&utm_campaign=local&utm_content=MapleLeafSquare65"
+}

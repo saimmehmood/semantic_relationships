@@ -1,0 +1,210 @@
+{
+    "address_components": [
+        {
+            "long_name": "16",
+            "short_name": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 2A3",
+            "short_name": "M5E 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">16 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "16 Yonge St, Toronto, ON M5E 2A3, Canada",
+    "formatted_phone_number": "(647) 352-3381",
+    "geometry": {
+        "location": {
+            "lat": 43.6432258,
+            "lng": -79.3761921
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446478302915,
+                "lng": -79.3745164197085
+            },
+            "southwest": {
+                "lat": 43.6419498697085,
+                "lng": -79.3772143802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e688bd840560dc4968f88242202b9e84b6dbf2d1",
+    "international_phone_number": "+1 647-352-3381",
+    "name": "Yogen Fr\u00fcz Mini",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 8:00 PM",
+            "Tuesday: 11:00 AM \u2013 8:00 PM",
+            "Wednesday: 11:00 AM \u2013 8:00 PM",
+            "Thursday: 11:00 AM \u2013 8:00 PM",
+            "Friday: 11:00 AM \u2013 9:00 PM",
+            "Saturday: 11:00 AM \u2013 9:00 PM",
+            "Sunday: 11:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113751359172254525976/photos\">Sergey Alakov</a>"
+            ],
+            "photo_reference": "CmRaAAAA-stBmGJ-xz0xMzC3GHaVpc5XpWoAPHk9hjFPmi19CpagTW1gm4Ksnb17TT7YrdBXhv7Sczmr43yPAED_ecFQhE_zRNcooKO8yKTj6OhjrwI_o1Sloax_fVqPsiCCsZJwEhDjwj5oo4xkkg7nO78ztqPdGhTL2q6SlWRDS1qwZ4BQ4e1rjW_Ryw",
+            "width": 3264
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAANbltwyUIoHeY-j-sul1UJNUhjUzLyE7v8iy_JG5cOWkB1wBthPiT3oPDQLyuUJmjvWMlMzxy4ayDQiE15puD0SP41L5SLuqcRtZbXYqzyadj4OKBVyz8EAGU0BuJx9GvEhBllW5tVRf0ODf1g2i5PivBGhRxrgMCFcItXnIp0jgWUR4NELceOA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113303376781161315921/photos\">Shilpa Dsouza</a>"
+            ],
+            "photo_reference": "CmRaAAAAf7RyykRrsEx-ZuYzBCnlrMbatQxFMPqIg2Jc9bQD6vs5QwFQovAUJpMQFEh5vduRf8JHlnAtoqka0QAzcVkoCfaBmSuECKJBWSCaKc4N1j5cx4An1gTujKE7KbTVKuuCEhD56DSjzOzJ_jyu_qplfADrGhS0I2AOaEXFDXFcAgLbupSvAa9Nrw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJOUmjkivL1IkRpXt5IB70X7c",
+    "reference": "CmRSAAAAK5QUkfq6mlfEZAQbk-G7ztn_xkowBIVGSes5dJc9WWuUDPveRao-k9rEbjMeW1JS0dCh0lr9IL13-bwQaBDj7EKuPBCJbnoZ19pXJz459Nwg9lPZPXNogO5juYoTx04TEhCVgANlcPEhbRQ1iQ6NN88BGhTLk3zNZaRf2AF6zm8S5a9YMH570w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13213548241959353253",
+    "utc_offset": -240,
+    "vicinity": "16 Yonge Street, Toronto",
+    "website": "http://www.yogenfruz.com/storelocator/city/toronto/ontario/canada"
+}

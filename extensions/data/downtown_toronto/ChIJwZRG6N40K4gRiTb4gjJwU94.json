@@ -1,0 +1,186 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(866) 628-2302",
+    "geometry": {
+        "location": {
+            "lat": 43.6442837,
+            "lng": -79.39874669999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64583048029149,
+                "lng": -79.39747396970849
+            },
+            "southwest": {
+                "lat": 43.64313251970849,
+                "lng": -79.40017193029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5e25406e3e4e0a8572a5760b23eae3ef42e37d6d",
+    "international_phone_number": "+1 866-628-2302",
+    "name": "CTO BOOST INC.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105046797508348216273/photos\">CTO BOOST INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAASdwIZrzQ0q2iuZlyLR0W-8qoxi2iZ958YxsYsCp3_5LsT2dpwrNSPL6yORgxC_9ut1HEe0NBRC_2j7WOYGkeMFmuc5f4EHaH0ycFM48CY8oQMCVyw5R3xaO7Jbk0ac6iEhAhEw_o2Rq0nojmidbkiF8VGhQPaJakL505xwN22MN4w251z2t0HA",
+            "width": 1200
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105046797508348216273/photos\">CTO BOOST INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAAli3YatCp9OhD2rDE06q1XUOgyc78kv_l4lQr1iesGr-1iVzox6lCkpmDw9YPbPfZkEhEFoqxNxg3hjEtwPYDLL0Mu46QrsJBDzHfD8T2wK7r6WuS2crH7AUoaqD8gTTDEhAARp4cdr6BpNF9WkNdSGY4GhS1Mh9HhQbpY-LlDX_jW_zGqh_7kQ",
+            "width": 1200
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105046797508348216273/photos\">CTO BOOST INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAA3YYmPJh1XwYMozO-OMxyLvx4XqrVwpUsdcYhtt8C8euwUbL3dFxFi2yoaw264NfoGyaKNH6rH8nE69iwOIRdMLSeC5F1aoes-Re8QA4YjhwnvMbNG327_-LY9Ih0MQBHEhAAAKfDqTgx6MK7-IwuyN5hGhQmzNNv9gAr_fbf_lxbZ61OKfhRQA",
+            "width": 1200
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105046797508348216273/photos\">CTO BOOST INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAAcY2tyzRZD9jQMYvGQBPfNt6nKVy4QSI-KYZe_wqlFjUmv8GM0-ibQz5BRktm5_Zta5D6tBdGoZwUUtl5BjR5Q24Fai86OnloO8BZLeHRsCc0c2sUXXT0HZlBwSV5avS3EhAK3RRck6Sh_dFA2te2qdTqGhSVP4Y9UfyDJ7mPc2-J17IvUk0-Kg",
+            "width": 1200
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105046797508348216273/photos\">CTO BOOST INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAA6G4u5vJEzzOuRH-iCCFjAm9gI_JEl8CJ-1YKy8hCsazuExwxsUIijSeHMhaZU5Tie1EBb8sP_add2Ti70mj2yjLghkrM76BxmGNhsC3OtSg5S96ArTb7CvfuZlu2KORYEhA2egU1_4p9-oHoOWr3YZ7DGhQx3wXF7P3I_KITYkriN70Tjsh3YA",
+            "width": 1200
+        }
+    ],
+    "place_id": "ChIJwZRG6N40K4gRiTb4gjJwU94",
+    "reference": "CmRSAAAA8x1IDW5B0Q9TGEz9Lv445rWqasNRj_JOaPFC5F-HcwcCFloywfid_T3wp2zqhwUiBAhBQdg3vZeFhddFYx4lJeQSe68x48HfIU8MfPWqJhny-wDxZJjsXVzZp_eNkUPPEhD2LxFeRgblYlxnsl5lQyt1GhT7j1RWTf4ubJwuNV7qYLsMpWVQSg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16020271661734966921",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto",
+    "website": "http://www.ctoboost.com/"
+}

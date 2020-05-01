@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "6-24",
+            "short_name": "6-24",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Seaforth Avenue",
+            "short_name": "Seaforth Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 1N5",
+            "short_name": "M6K 1N5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">6-24 Seaforth Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 1N5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "6-24 Seaforth Ave, Toronto, ON M6K 1N5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6435144,
+            "lng": -79.4341049
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448633802915,
+                "lng": -79.43275591970848
+            },
+            "southwest": {
+                "lat": 43.6421654197085,
+                "lng": -79.4354538802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c57fa7a061b13c39a1db159d96df24c365aa05a4",
+    "name": "6-24 Seaforth Ave",
+    "place_id": "ChIJV4FzIa01K4gRo0L_UtAsyhI",
+    "reference": "CmRbAAAAG_kxtZxJfEyh0Ltadn51s1KtF9LZPa-CJqy8kBop2tRkZADkmYthxtvF5xYrCrmzHImVOS5FauxGAKMn-opsopidQRyC9X6Ued3hE7o31PhMPITnWprJCXmuPXu35m3VEhBk9LYAZtpgh8Ld9arzcfuOGhS4cbtZ5CE3nAC-H82BnZ-rByfL0Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=6-24+Seaforth+Ave,+Toronto,+ON+M6K+1N5,+Canada&ftid=0x882b35ad21738157:0x12ca2cd052ff42a3",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

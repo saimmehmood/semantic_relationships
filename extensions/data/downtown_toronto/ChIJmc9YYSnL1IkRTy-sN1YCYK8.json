@@ -1,0 +1,190 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(866) 630-2251",
+    "geometry": {
+        "location": {
+            "lat": 43.6442841,
+            "lng": -79.39874669999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458306802915,
+                "lng": -79.39747391970849
+            },
+            "southwest": {
+                "lat": 43.6431327197085,
+                "lng": -79.4001718802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4c783e66fe232cacda0b01cf01f61dbaabd8a8dd",
+    "international_phone_number": "+1 866-630-2251",
+    "name": "CutCom Software Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 641,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116244516754496425756/photos\">CutCom Software Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAIxdRe_4Fev9mXSH1dUF9pGQP5vB76sJxMxNS8DiFOWpGcBHgAb9pliPuwvegp6U5Q6CrVvEw3TOJNpGeKOVgpNVG8vHJTrs_ec3Fa-GAtTAmu1wcZkINh2riEvWxAAvyEhBnUSLU64bOLr9ydiShnDbuGhSJXIHgZtRrFZjf7d64YpuFySkgnA",
+            "width": 641
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116244516754496425756/photos\">CutCom Software Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAwDApNOuCQd5vNnesVaFq5abIQ5ozlbIJN6-fljI57J1tcyQkOOaI5OC13OC2TO1J7hmAkl4rEKPTweRB6fHN7C9JA0WbxPGc0KI0gfbGAPnOm9HlquCU42gLvyhZo4tsEhCZV0L5-u4wC5glbt-J-22aGhSe22ULF1lN8yW5Z4RX6Q1-qAw3tg",
+            "width": 2000
+        },
+        {
+            "height": 792,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116244516754496425756/photos\">CutCom Software Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAmAmMFuT7aGvAJaey7MCUC1CMjiNpr0MAUJQcnJpiaDf1gx6lQ-ZR87gRcPKuXNfXeSqevNfN59gpE-jFGlOeYTwe0T76Ye57CviELAWlUIftPe-wTgePz4pZhi0QI85cEhABzc5QBK_gKdMo_E4KLndjGhSlAbxb-sOVdgrmxwNUcuIjqWWvEw",
+            "width": 612
+        }
+    ],
+    "place_id": "ChIJmc9YYSnL1IkRTy-sN1YCYK8",
+    "reference": "CmRSAAAAAKxlAro1jDSpHZC0CTBVengbFXoAtOrKZ2YagoQM9C6IWQl7Zx_aQkwRaUYHdppNO3qyPBxgf7IXK4dRtbDD5aqhiaD4NFgZwt21UOWKiwof5JFG8nIVdKuoPVhsRf3mEhBx3RfbznH4rhvZmZ28iBUCGhT6SQCeUiGxAzGjWaz40YxLV6AzvA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12637103123726085967",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto",
+    "website": "http://cutcom.com/"
+}

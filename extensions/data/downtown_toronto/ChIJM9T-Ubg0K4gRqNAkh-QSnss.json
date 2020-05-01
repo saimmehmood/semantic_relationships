@@ -1,0 +1,152 @@
+{
+    "address_components": [
+        {
+            "long_name": "11",
+            "short_name": "11",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Strickland Avenue",
+            "short_name": "Strickland Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 3E6",
+            "short_name": "M6K 3E6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">11 Strickland Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 3E6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "11 Strickland Ave, Toronto, ON M6K 3E6, Canada",
+    "formatted_phone_number": "(416) 409-6319",
+    "geometry": {
+        "location": {
+            "lat": 43.64307039999999,
+            "lng": -79.4311417
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444222302915,
+                "lng": -79.4297786697085
+            },
+            "southwest": {
+                "lat": 43.6417242697085,
+                "lng": -79.4324766302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3a124c41a9c80f8335c4f81b459bd1217b6f4f34",
+    "international_phone_number": "+1 416-409-6319",
+    "name": "teaBOT",
+    "photos": [
+        {
+            "height": 843,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110596282301532614067/photos\">teaBOT</a>"
+            ],
+            "photo_reference": "CmRaAAAA52PPYWCzJ5W7kIUDe70G6kpWl0j8Ham8B9bldLxmx61Nh2XpdHq5Fz-heGFwsVrCd3ESzqSfrcCSEb56MMZmmhMHFoCf0We_6YwjDc6KLgsI-crNoT7ejMSOnrT221cyEhAUZnraCMg9dJyYyR9toNRZGhS0kfyY_SBEXhPfb9pH2nuprXCICQ",
+            "width": 843
+        }
+    ],
+    "place_id": "ChIJM9T-Ubg0K4gRqNAkh-QSnss",
+    "rating": 5,
+    "reference": "CmRSAAAAfZEJ6MsaLEIoKqhfuYP4lsTJZFmrStkFL_X7qfbT2hYFE1EX8eUwBKAskolYG-tLs5DQO9Gt2PSZqFXljXT4qWWteywJ0vPgECab_dPCy3Jr6cDEyfbCMOITds9q2L7SEhA1jcUUfHuFH8cC8EsDKsicGhSZ0_Z44VhB2_ZKHzU8ZQ9Of64xDQ",
+    "reviews": [
+        {
+            "author_name": "Liam Pelchat",
+            "author_url": "https://www.google.com/maps/contrib/106710122132372821485/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-C6R5PzcB-Sk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2sE27QOvY8E1SHheomGbX6TGu23g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "teaBOT is a mark of innovation in the wide landscape of commercial refreshment systems. The system is easy and enjoyable to use, with a host of great tasting loose leaf teas. Excellent system. Keep up the great work!",
+            "time": 1527537101
+        },
+        {
+            "author_name": "hossein tafaghodi",
+            "author_url": "https://www.google.com/maps/contrib/109813915176260670029/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-dGacNYxMrko/AAAAAAAAAAI/AAAAAAAAAB4/v3lm96BDESg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "I always bought a tea from teapot since today. I paid for my tea but there was no water in the BOT. So I had a cup with the tea leaves but without water. Well it really did not matter this things always happen. But what really upset me is that they do not answer phone calls nor emails. \nSo wish you luck if you wanna buy tea from TEABOT.\nOh sorry guys I received an email from teapot they offered me two free tea instead of one. Thanks @TEABOT",
+            "time": 1506205135
+        },
+        {
+            "author_name": "Yvette Ye",
+            "author_url": "https://www.google.com/maps/contrib/113795508698963467023/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-g8voUByd028/AAAAAAAAAAI/AAAAAAAAA6E/RfkUnv0Zen0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "We have it at Wilfrid Laurier University Concourse this year, looks pretty cool. You can customize it, pick 3 flavour, % of each flavour, tempurature of the water, etc.  Fast and simple enough, love it!",
+            "time": 1506096693
+        },
+        {
+            "author_name": "Goran Basic",
+            "author_url": "https://www.google.com/maps/contrib/104282855463745828939/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-udj4Dg9a060/AAAAAAAAAAI/AAAAAAAAAWc/Jy2dDmm5FXg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "",
+            "time": 1520090797
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14672185408748834984",
+    "utc_offset": -240,
+    "vicinity": "11 Strickland Avenue, Toronto",
+    "website": "http://www.teabot.com/"
+}

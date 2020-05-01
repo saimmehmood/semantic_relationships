@@ -1,0 +1,197 @@
+{
+    "address_components": [
+        {
+            "long_name": "Suite 1801",
+            "short_name": "Suite 1801",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1W7",
+            "short_name": "M5E 1W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St Suite 1801</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St Suite 1801, Toronto, ON M5E 1W7, Canada",
+    "formatted_phone_number": "(416) 640-7469",
+    "geometry": {
+        "location": {
+            "lat": 43.64272,
+            "lng": -79.37412549999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6439214802915,
+                "lng": -79.3732099697085
+            },
+            "southwest": {
+                "lat": 43.6412235197085,
+                "lng": -79.3759079302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3075725f0890fe8f1511a58c5a766acfa9de4de5",
+    "international_phone_number": "+1 416-640-7469",
+    "name": "KCM Solutions Inc.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 5:00 PM",
+            "Tuesday: 8:00 AM \u2013 5:00 PM",
+            "Wednesday: 8:00 AM \u2013 5:00 PM",
+            "Thursday: 8:00 AM \u2013 5:00 PM",
+            "Friday: 8:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 363,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114407989553475309048/photos\">KCM Solutions Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAzSIzR6ux5O7tVcQMQhEoIje_7tWZ9MQTinx-O233dGlgd6C9Wx0A7_FJ3ritRa6a7EN6B_-ksVHPP-z9drG7yRn6sLGCs9_Ju-FX1SwYkGx_CaL4qSQe18GAbuC_kFbQEhCYoUunyWSzxrwvdxxjBCHXGhQ__aaM0KJJMrowOxfXDt6SCoqkKQ",
+            "width": 1024
+        },
+        {
+            "height": 724,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114407989553475309048/photos\">KCM Solutions Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAppSCpqCjYJRvv2QpLnxamydme0bfyOzlYRD539dsKt0vAZRvsWC7CBNbstG3lCq3uAzocS1q4WpbfheujAbCoIdZwN2MzVRc49XF0U9Hee-dLaxGPaVZN8_wDCoGyHJLEhDjLvz5ByZd8Ku9gG8lV4MqGhSi8UZXC9BPYRAxsV2NaJCTi_BGXw",
+            "width": 757
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114407989553475309048/photos\">KCM Solutions Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAVDH2hgY0Kgaa8l0mfYk9dXbWcf-pQZH8YhqoDala4E4q69N5OY9XTflrDxknorclZqWnvK9zjhLSTtx8mg1IiwzF62ETXpSadSppeSAScu72pev_zIf2bguAQnTievkuEhB4FKtkWeWYLB0uIQh6b3csGhT79As3HFpcvibiviaGvQDFblfZFQ",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJi36spK80K4gR2c5jDMANZSo",
+    "reference": "CmRRAAAAcuPTY1exH0DmGsABsQ4w6m6NBhxIY34A1gB4wZrDihRcBkOrvQuf8t8U7E5VB31IVnBqoCCSd_U4ZUgeHkhCkuSxVbXGPF_sbLTNPsWCuz3fQzBgcyc63lhZ47HIxoulEhCHHrzw5Y0pKqYT3dKnk61_GhTIpz8XnZA1xMBuQtaW22qJylIDJg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3054863040733499097",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street Suite 1801, Toronto",
+    "website": "http://www.kcm-solutions.com/"
+}

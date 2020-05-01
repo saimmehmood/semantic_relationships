@@ -1,0 +1,244 @@
+{
+    "address_components": [
+        {
+            "long_name": "876",
+            "short_name": "876",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1B7",
+            "short_name": "M6J 1B7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">876 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1B7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "876 Adelaide St W, Toronto, ON M6J 1B7, Canada",
+    "formatted_phone_number": "(416) 504-3595",
+    "geometry": {
+        "location": {
+            "lat": 43.6433915,
+            "lng": -79.4128166
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64468223029149,
+                "lng": -79.41144531970849
+            },
+            "southwest": {
+                "lat": 43.64198426970849,
+                "lng": -79.4141432802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "53120d7dc62911de57515b7d7553109fed78f721",
+    "international_phone_number": "+1 416-504-3595",
+    "name": "Assured Automotive",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 5:00 PM",
+            "Tuesday: 8:00 AM \u2013 5:00 PM",
+            "Wednesday: 8:00 AM \u2013 5:00 PM",
+            "Thursday: 8:00 AM \u2013 5:00 PM",
+            "Friday: 8:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103386633490681109949/photos\">Rahmatullah Harify</a>"
+            ],
+            "photo_reference": "CmRaAAAAae14gs3pK0bC0Px_aCti9avjIQPBYoSrXY-7Ax5cUQEnj-tX4AiHSEQ9sCBdeHAX8wG_TWAWqJWLSvvucUW6rb8L4So7-4ABXhxFBZjdso2xcoyPDRiQXSCvYPKDBT96EhDRXllmHcpNaqblwaUJnn5CGhTltr6848iVb7hcimT8Q0RzyhZHLA",
+            "width": 4048
+        },
+        {
+            "height": 1278,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102833073104578765304/photos\">Assured Automotive</a>"
+            ],
+            "photo_reference": "CmRaAAAAYyItg0Pj5gZzNQEWZXa3zjLaV3kOIBWweAJ5Y5K-d-TXrldy-f7uMjdM0Kv2hjSF7Ige3FZL6aoAW3z9KMYZD374eZjw45phK4IHYJkI0xSZcfVvyPbVWK2KmTlIMCPzEhBZKIEkN7xbdaHVFjub84Q3GhQG68PXJn1r3Awv5HBQCHUQBB_FsQ",
+            "width": 2048
+        },
+        {
+            "height": 320,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102833073104578765304/photos\">Assured Automotive</a>"
+            ],
+            "photo_reference": "CmRaAAAAGnpUP0kh83iIp3SwywMAva1evRraKM7ZZfK4txV1pSq_GH3jcil1q1OgWGjNxERqLE52Ewu8XoPB5B8MskXBY-SKdjCUCLO996hBJMdsW8EQTYoYr43PCXCyBAi0UUuSEhD3fKXPizyIDgWB4KLpBZ52GhQExPEDjwlYnANoeYZDZgbH8uDi6g",
+            "width": 320
+        }
+    ],
+    "place_id": "ChIJr0GRluI0K4gRI8yrfPzGCU4",
+    "rating": 2.8,
+    "reference": "CmRRAAAAtOmtmvEYqZAKQqBEEspkWx0p_JwdsCAaD6A-EFDZeHFqwUlexgnxF0FWN038rV15h_Jngys8GoI7GH0mJCboIDZ190VrtqGhhi2WGupIuQjDKMJryI67QNBzAcHSNnjgEhA5PvEtKm2v4tTDfWhQLRjhGhSan3_ehm3Jpl4jSsDOOH4609eOqg",
+    "reviews": [
+        {
+            "author_name": "Anthony Lance",
+            "author_url": "https://www.google.com/maps/contrib/107519076755524717058/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-i6DAfrj9HgI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0FuUfl7ct__qBOUmcnCk_P1CgJoQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Have always been friendly and provided excellent workmanship. Been here twice for repairs and have been very satisfied every time.\n\nThanks !",
+            "time": 1527785775
+        },
+        {
+            "author_name": "Trish S",
+            "author_url": "https://www.google.com/maps/contrib/117158164305065479797/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-erc9uuRuW9I/AAAAAAAAAAI/AAAAAAAACFg/olBtDmfm3Us/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "It took forever for a minor repair that another place would have done in a few days. Avoid! (Front desk staff was super courteous, but not enough to make up for an over two week wait.)",
+            "time": 1524263443
+        },
+        {
+            "author_name": "David Kelman",
+            "author_url": "https://www.google.com/maps/contrib/111925637346401779649/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-1x9IVg4xqOI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0kWsPOFmVd0jXLadKdXoxV-cM-mw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "My experience was quite good, friendly people, did a good job from what I can tell, I suppose I'm extra happy I wasn't at fault and it was 100% covered by insurance.  I hope I never have to go back but I'd go back if I needed help.  Minor complaint that a potential electrical issue wasn't noted earlier, but they offered to help me get help.",
+            "time": 1516384759
+        },
+        {
+            "author_name": "Athena the American bully Arboleda",
+            "author_url": "https://www.google.com/maps/contrib/102926431230637526908/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-dVjY7wAU248/AAAAAAAAAAI/AAAAAAAABjs/UBR4JsA73eQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "''WARNING \"Worst service ever,If you have a high end car please do not take to this place,they don't have the technology to fix them\nI had to witness 4 people and myself really mad because of the bad service,they don't  fix cars properly,they promise you time that they can deliver,They are liars ,They make you signed the papers that your  car is not fixed and has sensor lights on,mine even had  overfill oil,that could have damage my engine;but if you don't signe and pay they don't give you your car back and refuse to keep paying for a rental. So I  had no other option than signed the documents pay the deductible and take my half way car if it was even half .",
+            "time": 1519438123
+        },
+        {
+            "author_name": "Igor Grossmann",
+            "author_url": "https://www.google.com/maps/contrib/108256669897248790431/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-1ePYJFtrl4Q/AAAAAAAAAAI/AAAAAAAAFr8/of954V6jTng/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "Probably the worst body shop you will ever encounter in GTA. Rude, unprofessional, and most importantly incompetent. They had to redo a simplest job of a minor dent three times (first not sanding off enough, next time - too much, next -delay with fixing the messup for two weeks!!!). Avoid at all costs.",
+            "time": 1514397286
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5623244397474466851",
+    "utc_offset": -240,
+    "vicinity": "876 Adelaide Street West, Toronto",
+    "website": "http://www.assuredauto.ca/location/view-new/assured_toronto_king_west"
+}

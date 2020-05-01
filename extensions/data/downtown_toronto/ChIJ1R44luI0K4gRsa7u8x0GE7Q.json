@@ -1,0 +1,90 @@
+{
+    "address_components": [
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J",
+            "short_name": "M6J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Adelaide St W, Toronto, ON M6J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6433044,
+            "lng": -79.41262549999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64465338029149,
+                "lng": -79.4112765197085
+            },
+            "southwest": {
+                "lat": 43.6419554197085,
+                "lng": -79.4139744802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "2d80befa481cd98d7189f2ce52e4fe51b3f8d94e",
+    "name": "Adelaide Street West",
+    "place_id": "ChIJ1R44luI0K4gRsa7u8x0GE7Q",
+    "reference": "CmRbAAAA0PKxQkOPe_ZIcm6Q9n_X6L4VP1AQo9lHp06uvK0-mscJvhI63C8XIigbbn7XDUJhyC3oe12qrYsAZYHFqqSgJb7IvlTrXMHg9vfssjbDgu1meqbz0ugQFVV8l_EVAPWGEhBF6Ev7YuSIVPNXG9-URmO_GhQfGWIX6IuoPlxcGgVPXqfPlhO4-Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Adelaide+St+W,+Toronto,+ON+M6J,+Canada&ftid=0x882b34e296381ed5:0xb413061df3eeaeb1",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

@@ -1,0 +1,212 @@
+{
+    "address_components": [
+        {
+            "long_name": "106",
+            "short_name": "106",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "833",
+            "short_name": "833",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N9",
+            "short_name": "M5V 1N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">833 King St W #106</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "833 King St W #106, Toronto, ON M5V 1N9, Canada",
+    "formatted_phone_number": "(416) 838-9837",
+    "geometry": {
+        "location": {
+            "lat": 43.64264489999999,
+            "lng": -79.4078552
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6440965802915,
+                "lng": -79.4065460697085
+            },
+            "southwest": {
+                "lat": 43.6413986197085,
+                "lng": -79.40924403029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dab7a851e674659a89d7feb37c6bc5e9199f0bef",
+    "international_phone_number": "+1 416-838-9837",
+    "name": "Alchemy Center",
+    "photos": [
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033700528428566133/photos\">Dorota Buczel</a>"
+            ],
+            "photo_reference": "CmRaAAAA3ZW04h_dRLQmhmGkiWdGdgWl_1CYXQLexfhF4_Ua9Wx4-H9ga0g2_FfFW3HhQniSMflOpe2WcHP030-HEDEy7E-Dgq6i-FaSbTw4WXTCrteP2MuFQcfpEGvlCGNvdBXdEhBWXHV_xkBzqUwsKkn8ZEQkGhTggEcOaiSX2tgNRGVzpk0zotAbwg",
+            "width": 310
+        },
+        {
+            "height": 550,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033700528428566133/photos\">Dorota Buczel</a>"
+            ],
+            "photo_reference": "CmRaAAAAkhx6h4U4vJwH3dSNpuybVuHHH9gxrmTUSCUrOvYRsPWGEFrBrU46QZIMwUx39_i3hHdhaWhmlpkk0PrWvMK0uluz_my_acj6XgXfDE4I7bNLJHIZbEk6nOy9Ad7RRuDJEhAKQrszxt09AKVa55_ZGW5fGhTuYusMlQnUzAPSqwwsOQ2YnzcWiQ",
+            "width": 381
+        },
+        {
+            "height": 270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106896754317665377819/photos\">Alchemy Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAplgBnzivJ8Bp7rkSvhugL3X5D0HDLzehGBRqGfVkpQkNpcKWFFp390Ot5xf9aIH6DB2KZTT92CFoqqb6nUMB24KERsTEO6LiXuDMY-VBTWztVPBM4ZVJg0Y6ZjPU7u5nEhC5ZMJkLQxgyVd4NNiIjKK3GhSXsIemtcNNHhjJ_eKrUvZay8rXPw",
+            "width": 480
+        },
+        {
+            "height": 454,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033700528428566133/photos\">Dorota Buczel</a>"
+            ],
+            "photo_reference": "CmRaAAAAyvO2F6W-2XXrR23_QKxNgRSHd_srV3xd5XE2hE4FD-whqkLTBBoxvAHIrj4tiyWCLXivQcs4sVWH-SKJqFF2W_MSIlejeRiyZvSLuVaIb85CKnUBV0HNHixeqiN7hYt6EhAmnSqRAC_xyKyigkgSJ3xFGhScKQ_O4wWrSw84PTfgjaZqe6VXBQ",
+            "width": 336
+        },
+        {
+            "height": 270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106896754317665377819/photos\">Alchemy Center</a>"
+            ],
+            "photo_reference": "CmRaAAAAK6JEGXhOE4cF53RkQko5nqamsl4bmBTpMV7-sehlpNevyQkLpLm6w69qD50PYd-7a7sZRUxEAudpCvrRF2HrQ6ObCb6cHCDMHvORhCbQOQdu-Ds6jIkKCFha1OzCPUS8EhBXI8bzIXZL0g5zL_SAsRQdGhQJx6Vl8xOYKJHSr9gC7yJbJeYMng",
+            "width": 480
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033700528428566133/photos\">Dorota Buczel</a>"
+            ],
+            "photo_reference": "CmRaAAAAf7e6E1mDKy7ATbwd9oxZfhsARVja7FQiVnneQXqehk6uRhzs0K7q59SJ0r8HMbb1PJg5GvrLQI-QMSI4zPQSLX1b0MV9iAg0aaDQlX9bb-OLSdyEf3-2DcXcOC2WlktqEhD9V4sZj1VwNXDD6sBHsgHCGhT4_WGftrr0ucdRJu0s8YBAvBbglw",
+            "width": 1900
+        }
+    ],
+    "place_id": "ChIJ8wINA040K4gRYvO00zUVnNw",
+    "rating": 5,
+    "reference": "CmRSAAAAvVkxZ5jW76JjJsa5IDPgN4QecnfUJu9Td54p9yorJ_kMmnuo2sMS-hI6d3kGa8j-r7ehMyI_L1eVIOs66PiDFqhGcfUG2rW6kd4K4fvcEah6Un2I6cBspVYjmrFJ9rghEhA17CKnEuK8LT4D4vN6WPiJGhReCaF-De0svSmbdw6e6-B98Zt4MA",
+    "reviews": [
+        {
+            "author_name": "Corrie L",
+            "author_url": "https://www.google.com/maps/contrib/104856526850869152193/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-7uWy6waDNR4/AAAAAAAAAAI/AAAAAAAAA5M/x1IUW8ucHJA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Terrific! \nDorota is always there to help with product, as well as offering specialized/private classes!  She has hosted two airbrush courses that  and it was fantastic! - I highly recommend her lessons!\n\nAlchemy centre is my top stop for all my airbrushing products- KETT is a available as well as some other key brands.\n\nLove!",
+            "time": 1510153179
+        },
+        {
+            "author_name": "Angela Milana",
+            "author_url": "https://www.google.com/maps/contrib/117860146622804790645/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-clQYXi3tt4o/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0i-r3S3nmW8tad0P53BtBxm-7Mfw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "What an incredible experience! The shop has a marvelous design and Dorota is such a talented make up artist and quite professional. I went last week for a make up session which completely impressed me, so I went back this week for lash extensions. I can not express how amazing they look and how non invasive the procedure was. I highly recommend you check her out!",
+            "time": 1423858829
+        },
+        {
+            "author_name": "Mikka Perreault",
+            "author_url": "https://www.google.com/maps/contrib/114823967297767670636/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-82C0Tzoarjs/AAAAAAAAAAI/AAAAAAAAEEc/Qgj1YAjmtrI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "By far, the best place I've been so far! Dorota is so professional and meticulous, she does a beautiful job to make my eyelashes look natural and amazing :-) Would definitely recommend, she will make you feel gorgeous every time!",
+            "time": 1460249359
+        },
+        {
+            "author_name": "Elric Best",
+            "author_url": "https://www.google.com/maps/contrib/108643385334731020098/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-u2CVddKPmP0/AAAAAAAAAAI/AAAAAAAAAKs/v5hmFIC_oO8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "What a great, knowledgable cosmetics store.",
+            "time": 1409429374
+        },
+        {
+            "author_name": "Dorota Buczel",
+            "author_url": "https://www.google.com/maps/contrib/118033700528428566133/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-3DWeT7i0dv8/AAAAAAAAAAI/AAAAAAAAANc/CXg0q-ywkXY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "",
+            "time": 1395718336
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15896604105640309602",
+    "utc_offset": -240,
+    "vicinity": "833 King Street West #106, Toronto",
+    "website": "http://www.alchemycenter.com/"
+}

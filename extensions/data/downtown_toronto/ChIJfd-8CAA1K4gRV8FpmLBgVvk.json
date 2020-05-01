@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "1158",
+            "short_name": "1158",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J5",
+            "short_name": "M6J 1J5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1158 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1158 Queen St W, Toronto, ON M6J 1J5, Canada",
+    "formatted_phone_number": "(416) 507-9920",
+    "geometry": {
+        "location": {
+            "lat": 43.6430453,
+            "lng": -79.42510279999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6443394302915,
+                "lng": -79.42373266970849
+            },
+            "southwest": {
+                "lat": 43.6416414697085,
+                "lng": -79.4264306302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "921cfa0b9ea8e66dcc566cdd0e943e5b913a4bf8",
+    "international_phone_number": "+1 416-507-9920",
+    "name": "Major Treat Coffee",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 6:00 PM",
+            "Tuesday: 7:00 AM \u2013 6:00 PM",
+            "Wednesday: 7:00 AM \u2013 6:00 PM",
+            "Thursday: 7:00 AM \u2013 6:00 PM",
+            "Friday: 7:00 AM \u2013 6:00 PM",
+            "Saturday: 7:00 AM \u2013 6:00 PM",
+            "Sunday: 7:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 596,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113676398060315884959/photos\">Major Treat Coffee</a>"
+            ],
+            "photo_reference": "CmRaAAAAfSwOUTod2wn0EOimSXwi8HVflaIWmNQnMn5F6Qe9wq0cVqodd2qlQsYTSTi8uAIzPlCRQxaDWjgG7iHkZbWVeh2vKkA0AO2OC3Ca0O7NKZM66-DRjeQdmsK9ml-bqpEEEhCWwKji3qdlDfhJfm9OkjTQGhTmb3mvSphediNX80hTtwsSU-XQ6Q",
+            "width": 1192
+        },
+        {
+            "height": 3644,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAAP8CieopkJ7YPJzLafKgYbWpwCTc4-4PCaZOtUFd5FRDO4OXvIqXeZ22V5SwapIZ0GJQxnFXamxAFtbe9MNinmAf_RYIlnccJICMobYuIDqEUh-V0cdSVFyqiL6-uxQoIEhAf_JIC24gRATLyIcu4bAq-GhQqbXe1VNICDm52R8YVBgnVNQSSiQ",
+            "width": 2733
+        },
+        {
+            "height": 3768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116167134721249142208/photos\">A Cartier</a>"
+            ],
+            "photo_reference": "CmRZAAAAHFicQzpAzSLdOUjG-XfU4bxZSJc2vjUjoUL2ZjNzmzrX0Ros0C1unNMgFzlCUbVMRDkYlSSSyM7sgli8Amxe3sLqDbRYh_Q45oy6RnVdDJTRZlkTMdZRc6j-TIdtlMLXEhCJpNIaG3LiiNTMwIBRQ1xMGhSTJNw_V23hzQe9UB3q5DRAZbYjGw",
+            "width": 2826
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113676398060315884959/photos\">Major Treat Coffee</a>"
+            ],
+            "photo_reference": "CmRaAAAANVFT0y5xpuZ30y-wS9hcHAeith6F1dKIv4wL6nyCgvX9vixK8XvMg2uT2jwmlnLg16fPZUc78ouahdcSKbxpZrJ_lyyqB8GABbUTd0VSN4K2MjTsnKocD7JWLB27ZIETEhBnHe3lrTzuk7OWcvJCzweHGhT8s576bMIWMsFXXGxp-pmwWLZbVg",
+            "width": 2048
+        },
+        {
+            "height": 3397,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114852931604080794399/photos\">Steve Gilmet</a>"
+            ],
+            "photo_reference": "CmRaAAAAkajWMxUWAH1LWtTFkFkzbQHU_MsjkfHKF1WXBnVCKMQKT7AUY6srbEmWm4zy5Hr5wDowdR-j4Xj0RegFd8dkrzoQS1HakiqJoQfx57HvlMaD2Q6wf57d2wwxhZOuAYVGEhBVfW5p3azWhcEej-wFrqchGhRER-vgvGEH3qSA6Pdg3fm92bk3hg",
+            "width": 2718
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114852931604080794399/photos\">Steve Gilmet</a>"
+            ],
+            "photo_reference": "CmRaAAAAfPH7t5rB1r41pry_llqCKSX9WVoVi7GqtyGrMhHoNAx5FNlmWsfhA2up-fE72HnEZUqMj5URZoHEenLkYzN6GXcoPlvZxcenNLorwtxxJFdWioYsAkvHNvVhInaluOidEhAUeb_ebUOG14E-eCe24WBJGhQuj4vvxAu_Ogr2g_LHbgnt8gu16Q",
+            "width": 3024
+        },
+        {
+            "height": 1202,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113676398060315884959/photos\">Major Treat Coffee</a>"
+            ],
+            "photo_reference": "CmRaAAAA2Gpnji9cQ1SikOn6AEWX5dBLOl87BUXMw9Gg2-SlHph95xRHhZgLC2gpuIrAifQecUgiseNOD9RFO2z02vHve_uHRTY6U6quZF5F2dbHkjCiqzhnHWyGi_z2QjkUM_ZpEhCLjxwZ3i49KDUYg7gSvx5mGhSIo294VE0IwHUVeYhDYU24Z8VBRw",
+            "width": 1200
+        },
+        {
+            "height": 1186,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113676398060315884959/photos\">Major Treat Coffee</a>"
+            ],
+            "photo_reference": "CmRaAAAAKwM9l0dEj0mMPQqoSfTvyqL2HbiNVnxEzLiftQEXHUwGb7uiv2pM5msVOHCfJ1SjyBrbRxKYsPBapVxY6EBRHmao5ek_w1uzOoc1VKNyRww6szsJl0mOhj3-fDcf8PykEhBcNubiENLgw3ucEch76kBvGhRc67eobn02Z-XRYR9yxswN2uIqSQ",
+            "width": 1190
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106532893707048855979/photos\">Zane Mercey</a>"
+            ],
+            "photo_reference": "CmRaAAAAmQB08faeyLfJC0cF4sZOvg4mTtV468fybrC9p4MTmnzBBaU-eiC3fguu-T-ssC9idNvgRa-H9oW7HRhMVDz5FfHctyTex5PJ7Tdvch87ETWxq7JB5onVJjXph2-J8ZtwEhAPxz1EeK5GybNEhVe7abKMGhSdQ1y3kjgup0DMyityOnGMYQdGQQ",
+            "width": 3024
+        },
+        {
+            "height": 948,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113676398060315884959/photos\">Major Treat Coffee</a>"
+            ],
+            "photo_reference": "CmRaAAAA3WAAciIf1FEEoJUVLpxwXT2tvikBODXfyOi2Dg4al-XKcPaD89Ez1ho_XPgVV7-h43kk8u3Oc0EJPRrgzjEN-AHvedR808LzmPmYs_OdCkaWsSkcKI3JoupIT1NZbDfbEhANUe4oFs1a2TA8m2uhR_gnGhSDh0ve4oKZGOxK-X8uEvMp6yqcIw",
+            "width": 1194
+        }
+    ],
+    "place_id": "ChIJfd-8CAA1K4gRV8FpmLBgVvk",
+    "rating": 4.8,
+    "reference": "CmRSAAAAXGNHXDUnu0NpKUH6ugsK97rTnZt7inTy2ZnbCpwi7VJ1ymVsLbueichOpcUMlUd8btxhkG0SJIYshKmWEHdp2aIqmJqTLftxt2qHHvX5k3WOJg-TO1_guG-rIJOX2vIwEhD1Wt0_QiSQfXVduMTGTF2eGhROjZZKxq8i3ombQh7j5IJsoRlGtA",
+    "reviews": [
+        {
+            "author_name": "Lemon Mango",
+            "author_url": "https://www.google.com/maps/contrib/107010917609352144748/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Jc7CZgMTJbA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq21JKjxIlDMka4aL9Wh1owMAww5TQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Went for the coffee. Great cold brew and a long black served by a great guy at the counter. You've got three seats inside and a bench out front, so plan accordingly.",
+            "time": 1527307433
+        },
+        {
+            "author_name": "Lindsay Spence",
+            "author_url": "https://www.google.com/maps/contrib/100781507363567671304/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-08G6E4wogOg/AAAAAAAAAAI/AAAAAAAAEkE/snCX6N2vuWE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Perfect latte. Great service. 3 stools at the front are ideal for people watching.",
+            "time": 1524225808
+        },
+        {
+            "author_name": "A Cartier",
+            "author_url": "https://www.google.com/maps/contrib/116167134721249142208/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bPAS-oMgXpA/AAAAAAAAAAI/AAAAAAAAIKg/HEu6OZfIdGg/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "4.5 stars ... this is really great coffee on a stretch that was previously empty of a good coffee spot.  Before, you'd either have to trek to Ossington or Parkdale... no more!\n\nI love discovering great coffee spots ... probably because those great spots are often filled with amazing owners or barista who are passionate about coffee.  Finding these gems are so worthwhile and Major Treat fits in that category.  This spot is unusual... you'd probably pass it not realizing it because it shares the spot with a barber shop.  Really.  Signage is discrete and the one thing that catches your eye is the fire engine red paint job on the exterior.  The spot is really take away only.  There are 3 stools with very little counter space that shares the barista area.  This is the only teeny tiny knock on Major Treat... if they had an actual space, I may never leave.\n\nPart of the great experience is the barista ... his name is Campbell.  If you get him, expect incredibly sincere & friendly service plus an amazing pull of espresso for your drink.  Every person that went in got a smile, fist bump, or an expressive hello.  He honestly knew most of the people walking in and half the people just dropped in to say hello.  If this telling you that they have great service, I don't know.  \n\nThe drinks here have 2 options of beans... I appreciate that it's not just one.  They do serve Cut Coffee (same as my other fave Tucana) and a new one from GTA, Pig Iron Coffee.  Campbell was generous to offer us a shot of the Pig Iron just to taste the different notes.  He said he liked the Cut Coffee better and after tasting both, I 200% agree.\n\nFlat White - Completely delicious... the espresso was bold and fruit forward. I loved it.  It was very rich in flavour and a great balance to the milk.  The microfoam was frothed nicely and just the right amount.  It's one of my favourite in the city.  5/5\n\nFor those who are in the west end, I know it can be hard to find a great cup. With relatively new Major Treat on the border of Parkdale,  you have a great option to get your kick of great coffee.",
+            "time": 1522454170
+        },
+        {
+            "author_name": "Calley Marie",
+            "author_url": "https://www.google.com/maps/contrib/114742811703516102997/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-4wP2vOwb-ZE/AAAAAAAAAAI/AAAAAAAAAAA/VLQf4-yGsmY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "My go-to morning coffee spot. Fab coffee, cool decor, and friendly baristas. Only two bar stools to sit, so grabbing it to go is best! In the front pocket of the barber shop.",
+            "time": 1516754646
+        },
+        {
+            "author_name": "Zane Mercey",
+            "author_url": "https://www.google.com/maps/contrib/106532893707048855979/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-nwIxTZQRWJg/AAAAAAAAAAI/AAAAAAAACg4/aPg7Rl61ZuE/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Great coffee. Friendly environment. This is my go-to morning coffee spot. Keep it up guys!",
+            "time": 1513100484
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17966654075028750679",
+    "utc_offset": -240,
+    "vicinity": "1158 Queen Street West, Toronto",
+    "website": "https://www.facebook.com/majortreatcoffee/"
+}

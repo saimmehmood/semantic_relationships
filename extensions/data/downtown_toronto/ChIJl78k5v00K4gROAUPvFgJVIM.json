@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "A",
+            "short_name": "A",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1033",
+            "short_name": "1033",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 0A6",
+            "short_name": "M6J 0A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1033 Queen St W A</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 0A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1033 Queen St W A, Toronto, ON M6J 0A6, Canada",
+    "formatted_phone_number": "(416) 516-5756",
+    "geometry": {
+        "location": {
+            "lat": 43.6439532,
+            "lng": -79.41908579999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64538453029149,
+                "lng": -79.41776541970847
+            },
+            "southwest": {
+                "lat": 43.64268656970849,
+                "lng": -79.4204633802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d90cbabb635bc92eba4dccffdb74e5778eee6384",
+    "international_phone_number": "+1 416-516-5756",
+    "name": "Shoppers Drug Mart",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 10:00 PM",
+            "Tuesday: 8:00 AM \u2013 10:00 PM",
+            "Wednesday: 8:00 AM \u2013 10:00 PM",
+            "Thursday: 8:00 AM \u2013 10:00 PM",
+            "Friday: 8:00 AM \u2013 10:00 PM",
+            "Saturday: 8:00 AM \u2013 10:00 PM",
+            "Sunday: 8:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687/photos\">Patrick Asselin</a>"
+            ],
+            "photo_reference": "CmRaAAAA5RR3WEnEl7dp-sw5AZkJMJa076goRdS_S0xHOB7IrHOinxv0-fEv6uUeldP3tD7xOdtuSqmP0u-roSirhW_s_9gflB-damTo3O-Y49MCxfo6OpypG7_Qxdjgo7rJ2fLKEhCmMjNDZwlPylKgXSubeOKgGhRrBcdaVBwZ1zPcCogfyUgk1YeDcg",
+            "width": 3264
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100601164797000464502/photos\">Shoppers Drug Mart</a>"
+            ],
+            "photo_reference": "CmRaAAAATlEj6KfUe5YKYd_ubzkDnVcCwx1uzFN4b5whGnqAP2MarvCCJ_ETi9njrvZKYThCepAUdvXduYOaJHmLVy-EiizFHbcfD_aGAJ5M0eOm6FUXPJAoFkWRf6Rr0XtuGz1ZEhAjp06lvVzpDHXkxU318jVhGhQ3EV9P3BIWq9WCahOBTWlpIY32SQ",
+            "width": 2048
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100601164797000464502/photos\">Shoppers Drug Mart</a>"
+            ],
+            "photo_reference": "CmRaAAAAvcy6N2lOiNMVOv6pc8M44bkk-vijW2om07qy_a1w-m6enkyrsxjC1g1u5TKuubtLqr9TyCTrhNs5lYrZTsWJoH_CQSHWZsUUq6nh0Ogg8imL3ipbz6uV7HqSUhOJ-A0VEhBTabAuGjBPYF8ArJQoMOnsGhQUdWBZIx6ahlyVMIv3eqELVQbkXg",
+            "width": 1000
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100601164797000464502/photos\">Shoppers Drug Mart</a>"
+            ],
+            "photo_reference": "CmRaAAAAwnXib79d13r9_rWLQiF0O343ExznEwe_9kxXp89j7B0fYmbiBXJUbm0hOAb_WjGbjH9f9A1cm2TUB10Ljfz8Xxsr23EnBWEKGAdreIyMrIliJ5Z0KQQKNGg7BVV5P2fpEhC8GZpG58hzslFapq3Lyo6tGhT4HybJ5udruTKlbcitpr05rq5V3g",
+            "width": 1000
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100601164797000464502/photos\">Shoppers Drug Mart</a>"
+            ],
+            "photo_reference": "CmRaAAAAjfLR4F7NNPib2FSfZmVqTjbnLXYbof6VEcn1MORXoB0u5pFGiFY_FdMEH20DHMT_ZcUV_IXTB5x81O6D_N6J1cpB4F3u-cXR081WfUc62OhboIC2JF3atCaxAK4uqKvMEhCxh8BUaV-witYmT5CBPXEbGhSHKJA20qDfFVlulg-bw2baydukig",
+            "width": 1000
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100601164797000464502/photos\">Shoppers Drug Mart</a>"
+            ],
+            "photo_reference": "CmRaAAAAUUHoq3ABn4Ldb2nxC_AUkuiRvZrXHCSeUHXp46BIV_g8Tjhtk5clFmzjR3w4a7xmmnS1L_clrSvIoIPUYX8jzQ4n30ldFJZbJhx_EoWkJXP8T2NzRmWGKqSJEznjPJW2EhAQiYSL3exj-Hd3PZ0YVCWQGhREweueb28UaQdkTFSkU5v0puNfFA",
+            "width": 1000
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100601164797000464502/photos\">Shoppers Drug Mart</a>"
+            ],
+            "photo_reference": "CmRaAAAA6RCYKTFr333GsYnYakIy44DMROHKvsOQgJRy2q0H9QhmsqVSJDAMe3VmeYbkge3Tb6x33C6LWA91molSBVMm3o78fH22DkWG4mpZHquKk2IhRW3hzQNIpOWJSGk8WLpnEhApi6ZQaYU3sp5-TgBMRbx9GhSDDBkaZEcme7q9K9mxKdt6fpl7Bw",
+            "width": 1000
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100601164797000464502/photos\">Shoppers Drug Mart</a>"
+            ],
+            "photo_reference": "CmRaAAAAly5TSjM5hEVb5T8mWNLEFSdgJt-rQsjH3sZEzw30s5RWdy8X9I_7v4BLs1WDU0qUa8odbzDIrEgI-KShK8PkQt8ruTKtoMZphs3MmsiKlZKxhC7xWcGH8zba7N69rbh_EhAKdv4AXTlQgXGYiJrYnoUZGhQSK4_EaTbcFvQxoD6yImfSu2URpg",
+            "width": 1000
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100601164797000464502/photos\">Shoppers Drug Mart</a>"
+            ],
+            "photo_reference": "CmRaAAAA29-veyntTyOuc-1ykQE5Oc_USVbiVobIx7PKOa2aH8yXmSbsSGk8ndBUNK2LFJFGQLPRmSmy4c0NKVh1Up3ClsxaVC_zjhA4tI4gmortbxE2t8lOxk-aYlO07t1fNDJqEhDsZ3YIGjWyl4SrVG7MBrjIGhQrguEtqeGnYb3rdtfkI8U_NI580Q",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJl78k5v00K4gROAUPvFgJVIM",
+    "rating": 4,
+    "reference": "CmRSAAAAGRium6C7YlAhG4cWabF8SqzI_UwCfMuzsbJgTk7OkJ8vCrrmOSImGr2h7z_RpqgnYQsjBokoeZvTrWhCbYOK_2VVDx2QKSf8lUSdEUePrNhpv2IVac0h5x30Di_rLTvqEhD_raEupAz6A8Num333Fy3mGhSKmXpC3SFbOhBRZxQvsmdb3ABwag",
+    "reviews": [
+        {
+            "author_name": "Andrea Van Dyke",
+            "author_url": "https://www.google.com/maps/contrib/116674000740626659395/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-dWMOzQCXqGM/AAAAAAAAAAI/AAAAAAAAAAo/wv4tIiYsaSA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Dion, my GIRL at the makeup counter! I wouldn't even consider going anywhere else solely because she works here. Dion is always super helpful and knowledgeable about all the products and gives such honest advice. She always goes above and beyond.",
+            "time": 1522937546
+        },
+        {
+            "author_name": "Joseph Opara",
+            "author_url": "https://www.google.com/maps/contrib/108767968313287813212/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-IuXqWpgPoCA/AAAAAAAAAAI/AAAAAAAAASw/3Y7hTaz2v94/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Last time I was here someone from CAMH threw up in the lobby, it was a really chunky brown colour and tasted awful.\n\nWas cleaned up quickly and the staff was very apologetic, probably happens quite often as they are quite close to CAMH and have a security guard at the entrance at all times.",
+            "time": 1528661657
+        },
+        {
+            "author_name": "Will Breadner",
+            "author_url": "https://www.google.com/maps/contrib/100922241999740130277/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-5HW8KaMP-Wo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3kMhPrnIzfxzXaZqkKNtbJya17OA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Staff-most are helpful.\nPharmacists- really nice n helpful.\nUsually well stocked. \nHours are friendly.",
+            "time": 1522531201
+        },
+        {
+            "author_name": "Caleb Tarshis",
+            "author_url": "https://www.google.com/maps/contrib/107746945536808774612/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-tahC0i141QI/AAAAAAAAAAI/AAAAAAAAAeM/k6OQcXkFZWY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "Rip-off alert!! Just got out of walmart and saw the exact same 15 dollar advil cold and sinus for 7 dollars.",
+            "time": 1514427221
+        },
+        {
+            "author_name": "Will I-AM",
+            "author_url": "https://www.google.com/maps/contrib/115165204639929350663/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-YPkYKQO5eFg/AAAAAAAAAAI/AAAAAAAAVJg/H5a1bL8tXeM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Awesome staff always helpful and pleasant mannered, as well as willing to give assistance when and where needed!",
+            "time": 1514411050
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "pharmacy",
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9463198993729127736",
+    "utc_offset": -240,
+    "vicinity": "1033 Queen Street West A, Toronto",
+    "website": "http://www1.shoppersdrugmart.ca/en/store-locator/store/1362?utm_source=G&utm_medium=lpm&utm_campaign=LPM_SDM"
+}

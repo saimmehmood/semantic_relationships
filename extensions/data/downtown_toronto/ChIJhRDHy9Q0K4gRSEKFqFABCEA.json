@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A6",
+            "short_name": "M5J 0A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55 Bremner Blvd, Toronto, ON M5J 0A6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64288490000001,
+            "lng": -79.3806168
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64434128029151,
+                "lng": -79.37931106970849
+            },
+            "southwest": {
+                "lat": 43.64164331970851,
+                "lng": -79.3820090302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "536756fec1cc76fa9de7f799c3fbee6f6a03aaa7",
+    "name": "QuickStay - Artsy & Modern Downtown Suite (Entertainment District)",
+    "place_id": "ChIJhRDHy9Q0K4gRSEKFqFABCEA",
+    "reference": "CmRRAAAAJmoSdgZkA8-DYI8Gl7qeD95BAa276Vrun6LjvVjQ_2SB7lDK_ZyUS1z_BXtXECVNFygyBFAXnF1tzqntlmjckTBnoUzKB-mUQu2HRDNIHAQ7L4St3bLxv_8f08CbDJDOEhB86ekU3KroralypqxQfi79GhQIBUStJm_sL6qFG1wKcI1wI3DD3g",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4613939264177390152",
+    "utc_offset": -240,
+    "vicinity": "55 Bremner Boulevard, Toronto"
+}

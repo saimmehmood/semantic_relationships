@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "500",
+            "short_name": "500",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E3",
+            "short_name": "M5V 1E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">500 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "500 Wellington St W, Toronto, ON M5V 1E3, Canada",
+    "formatted_phone_number": "(647) 490-5001",
+    "geometry": {
+        "location": {
+            "lat": 43.64337109999999,
+            "lng": -79.39875459999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64462483029149,
+                "lng": -79.39736686970849
+            },
+            "southwest": {
+                "lat": 43.6419268697085,
+                "lng": -79.4000648302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "9093267239b5ff871380c017afd394f2778be7a6",
+    "international_phone_number": "+1 647-490-5001",
+    "name": "Applewood Suites - The Wellington Loft",
+    "place_id": "ChIJKwMWH980K4gRQz54WpQ3CVE",
+    "reference": "CmRRAAAAAIX2xMltLgpOJud1FkEuvRgkXIOWd8cCIW_y7Ta_j7U7dBTLibcb9KBDsJo1F2WgNzCGyJytqIvCEtKvX_JyisiqjpvHkj5c9aPu23Ej9JOBZ9aptwdZv_w8qjFf711YEhASZSsGvZ8hrWGR9m6r0LMAGhQ_QEfwqZNQ1erjbSznV2Lh0ZJ9XQ",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5839259502175075907",
+    "utc_offset": -240,
+    "vicinity": "500 Wellington Street West, Toronto"
+}

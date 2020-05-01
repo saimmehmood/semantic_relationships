@@ -1,0 +1,246 @@
+{
+    "address_components": [
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Stewart St, Toronto, ON M5V 2V8, Canada",
+    "formatted_phone_number": "(416) 842-8380",
+    "geometry": {
+        "location": {
+            "lat": 43.64331199999999,
+            "lng": -79.401136
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64472188029149,
+                "lng": -79.3998105197085
+            },
+            "southwest": {
+                "lat": 43.6420239197085,
+                "lng": -79.4025084802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ad2dd237dc40a159dbd89083dd40a5dfd892a6d1",
+    "international_phone_number": "+1 416-842-8380",
+    "name": "Michel's Bespoke Showroom",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 12:00 \u2013 6:00 PM",
+            "Wednesday: 12:00 \u2013 6:00 PM",
+            "Thursday: 12:00 \u2013 6:00 PM",
+            "Friday: 12:00 \u2013 6:00 PM",
+            "Saturday: 12:00 \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAAP1h86bGuYBOMsO3jH2NEuWb2w_hBWAyn5X6ewGlDj4iWjYy6OwX7xpvBD7UE9cj2lLOugDO96camH5HkbgzZaEVs7-Sxl7Iyi-ILoWuZmykN6XNHZy08RpIGw9GtKg1GEhBlw-53hKLPfVAP_gS6wZ5TGhSnnYyY3ZzTf0STMKEIxCGU6ZLK2A",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAA868GmkgcehfDgptKnSj6pF1NRe3gT2PEiymzY_lXvrs6wezjGu3gvP1rShzGoUgnaJTnteZ0XQPMwEM9dPkWjFLFwf2KkAVY_ULo4KHxjc6JMCuCeJT3AR4qtkRpToAdEhDgGwfjjxc0VWdMi08R_LUSGhQKWmvboC5b9dI_tDJsS2i78cdPaw",
+            "width": 4032
+        },
+        {
+            "height": 829,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAA4b5gcP_UOvRsn6MCqFC0QJbSkmb7AIkkmXfA7UGGB3Godsu7dQ5qdKbFwMY0c5QSZMC5NZl3txreYaqIvpI0Ye8atVciBMmkJxuGgsBPq7u5BK3oH183KEp225w5lCFVEhCnTv72HTsFkJdobmSD8Ve3GhRqV6byYDE8HfiMYrPMMKl7XwugmA",
+            "width": 1242
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAAOdQRMLCemegaGH79yHrKH_ZaeqqujatrsiUQMc35goBegjhYW_7s4XyzkudoLQSfmdt0rFAce4kvddKjlFfcK4so6s4oHAKZetCU2ep2co90yNVYGCNtqGHQwbNKWWc7EhBGu6pDsBd_56BycQVjM0HCGhRGXiaGgRiK6a8wNhGwSacNa-N-WA",
+            "width": 4032
+        },
+        {
+            "height": 949,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAAESbpPnU_uD9j2AzkhSKxDc54szR5BDyq8TEBmjfSHHwhchun6cGRTAc31xxC1R0c-ufsCH78iFO-RiSjt2rKzOc1Q07ckp1klSQtyXQ1oPj7hjwQKh51AzsxWxWID0_fEhCvRDh6a0PHBw048R8Z3yArGhQ_H_TLxTGFccYitQSoFYnefEBfbw",
+            "width": 1242
+        },
+        {
+            "height": 829,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAAM6JugeQyexwTWMrzpqUFdyOefzXu7x3t52jQgLKSN3fe5l5T_u6N2JzWO8a3HwbzrWgGXmwlohQiwg2ydB5kBo-paWvBoWN6QbU1izx51UpHME5isb3Aqyw42SEImBMxEhAE39Hpsw9W9lS19_B9zmAQGhRS_CSq46toia9PmTyZ-ijBkSfP1Q",
+            "width": 1242
+        },
+        {
+            "height": 1242,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAAi6PxQ20Ymz6Csw4_LGGedD7xCFq4h4K1rx2HzQg8O8Wgk1xmlHVp-gD3ekjvzuhWhdE0cz5-zb0tq-9Wkz63KWcYRh3MMufggiWXgun9Iwle6FCL0ySIsiKXz1t5UtJcEhATjDcJS82oVGh1p_5X2QWKGhTIKJkoTozH31-LGZ55RAJZbfoh2Q",
+            "width": 1242
+        },
+        {
+            "height": 1241,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAAzI4aV0Nwz_2IDQSLPfjR7hfYRxyPOcjq_DL1DbjCUAW_5fpQPd0gzTJs6sk3-dR1Ws583I_7wFV2UiNAZuPV80tcEWhWcK5QwagnRFBM60vh0UIJsK5ykev3-YqXYXWFEhAHkivNBrdtyVntF1nNYIZrGhTPa3mXBMR1AwLeRllCjQHBDYdC_g",
+            "width": 1242
+        },
+        {
+            "height": 821,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAAtcz4LZrBaR3Im_vc0tY1rUoeFsyMsNehAHZcbeuvtSNQf18e5EyV4SqQE5wYdPyMPgZoJ66GLB2Z0jVnslLtvDMhjH2B1KsDYu2SpWC-1CQblc9o5W1mT6DbW-P1A0WuEhB-QMuikk44AdZiJCx31DqKGhRPFdNITrN_HyJh2bI4wtTvYYu5Nw",
+            "width": 1242
+        },
+        {
+            "height": 1134,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111744623719325213313/photos\">Michel&#39;s Bespoke Showroom</a>"
+            ],
+            "photo_reference": "CmRaAAAAKkzEGOcbBAnunXpCVRw1ZBPnsx5wY-3sSLtA_wrqrkFyr3Zq-CLosljaembR0gk9KayFACBP5clC0C56oQHWzwib5XNlS9062ZM4WFX6tExpnieFbbQNy6u7BoUuY9TNEhCL4Kndg_vGsWdk3poCFlAIGhT3qDmZdoNinzl39LIdcBv2IVHhwg",
+            "width": 1242
+        }
+    ],
+    "place_id": "ChIJNdo2t980K4gRLP-yqAQ15IY",
+    "reference": "CmRSAAAAWM1HTRaPzDH52AET_UDnlI9s4pVw2NX5ixWOl8kIW94852Pls5quomxlEpvf44T16a3GJowu0wgspMPYLGK0Cx2oIzLE873zelVK35PxpcnXO1cjJ6UadFASQO_F2g9EEhDwRbsZI4VYboe-ZKJzGzJLGhSVYgXO9rIbGvFrLjFrChAza1bcug",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9719952189898817324",
+    "utc_offset": -240,
+    "vicinity": "49 Stewart Street, Toronto",
+    "website": "http://www.michelsbespoke.com/"
+}

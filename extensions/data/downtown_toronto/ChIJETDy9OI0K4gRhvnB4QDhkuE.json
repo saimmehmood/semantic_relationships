@@ -1,0 +1,123 @@
+{
+    "address_components": [
+        {
+            "long_name": "101",
+            "short_name": "101",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "76",
+            "short_name": "76",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stafford Street",
+            "short_name": "Stafford St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2S1",
+            "short_name": "M6J 2S1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">76 Stafford St #101</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2S1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "76 Stafford St #101, Toronto, ON M6J 2S1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6437203,
+            "lng": -79.411552
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64509613029151,
+                "lng": -79.41006901970849
+            },
+            "southwest": {
+                "lat": 43.64239816970851,
+                "lng": -79.4127669802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "12ec50587198b0321b4f52c542343470bbb0a039",
+    "name": "TritonWear",
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105776681598514100612/photos\">TritonWear</a>"
+            ],
+            "photo_reference": "CmRaAAAA758I_qYwxPm9JkA541HtVE0i-a8NYYCCBQ31Q4nKd1F9iSmjbfKtC0r91hFtJQlo78LsmlD4RkgRO97MU9Os-z5oBjeBNL6Kc_DNqp2zOPszasnMBncrEss2VIo3-vW5EhDKAB96RFnZpfIb0AYqa-JaGhSnKd1rUyIB3tg9JRX91ttTbcjLfg",
+            "width": 2048
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105776681598514100612/photos\">TritonWear</a>"
+            ],
+            "photo_reference": "CmRaAAAA8yZFS1ImjEYRECw0p8Lqdu5F8tlUzzZ0WPTZYaYvMd2XZVZgHt5c8dBJfZpsP6r1RoKC0atS8pZ7_Ttd4vU14iYDSEU8tMc1fKQN9TsXIQIahiu7VTNH5o7tm0zJR3tQEhAz02y9jcwlTTXAf8I5swx_GhRabssjclSvnRDu-tsAH7msZOC7Dg",
+            "width": 1200
+        }
+    ],
+    "place_id": "ChIJETDy9OI0K4gRhvnB4QDhkuE",
+    "reference": "CmRSAAAASt8AHMsGvE4yaLZkOfjwFjI_T_9V1WSLYj8yiScqMe-pQpSaOPK3YzDha1Lg60C9-NygVajTam6V8ZfwVLApxCmUMvIp7rEyBpPKxe_z_wU__i04eIrQIuhUFuayQ2DAEhCqbZRWnnsp9UAGUfF6LISfGhQL7P3xTjXYiRPI6H5S18I28pv3xA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16254301399037376902",
+    "utc_offset": -240,
+    "vicinity": "76 Stafford Street #101, Toronto",
+    "website": "https://www.tritonwear.com/"
+}

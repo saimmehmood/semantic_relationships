@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "952",
+            "short_name": "952",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">952 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "952 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "formatted_phone_number": "(416) 421-4200",
+    "geometry": {
+        "location": {
+            "lat": 43.6446638,
+            "lng": -79.41698610000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6459605302915,
+                "lng": -79.41561526970851
+            },
+            "southwest": {
+                "lat": 43.6432625697085,
+                "lng": -79.41831323029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "385bf7c20aea14eb2d1bb94d46c69a6a1671fa57",
+    "international_phone_number": "+1 416-421-4200",
+    "name": "Sid Lee",
+    "place_id": "ChIJR4zvp_00K4gRY6o-umuYr2c",
+    "reference": "CmRRAAAAIAPNVgRCfz-XI_9DdMzfNGpbdMdYBSd4Sqa6qmMAOljjWUFb2W2Z0ALaON2ITO2UwnBmi_xH11xwGSsOHa21RUYK1uQzcUdy-XQn-P9pCKj3KFINm8BjfmpdPpDF7kKsEhCorp1CY8fuVSr0CvpO1bzVGhRUuLX4YAHqxdzzgkGTEO5Di0KteA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7471357895284533859",
+    "utc_offset": -240,
+    "vicinity": "952 Queen Street West, Toronto",
+    "website": "http://sidlee.com/"
+}

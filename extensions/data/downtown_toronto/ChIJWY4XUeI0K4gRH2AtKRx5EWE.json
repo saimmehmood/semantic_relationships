@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "81-95",
+            "short_name": "81-95",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stanley Terrace",
+            "short_name": "Stanley Terrace",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3V8",
+            "short_name": "M6J 3V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">81-95 Stanley Terrace</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "81-95 Stanley Terrace, Toronto, ON M6J 3V8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6443319,
+            "lng": -79.4108538
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64568088029149,
+                "lng": -79.40950481970849
+            },
+            "southwest": {
+                "lat": 43.64298291970849,
+                "lng": -79.4122027802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "9916315671cb04ccd8db5fa5b553752ab57d59b3",
+    "name": "81-95 Stanley Terrace",
+    "place_id": "ChIJWY4XUeI0K4gRH2AtKRx5EWE",
+    "reference": "CmRbAAAA9IegBezUfeqC0S67TZgib8TMMSV-Vuy5stR_2kgAjlJYJ_p2xUWXcr_GsFC6KNiMr9XL3IipirJ0TMa_QUEije0Rmp0Tqn8YOD2otOylIeeM7dYP_Tu_srLK0eHbTakbEhAYK1sQ5Uke46AzyZXchUM1GhQLEPl0-hP07ZUxmNqtrBEsE1w5WA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=81-95+Stanley+Terrace,+Toronto,+ON+M6J+3V8,+Canada&ftid=0x882b34e251178e59:0x6111791c292d601f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

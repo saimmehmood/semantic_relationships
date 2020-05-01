@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "67-61",
+            "short_name": "67-61",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J",
+            "short_name": "M5J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">67-61 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "67-61 Bremner Blvd, Toronto, ON M5J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64308570000001,
+            "lng": -79.38077009999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64443468029151,
+                "lng": -79.37942111970848
+            },
+            "southwest": {
+                "lat": 43.64173671970851,
+                "lng": -79.38211908029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c225ebbcb6a75517f649f46c606d2f09722f82c7",
+    "name": "67-61 Bremner Blvd",
+    "place_id": "ChIJR8noydQ0K4gRm6hjdCH54Kw",
+    "reference": "CmRbAAAAk3Mbxic1vm_g1WUL08T2cwy1L4SoNxhwHVgyD5QEZCwrwzn-tPmDY-wot2zqpsPYSL5Ey_JjAJctEVjQNiqpxyuT6JJKwBVf_sCx453pQLPRyXkzx1JzFTMSQHe8ctrtEhBMiTRphEUrShyRakm3kBKIGhRIiti0UDqCiQXrPPaZxoAmYPhB4A",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=67-61+Bremner+Blvd,+Toronto,+ON+M5J,+Canada&ftid=0x882b34d4c9e8c947:0xace0f9217463a89b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

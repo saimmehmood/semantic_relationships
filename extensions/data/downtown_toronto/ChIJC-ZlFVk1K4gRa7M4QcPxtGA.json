@@ -1,0 +1,165 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V1",
+            "short_name": "M5V 2V1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "125, <span class=\"street-address\">55 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "125, 55 Stewart St, Toronto, ON M5V 2V1, Canada",
+    "formatted_phone_number": "(416) 889-7595",
+    "geometry": {
+        "location": {
+            "lat": 43.64324589999999,
+            "lng": -79.40126149999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64467468029149,
+                "lng": -79.3999433197085
+            },
+            "southwest": {
+                "lat": 43.6419767197085,
+                "lng": -79.4026412802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bd7d87244062dd59a47d021025b513961c1bfc08",
+    "international_phone_number": "+1 416-889-7595",
+    "name": "Maximus Rose",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 4:30 PM",
+            "Tuesday: 8:30 AM \u2013 4:30 PM",
+            "Wednesday: 8:30 AM \u2013 4:30 PM",
+            "Thursday: 8:30 AM \u2013 4:30 PM",
+            "Friday: 8:30 AM \u2013 4:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJC-ZlFVk1K4gRa7M4QcPxtGA",
+    "reference": "CmRRAAAA6ef2_ZbaGGV2YYoRf1Jjaz_vSIbICNhZ6WGInoo8cdbS6Gi82JaBdSA-ELpya6a_c1neqb9mmpYWb_vrv4ZzgM14QsQo8HFqHFq4tJ_EnRKA1D7RY5vCipc6iBB_Luf8EhCtmW4qPM0yEiDNxdE18cX9GhS-MLbXCH6dWzCSBsTU799wnhHidQ",
+    "scope": "GOOGLE",
+    "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6968460344364151659",
+    "utc_offset": -240,
+    "vicinity": "125, 55 Stewart Street, Toronto",
+    "website": "https://maximusrose.com/"
+}

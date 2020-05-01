@@ -1,0 +1,212 @@
+{
+    "address_components": [
+        {
+            "long_name": "914",
+            "short_name": "914",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V1",
+            "short_name": "M5V 2V1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Stewart St #914</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55 Stewart St #914, Toronto, ON M5V 2V1, Canada",
+    "formatted_phone_number": "(647) 749-8479",
+    "geometry": {
+        "location": {
+            "lat": 43.64320559999999,
+            "lng": -79.40224099999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445376802915,
+                "lng": -79.40088551970848
+            },
+            "southwest": {
+                "lat": 43.6418397197085,
+                "lng": -79.4035834802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "970b030239f595795ec9193802a197d6e9e14ba6",
+    "international_phone_number": "+1 647-749-8479",
+    "name": "Canada Fiber Optics",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 5:00 PM",
+            "Tuesday: 6:00 AM \u2013 5:00 PM",
+            "Wednesday: 6:00 AM \u2013 5:00 PM",
+            "Thursday: 6:00 AM \u2013 5:00 PM",
+            "Friday: 6:00 AM \u2013 5:00 PM",
+            "Saturday: 6:00 AM \u2013 5:00 PM",
+            "Sunday: 6:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 863,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117205136962240348206/photos\">Canada Fiber Optics</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ0CV6UMMCBNPGFrkqldKWjt6llv52I4KTRGdWKIqcmcKlKi2geZ8P2v7Ao2FmeniehADf11R1PfbkKM73bMhwfUF0Qj6Y8J0LOpLvkKrtlYhS3URmNzC5wZehq9RS3XhEhB-dtbaLI3daKPr6ddJcFSkGhQ30w1Q1DK4UXsJDhtmptzz_XJPjg",
+            "width": 863
+        }
+    ],
+    "place_id": "ChIJCwnd2t80K4gRMAfhl2bSkKI",
+    "rating": 1,
+    "reference": "CmRSAAAApuZ8uJkW0Q4XrNVNS_KkQ6Dr89bUTyUZYldofU76Ey02PBWxJzU9eC9O8zaQa8GQjvhXhaHBMuAYDAiCOWnBbCXFHgg-i692qxdRI9HPFVU3oi_AIIKdD2QIHYjAg_LPEhBZ1hvUhPgxovp2n4eoZKBfGhTKYngDXf7GETdrW64cLsoYd6DPkQ",
+    "reviews": [
+        {
+            "author_name": "Lenka Zapletal",
+            "author_url": "https://www.google.com/maps/contrib/112785576612460586435/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Z4mwvHrrSV0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1kgKSOiLUNF9g9R6PFRvwjaU70tQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1494200312
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11714093968867264304",
+    "utc_offset": -240,
+    "vicinity": "55 Stewart Street #914, Toronto"
+}

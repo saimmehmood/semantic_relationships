@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "588",
+            "short_name": "588",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J",
+            "short_name": "M6J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">588 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "588 Adelaide St W, Toronto, ON M6J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6447226,
+            "lng": -79.4039074
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6460715802915,
+                "lng": -79.40255841970848
+            },
+            "southwest": {
+                "lat": 43.64337361970851,
+                "lng": -79.4052563802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "3186f7388d10b409e2e88b34af619cbb5d324da7",
+    "name": "588 Adelaide St W",
+    "place_id": "ChIJqxQNkuA0K4gR9b59y0nldKE",
+    "reference": "CmRbAAAAWxD6QYDW7Z0yjnLmrJN76oHUcLaKkffSMfAxjQvt_8cXPESnPE3hqEeiwZZJbvizNCDqy_q9jUYrYlk9UeRCoIIQ49AgUpmo091oNKQ8dYdgG6XlttsGunLq3tC3iJDxEhBCLf0CKcrMCADz7euUaJX9GhSZ9dfoemuAPrYvQJdsbUoRicJHdw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=588+Adelaide+St+W,+Toronto,+ON+M6J,+Canada&ftid=0x882b34e0920d14ab:0xa174e549cb7dbef5",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

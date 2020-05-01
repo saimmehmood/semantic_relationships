@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Crawford Street",
+            "short_name": "Crawford St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2V1",
+            "short_name": "M6J 2V1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Crawford St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2V1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Crawford St, Toronto, ON M6J 2V1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6431258,
+            "lng": -79.41408349999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444497302915,
+                "lng": -79.41285121970849
+            },
+            "southwest": {
+                "lat": 43.6417517697085,
+                "lng": -79.4155491802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "e8c22aaab680a5a02d78b0c209125d20610c333e",
+    "name": "Luxury Living on Queen West 1BR",
+    "place_id": "ChIJN6IvreI0K4gR-hVfnexMcfc",
+    "reference": "CmRSAAAAptllwWuQAviQjIcnLXVNSgzFxYpFY-dxC58SxVQ2D7qjpjHsmSF_Uy8_IV-cNqUNjz51qLTrjw8kvyEWh_UKGDxIiA_j118pLcuiTIkSnKsq7w08uWUud6FQOZJF7yyZEhBOSLclJVMs2Gh9kqEP38sTGhQcOGPCgadsbX6vRUiknrEZNM3iEw",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17830116978872751610",
+    "utc_offset": -240,
+    "vicinity": "49 Crawford Street, Toronto"
+}

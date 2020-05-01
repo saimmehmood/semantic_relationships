@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(416) 979-5813",
+    "geometry": {
+        "location": {
+            "lat": 43.64352640000001,
+            "lng": -79.393637
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448185302915,
+                "lng": -79.3925011697085
+            },
+            "southwest": {
+                "lat": 43.6421205697085,
+                "lng": -79.3951991302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "729ec1d9e96e8c828f282038870f68f4ce49de81",
+    "international_phone_number": "+1 416-979-5813",
+    "name": "Dutra Architect Inc",
+    "place_id": "ChIJ6Vg3GN80K4gRtK3oXO-o2r8",
+    "reference": "CmRSAAAAK0i3XCVagHysibeYxpF3SiSfvntBtI9VdLV4AlRSBGYQzZLdPEb2sFnhnEOgmbygGVYKceaF21QvESc5_AmwDsXeCqKuA4-otnb2gqbwyjMf09XVZ_NfmNY3KwUKQnQWEhAZ4u16MVYp4xo0ZPIJlEydGhRoWTM8n5BfIJdbSPwbjk5sWPAVdg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13824547752176561588",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue, Toronto",
+    "website": "http://dutraarchitectinc.com/"
+}

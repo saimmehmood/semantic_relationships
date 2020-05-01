@@ -1,0 +1,122 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V1",
+            "short_name": "M5V 2V1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55 Stewart St, Toronto, ON M5V 2V1, Canada",
+    "formatted_phone_number": "(416) 364-8965",
+    "geometry": {
+        "location": {
+            "lat": 43.64324589999999,
+            "lng": -79.40126149999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64467468029149,
+                "lng": -79.3999433197085
+            },
+            "southwest": {
+                "lat": 43.6419767197085,
+                "lng": -79.4026412802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "00a671ae93402dfc59e8705e189227c12fb74c6e",
+    "international_phone_number": "+1 416-364-8965",
+    "name": "TSCC 2082",
+    "photos": [
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110979562247255886807/photos\">Ontax Tax Clinic</a>"
+            ],
+            "photo_reference": "CmRaAAAAkMhqMRfANOEzp8QnwB4ue31871wiYGm4yRc70ce11qdHLkXvG890PmqcaWbWgut2O5tPG2SRHy7FJm6uTR93uCYfnHtcf5jxQ-bouChie1vB7n51bEA0gRKaj7E3UlRNEhDHmwpI5mGt8YBaHYS4uTlFGhQOX1H7bECDYmMU8AUrHoVfLN_-NA",
+            "width": 640
+        }
+    ],
+    "place_id": "ChIJCwnd2t80K4gRkf4vsIkgZdo",
+    "rating": 5,
+    "reference": "CmRSAAAAHK0lYKfj3TaEMZmkawtdjdCQN5FdHkVqCCzxts8J53jYfeEfszIjJJysG3h2ocfwQ0J6XCxBSzf7z5GsAvVUsPEuFVx-jcjX2wwkyzx3qOt67-zyIM6ubbN5OzZlADaPEhBDVBp2Tpp63W59h2nxax8IGhTakUShKaIaoEPq-dp40MpwlRfFHQ",
+    "reviews": [
+        {
+            "author_name": "Ontax Tax Clinic",
+            "author_url": "https://www.google.com/maps/contrib/110979562247255886807/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Tjp-Fb0nixU/AAAAAAAAAAI/AAAAAAAAALg/yXSp8nKx_mU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1465623219
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15737020248654610065",
+    "utc_offset": -240,
+    "vicinity": "55 Stewart Street, Toronto"
+}

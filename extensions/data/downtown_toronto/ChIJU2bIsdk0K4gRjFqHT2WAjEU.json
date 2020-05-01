@@ -1,0 +1,106 @@
+{
+    "address_components": [
+        {
+            "long_name": "203",
+            "short_name": "203",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave #203</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave #203, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(416) 479-8689",
+    "geometry": {
+        "location": {
+            "lat": 43.6435295,
+            "lng": -79.3936464
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448225302915,
+                "lng": -79.39250711970848
+            },
+            "southwest": {
+                "lat": 43.6421245697085,
+                "lng": -79.39520508029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "df9ca8a1638b70d2ea812298162c2046aeda776d",
+    "international_phone_number": "+1 416-479-8689",
+    "name": "Octopus Media",
+    "place_id": "ChIJU2bIsdk0K4gRjFqHT2WAjEU",
+    "reference": "CmRRAAAA7hQQPcYt2DAREnJ03baYut-pKz3J0FAzdpx6OxXE66vt83Kxdm1_JWwgo1qx-2sGiNzBPuUmdnz7WxBFsKLDFOboYUzE9bkHW3L2tV8nU_m0bXjpcnXhCrl4komduEJfEhBr4QOC_YNLSfPDYb5PmWdZGhRJBz9TZy5umIgiBYHEagmrqYX0IQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5011521657970842252",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue #203, Toronto"
+}

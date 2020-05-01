@@ -1,0 +1,181 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6435987,
+            "lng": -79.40875419999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450111802915,
+                "lng": -79.40725996970849
+            },
+            "southwest": {
+                "lat": 43.6423132197085,
+                "lng": -79.4099579302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b9275fb7813f80579fa4d598903502ac7c5e4025",
+    "name": "TMT Solutions",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 635,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115413282249825771795/photos\">TMT Solutions</a>"
+            ],
+            "photo_reference": "CmRaAAAAFWQYm3YS4Yq8onAjaSGVU9TEUbsWYF7DabkQdA4abhPcTFmUvMbEQ4u_qQkx86W2WdgfNRTm-w0CFnfWA1wh3L31DhIJPSOZLxJEu1ppkDIqrr0ydY8qNgPmuJ9bl4iWEhATdiKoelKVc15KXyxaxbttGhT4LXLTILw4pt05mGu8FfONmoLcAg",
+            "width": 1346
+        },
+        {
+            "height": 446,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115413282249825771795/photos\">TMT Solutions</a>"
+            ],
+            "photo_reference": "CmRaAAAAEBmcehOOuJy1UDtWF06eq4aBQTEEUFkMHa2zWxACJ0f-o8C1etz7rQRJiiRFe2cR-hr9uOp-JtsYiRFYfBw-jvNSuM0_cknT_xVY3a6BaknQtOZnoBkpQD1eZKNiHtYBEhCuezbD7N9RGErlvcj9QIPIGhRt_ZOk_FYcutX-Cxl7dNHUSWJvCg",
+            "width": 446
+        }
+    ],
+    "place_id": "ChIJGYAUJ-I0K4gRTa9J7uSwAko",
+    "reference": "CmRRAAAA0YysEOBK14Jhuxiu32RGMfr9-6x6uFj1ptr9ptOKwpTcNi6EBoQ5qQS_0Hd5XhssK5Ews-q3f0K2FuYV6G27eBvF--GeSNO0OhNEA-I4uhcFbUt19OXFDgMP62us1LBLEhCPN5ebtnPgM9ySqggI3rSeGhQG41bUK2ELOTWuY-genbWrGBRFyQ",
+    "scope": "GOOGLE",
+    "types": [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5333019406056927053",
+    "utc_offset": -240,
+    "vicinity": "229 Niagara Street, Toronto",
+    "website": "http://tmtsolutions.ca/"
+}

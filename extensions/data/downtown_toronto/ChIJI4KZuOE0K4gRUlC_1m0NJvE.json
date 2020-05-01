@@ -1,0 +1,223 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N6",
+            "short_name": "M5V 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "788 King Street West, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "788 King Street West, Toronto, ON M5V 1N6, Canada",
+    "formatted_phone_number": "(416) 901-4788",
+    "geometry": {
+        "location": {
+            "lat": 43.64337679999999,
+            "lng": -79.4066145
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64472578029149,
+                "lng": -79.40526551970851
+            },
+            "southwest": {
+                "lat": 43.6420278197085,
+                "lng": -79.40796348029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "03c4d25856ff53349dc3899cd57db38d4688c69c",
+    "international_phone_number": "+1 416-901-4788",
+    "name": "Studio Lagree",
+    "photos": [
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107371907637476405362/photos\">Studio Lagree</a>"
+            ],
+            "photo_reference": "CmRaAAAAhdDlkCntcCUKUovKif_3cd2M3i_sH2mTD95Ht1mKb5fb7LnaUiu-w9tZ-zkNdJyUVY4T7UvoapsewIsz2j2oeljmQe_4OmMjC7Zf2EGDKl8-PqpHWUC8L2tz_4u3Qcc1EhDCSK6VLSkcE38JQNGGg3lrGhRRQMLy69CJy4nnd3YsOGDyvIltHg",
+            "width": 2048
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111352003098990428073/photos\">Drew Woods</a>"
+            ],
+            "photo_reference": "CmRaAAAAbSpv_Oi2LQD8CYr0xUKq-Qffj_AZjnLgkv_Wfsu9NHPeguopo9gTcVYN1HC897-AvElMWTXAA2sW-XCjubNPUSvoiVUt4UMGI9-LmTJjYcex0UVzqi2Ojfrw0Yor8WAlEhB6B_VX-992cGGxAnNsDqgUGhTQdXG1nCranuPZHBpTeu8NBfdgRg",
+            "width": 2268
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107371907637476405362/photos\">Studio Lagree</a>"
+            ],
+            "photo_reference": "CmRaAAAABvtYd87-uStw-if73aXe8MJ0CAQIZyG8Xfaf6XRLEEOj7nojUYjHg8-syjWduf7APR6SkVppmwnnnIbgRr5vLPyzoqIqVmcu2L3VCglyO8cleGuyya6H-4_L5QAeo9JpEhAfkBhxI2QGPBJwbSeAWIt2GhQZ0UbCCYWVgnomEUXBhhg5db_Wew",
+            "width": 2048
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113720893077833437434/photos\">Crystal Monaco</a>"
+            ],
+            "photo_reference": "CmRaAAAAJ6KKngGYwVAS8G2Xu5NZQZsqMR-v8x4kG02N06UOOs7zTXAuGMNpHE5VJAMSN3Zeqw_8MJ1lPn7CnPH9NL2i9flXZdqWUTCRI_RihsQrBF-mu8rXkGjrIr5rJtY_M-bpEhBrO4qog_NxuQ4aCa-HKdHZGhQQ8R9T8SkovzswaXiK_Fa0YtO58A",
+            "width": 4160
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111206243795552791259/photos\">Joanna Rong</a>"
+            ],
+            "photo_reference": "CmRaAAAAvJhyUdYrzNeP898aZA1OMDwiL8g8cgFbcr8OIavq2hOHDUL_cEiF5Y2tcmm9y_UZIkhiupeMKz_ATjobsb3X1pGkuxGBlxAM_NJaDg096tSWhXnVY5ivMJ7d5vRB7oTYEhC8ZIp217QmR8p-q_h0twZkGhR8SCjEwX7ImzVKFIGPG0EoZk-0sQ",
+            "width": 3024
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107371907637476405362/photos\">Studio Lagree</a>"
+            ],
+            "photo_reference": "CmRaAAAAmxPoAfBhI8cr026pqdsQm4BI5OFTl15z7_W1nHV3Zz8lvKtZM5TU0i_lN2XzOMV46bkWuEE_mvJhXMh6LYfn6K0moOyyI6skXpf0_bznUoHsp7LvG9zdQ7Xmpfv5v3DpEhC-zhDYyViN1wT0K4Gdy7XzGhQoQ642DXLqFltjwITwfjmJtMRloQ",
+            "width": 2048
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113720893077833437434/photos\">Crystal Monaco</a>"
+            ],
+            "photo_reference": "CmRaAAAAg_fv-wXhq_AKAYmn9HwhHLw9BEqMzJAmN2JvqUnxUmw6IslzdsP0jlx5SOwBGDp_GrVIuPPrQ0AfpdpAwMyTHIWHoo8AnrxTn440opbvNz5JSL3jKyRh1t5MBR7LoBBXEhCtHydlEXWOhAzJCbjZ3BiVGhTENo1DLJ9mGEiWXizLAH_PjLn59w",
+            "width": 4160
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111206243795552791259/photos\">Joanna Rong</a>"
+            ],
+            "photo_reference": "CmRaAAAA53zq-Q-wF0vk7LY_k2u-dxy-t-MnapvRwz2XgGRZc5POJmmbKKl1GQU0sHJROh392lrWitkh5c7EeKW5z9v0TBn46xatBQ5Wq4glWXJ2K6Blomn602ApweB0ZSzaC2ovEhDIKbuhoCaBAsRx-XTjkJF7GhTQbsDiBAhPWqdLbKLNHjbwlnNHew",
+            "width": 3024
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107371907637476405362/photos\">Studio Lagree</a>"
+            ],
+            "photo_reference": "CmRaAAAAq86q1WKSJzIcUk8QaCuT8EX0bVxOh7s_jjL2yZ5f1IrEOePmX_CdNTBD4gq0livloqVkutr_i-Dcy4bFh5bO_qzHgu5kNkXn9D794fvCRItHP_ggPqFsx7b1k2ZJ4KqgEhBS_9-Mp9Tb8Ytn62SsQqhBGhSebEFwiRYvxCKI57aDteHRLGqvtw",
+            "width": 2048
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113720893077833437434/photos\">Crystal Monaco</a>"
+            ],
+            "photo_reference": "CmRaAAAAVtPHDwdU725eW8jZzHxBKrcveA8iZR4QAcHeiBa6XQVY7_yoPOwEOesbVe6NQAw6oO5Qc6OH7fZXHkmkAFHgvY8L1PM3Sux7FG3wpj8938PROavA4eNcYn3-dMhrHZEQEhDyCrngtuXrccITzKRsxL2HGhSFCJnGGFSaicGzid6jTzudgM5DSg",
+            "width": 4160
+        }
+    ],
+    "place_id": "ChIJI4KZuOE0K4gRUlC_1m0NJvE",
+    "rating": 4.5,
+    "reference": "CmRSAAAA6b9qTr3MzjMJADp4Utl1fh0WPRee9ILWZbIZwAepTw9ETRQOsIK28BzEfNvc1fk4xN28R9eetmnkU5RfJRhkxnUwB-aCtFcKpw8tQ6NA7PG-bq7SKihrtz7DAUVv6ElIEhCoLMWsGg5iCZcmWrdyPfbsGhQOAYU_x6GnR2pILohJ9uP-NAXM8A",
+    "reviews": [
+        {
+            "author_name": "Angelika Jarski",
+            "author_url": "https://www.google.com/maps/contrib/117984422224313752886/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-IFoG-5WJCCA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2zfr6_4p-kmvKYMXXUDX2EiVZFtA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I really liked the positive energy and support that was available.Even as a new visitor, I felt comfortable and was easily able to follow the trainer. I also enjoyed the music and set up of the location. It was a great workout that pushed my limits and already felt results a day later!\nWill definitely be coming back!",
+            "time": 1525698521
+        },
+        {
+            "author_name": "Gabriella Cook",
+            "author_url": "https://www.google.com/maps/contrib/102675808336795034942/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-CU5EoZ0ID8g/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq06fso6RWIJRjntU5SLnFvhJNnB1g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "The classes are absolutely incredible as are the facilities. The teachers are so welcoming and are able to adapt workouts with ease. The Lagree method is one of the best programs I've ever tried. I would do these classes all the time if they weren't so expensive.",
+            "time": 1526163417
+        },
+        {
+            "author_name": "Stephanie Goulart",
+            "author_url": "https://www.google.com/maps/contrib/111187024522789716590/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-MVm920AfbHY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0IuW3FOO6VO2wsMntgTJlYJt5UOw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I had fun at the class, and I got in a good sweat. The instructor was very good at giving instructions and very hands on if you needed any adjustments. She was really good with asking if your comfortable with that before she adjusted you..lol would highly recommend this studio, it\u2019s very clean and inviting.",
+            "time": 1520913292
+        },
+        {
+            "author_name": "Jessica Liu",
+            "author_url": "https://www.google.com/maps/contrib/111401295497268169917/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_dxSIRSMZl0/AAAAAAAAAAI/AAAAAAAAATE/BiTY67lCepM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Rory is a great instructor! She's enthusiastic, takes time to go through the movements and comes around to make sure you have the correct form. Each class is fun and challenging (you will definitely be sore the next day!). Especially enjoy the come down period at the end with stretching.",
+            "time": 1516200457
+        },
+        {
+            "author_name": "Emily Nhan",
+            "author_url": "https://www.google.com/maps/contrib/115319190295821024739/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-x2uryKYoH5U/AAAAAAAAAAI/AAAAAAAAAuY/HYdC9HbUQXk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "One of my favourite workout classes I\u2019ve ever taken.\n\nA truly full body work out. You\u2019ll leave feeling sore in places you really didn\u2019t know you could work out and stretch. \n\nAll of the instructors I\u2019ve had have been great and extremely welcoming. My favourite being Sonely who is patient and kind while also pushing you to work yourself harder.\n\nParking is a bit difficult for this location, there\u2019s street parking in front which is paid but little streets nearby offer free 1 hour parking which is great if you\u2019re just taking 1 class.",
+            "time": 1513744743
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17376590977661096018",
+    "utc_offset": -240,
+    "vicinity": "788 King Street West, Toronto",
+    "website": "http://www.studiolagree.com/"
+}

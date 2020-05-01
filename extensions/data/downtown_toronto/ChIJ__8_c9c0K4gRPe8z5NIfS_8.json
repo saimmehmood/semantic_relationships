@@ -1,0 +1,118 @@
+{
+    "address_components": [
+        {
+            "long_name": "325",
+            "short_name": "325",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Y1",
+            "short_name": "M5V 2Y1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">325 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Y1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "325 Front St W, Toronto, ON M5V 2Y1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6431718,
+            "lng": -79.39028549999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64473323029149,
+                "lng": -79.38902566970849
+            },
+            "southwest": {
+                "lat": 43.64203526970849,
+                "lng": -79.39172363029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6ac834174232b05d04d85681a396aed260318a20",
+    "name": "SAVVYY",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJ__8_c9c0K4gRPe8z5NIfS_8",
+    "reference": "CmRSAAAAa1fk8iWKEE-76EimkYgtlYrk0WEV5NyCbADroXUMPs5QXzYPuqjHyntnJTOKNH4EOYT_yipeAcOYTRLvb2jbaM1qoaE6w2X2mWYu7oD4WKhxMsw-4ywwTnvSsVXf2OZaEhCWuzWsGAFRv-b-IqtO7tBhGhSrcRzuiwWVR5hu-yKac7lh2CyLYA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18395832093557124925",
+    "utc_offset": -240,
+    "vicinity": "325 Front Street West, Toronto",
+    "website": "http://savvyy.ai/"
+}

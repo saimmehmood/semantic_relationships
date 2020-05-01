@@ -1,0 +1,247 @@
+{
+    "address_components": [
+        {
+            "long_name": "571",
+            "short_name": "571",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">571 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "571 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(647) 351-5935",
+    "geometry": {
+        "location": {
+            "lat": 43.6443239,
+            "lng": -79.3994336
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64578768029151,
+                "lng": -79.39812886970849
+            },
+            "southwest": {
+                "lat": 43.64308971970851,
+                "lng": -79.4008268302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "82ba4f849483ca83cd58947e33a2c3d07b31f60f",
+    "international_phone_number": "+1 647-351-5935",
+    "name": "The Condo Quickie",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAAIYIciJN_XhU4SMK4DPpc051VD0h6dSkShHqpSRIk3S3pQj1xIRCEXmzbjPI0_iuuWPj_lYWiser1WgwreHYq8z2xvrJ5w5uBws3irz0fh2ZK-rbQvKV56dfaPoEef422EhCzsfoXroW7MfxUKIAlIIK3GhQltZOOjp0z3worPRFqoROX30RB3Q",
+            "width": 666
+        },
+        {
+            "height": 1964,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAAD_W7jbJi7ho8tQiXkSKyrFrMwJp9mI84o2lEN9ebZP2L5eAGh0HIVrsk8_qjPnAO90Yox-qieOAVyK67pFZXSqMBAxufhKktuQssRMDBSxuTZssH4DrpjU-SeSfemIsrEhDZuKDP8jn1KdKPHgpx4IEPGhTxKbwjSEUnC4a2JJdejsS4EetEXA",
+            "width": 2250
+        },
+        {
+            "height": 630,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAAyH-lKr3qZM8LqeimeiMIOEzECNzfdhDOKf2g4vMEjeNqdIUq9XyL7iP6Zd31g2czpW_oO5pPF7NNzU-VVj5LvUIshq_ejejPz-56Gyy1LIe_TsPxIJ-FuKoNG5ldvIosEhCERTacVtsAW4IT55F93CshGhTdMzInNuOFjLn8g8V8XdwVWLKcxA",
+            "width": 1000
+        },
+        {
+            "height": 1997,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAA-vexllvYPaP2NVl4xsdBfD8_cCijpYZwK_Ptvqw7C1NFgoMn6Ub_MeszKphBF8fCu_EcoBtNXj-FqTyxKlyZFqU9aCsJ_0pP5EmhRyaUWavCzE3ayOLwD4rPPPCEYJGTEhChzLvogM3QssX6I_hTC9khGhRIzQFh27yUNGArp4A_a_iki-HSxQ",
+            "width": 3000
+        },
+        {
+            "height": 1348,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAAi1gsYVUIOquyItWweZsrooKYxLfTK-TRvDEhd9ELepHBl909QQ3GOhHiDNVu8im5D_dadwxDqUp9WmI1Y-RszWjbSCfA1KQyk3kh4ojNxe7xUjiW1ihipZ7r9RMjnG16EhAIqbI-wvmroXYMOSZPTObLGhRjk0zHsXYj4p5qn5wQJuJLhLmFmw",
+            "width": 872
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAAkX--s0_qSuTzxjr-hpZ1tRyH6kAUf1aKAkrmZf95j3s3dkC_rfsF7vFdYzxDog_MXxUIoOkkfFKUJ-EsSy7ySipbbYRaC1Yxbo4M1Z2L6WZ9C8SOrBTwj9xzxScIwcr5EhAdnbLndYh30DCa2er67TBdGhT7Kq2VYRkuWr4aT4kuidy0qzGONg",
+            "width": 1494
+        },
+        {
+            "height": 2000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAAcyKu0gQQvIXaHR1gMIq8ieCCo-0zFKxBFYS7Cu5XYHATMwmBUri7t-0qVNm6svtrGZvxUNif8hE5GC-BBHkzDyMEwuVrLL1R7Lzb8uNvTYfU6-aw60Qteh0wWSI5R2LTEhCJqvTf5iKYeQQfu778jdBjGhSdu-bHU4-sHdSi7OjYHJcuid1Q3w",
+            "width": 3000
+        },
+        {
+            "height": 1818,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAAOspeN5wOlWBDQnYpdlHbjOzeJJijK8TokWa6_BDtuQIvuYOcxbfrs9E5HLsqhp3K7T1HXgR9D8rD88e9BdOFYeCkgix35cB1oJPxz94nuc1Z3kVhjAZzgKXWVvCs0NzfEhCEMn8HmbraQFBfyGMBO2PPGhRBeqHCibSGT_wiOtruj0fdfhjsAg",
+            "width": 2048
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAAMT8zvqgwxgQFm0SA022LNzDxKdylh0oO0LXYSo3dcMpZwhE7vAvuRR3BfGfMkHM_Qy1oH0LVqAg-HkOYdsbnddIGL_dT0g86e1lVp86Ux6kalbVcQOrCSe2VtG93iBv8EhCmoxSCResYYUEGOGXRI0p0GhSXAdx_kEIWR6gX-7CrRF__Lmc0Kw",
+            "width": 1389
+        },
+        {
+            "height": 1852,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107330424338291664559/photos\">The Condo Quickie</a>"
+            ],
+            "photo_reference": "CmRaAAAAt_zG8F8rSaDlaDLco6MEXOFdKu9SLKYHAI09qbI5rO8BmczrMCwrcbMFD8bJB-F2a5ONPO3jDYA8E8jd11-LZqLK_GPA4C9rC9ml_51-TFWO3EqEASSNS9QKPiemE5ACEhBi9CzXWHhUsIkAr3bqSDORGhTuHu_IzY76jCj5p5NJqoTANBBPaQ",
+            "width": 3000
+        }
+    ],
+    "place_id": "ChIJoQXi8N40K4gR1J487vmxgl0",
+    "reference": "CmRRAAAA9hvozhPZ-x8QYW275Kt4FX_1bbXqgIbivfyz3xy4i9c9Xx9nwv_vnELjZ8QTErlpeZLA3MNtIyOFcdXN1GQLPIXOxs8Q34LI0_q_cRcN6H7H5F00EweRpFDFUZmOSOJPEhCySP02GQtmpWelzahTfYxVGhSifUxnhyhnXURfsuQlqMYSDXnbkQ",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6738143679501606612",
+    "utc_offset": -240,
+    "vicinity": "571 King Street West, Toronto",
+    "website": "http://www.luxdesign.ca/the-condo-quickie/"
+}

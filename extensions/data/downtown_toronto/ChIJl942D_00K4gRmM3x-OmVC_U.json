@@ -1,0 +1,140 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2W2",
+            "short_name": "M6J 2W2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2W2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M6J 2W2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64457300000001,
+            "lng": -79.416552
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6459219802915,
+                "lng": -79.4152030197085
+            },
+            "southwest": {
+                "lat": 43.64322401970851,
+                "lng": -79.4179009802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7a3c78af8fb7cf45149eb8c75d740e3742589b1a",
+    "name": "Queen St West at Shaw St",
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\">Dan Levy</a>"
+            ],
+            "photo_reference": "CmRaAAAAnLPKcQZ27gU2IBBCaV2D2KmIPvsHFUY2XK_wb94ZK9Pu0CXETRhCuIGLfJ8bRNiwhQ6IWFCVj5_jy_4RV9aWxHcuDKZGsMK59a0rFUKIfJy6xJe0wt3ERshJ0oMB4FY0EhDiJjOyWtNo8NoglOfNSf3aGhQxa6apeLt9qseqVA432idEdG42fg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\">Dan Levy</a>"
+            ],
+            "photo_reference": "CmRaAAAAleA1slo6vIaHuzOfjYg2cPAH79gch3mmE495Pxy3F85xn1RzD_mGV6PmkJQzg-gKhvDMtvEltLTKSbQX9jcYIFcdDiwXd7r--Wr2Lh30sZD4FPGoQ6vKc-v0W9DtCE_cEhA3Gg0CjMJ-gBq4ZubT7V6xGhTUiqxceiIGk96hF3S47PDgG3gRLw",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAJz7DLfFIUHH4sJ3X9RdImya9ugrglGGZIOjKiIEYrGcYtclE8uXXIuTr7MgITELapgTGVDCGZwd5ebdjN-Gqb-mGZ5fUld2A3hWDGUkjhDO0N-A8QnVbJMVkLVYlPlfeEhCAO77hNxInUUXgIRolHni6GhTwCFmxTZ2xFf_z6udmHTTe3Hb-iA",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105175761337711150993/photos\">Dan Levy</a>"
+            ],
+            "photo_reference": "CmRaAAAAlOvJYFXM1oZiaf4QBgKQhse5jZwIRb8mYplaxJu7cK-4AO-883OW_anIwRg7rd5ePZfn5g_FjAnRZjgIDMBK6uEzYVZ1aPXkTaZwTlYyZIPkj16u4N9F9QfVrZHrFFqREhBm8oOj7abwhsinwmnyqldEGhTay48H1sPvMpM3bN7CstJKuZIZ6g",
+            "width": 3024
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103286311577399978992/photos\">Sean Robinson</a>"
+            ],
+            "photo_reference": "CmRaAAAAq9w4dbunjxgHP8htSeXRpOKFalQXxFP5YbL6dAsG_eriR2ce4FrFBcjhPSDHavfeNKla-1RHlZAePxWtFzpN0xTt_BaJ5R6C8Tgv-ee8kMxH4o27GQgRBegcqep1Ge9-EhAjgGT-Yqt4BYqbzKRShsILGhT8iGSBqiEYnbMBHXrNBoTX-lD57A",
+            "width": 4608
+        }
+    ],
+    "place_id": "ChIJl942D_00K4gRmM3x-OmVC_U",
+    "rating": 5,
+    "reference": "CmRSAAAAKzJdvNsa_bOyjpjP9XtmPyT_1gF_4g1q7Nlwi5Nb5sfU2330ReCow5s6iwCuVF8bg8V6x4NWK1ro7GUCkc99J_RQ-LEHqnw3oZlqiK5u-3vmcjYmKAx4DL7Zbf20fYdFEhAmgprXTggS5yhp5BRpTX5TGhSdcSW7-OsFgbO1I0q4LiMLYqLipQ",
+    "reviews": [
+        {
+            "author_name": "Joseph Opara",
+            "author_url": "https://www.google.com/maps/contrib/108767968313287813212/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-IuXqWpgPoCA/AAAAAAAAAAI/AAAAAAAAASw/3Y7hTaz2v94/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The streetcar and bus stop here, no complaints.",
+            "time": 1526327002
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "light_rail_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17657371596172676504",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

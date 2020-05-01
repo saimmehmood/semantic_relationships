@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1072-1090",
+            "short_name": "1072-1090",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H8",
+            "short_name": "M6J 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1072-1090 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1072-1090 Queen St W, Toronto, ON M6J 1H8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6435726,
+            "lng": -79.4219086
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64492158029149,
+                "lng": -79.42055961970848
+            },
+            "southwest": {
+                "lat": 43.6422236197085,
+                "lng": -79.4232575802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "f58212f3fac511b69b373be45b6db62a03541594",
+    "name": "1072-1090 Queen St W",
+    "place_id": "ChIJu96TKP40K4gR8211WaPXxF0",
+    "reference": "CmRbAAAAH3z0heAyhKp65aeLrhMPho038E-gH_Hml_GKWrWOhJgezCpOhP-uiff0SCUBpc7QmxWeMRNFjZhqFOK1LHB-Ygk_ujmlaxzmelDYlplN6SQZwxPXpTZTdlEJbrGdDDP4EhBVuHklDV6MX0ymG8ekxIRbGhTUCLV1LrwDtic85BL9-9pyKEtx3A",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1072-1090+Queen+St+W,+Toronto,+ON+M6J+1H8,+Canada&ftid=0x882b34fe2893debb:0x5dc4d7a359756df3",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

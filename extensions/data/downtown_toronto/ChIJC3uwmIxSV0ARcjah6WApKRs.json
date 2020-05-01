@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "suite 4010",
+            "short_name": "suite 4010",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "161",
+            "short_name": "161",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bay Street",
+            "short_name": "Bay St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2Y5",
+            "short_name": "M5J 2Y5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">161 Bay St suite 4010</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2Y5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "161 Bay St suite 4010, Toronto, ON M5J 2Y5, Canada",
+    "formatted_phone_number": "(416) 762-8129",
+    "geometry": {
+        "location": {
+            "lat": 43.643716,
+            "lng": -79.41155599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450649802915,
+                "lng": -79.41020701970848
+            },
+            "southwest": {
+                "lat": 43.6423670197085,
+                "lng": -79.4129049802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "db4f7ad1e3e514702dd464a866872ec43ad2fe92",
+    "international_phone_number": "+1 416-762-8129",
+    "name": "Skypad Inc.",
+    "place_id": "ChIJC3uwmIxSV0ARcjah6WApKRs",
+    "reference": "CmRRAAAAJgdZyVJraESYmG1WqE52tAptipYQh-G365u1lLoALyKF3wLDcpP26Sx9AwvtjBWFgqQ2ahsC584_9_h1J-Ws3J_1UR1ghD-uiyRvsmVlxg-N--9m6KTFSRNUem6OKJYGEhCZTBqIKxm0eFEgbWk9ZNs-GhSOcBJjG8iMZL3nPLhfJW6UVndQCw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1957141009282446962",
+    "utc_offset": -240,
+    "vicinity": "161 Bay Street suite 4010, Toronto",
+    "website": "http://www.skypadfurniture.com/"
+}

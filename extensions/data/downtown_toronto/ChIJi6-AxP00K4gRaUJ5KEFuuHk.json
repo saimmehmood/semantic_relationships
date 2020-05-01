@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "15",
+            "short_name": "15",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Ossington Avenue",
+            "short_name": "Ossington Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2Y8",
+            "short_name": "M6J 2Y8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">15 Ossington Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2Y8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "15 Ossington Ave, Toronto, ON M6J 2Y8, Canada",
+    "formatted_phone_number": "(647) 348-2204",
+    "geometry": {
+        "location": {
+            "lat": 43.6445884,
+            "lng": -79.4187443
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6459143802915,
+                "lng": -79.4175161197085
+            },
+            "southwest": {
+                "lat": 43.6432164197085,
+                "lng": -79.4202140802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "680524105327db4f4655b9a673c5c4e7778ec1ca",
+    "international_phone_number": "+1 647-348-2204",
+    "name": "Jimmy's Coffee",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 8:00 PM",
+            "Tuesday: 7:00 AM \u2013 8:00 PM",
+            "Wednesday: 7:00 AM \u2013 8:00 PM",
+            "Thursday: 7:00 AM \u2013 8:00 PM",
+            "Friday: 7:00 AM \u2013 9:00 PM",
+            "Saturday: 7:00 AM \u2013 9:00 PM",
+            "Sunday: 7:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107643388709969886179/photos\">Catherine Ng</a>"
+            ],
+            "photo_reference": "CmRaAAAA7ez78tcxXOVixzcFGDCx19XSUWx9I0ItLMsTgsPQM5ewREMibofZOkkqYIonYkB0wvoV7Z65xO-vZAzPzni87sZZuiqzSfk0pKRPJ6bg4A4QncyZdqQFl3G-aniB4WuaEhB0DHELN2BLNK2bQaRzGZoCGhQZAcN2c62Bh6XxbbAn2Zi_fBiHCw",
+            "width": 1600
+        },
+        {
+            "height": 4640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100335940891270524507/photos\">Dorothy Mo</a>"
+            ],
+            "photo_reference": "CmRaAAAA9MbF_E8gj5LZ6B1Os6r3750IDOZ_7ksW1vT05YtHHd2x4h8IgFOk2caMEPYoF0dTsI332Gf8nboR7RlJYHm05vvk9jokL7ZNl6PIeeXWtaVaojQ1Y0jdcjWiM6z9JFrEEhDrnQMs2fE9_ofEoY-SshDTGhQowQr5mE8uPpHWEJnUqoFMCfvDHQ",
+            "width": 3480
+        },
+        {
+            "height": 1600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107643388709969886179/photos\">Catherine Ng</a>"
+            ],
+            "photo_reference": "CmRaAAAA3Nctuv-X6NWYhRMSu3kQQNXCSPQSdme90kqG-P5Ua5cr187WjkJwP_6k9IQfbqPvVyhxii0L6bGzZffXVXtk5iLeksJFd9Q4gn4GVDbHApu5ngKdSD_CDtGkjqv61ULBEhA3cHGVjW86xw4IC973DVROGhRyEn3uGOsn4kOyaKFRPNFM1OvKLw",
+            "width": 1200
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110089653064585618561/photos\">Coffee Rose</a>"
+            ],
+            "photo_reference": "CmRaAAAAUcqnVjUQinDQ-Baqk2cWqVjyryOvlU3_fdnqI2Qr1aDOOsAnmT4BQQsfAqkDKnb3JnhroGlHJ4GySuGRbyKhOvzPsVYKt2pqInMTqFgOtDrk4G3EZ-Z6WfSN487kdrLnEhAyPQA7MtaigqSlUHBPpUXBGhSxIdX9A1rtgQYPYnpJYWGnfe6Gxw",
+            "width": 3024
+        },
+        {
+            "height": 552,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100971145463952562266/photos\">Jimmy&#39;s Coffee</a>"
+            ],
+            "photo_reference": "CmRaAAAAn_7_AvQgQ2Mi31pUYy4VeWg8FCOts_a8V_SSDL8PpgwPC4X7IZJBXLFLN0TYYlgmIvsoW8vFkUrOuUJUc2cQhV1NC88HpL4fhRqV-wmqy6igkQsYtfMR22VEIllu4f97EhCiN9NXWgie5YXkSYaYJfy-GhSelNv6CeN8iBEWGYiwBt9NvHOOsQ",
+            "width": 599
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101177375706619573290/photos\">gordon cheng</a>"
+            ],
+            "photo_reference": "CmRaAAAAphKgGTQumtC2-Epe7QT0GQE3Nb6vaS65hDFWt8qAxpZXoV7eCEUHFBdIlp7RON_aBKgyhupxtRqUjLCp2zHHRVAXvH7GWJwOYxuHP2iqzmRYKC8aUwnZmTWHYSgXYadJEhBJ98fKYysqTYlO3H_nEfEmGhQf0yYxpOSp1R_OBrr7vg4Qs6R5Sw",
+            "width": 2988
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108056009859858602268/photos\">Damiano R</a>"
+            ],
+            "photo_reference": "CmRaAAAAXShymQEk4FlXzbs4HjeZKbkLHfIFSxS11gk6-cyLtuyfmzjFJXbR37D1CrBaxjofzsXowlReLVVe1acO6MsuVq7JUG6O3LAB9icmC7aASzDtolKDMZsTL24rX_59OEs6EhBD0I9L8NXdU-2_czs1elN8GhQ8PNm3jgh7fZQMT01WfvXktHDRug",
+            "width": 2988
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107643388709969886179/photos\">Catherine Ng</a>"
+            ],
+            "photo_reference": "CmRaAAAARTBsmY9w6C2EigJCRB9YhHSpDcpGTfAz-hsJ-N9NnnR9UNgyd1T6dWOAhy8iybFeNe4d9trbshsJh_can4sC0x02mCJkpj3EOhh6CJaxtrlHbTSHsyYmRJrKl799m3I0EhDqSmISMz-hwaulxZhJq0D4GhSeVB6HRNf1w1NceVFJGd646dVloA",
+            "width": 1600
+        },
+        {
+            "height": 2880,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115628577058462354213/photos\">Pierre-F. Tutundjian</a>"
+            ],
+            "photo_reference": "CmRaAAAAbe_GEsjjLMxJNGN9HM-_CHO5GtDJzSPTG-LFsx3s3B2tZCxeu_QnBSq7Y6U7oJd4grMu_vctMkGBdcD7EGkBw9AHTQWAmHfvrr2Q4VOkQFCm2KhKWHcwSc4sTxx8S4dZEhBVKcOH6o32r2xLkbw8ZU-IGhSw_BYfmFavDj3_ErlE5xKBsEmyvA",
+            "width": 2160
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115082566253024521406/photos\">Lev Szczesniak</a>"
+            ],
+            "photo_reference": "CmRaAAAAU2-AFVGtJqygxSPUPBSYSv8ISNxkdfMQ6Y0gyVhKq7Ob5TS9sr7Fio4JcULgDImz9FjcU1SRc2314RECR_CMdqF8LEKrug-M-Z4ZOkKBd7-SogUa3PTeRnugKhIIjQhSEhD7NER2k5GJfif5-mCRmeewGhSqoaCuQadnUEHRrNmOYlcpxfz_Pw",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJi6-AxP00K4gRaUJ5KEFuuHk",
+    "rating": 4.4,
+    "reference": "CmRRAAAAlGQFm5jACrdy9FM2PFNmHQQeHm-b8EjbicqRydLnppGTBl5kRQ1sPvnNiiNUIuTzcAeGk1bQnyLgByR9Hi7SRAsN3tt8LCDD_5aVstmvuepiHUXvzpzIlzQd47KV33YeEhA9RX5ZThUSAz7GXrd5kTUVGhQRvwoh5RpVDoCOwJG4zv-McOgw9A",
+    "reviews": [
+        {
+            "author_name": "Taulant Sulko",
+            "author_url": "https://www.google.com/maps/contrib/107728088833938063226/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-6LjtFjFaOfw/AAAAAAAAAAI/AAAAAAAAAYE/97Vi9TSSS7c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Nice place to chill on your laptop. Coffee is good and the staff is friendly. They also got a tiny patio on the back.",
+            "time": 1528397932
+        },
+        {
+            "author_name": "Trevor Lightbody",
+            "author_url": "https://www.google.com/maps/contrib/104847734091016043908/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-8ni_fraULrE/AAAAAAAAAAI/AAAAAAAAABY/Ndw5Kziri0o/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Best coffee on ossington. Affordable. Trendy place and interior. Nice snacks",
+            "time": 1525804567
+        },
+        {
+            "author_name": "Arielle Aplin-Siegel",
+            "author_url": "https://www.google.com/maps/contrib/101488721976495665493/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-xsdq_CPTmhQ/AAAAAAAAAAI/AAAAAAAAAXI/jpF60ctlwVw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I could not speak more highly of this place. I tend to only go for the matcha latte because it is among the cheapest but highest quality in Toronto. Unlike some other cafes, they actually (consistently) put an adequate amount of matcha powder and the almond milk doesn\u2019t taste burnt. The staff there are great as well, I always have pleasant interactions with them and it never takes more than a few minutes for my drink to be ready! Highly recommend for matcha fanatics.",
+            "time": 1526065867
+        },
+        {
+            "author_name": "ALAPINO",
+            "author_url": "https://www.google.com/maps/contrib/111308283783574695261/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-PaA9-1p-t5A/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3iPBSpgGwoneR6Rdpgon_xO5amZQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "I like this location as it's warm and cozy. The staff are always great and the coffee tastes quite good. It can get pretty busy at times. When it does die down, sometimes, it can be hard to find a seat/table that isn't already occupied by a retina glued to a retina display.",
+            "time": 1518547076
+        },
+        {
+            "author_name": "Elizabeth Cipollone",
+            "author_url": "https://www.google.com/maps/contrib/103639955962615065223/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-2_x7l0SMdKE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1TbdsIVytPPUBXqTAQawO7mgtaXQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I came here the other day and was very disappointed. I had heard things from people i work with about Jimmy's and when I came it did not exceed my expectations. I had ordered an iced coffee, and they told me to get an iced americano instead, yet i dont know how they considered that an iced americano, it was more like ice water with a single shot of espresso. Not only was i upset about this, but there were no seats available, even though the atmosphere was raved about previously to me. I will not be coming back to this establishment, and hope they can learn how to make a better iced coffee.",
+            "time": 1525394825
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8770881500435006057",
+    "utc_offset": -240,
+    "vicinity": "15 Ossington Avenue, Toronto",
+    "website": "http://www.jimmyscoffee.ca/"
+}

@@ -1,0 +1,193 @@
+{
+    "address_components": [
+        {
+            "long_name": "306",
+            "short_name": "306",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave #306</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave #306, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(416) 425-9143",
+    "geometry": {
+        "location": {
+            "lat": 43.64352640000001,
+            "lng": -79.393637
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448185302915,
+                "lng": -79.3925011697085
+            },
+            "southwest": {
+                "lat": 43.6421205697085,
+                "lng": -79.3951991302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "952f6c1d7a94bdfa1bc9a43ff807f6011365011a",
+    "international_phone_number": "+1 416-425-9143",
+    "name": "Energi P R",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:00 PM",
+            "Tuesday: 8:30 AM \u2013 5:00 PM",
+            "Wednesday: 8:30 AM \u2013 5:00 PM",
+            "Thursday: 8:30 AM \u2013 5:00 PM",
+            "Friday: 8:30 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAn8ykBoh2cq8FRhG0eQBhTvWIplRE42KTHoEaieJp4__pGeZGO8N-wXjp5TQPSxrkmNKvPKwk0xvVHYXMQxjkQqpUMr9XzD4vaS9AAiU4Yf1Fx_M03uvOmxyaAnTxuEnREhC3yz75FR1AxA5GcafkJ7XjGhRNJxd61z3BKqZOwcPzp8yDkahCQQ",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJoxtXrNk0K4gR1uN-9RnfZAM",
+    "rating": 5,
+    "reference": "CmRRAAAAgvpJK0SMiYxk0A5TkN5lpJx01CG3lDpcHUkhyeImsZzt5o-lp-em8YdtR_TAMu-EH9TU6ooLMsmqEgB34KyXxP7SN-yRqYaOfbWs6bcPUHJsyMaVAnkhsGlbMEUnvyq0EhCuMPDI5aLIFwERy2ipqH6gGhR-rpwGP5Ow2OQj-5TfI5LQXY6nkg",
+    "reviews": [
+        {
+            "author_name": "Sahil Anand",
+            "author_url": "https://www.google.com/maps/contrib/109761693683786953858/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Q8umNeRnmBo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0p4VxFid0pfnhxTs99n1sSaT3ZoA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "",
+            "time": 1522504478
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=244565582370759638",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue #306, Toronto",
+    "website": "http://www.energipr.com/"
+}

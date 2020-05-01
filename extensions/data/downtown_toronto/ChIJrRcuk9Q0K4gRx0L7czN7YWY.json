@@ -1,0 +1,122 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "York Street",
+            "short_name": "York St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2T8",
+            "short_name": "M5J 2T8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">18 York St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2T8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "18 York St, Toronto, ON M5J 2T8, Canada",
+    "formatted_phone_number": "(416) 364-6638",
+    "geometry": {
+        "location": {
+            "lat": 43.6431907,
+            "lng": -79.3822184
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64459943029149,
+                "lng": -79.3805828197085
+            },
+            "southwest": {
+                "lat": 43.64190146970849,
+                "lng": -79.3832807802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6412696bfe1352c7fa78269e2bc45c2bb7b9bb2c",
+    "international_phone_number": "+1 416-364-6638",
+    "name": "RSA",
+    "place_id": "ChIJrRcuk9Q0K4gRx0L7czN7YWY",
+    "rating": 5,
+    "reference": "CmRRAAAAWlZQiFhnnmKrhBk6mUgzeRGRvVfsbBoKxCWiHIdNDNyD0FgCNu4pLHhja8b2u814ivjrgkBVpl1U4ZiFxkHCeosbEyOm8wl5gJAKQgQSInVBlSdCicI64dEcM0hP2d0BEhAIZQQkf4ebvjV5x6q5uLXLGhQ_4gGVLVss6GIAowHDpezNGCReNg",
+    "reviews": [
+        {
+            "author_name": "Paul Yeung",
+            "author_url": "https://www.google.com/maps/contrib/101653513221798977149/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-QOE5KMx57Jg/AAAAAAAAAAI/AAAAAAAAACc/vK4E-XM1xI0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "just started working here...great location\nand the view is amazing!",
+            "time": 1528479758
+        },
+        {
+            "author_name": "jane Li",
+            "author_url": "https://www.google.com/maps/contrib/103977933159933099851/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-YcE9lBj19xE/AAAAAAAAAAI/AAAAAAAACuU/YnPOpXCVyhs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1463484038
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7377313125528978119",
+    "utc_offset": -240,
+    "vicinity": "18 York Street, Toronto",
+    "website": "https://www.rsagroup.ca/"
+}

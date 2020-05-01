@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "40",
+            "short_name": "40",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bay Street",
+            "short_name": "Bay St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2X2",
+            "short_name": "M5J 2X2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">40 Bay St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2X2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "40 Bay St, Toronto, ON M5J 2X2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6438674,
+            "lng": -79.37896839999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452163802915,
+                "lng": -79.3776194197085
+            },
+            "southwest": {
+                "lat": 43.6425184197085,
+                "lng": -79.3803173802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "99c780fdff82c186b4ed0c8f0b1110e35e55478d",
+    "name": "Lord Of The Fries",
+    "place_id": "ChIJ43k9XivL1IkRNs5QlcW_f9Q",
+    "rating": 5,
+    "reference": "CmRSAAAAd_uVxU-KZR--t4fOibHV0fo6GLFr6wHNPR6rT3WAFmgSC51JvA5nNc2IGn0b1u9BwRXgUtSZW2sejoyZAf-19Tje3ClGlI8VkQ6tre1xTlUbzZuCHAeFU-RbXIFt0K3JEhAh_GN7pVFAzK-5QNPI6WNWGhR9ABitWdGqeWDKIosfZi8JjvKxEg",
+    "reviews": [
+        {
+            "author_name": "Caroline Yeh",
+            "author_url": "https://www.google.com/maps/contrib/117384403926018345567/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fw5ysgV42FQ/AAAAAAAAAAI/AAAAAAAABTg/wYqyCzrmzGQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Funnel cake fries! Need I say more?",
+            "time": 1520948060
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15312168113417539126",
+    "utc_offset": -240,
+    "vicinity": "40 Bay Street, Toronto"
+}

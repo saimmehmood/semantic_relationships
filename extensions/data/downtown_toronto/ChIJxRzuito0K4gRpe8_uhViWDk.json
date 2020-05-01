@@ -1,0 +1,186 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "formatted_phone_number": "(416) 977-1050",
+    "geometry": {
+        "location": {
+            "lat": 43.6435987,
+            "lng": -79.40875419999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450111802915,
+                "lng": -79.40725996970849
+            },
+            "southwest": {
+                "lat": 43.6423132197085,
+                "lng": -79.4099579302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4da404353fb619a50c3db7d6d361aa553acfd3a8",
+    "international_phone_number": "+1 416-977-1050",
+    "name": "Canadian Safe School Network",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:00 PM",
+            "Tuesday: 8:30 AM \u2013 5:00 PM",
+            "Wednesday: 8:30 AM \u2013 5:00 PM",
+            "Thursday: 8:30 AM \u2013 5:00 PM",
+            "Friday: 8:30 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJxRzuito0K4gRpe8_uhViWDk",
+    "rating": 5,
+    "reference": "CmRRAAAA8REmZZqeZTZZaSdmwz9-eLrqVySIsSKYHYrcFNA2Q0mG_G5PlpD_ZUnRLRNz4b1KeKYfHjW4WtgoTdZNcQ6Guicyx2qkG12wYicOEBaplzsCZpnQoJKdGyRgJpGYLLrnEhDVSz0gwUCTTIlJJSh9jqKmGhRddf32ghM87W2hYMGfPKoyn4Cogw",
+    "reviews": [
+        {
+            "author_name": "Barzin Shakibaeian",
+            "author_url": "https://www.google.com/maps/contrib/116334766112808477081/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-j0GSvRNu8FU/AAAAAAAAAAI/AAAAAAAAAsw/icnamHu6SQY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Youre doing very important work. Keep it up.",
+            "time": 1518310470
+        },
+        {
+            "author_name": "Vehaan Nagarwala",
+            "author_url": "https://www.google.com/maps/contrib/116269574689588508466/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-LGJ5dhPlkeM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1VS7TSr2qSZYPqA1rpqkToI5jAeA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1494511547
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4132160503571017637",
+    "utc_offset": -240,
+    "vicinity": "229 Niagara Street, Toronto",
+    "website": "http://canadiansafeschools.com/"
+}

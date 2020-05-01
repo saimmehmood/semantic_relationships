@@ -1,0 +1,174 @@
+{
+    "address_components": [
+        {
+            "long_name": "474",
+            "short_name": "474",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E3",
+            "short_name": "M5V 1E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">474 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "474 Wellington St W, Toronto, ON M5V 1E3, Canada",
+    "formatted_phone_number": "(647) 258-3151",
+    "geometry": {
+        "location": {
+            "lat": 43.64349300000001,
+            "lng": -79.39822819999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447404802915,
+                "lng": -79.39684241970849
+            },
+            "southwest": {
+                "lat": 43.6420425197085,
+                "lng": -79.3995403802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0851df569ee38c18b01a386ffbca60cf58e7aaf5",
+    "international_phone_number": "+1 647-258-3151",
+    "name": "MASS Engineered Design Inc.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100434150685061676462/photos\">MASS Engineered Design Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAYlK0FUsK-sTiiz-H8rQoLY05ncl_iuYjEaCDDPN_ShGaolsfkSspm8DBANkrg0WP-R18LhxDiO2s10BMdFZvmS2xuPKskeWHobYCZsnRm81ZWCc_wHV9bYQjSMAhrYqAEhD93fEKwk8avZBKx8k2VFFJGhQuDHEgmcFhsFUn5o465HKMpG7mlw",
+            "width": 600
+        }
+    ],
+    "place_id": "ChIJQ5UFJ980K4gRXBVGCW1uRyw",
+    "reference": "CmRRAAAAfgN0kUWBriYMQNrie1WuHQR2g7EX_X3WayZZFhts03jZ3jRii_feJdm3s7tSRQlE5SL3pbRl5g3SRl9Zg7gQKSkNTJp-Isiex_1QVT8A5MJr9O3-nPg7ikaU6fstE5uhEhBDoEY1N4uXRvuP4yfELzhxGhTwPvP7osjv-_IRXYr6DR4su-Q6Sg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3190640275601364316",
+    "utc_offset": -240,
+    "vicinity": "474 Wellington Street West, Toronto",
+    "website": "http://www.massmultiples.com/"
+}

@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "788",
+            "short_name": "788",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N6",
+            "short_name": "M5V 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">788 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "788 King St W, Toronto, ON M5V 1N6, Canada",
+    "formatted_phone_number": "(416) 364-5039",
+    "geometry": {
+        "location": {
+            "lat": 43.64317,
+            "lng": -79.4066254
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64449943029149,
+                "lng": -79.4052688697085
+            },
+            "southwest": {
+                "lat": 43.64180146970849,
+                "lng": -79.4079668302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9465e3bf993ba88c746e0bc6cead4b4bdcc6d36f",
+    "international_phone_number": "+1 416-364-5039",
+    "name": "Celluloid Dreams",
+    "place_id": "ChIJI4KZuOE0K4gR82MYb1CteGI",
+    "reference": "CmRRAAAAXuOp81IT5K3nxpzrdzNkwZf4_1a3ZNrjoo-hokWasNVWueJcJfV8hhl0Uis0_uEUyGdqc8A-LTHfsV7-pdKGITSHUGQSeCGHumGSY_8VVRRN0qZ1297Jy_7-JuAjEYlnEhD_EdBod6oQYI4Quts4P5HNGhSVXAwTgIPfQatSzVakBo-LdUCwDg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7095611773895074803",
+    "utc_offset": -240,
+    "vicinity": "788 King Street West, Toronto"
+}

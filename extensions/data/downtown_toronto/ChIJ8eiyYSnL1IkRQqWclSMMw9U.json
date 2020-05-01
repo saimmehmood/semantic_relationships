@@ -1,0 +1,178 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1W7",
+            "short_name": "M5E 1W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St, Toronto, ON M5E 1W7, Canada",
+    "formatted_phone_number": "(647) 478-5188",
+    "geometry": {
+        "location": {
+            "lat": 43.6429251,
+            "lng": -79.3741862
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441873802915,
+                "lng": -79.3733258697085
+            },
+            "southwest": {
+                "lat": 43.6414894197085,
+                "lng": -79.3760238302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "96a8bb789d8c3d75c0ee9f206beec21aa923149c",
+    "international_phone_number": "+1 647-478-5188",
+    "name": "Transcript Heroes",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 5:30 PM",
+            "Tuesday: 8:00 AM \u2013 5:30 PM",
+            "Wednesday: 8:00 AM \u2013 5:30 PM",
+            "Thursday: 8:00 AM \u2013 5:30 PM",
+            "Friday: 8:00 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ8eiyYSnL1IkRQqWclSMMw9U",
+    "rating": 2,
+    "reference": "CmRSAAAA9l0ZaTtjyxlGmL_nbhPKOy1sYoy7HraQN5-wrXNOzcs-YW0k7EtOclkpfycrbVDBjOPHh3mu4WqqiURPtOh8grK0BNaX9NYFNPuuk4OZKML2XKTrR9LB3gOtbJ28sUMWEhAgWZxLO6DNuoyxIN0-HzUSGhTRnsbfZ0gt_wiDTPHhAqTkwdSXZw",
+    "reviews": [
+        {
+            "author_name": "Victoria Laidlaw",
+            "author_url": "https://www.google.com/maps/contrib/107571834383248974643/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-KreY8_xKBGA/AAAAAAAAAAI/AAAAAAAAILk/t13ceJNU5io/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 years ago",
+            "text": "I was very pleased with Transcript Diva's service when I used them. The quality of the transcription was very good as was their turn around time. However, last week I got an email from their accounting department that said that we (a government department) hadn't paid our bill. The invoices were dated in early 2014! It is now early to mid 2015!!!\n\nWhile I was not impressed by the time lapse between the dates of the invoice and the follow up, I was most surprised by the lack of customer service. I got an email, as opposed to an apologetic phone call for waiting so long. I can't say as to whether or not a government cheque has been cashed by them but according to our financial manager, cheques were sent. Perhaps the disorganization that led to a time lapse of 14 months between invoice and follow up was the same that cause a received payment to be lost.\n\nSo now I have other government colleagues who will be doing research and needing transcription services and I can't recommend Transcript Divas to them. That is unfortunate since while they do good work this aspect of the user experience leaves much to be desired. ",
+            "time": 1433518355
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15403168497510688066",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street, Toronto",
+    "website": "http://transcriptheroes.ca/"
+}

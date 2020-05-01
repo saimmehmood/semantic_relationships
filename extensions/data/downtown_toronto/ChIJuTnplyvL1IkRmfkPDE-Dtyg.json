@@ -1,0 +1,141 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Harbour Street",
+            "short_name": "Harbour St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2Z6",
+            "short_name": "M5J 2Z6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">18 Harbour St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2Z6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "18 Harbour St, Toronto, ON M5J 2Z6, Canada",
+    "formatted_phone_number": "(416) 835-1493",
+    "geometry": {
+        "location": {
+            "lat": 43.6427712,
+            "lng": -79.3767565
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6439275802915,
+                "lng": -79.37528836970849
+            },
+            "southwest": {
+                "lat": 43.6412296197085,
+                "lng": -79.37798633029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "6b5309e9939fc3b009b7a8c4964e2fdc1b6b2491",
+    "international_phone_number": "+1 416-835-1493",
+    "name": "Harbour Castle Residence and Suites",
+    "photos": [
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAg8PfYnEVFcmkxVM_2fdeacoecJj17apQTcsqLTUyCYxmQvHvyqZ5jjt9vpT6Xv2BNFp2vyA-AJS3YRzRaNq6reG6Gw_dstqQLACnw0D1OdnAZ2YUmfrLzzhGMfAydHQoEhArg10GA7f7vWlv1gHUj8anGhR9J7bmCOJ7OQRnHpF5ZHu_wYbYPQ",
+            "width": 3264
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAv3cgeaCt_RzmP498lNVQGwAn4sX4_UL6jwolwR0q7rC1pD80UA3-9JIXwxkR3YFKtMQZ-Ky8tyCdhY3tDcY3ZH-PKr3ehzHLpxEsROVnGkWf3btpOvOcqo7efhinh24nEhCqxrl4P-Tcid-zqziF7c1IGhTh4qOC93jIkADTdPklj1t5y376fQ",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJuTnplyvL1IkRmfkPDE-Dtyg",
+    "rating": 5,
+    "reference": "CmRRAAAAbHDgkvixDdW_L7nnZoc9jKdZ6yAax4HaogUpK1b5lWoOqVmLOQko2A8_KcSWGn_x3r8gWKR721hw4j78CSptnCS9Xfj9qczk69ROwE0GxqJ0AorU5hVjPc1IUFUNcjmfEhDiBk2ImmysD2CXwpQ1jL2GGhQnJwQxdeBuleg8JWGHeNC0z7bq_w",
+    "reviews": [
+        {
+            "author_name": "Glenn Dickler",
+            "author_url": "https://www.google.com/maps/contrib/112942586853670715121/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HSuZQB0TAUo/AAAAAAAAAAI/AAAAAAAAADE/2Pk6qZEQMmU/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very elegant hotel built in the 70S  and looking great today",
+            "time": 1524514786
+        },
+        {
+            "author_name": "Hatim Tommy",
+            "author_url": "https://www.google.com/maps/contrib/107861126281310827302/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-T0GneXOXVws/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1kSB63nxi5k-mxKodsCEOBy4sYxg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "",
+            "time": 1526715119
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2933958057783196057",
+    "utc_offset": -240,
+    "vicinity": "18 Harbour Street, Toronto",
+    "website": "http://www.westinharbourcastletoronto.com/harbour-suite"
+}

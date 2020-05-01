@@ -1,0 +1,227 @@
+{
+    "address_components": [
+        {
+            "long_name": "#601",
+            "short_name": "#601",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1E5",
+            "short_name": "M5E 1E5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St #601</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1E5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St #601, Toronto, ON M5E 1E5, Canada",
+    "formatted_phone_number": "(416) 369-9069",
+    "geometry": {
+        "location": {
+            "lat": 43.64272,
+            "lng": -79.37412599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6439215802915,
+                "lng": -79.3732102697085
+            },
+            "southwest": {
+                "lat": 43.6412236197085,
+                "lng": -79.3759082302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c0c306973baabe5ae63c379ae4256c198fcff4e7",
+    "international_phone_number": "+1 416-369-9069",
+    "name": "Amacon Developments",
+    "photos": [
+        {
+            "height": 1234,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102922140574975342176/photos\">Amacon Developments</a>"
+            ],
+            "photo_reference": "CmRaAAAAk8Ymgkji3UkdAsLZQxJlh62bJVcRZP06EAe2_VvWqtZISLCfY1It6Px3KydPnnxGy4SggtYXAtibqOMaB7MxbXFLrkljdYdC49lLYfsV_qkhYosWM2p7rmvKw5Jo3vSkEhD-WWEwEzioCE8Unwo3b328GhQQ1eepmqPm0JHIeNFV1NR4aAhjTg",
+            "width": 1500
+        },
+        {
+            "height": 3938,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102922140574975342176/photos\">Amacon Developments</a>"
+            ],
+            "photo_reference": "CmRaAAAAxiSl1WLHNm-uAfuGqDCQil3P4MK8_iSGgcUVIymaDlsAzzN__ApwdbfA9HJ5cCNIfWydxCyvBcNm7_kj2CW8Hkti_TT7dAgDyY_4dddUbgvTf7sl9kBwi0HDAFMZQE9jEhCbbIPvAYqpq20-j27twFRPGhT0USMtKQ21JPVkwpFMkv_kwElGWQ",
+            "width": 9901
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101397164812878371211/photos\">Matt Landers</a>"
+            ],
+            "photo_reference": "CmRaAAAAMPa6qwnpro3Lmqbx5VY-CM_j_sT1juoBtm9jWkKuSKoxqQ6_Nrv_XdL1W0WJupftSexgItLBL4GfPAOiB0eZTOhaQ2k9IZ2eD3xA6I7Fm68i0D22MtLWkThiNsWkc8INEhA5u1l77sm9s-4KJ5-9Yq0dGhS1HwHzDf-4ByopcnHXNNEpVXseYw",
+            "width": 2000
+        },
+        {
+            "height": 5925,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102922140574975342176/photos\">Amacon Developments</a>"
+            ],
+            "photo_reference": "CmRaAAAAxyZAtWvJ_cW0aiwzterxNGHfAwdqdrZZWHJH-BVejDiwbpoDFJwzeRZRgKT548uM9GOn6X9BJI0anj9yj4NbqlhjSMTYchj8ZaR27PuI4zqQqAAsZcty7IH6TX-GrHYDEhBZtGOj5J5IWXdTJKG6SG4vGhS0FcmzIr30KIHqFgASjW45UAyXEA",
+            "width": 6500
+        },
+        {
+            "height": 1105,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102922140574975342176/photos\">Amacon Developments</a>"
+            ],
+            "photo_reference": "CmRaAAAAdJ53M566Hy10RPmQ6MRbY25WMiGemzJyTzAi3lkAr3ksbj3_ezUD3VMcp9e-GuHxgdBhNDUA6e8SMO7Oms_0qo49oakhjHlnsqqmZ2PQ5Ti2JkTKRYbO-TkMBldTfxuzEhA8zfRyDQG89mBRnUEW5DxiGhSwGXMxmCEX18ydiys3BuGFkR_TIg",
+            "width": 2845
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102922140574975342176/photos\">Amacon Developments</a>"
+            ],
+            "photo_reference": "CmRaAAAA4BmQg4pEQfPNggNGn9Ol-YXxjv6C9EFhIsBMdkOGMB1B34rzyuAc1zXfdseBZEpdgUa43wlxk0at4OD-S89Y2ZQtsccKxd0Jfp7dBFsTwlszRlaWYLvcyoHlUvqrvUAZEhAp2g6XmvOc87knkArPtKhbGhTbCJ2Yz13eCyAfqTGNtL1l96KwJQ",
+            "width": 1000
+        },
+        {
+            "height": 315,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102922140574975342176/photos\">Amacon Developments</a>"
+            ],
+            "photo_reference": "CmRaAAAAJRd2h2firuhFWKFrv7yNVOvo94AGuki7BotnCB5WFH0UrMe0RjOj1v-x-JK6E3AcwlEunz9oIkFFVqxj0fbhqpmIcqG4gEQ0EwKga4LLiLdUUKy6HmwZEafx25NoSAhsEhDpdGOd5ybShBFjL1m3edcMGhRc4bH0r4EV-QzTZmu5O3k8gHuNCQ",
+            "width": 851
+        },
+        {
+            "height": 874,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102922140574975342176/photos\">Amacon Developments</a>"
+            ],
+            "photo_reference": "CmRaAAAAYJC-TkZ7JYvdjpBwh1De-4vT6T80F_UupqjuRLNra8tZOsi1BLTfXKVyM2F_8yLWaVfeC1UChUnc8n050p1b_D6OmyzlTZZ0QrClO60-FViqK94TfenrqQ3u0rLh3g8cEhBg4RKMaGBFHOi8Z8IiOgntGhRpM9AZ2vVg70Ta4T4RqQfGacpKBQ",
+            "width": 874
+        }
+    ],
+    "place_id": "ChIJcyT1LMs0K4gRJJ4HCBdXRCg",
+    "rating": 2.6,
+    "reference": "CmRRAAAAEaiZ27CPYEE8w56DkKXVupAQG5sE6VWehttzuNaddhgaKMQ2NKpnLMam_fKND7WOKV4J_qai7VVKm7UGRjfQdzl5SZaCRDrbo-2jkyO-zi3uz04slyJdWXteJw3WwjiLEhATECsgkvTiS3tT6rTRQ5GWGhQjxpn1BdTx8h6c307lTBq-yfvOMg",
+    "reviews": [
+        {
+            "author_name": "Yun Liang",
+            "author_url": "https://www.google.com/maps/contrib/108285496043446459986/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-2qafkdxHfDE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1Bs7k4HXdr5oBjV5USHNemJ2hapQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Very poor craftsmanship. Awful customer service. Very defensive attitude and plays games to avoid warranty coverage. My hardwood floor had several bulging and gaps when I took possession. Their service representative, Sandy, told me it's because I didn't pay enough to buy a glued-on floor. In fact, the floor bulged because the door frames and drywall siding was tightly pressing on the floor, leaving the floor no room to expand. The floor pieces eventually popped open. When their service representative came to check out the damage, in stead of checking the floor, she took picture of my thermostats. Later they claimed that I failed to maintain the temperature and humidity, therefore the floor bulging was on me. I eventually had to fix the floor at my own cost. What a bunch of bullies!",
+            "time": 1518041177
+        },
+        {
+            "author_name": "J Pascal",
+            "author_url": "https://www.google.com/maps/contrib/107054374891969045917/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-m-G607n5qQ0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3JJN8QlutoFb5D0uhRQIaxYFPcPw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Love the PSV amenities.  Saw the comments below.  My suite is amazing... luv the views and cant wait for the new retail to open!",
+            "time": 1518121474
+        },
+        {
+            "author_name": "Franklin Puello",
+            "author_url": "https://www.google.com/maps/contrib/105574901790314049038/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-jzQrvci_zUU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2aIf2oooCXdb4hJ-KAE96nzQX52w/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "On January 22nd 2017 I bought a condo unit in Mississauga on the PSV2 building. At the time of the purchase I was told that closing would be in June 2017.\n\nI was requested to provide ten (10) postdated cheques covering the interest of the balance between the price of the unit and the first payment, condo fees and property taxes. The interest rate applied by Amacon was higher than the mortgage rate that I negotiated with the bank at the time of the purchase. \n\nSince July 2017 I have been asking (many times) for the closure date without any response. The interest rates have been increased two times by the government impacting the mortgage interest hat I will have to, pay. \n\nToday, one year later I still don't have a closure date, nor an explanation of what's going on or the reason why we haven't closed yet.  For about a year I have been paying interests to Amacon at a higher rate and have not been able to start paying my mortgage, which now has a higher interest rate. \n\nOn the other hand, the quality of the unit is very poor. There were too many deficiencies, which took too long to get fixed, requiring multiple access to the the unit. \n\nI am very disappointed with Amacon and would not do business with them again.",
+            "time": 1515547494
+        },
+        {
+            "author_name": "Andrea Alsip",
+            "author_url": "https://www.google.com/maps/contrib/111306001482645671673/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-jwYidOUp5Wg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2UHUoBwy2MkXRYSbJKQCqeROrcUw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I have worked with Amacon for 10 years now.  I can confidently say not only their workmanship is excellent but their care for their clients is Exemplary.  I take pride working alongside Amacon",
+            "time": 1518542506
+        },
+        {
+            "author_name": "Khalid Affan",
+            "author_url": "https://www.google.com/maps/contrib/102291727379284532761/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-9T5ZeQOtbtE/AAAAAAAAAAI/AAAAAAAADt4/LaQoAZdPrfY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "The worst ... very bad reception and a full mailbox upon asked to leave a message. Maybe because I was enquiring about a purchase 6 yrs. ago. Shameful!!",
+            "time": 1521726106
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2901539816364023332",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street #601, Toronto",
+    "website": "http://www.amacon.com/"
+}

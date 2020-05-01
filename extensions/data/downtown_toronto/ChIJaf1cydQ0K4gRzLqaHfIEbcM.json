@@ -1,0 +1,170 @@
+{
+    "address_components": [
+        {
+            "long_name": "65",
+            "short_name": "65",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A7",
+            "short_name": "M5J 0A7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">65 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "65 Bremner Blvd, Toronto, ON M5J 0A7, Canada",
+    "formatted_phone_number": "(416) 850-6666",
+    "geometry": {
+        "location": {
+            "lat": 43.64286140000001,
+            "lng": -79.380732
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64431743029149,
+                "lng": -79.37942611970848
+            },
+            "southwest": {
+                "lat": 43.6416194697085,
+                "lng": -79.3821240802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cc8e33e762f54510f2e1b8022b92720e68e96f30",
+    "international_phone_number": "+1 416-850-6666",
+    "name": "Mary-am Suites",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115331468836692649750/photos\">Mary-am Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAaZRaosdqu2CjYIF-RoQz20sh9SVJ0-PjQXpEA_NRGAAJ9ZsgHlfzjD_pIS-kuVhniVJIQUsR8N_kwG1fEQS6GJkTLuzBbBRLZyUr88GCOdiBp8BgLeD6_6XdiUAdXOXuEhAG28DOfj3Ke1826vHkwGyJGhS65s03MtDghbzYtb9_yeX1rwGf0A",
+            "width": 5184
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115331468836692649750/photos\">Mary-am Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAWPD_fTa2-Mf7ajhw2d16jyuWNGV-WMK7LZ56XhKgWgj3ub4fBDcLtaUsTYIJLnmIy-T5oMY7W1Wy0FJIiWHBWSYp572b3lLqb_CCD0THeWiQiG0B1dEow0ynpT4BBNMqEhBWRHOyy9xjeHDp0bU_rXwVGhRxfP6uJHuX-NArmfFOSd-aMGgB0g",
+            "width": 2048
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115331468836692649750/photos\">Mary-am Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAOvkc2fIU6SPGYoPM7KIRTWFnP7T56VSDkqxxRYIYB47UTdJbJCJRe0pCniPp59uOxIaqXqBEhdWgZKBdiNU5V7b9EbDQDWaL-GZSfotb4-RMDSn-7RnVRjlH-BZvFJjKEhBUQy0QVyKNBi6ad0FHK8dZGhTDDQJm7fc4bhCTZewU3CWlNUmmHg",
+            "width": 5184
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115331468836692649750/photos\">Mary-am Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAApQt4p_aIRPjIX8Vy7Gjp1vqohmBQClIvAG1OBj3s4CFgVkqb1KfqHs4wsTjVhIdBdyr0wrGy_caaTlDtRs_6DT47MTderFDQRTSJhndQS1L-_0OR9L0vmLK31MLuk--qEhAjUBErmaylpbAvT1KHr357GhQRh6GwBgXkKQWGSjOp5emhTbRFSA",
+            "width": 5184
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115331468836692649750/photos\">Mary-am Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAY_DOk0MqwAzBKBg0tgRk7LxXb-pnqn6wZxiPdCCUkqJDZmVsHD649ksKxbhdXkIR6gW8AcTFnAn078h7WFoCvEgMbnfreKKQGOxi5FXT1HPaM0unPE8JghB3Rl5MWFBqEhAH6XNxKjO8UDHmfT_8J9dcGhTwyABnuIC6Q53EH-hpuAGc_MDFwg",
+            "width": 5184
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115331468836692649750/photos\">Mary-am Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAA3YUHURqZO9gZ9VLVpwE8zppFM93gP1tghPrg5-h4JylprwQymX3eTf1QZh0gEhEL-4MeXsfhfTO44pmfUgBaNjUeXBOZFtYcunAIpkAz6W3Y6Bm75OfvuBhNM5Ke3-pSEhA7JBezpeYZ5i0rVSDS7qTWGhTheMZQu7d7Q-lZB1xHd9MpBDVV-Q",
+            "width": 960
+        }
+    ],
+    "place_id": "ChIJaf1cydQ0K4gRzLqaHfIEbcM",
+    "reference": "CmRSAAAA0K2-WUEG5qh-GU1TuE2BgXcINesOwLYrQr6qtLOaFI1Uyju67WDSQ2B1Ejmbut_Mg4kP6cRhzuv59q32t37fJvcnPN5VBDz-qoVo7y4CrKsLro30zUxLawTSnoTuSEc3EhA8Yyl9xPR37bILFlYD2tBQGhRAx8uSza9lNYeWgYzCiycKydpdeA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14081917047782685388",
+    "utc_offset": -240,
+    "vicinity": "65 Bremner Boulevard, Toronto",
+    "website": "http://www.maryamsuites.com/locations-rates/downtown/maple-leaf-square"
+}

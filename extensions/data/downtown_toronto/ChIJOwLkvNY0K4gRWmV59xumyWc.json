@@ -1,0 +1,225 @@
+{
+    "address_components": [
+        {
+            "long_name": "255",
+            "short_name": "255",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W6",
+            "short_name": "M5V 2W6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">255 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "255 Front St W, Toronto, ON M5V 2W6, Canada",
+    "formatted_phone_number": "(416) 351-0662",
+    "geometry": {
+        "location": {
+            "lat": 43.6438247,
+            "lng": -79.3884307
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452701802915,
+                "lng": -79.38712196970849
+            },
+            "southwest": {
+                "lat": 43.6425722197085,
+                "lng": -79.38981993029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7910f3260fdd6253173a4c1a50aaac8bec7a5c6c",
+    "international_phone_number": "+1 416-351-0662",
+    "name": "Nicholby's",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 11:00 PM",
+            "Tuesday: 8:00 AM \u2013 11:00 PM",
+            "Wednesday: 8:00 AM \u2013 11:00 PM",
+            "Thursday: 8:00 AM \u2013 11:00 PM",
+            "Friday: 8:00 AM \u2013 11:00 PM",
+            "Saturday: 8:00 AM \u2013 11:00 PM",
+            "Sunday: 8:00 AM \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAYYJuYW9uQbDvkCbUEGXD3J41Qw2KRUfCLrvj0AZ3kmX9oTihvjj1k36II26J4_AUnOjA6oRA88KVC4Bk7_VNqItweNFFbgtLPKLT35CczUBSG_hiT5VsGZjNEqqia3LxEhC6cgWnpl96lsgwsxYdH8KMGhTliY07FVj0W9Zvsmy7t26mGgaQqw",
+            "width": 3036
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAleZfeiwBzsrAnCSJp-0USMY7FvGDdWBddtXt4neemGBevDiVHc8W-HLkWv-RcEN5rUtweD8E3m1Nj0hEX1z6Ft9QYSn9_ozSqmAcfzBWMrkdPKQedmrmu5sr6cE1XazkEhDJcvmwViFVPY_9Odzlc-J4GhTLK2h2w5t5ATH61y2_PCI5bHRmMA",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJOwLkvNY0K4gRWmV59xumyWc",
+    "rating": 2.5,
+    "reference": "CmRRAAAApdakAg1mg5KmSbAUFUNa-za1QK9L4B2bk5FzWE9OcPFRRpUO_6CiIhEqDbWQQPxWm1eZ_UQXoZm7xo_N_xW74HOs5HnMMfWxMNbUANjDpNPXGABvrKpVIqoYXP5357JcEhAWWMQ99XDTvNnUQDDKkjT3GhTjaG95dyeeliF5p6j7ZX1NzjbDDA",
+    "reviews": [
+        {
+            "author_name": "Richard Pagano",
+            "author_url": "https://www.google.com/maps/contrib/104957740822325950720/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-J82CvU48dqc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq22b-Yzg6GNXI0WRh-o8g8nLRweAA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Cool souvenir shop. Magnets, shirts, cups, candies and more. Even sports-related stuff. The lady at the counter was nice too.",
+            "time": 1525267853
+        },
+        {
+            "author_name": "Jarrod L'Hirondelle",
+            "author_url": "https://www.google.com/maps/contrib/116488624496352942043/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-jMPTkr0bxO4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1lbcyagJu6mt4y1RwW0Gf971f73Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Hours are wrong. Supposed to be open til 11, got their at 930 and they were closed. Would be fine if they would set their hours with google correctly.",
+            "time": 1524623820
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7478691295271675226",
+    "utc_offset": -240,
+    "vicinity": "255 Front Street West, Toronto"
+}

@@ -1,0 +1,211 @@
+{
+    "address_components": [
+        {
+            "long_name": "1108",
+            "short_name": "1108",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H8",
+            "short_name": "M6J 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1108 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1108 Queen St W, Toronto, ON M6J 1H8, Canada",
+    "formatted_phone_number": "(416) 707-5337",
+    "geometry": {
+        "location": {
+            "lat": 43.6435725,
+            "lng": -79.42306599999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448123802915,
+                "lng": -79.42167446970849
+            },
+            "southwest": {
+                "lat": 43.6421144197085,
+                "lng": -79.4243724302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a11ff9bb15848d1598487bf595accf5a82e7285b",
+    "international_phone_number": "+1 416-707-5337",
+    "name": "Amy Medal",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 11:00 PM",
+            "Tuesday: 7:00 AM \u2013 11:00 PM",
+            "Wednesday: 7:00 AM \u2013 11:00 PM",
+            "Thursday: 7:00 AM \u2013 11:00 PM",
+            "Friday: 7:00 AM \u2013 11:00 PM",
+            "Saturday: 7:00 AM \u2013 11:00 PM",
+            "Sunday: 7:00 AM \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 802,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100124013161364276028/photos\">Amy Medal</a>"
+            ],
+            "photo_reference": "CmRaAAAAQOnd0xWcEHbU23AGtCikZt71cnwNOMFECr4AZTytmq1U3i1W4opKYyTq9xP_cinN6JoJlrcQM0mwXn4Hi0htXr7l9v3BtwoxxVdhtd6GJHHau2lY7I71Z_oudQoyoHCgEhCRW3_yE3m8rBwgNSNG2DalGhRgml5OdKCUdFsprtv6YVxgtlFVjw",
+            "width": 802
+        },
+        {
+            "height": 448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100124013161364276028/photos\">Amy Medal</a>"
+            ],
+            "photo_reference": "CmRaAAAA9WE7KtrmSeLylAUQqpkMqWzvBaLcJlIz9vF2Afkf_YpUam5g3QYeh6xY0Mbp6Qos3lBo_3uYwiPgdC9dpmigy96GAPQykMefrVEQYZJbKW_NcuwdZjtVAuazVrkoBrlYEhBSOgOJPSW_5f4a-_lEJ-m4GhQAjBnbvYo81OcGHIfpaDdb-gWI_g",
+            "width": 299
+        },
+        {
+            "height": 344,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100124013161364276028/photos\">Amy Medal</a>"
+            ],
+            "photo_reference": "CmRaAAAAHDhhPCvynJQZV2jDUyipAf1WLRs0OBQNFD6kPTmOuy4biIdf68702oZivNGbBZuxPvIj15qWnkCxqfPDSm6C9H7_riO8wSFXnF4bPYV8v5JtD4Huiib1N5wbUDC3SLVREhASl-ZyySEk8zpAwo5PNWUCGhQXI7Zer-9oTzygdoYD3Fz_42DC3Q",
+            "width": 792
+        }
+    ],
+    "place_id": "ChIJPzS9KQA1K4gRD449600iMl8",
+    "reference": "CmRRAAAAxa2t2UWlNaKQmr9ETaPjzgmI-YWcdthFOVv-lA6xAZc-oVxW44KVOx5I0gjjdSyiwcGbzNyyKyla875WsGbZcySRZK58zvado9qWi4AnXo7LRMPmfFplB9pt3h5NOR0kEhDL1UKyNQl-e_FLfcDQRashGhTdC2roAZifRf58FoNCt6-LWW3zHg",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6859582900493192719",
+    "utc_offset": -240,
+    "vicinity": "1108 Queen Street West, Toronto",
+    "website": "http://www.west-end-girl.com/"
+}

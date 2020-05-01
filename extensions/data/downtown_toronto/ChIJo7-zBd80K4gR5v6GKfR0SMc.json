@@ -1,0 +1,263 @@
+{
+    "address_components": [
+        {
+            "long_name": "27",
+            "short_name": "27",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">27 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "27 Stewart St, Toronto, ON M5V 2V8, Canada",
+    "formatted_phone_number": "(416) 893-3060",
+    "geometry": {
+        "location": {
+            "lat": 43.64344209999999,
+            "lng": -79.4006062
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448412802915,
+                "lng": -79.39927656970849
+            },
+            "southwest": {
+                "lat": 43.6421433197085,
+                "lng": -79.40197453029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b628e35c807c281a32b593d26a41e89b98a5a923",
+    "international_phone_number": "+1 416-893-3060",
+    "name": "Ericksong Architects Inc.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 10:00 PM",
+            "Tuesday: 10:00 AM \u2013 10:00 PM",
+            "Wednesday: 10:00 AM \u2013 10:00 PM",
+            "Thursday: 10:00 AM \u2013 10:00 PM",
+            "Friday: 10:00 AM \u2013 10:00 PM",
+            "Saturday: 10:00 AM \u2013 10:00 PM",
+            "Sunday: 10:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 713,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033579025738519944/photos\">ERICKSONG ARCHITECTS INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAAApAIJ0lq8wo6tIsvkdR9DxwA8swIPKzMYiShzB-sjCquiWwHya7DGMLsOIFkdCuD9FXz2SsMlucHMynpgkneSvyhSIk2ALL_yJXWccW8LG7RBZcBB2BFwON2K_MkymOYEhBTkFjjY534vSqacIi4Db7FGhQtcrV3Izfgjvr4qIT98LlX4KMGvw",
+            "width": 1000
+        },
+        {
+            "height": 1702,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033579025738519944/photos\">ERICKSONG ARCHITECTS INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAASHHrFpMThpd0ut4YnJ4DT5YkQpR_7EctT4Dt3QUVSxruayyLv3m7Jmj0U4xZvR85AlfDcf1ZX4pF03GSsN4s69N1Nowh9aUXd_CIWPVt4-b1T4gjBcwxWKlY4M3sI6z-EhAHqBRsIxwjPepTWInhNcQWGhRa6DybrdM0QJjtZDE41oAoZe-_zw",
+            "width": 2048
+        },
+        {
+            "height": 604,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033579025738519944/photos\">ERICKSONG ARCHITECTS INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAA-2pEEhfLl46LmK-BKJXGvTZuf3vKncBhzyS2UQ9pRrjQDXnhKPxgkL9DGH2Qkjc-BpUKkP6ZKAZ6qgeY_Hp0My_bdrw7oqI6Usoh-jGVs_Kdjh2NIUQiWjgTLfIn3ctzEhC9XNn3xah9XF69xakQ_G_2GhSYGsnodCJk3ooyje1B5cMy8G5bbQ",
+            "width": 420
+        },
+        {
+            "height": 801,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033579025738519944/photos\">ERICKSONG ARCHITECTS INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAAg2W7UKktAK9llWXV-U3lekMuB0EdXP1vyy12Xxb0Xs0QK96sO4uWWtQI8-2mOSM7hOSbcVxUWOoltioXuxrTrCDuYkQTYK2Wd_6C1rxBCsVjcFFSyWJkKIwlqoJ3uhYTEhBGgdh26xQ-NJtWHgrq-xs7GhQIgVUzEFe8DbC1lqqYB3Xd91JSTA",
+            "width": 1075
+        },
+        {
+            "height": 682,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033579025738519944/photos\">ERICKSONG ARCHITECTS INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAA1zhg6WmUKFZvgNqc_0W7WCbvEVI88lV9Fa6wnCx_hyzyEIsr2ZpezaPfv-E0LwtKFy-JQEKCU8EaGIEpfGeyGwTod9a1_xM3KuCidnwMulK-NJgFMDQ_pweCn8UOwPFsEhDTUIPzLTUYDNXlT-qjIcL-GhSvNtYWIZY7Tnn7mhyBf6zGrMsXkg",
+            "width": 1023
+        },
+        {
+            "height": 296,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033579025738519944/photos\">ERICKSONG ARCHITECTS INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAAvRDRXBsjD3LRnPnBEhA0SvrccV0KAlJkLsfzRksH5avNUxhS36bXpLpgs6klbp41Kgr5njjRS34LpIXTNv0StsddO7C4cw-BVyu8U3b8EjGSqsznUby8LuS6OhGcv6mdEhBtsUXNZXZ7AqLggul8WL9WGhSOdYWzzD0V2ofSR5IYQ36AjS6dCg",
+            "width": 296
+        },
+        {
+            "height": 1237,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033579025738519944/photos\">ERICKSONG ARCHITECTS INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAANKkL20Wl4uODq1VUzGO80_BJYYuVZcj18w9iAHg2kvqCbXffUS_FXUkFbaZ2spUcxnMZdzZ406Q87ADzEeX7Q1nNKtniqGNxndcAAKaEF-SBGtWCDx7qB_iaFFY66OSmEhDYQ8BFUK7j02D1TsoVLuCXGhSjUbcTT_qdMlhfbNmPLhHA9vZVJA",
+            "width": 1050
+        },
+        {
+            "height": 356,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118033579025738519944/photos\">ERICKSONG ARCHITECTS INC.</a>"
+            ],
+            "photo_reference": "CmRaAAAAWhtANP_7G3YN9aKJ9jWyehYC83TGopzHVRmWo22837rXSgIKxemy_WUhCFIsO-DvNw9YD5eFbdy1RJ1cDGgtM_wfXtZO66zS1FQMKXMiRlMdjj0ap0nklFhrsmw2WIH-EhDt0CxHt53WHBoxlOS3CGCIGhRVmZFPvhIm7A4banY-ZDG4TzK69A",
+            "width": 604
+        }
+    ],
+    "place_id": "ChIJo7-zBd80K4gR5v6GKfR0SMc",
+    "rating": 5,
+    "reference": "CmRSAAAAmW4AjvTP6i6H3RhnUdtH-jjMwODAD5dTQ53agyG8vOG3COVKBfdPhOy9Dx1a4Z_naeVpLnCL7SHbLni1_fHmojqrqa76NlayIfmsHXNlSgRvwO0IRX12-_izY1yIDc3nEhD1UU5AB5aHEwipOQtpDzmPGhSc6hZj8wGERVM9_8BQ4Pye_1Kxrg",
+    "reviews": [
+        {
+            "author_name": "Cricket Johnston",
+            "author_url": "https://www.google.com/maps/contrib/105505992222612359348/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cjE-ZtBCIww/AAAAAAAAAAI/AAAAAAAAAVs/QAkRG2_dt5Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Accurate In depth Architectural Knowledge with Passion and with Beautiful Arcturial Heart for peoples needs, and they offer fixes custom for your project ...Thank you...My Favorite Architect Website and People in Toronto!!!  :) Cricket recyclable roof top gardens :)",
+            "time": 1425372880
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14359856003888381670",
+    "utc_offset": -240,
+    "vicinity": "27 Stewart Street, Toronto",
+    "website": "http://ericksong.com"
+}

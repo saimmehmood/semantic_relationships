@@ -1,0 +1,243 @@
+{
+    "address_components": [
+        {
+            "long_name": "g",
+            "short_name": "g",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "16",
+            "short_name": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 2A1",
+            "short_name": "M5E 2A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">16 Yonge St g</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 2A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "16 Yonge St g, Toronto, ON M5E 2A1, Canada",
+    "formatted_phone_number": "(416) 216-0977",
+    "geometry": {
+        "location": {
+            "lat": 43.643123,
+            "lng": -79.3762977
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64456028029149,
+                "lng": -79.3745537697085
+            },
+            "southwest": {
+                "lat": 43.64186231970849,
+                "lng": -79.3772517302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "03a8dd362924484cdd8c2551383b647222716a9d",
+    "international_phone_number": "+1 416-216-0977",
+    "name": "In Style Salon",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 9:00 AM \u2013 5:30 PM",
+            "Wednesday: 9:00 AM \u2013 5:30 PM",
+            "Thursday: 9:00 AM \u2013 6:30 PM",
+            "Friday: 9:00 AM \u2013 6:30 PM",
+            "Saturday: 8:00 AM \u2013 2:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113751359172254525976/photos\">Sergey Alakov</a>"
+            ],
+            "photo_reference": "CmRaAAAArx98ViQbRzdISLGQhSVefU1EXiGiD7rPJyVgD4AO6JA4PC_M92qEiT5I5cC6KfcardWIBsuGvNAOP9juFLRl6k9vayT8o_yFnO7fOrYnrGLx0BPR_rx1yZXPeefW_RdVEhD_F5dFoliIKU3VtVflSFGNGhTdZC5Dr_7YFD-YQZhvqhSFGnS5VA",
+            "width": 3264
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAcjO0gYftrLGpUjQVTpvtAbhWdphCLyN1Bb74OBoqp2-cZm8RwfZmXyjoBCZ7q0pcARwLbP3-pQH6pMjE8C-sPZLPwHJFkai0DB_Y6kGMwSKYf3iUJ07rUabA8xeF4efTEhAdg45Wovy5Vl5YZf40wbByGhRFjrOtlrFM0ZDs4uhGN57nnKCemQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJY20X8ivL1IkRlC2RlOjX_FU",
+    "rating": 4.3,
+    "reference": "CmRRAAAAWMh9tuxthQiIolJO6I2eiwyApTGC8mbjvUjsFktbgotzTVz5rYyelhTUMxsO_p1qb9xJbbDB9ar66oyrvtPTNwWAjve7y-dMFqqIFakotQgHrxMrMt-r_CqSBC3cCpcvEhAX0QJQjJWMNBjmjojLDGJ3GhSt1fbK-tkqYu9SiIj4ZnVbjtm3pA",
+    "reviews": [
+        {
+            "author_name": "Shannon R",
+            "author_url": "https://www.google.com/maps/contrib/117465975406156201360/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-TNGM28sj-4c/AAAAAAAAAAI/AAAAAAAAAo0/euYfGwtOHic/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Helen is great, she's really good with my long, thick, curly hair and is no mess no fuss. She's precise, fast and has a lovely warm personality.",
+            "time": 1517237335
+        },
+        {
+            "author_name": "Gaurav Kumar",
+            "author_url": "https://www.google.com/maps/contrib/117292811291313760638/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-rwzywkoARMg/AAAAAAAAAAI/AAAAAAAAAN0/4yzpANwFTaA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Helen is amazing! I've been going to this salon for 2 years now and for good reasons! The staff is friendly, accommodating with the schedule, and does an amazing job",
+            "time": 1511959406
+        },
+        {
+            "author_name": "TheDesktopcustomizer",
+            "author_url": "https://www.google.com/maps/contrib/108453215874173311993/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-EQNRZ4UZxng/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0YL6BQeQEZriOcjIun3D6lOrQR5A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Ellen is the best hairdresser I know, professional and courties",
+            "time": 1520527412
+        },
+        {
+            "author_name": "babe4him babe4him",
+            "author_url": "https://www.google.com/maps/contrib/102361736590509288878/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Za2qTByIeDQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3c3sn_A-6kvd1UwcXv6p9T0gl7Mg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "excellent. Friendly and knowledgeable",
+            "time": 1515621913
+        },
+        {
+            "author_name": "Zach Allison",
+            "author_url": "https://www.google.com/maps/contrib/112349836340171845906/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-5JIJbUv7BJ8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3PaDUP7e0qKC6zTUrgkvLsxSPS-g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Sweet lady, always a nice job.",
+            "time": 1512827777
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6196064581279886740",
+    "utc_offset": -240,
+    "vicinity": "16 Yonge Street g, Toronto"
+}

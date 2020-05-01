@@ -1,0 +1,180 @@
+{
+    "address_components": [
+        {
+            "long_name": "833",
+            "short_name": "833",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N9",
+            "short_name": "M5V 1N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">833 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "833 King St W, Toronto, ON M5V 1N9, Canada",
+    "formatted_phone_number": "(416) 367-5257",
+    "geometry": {
+        "location": {
+            "lat": 43.6427511,
+            "lng": -79.4077588
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441626302915,
+                "lng": -79.4064340697085
+            },
+            "southwest": {
+                "lat": 43.6414646697085,
+                "lng": -79.4091320302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ff7faee265cf01a291ae4673fd3e6ab320a2936c",
+    "international_phone_number": "+1 416-367-5257",
+    "name": "Capelli Colori",
+    "photos": [
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAPlCSOTRnIt1QokSnxIhCPl_mbgMbDSCZS0B3tRUsOjD_qed4-M2ukdvuqpuTUQjprwH6Z_lteG9S79Xc7J_BnCM8dh6RV3kuCovkLA4WzgOrOtAVGD7DNLktY87cqnVjEhCfyv_K-hByCdtk6o0TDv3cGhTphcN4tf3TLoefEDVESmWEDlVxhA",
+            "width": 4048
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102775325764780851496/photos\">Morris C</a>"
+            ],
+            "photo_reference": "CmRaAAAAFohmH8_hhNNgzVOQIdOvsKxvftvpojp0v5Lr-2uxJ_SGqgTGt03lOZSIEcbnWYtP8m0G1iIq7hpJlsEaae_rQohW2tzAG8ety5UrWh68bJftW2qkzDZW_9-Fg9iyT-Q1EhB3XKAvHTBhn1O9VAccmWUrGhTT3EpzJwjpOwy0ouT6-QLKpw2VIQ",
+            "width": 2048
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106489377122643540006/photos\">Ted Magnum</a>"
+            ],
+            "photo_reference": "CmRaAAAAp6mBhqqYRFSZBKJAUebaCqugimHu4RYQxXeLWmSz0RSEAQgDAlc7Oi4BqGO3pJ6iGDw3Jw3qj3cpNzCAy3i43rP85brFUhLQWMnSYqD7TuTSeEWP7IyLJc3y_sK0IeuSEhBvYicF7877VyWjrB0CGMM3GhRIMrj5qQgEzr7S_nv2uJgtez0C2w",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJO8vaAuI0K4gRSLrst7ddK1Y",
+    "rating": 3.9,
+    "reference": "CmRRAAAAjUNO3T4nrgL5pIQ2t30d54Ud3wULnXrCMkRfVOx8BSKmIyhyn9BLc8WWLL3l2-VkB1YvFSn8Zg_R9JiKmv_8QNxJj91VKaIKkaGOh6UHFXjc4O1Xs8Pszo6nSH5NDe8IEhCjrmsB7MlflxSgRVtNPHn3GhTJrWMRdnxKxLm5C_NjVNkx_HYh4A",
+    "reviews": [
+        {
+            "author_name": "Jas Kaur",
+            "author_url": "https://www.google.com/maps/contrib/111532770765149179912/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Sv2QdEJqh7k/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Dr4SbnqvtUV-dAdNRFaPp1v9-vg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Bernard has been doing my hair for over 10 years and he does a great job!",
+            "time": 1505170210
+        },
+        {
+            "author_name": "Karen Crellin",
+            "author_url": "https://www.google.com/maps/contrib/106467873264644200131/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-WE6_kzx1Gu4/AAAAAAAAAAI/AAAAAAAABpk/OO9u0fcBKGw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Its a great place for cuts colour..good prices",
+            "time": 1513062508
+        },
+        {
+            "author_name": "Clark Holdham",
+            "author_url": "https://www.google.com/maps/contrib/110022255490432600709/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-MOWk0ETCbyM/AAAAAAAAAAI/AAAAAAAABbQ/nCpYXaZVzdE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Great haircut, super fast, great price and great service. Will be going back from now on.",
+            "time": 1506104763
+        },
+        {
+            "author_name": "Chrystal Thomas",
+            "author_url": "https://www.google.com/maps/contrib/113776008744946329196/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-LDx-5yo69r8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1XZFXoforrKIZBiGc20iFtqGWTog/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "love it, went in for my first time for highlights, trim and wash...I love my color and Bernard is the sweetest. Absolutely going back!!!!!",
+            "time": 1493745771
+        },
+        {
+            "author_name": "Marilyn Campbell",
+            "author_url": "https://www.google.com/maps/contrib/115382002958737494404/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-uLzbf-csLXA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1yWo9zy8-jLHNbgGTfyF_uqL0lhg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Bernard has been doing my hair for  years now   he does a beautiful job every time  !",
+            "time": 1501618512
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6209159554906503752",
+    "utc_offset": -240,
+    "vicinity": "833 King Street West, Toronto"
+}

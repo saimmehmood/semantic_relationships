@@ -1,0 +1,191 @@
+{
+    "address_components": [
+        {
+            "long_name": "50",
+            "short_name": "50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Portland Street",
+            "short_name": "Portland St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2M7",
+            "short_name": "M5V 2M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">50 Portland St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "50 Portland St, Toronto, ON M5V 2M7, Canada",
+    "formatted_phone_number": "(416) 720-7226",
+    "geometry": {
+        "location": {
+            "lat": 43.6432618,
+            "lng": -79.3998572
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446375302915,
+                "lng": -79.3983821697085
+            },
+            "southwest": {
+                "lat": 43.64193956970851,
+                "lng": -79.4010801302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "1bcbae9f98012575e07b5d6883af646a45be5329",
+    "international_phone_number": "+1 416-720-7226",
+    "name": "The Tailr",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 7:00 PM",
+            "Tuesday: 9:00 AM \u2013 7:00 PM",
+            "Wednesday: 9:00 AM \u2013 7:00 PM",
+            "Thursday: 9:00 AM \u2013 7:00 PM",
+            "Friday: 9:00 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 2:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102673438656238807992/photos\">The Tailr</a>"
+            ],
+            "photo_reference": "CmRaAAAA36uhi6yVZgz06_ZjkYnQLwVdA1cy8sEYw-zfnpydxWDZKdAuzIr1oENqFpeD4bLeBHQRYdCFItDc8yCQKNA0UgQuInm0RCXzH0uY_d_vToPKpVQXaUnnY97LpCHm8RzVEhBUXQs4RNG0iFQfyidsbaCyGhT1uhjbYWaghMi0CW7U7X9WBrpRJg",
+            "width": 2048
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102673438656238807992/photos\">The Tailr</a>"
+            ],
+            "photo_reference": "CmRaAAAAY5nf7bSR-abkWktKNgb_5UtRmWq7GRXFq5JyZxUJCwqN8gVBBc_6kgt7bBBdANT7rnG2Hgogmn7n-gCjyr2O9hOxOA2vH5Q6uZrjnc5D8IdXNJG0ER4A7_A88TZVAXonEhB1R-nTZkaSNRiAT8-nEarkGhTKFoJs-dAq86BAI1eZwgGmBh3flw",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJO1yyBd80K4gRqzjvq0sFVs4",
+    "reference": "CmRSAAAAIgj_-vooEd7BIcNe7e6Hn-W8I2acUQqBTG7-KIYg1NUtC9cwnV_va--8p3txH-WLPZattPqrvZdJutytcbtHnhO5AflUzdROV5jUw8C-Yb-ZTdJ6AVC33l8soEXX0ibSEhBcOkSit7DuSrMGvsrTjk9QGhQz1KF91FgFnUqHXvPk-u2NFIshFQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14868077042375538859",
+    "utc_offset": -240,
+    "vicinity": "50 Portland Street, Toronto"
+}

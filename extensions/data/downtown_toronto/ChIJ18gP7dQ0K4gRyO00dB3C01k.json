@@ -1,0 +1,132 @@
+{
+    "address_components": [
+        {
+            "long_name": "121",
+            "short_name": "121",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 3A8",
+            "short_name": "M5J 3A8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">121 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 3A8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "121 Bremner Blvd, Toronto, ON M5J 3A8, Canada",
+    "formatted_phone_number": "(647) 875-8491",
+    "geometry": {
+        "location": {
+            "lat": 43.6431284,
+            "lng": -79.3823331
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442970302915,
+                "lng": -79.3809112197085
+            },
+            "southwest": {
+                "lat": 43.6415990697085,
+                "lng": -79.3836091802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "30145cf333fe6d4c04a405e99011c213c658cebc",
+    "international_phone_number": "+1 647-875-8491",
+    "name": "Sfc",
+    "photos": [
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114989425105155886471/photos\">Piyush Ghimire</a>"
+            ],
+            "photo_reference": "CmRZAAAA7kgu9kfrmUvUD8NkQBMBw49lZDGRj-6aIKSzwCpuAvvuU0nBv8JSlAvcHtP-kz8gU4QruOEjb6GxeDdXhLtuxyFtyp3jAv9VbuhcwVuKra84C8yDtmY7DZkYOkprLc3LEhDajTq_QWKIeVIUBBw2QbioGhTOpb9KmFusQ7VchlucjVbTy6QGlA",
+            "width": 2988
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114989425105155886471/photos\">Piyush Ghimire</a>"
+            ],
+            "photo_reference": "CmRZAAAAYqe1MvPIl9iXId3qohmYGGDnL_6_obPKsBYIRNYUtp_7gtGdLfVJnqzKK297ORmt-NUsZNK3olrwj9iQ9d1CirFYHcgZIyKkbaVO1h9VDIkU6kpxrHuDzZ6UOLDYquOnEhCfJykpH4nRr-O9jOd1NpoGGhSeM4ll4a5d0Y1ymfsf9TWX9IIv1g",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJ18gP7dQ0K4gRyO00dB3C01k",
+    "rating": 4,
+    "reference": "CmRRAAAAm__ZEbgbuYDh8UTjCBFesGFGf6E8FT_vsg0U0Op3Mf4rXi0hosYzY82NDARuecicMc2SypIRH9z2qQYJrwUFuJXiPS5Mbj-9Wv8aDsVQLVA4QpEAEEIBu9gBD-UmmGzzEhDSu0WrkN0pgmfUOY7ImHd-GhT2wiuaJOoFQrMUF01L4Ef075HcIQ",
+    "reviews": [
+        {
+            "author_name": "Piyush Ghimire",
+            "author_url": "https://www.google.com/maps/contrib/114989425105155886471/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-k9rVSA3W_p4/AAAAAAAAAAI/AAAAAAAAJeQ/t0SuY4-YGp0/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Nice venue for office and way to PATH",
+            "time": 1524506429
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6472730521221000648",
+    "utc_offset": -240,
+    "vicinity": "121 Bremner Boulevard, Toronto",
+    "website": "https://southcore.ca/"
+}

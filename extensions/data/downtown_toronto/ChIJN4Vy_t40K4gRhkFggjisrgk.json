@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "79",
+            "short_name": "79",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Portland Street",
+            "short_name": "Portland St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2M9",
+            "short_name": "M5V 2M9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">79 Portland St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2M9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "79 Portland St, Toronto, ON M5V 2M9, Canada",
+    "formatted_phone_number": "(416) 255-9521",
+    "geometry": {
+        "location": {
+            "lat": 43.6440534,
+            "lng": -79.39953009999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453667302915,
+                "lng": -79.39835261970848
+            },
+            "southwest": {
+                "lat": 43.6426687697085,
+                "lng": -79.4010505802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "19c170eeceecb5459d4c8567617572bfce83f139",
+    "international_phone_number": "+1 416-255-9521",
+    "name": "Rowland Auto Electric",
+    "place_id": "ChIJN4Vy_t40K4gRhkFggjisrgk",
+    "reference": "CmRRAAAAbYwvGwJUpiPZhReIRC89fF4gf2j9Kjg5ZekoYiiNokRG8AoPoiOT_enYYuvc31DaX1bZc002ISU6d6i4gEMZv-bQMtktwDrGWMw0wI3Ut6SSZyAYD96G15PBTb4zWachEhB_P97wnm3TBmse99YXt5iYGhQwl3aypBiFME92ygsX6K710H_5dg",
+    "scope": "GOOGLE",
+    "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=697684350994497926",
+    "utc_offset": -240,
+    "vicinity": "79 Portland Street, Toronto"
+}

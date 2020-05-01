@@ -1,0 +1,90 @@
+{
+    "address_components": [
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V",
+            "short_name": "M5V",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Spadina Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Spadina Ave, Toronto, ON M5V, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6435349,
+            "lng": -79.3943595
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448838802915,
+                "lng": -79.3930105197085
+            },
+            "southwest": {
+                "lat": 43.6421859197085,
+                "lng": -79.3957084802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "6e8c3f639176fdb2a4021d75b580678a85193bcc",
+    "name": "Spadina Avenue",
+    "place_id": "ChIJuRXpqdk0K4gRU3QrfINHV20",
+    "reference": "CmRbAAAAkxqYvmZ_nHAccvBV3Uui_EdyxyXq7IIQjUhxWz337pZ7vfd4nKSKf9ZXqIr5qyUIaN1NJfy5Ib9mzVFAPfYxGtpL-s8ajMrCAAc9ze3N9AnApIyMM9m3cA5NGddeuVGiEhA6syMebC0o8NeCIsCOMYu4GhT4SjkqKAbV2rQZ1CG49YqvKywJKg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=Spadina+Ave,+Toronto,+ON+M5V,+Canada&ftid=0x882b34d9a9e915b9:0x6d5747837c2b7453",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

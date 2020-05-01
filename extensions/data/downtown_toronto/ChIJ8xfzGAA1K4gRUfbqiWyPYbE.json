@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "1134",
+            "short_name": "1134",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J3",
+            "short_name": "M6J 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1134 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1134 Queen St W, Toronto, ON M6J 1J3, Canada",
+    "formatted_phone_number": "(416) 533-2251",
+    "geometry": {
+        "location": {
+            "lat": 43.6433054,
+            "lng": -79.4240903
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445726302915,
+                "lng": -79.4227099197085
+            },
+            "southwest": {
+                "lat": 43.6418746697085,
+                "lng": -79.42540788029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "52b147948e84b81f6a519506c67242d9b3b70bc6",
+    "international_phone_number": "+1 416-533-2251",
+    "name": "Lithographic Services",
+    "place_id": "ChIJ8xfzGAA1K4gRUfbqiWyPYbE",
+    "reference": "CmRSAAAAhi0qMr6AmAZumWYNUanruL8EFZEeDlqc7Q6Rw7wFvQ0t9X-f1H7DCvJB40jskLKtFYowHkRKsvoTxbMYMT0jKxrelme1vIiTWxqs4RFUS7qnAuHF5ADDT4W1CW4CInRaEhDYV6W8YFk8Sns6ttXpEU9vGhQaqFHL_kmbHipGGPaWcibCpt714g",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12781654913787295313",
+    "utc_offset": -240,
+    "vicinity": "1134 Queen Street West, Toronto"
+}

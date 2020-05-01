@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "629",
+            "short_name": "629",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 0G9",
+            "short_name": "M5V 0G9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">629 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 0G9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "629 King St W, Toronto, ON M5V 0G9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6439484,
+            "lng": -79.4014758
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64539178029149,
+                "lng": -79.40016421970849
+            },
+            "southwest": {
+                "lat": 43.6426938197085,
+                "lng": -79.4028621802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "50f3d82caa97164ecb046d657d501154985fe95d",
+    "name": "Thompson Residence Condo",
+    "place_id": "ChIJtZxjNd40K4gRv3MDgY0e9bI",
+    "reference": "CmRSAAAAnBMvlD-wtuJTfTvgFZY2xKYjx3TgmSvQR9HFatO2x2OpxtjeGmRnESyci5zaJ_WYj4e0rtPpEtrl66kO2Zpsb4V2tjIXzzzAwAIT99SsN69H6xPvEIymnFIJ6qv7bFAxEhDEPZ1iWJCY-1zU4dbWUSeMGhScy8HCt9wdqSel8YixbnV4V6bI-A",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12895246701148992447",
+    "utc_offset": -240,
+    "vicinity": "629 King Street West, Toronto"
+}

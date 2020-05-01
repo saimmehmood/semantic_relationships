@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "55-7",
+            "short_name": "55-7",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55-7 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55-7 Stewart St, Toronto, ON M5V 2V8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64345540000001,
+            "lng": -79.401076
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64480438029151,
+                "lng": -79.3997270197085
+            },
+            "southwest": {
+                "lat": 43.64210641970851,
+                "lng": -79.40242498029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "6a03b836a2e776aebad7802f02dc8ef573450967",
+    "name": "55-7 Stewart St",
+    "place_id": "ChIJW_ZFsd80K4gRWzGyOJR3l6E",
+    "reference": "CmRbAAAAwfuLSqxjwwTaAhcfHdl2NPDagWls96izCrbO2OqoQYkTmLq2PAXn7_CCsqT90Jfn1AT4jBY94GEh8ObzWwA0OyCnlX471FKcion5h6XFCBfPbTzdAgHQfiFaUdLtOAZzEhAII81fPgTui8NS5xaMLdwkGhRasCXoLJCH8sdhty5kgFE1eFFHeg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=55-7+Stewart+St,+Toronto,+ON+M5V+2V8,+Canada&ftid=0x882b34dfb145f65b:0xa197779438b2315b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

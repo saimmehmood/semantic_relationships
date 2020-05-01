@@ -1,0 +1,256 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3S8",
+            "short_name": "M5V 3S8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "371 Front Street West D1 &amp; D2, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3S8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "371 Front Street West D1 & D2, Toronto, ON M5V 3S8, Canada",
+    "formatted_phone_number": "(647) 800-0652",
+    "geometry": {
+        "location": {
+            "lat": 43.6430018,
+            "lng": -79.39211949999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6443507802915,
+                "lng": -79.39077051970848
+            },
+            "southwest": {
+                "lat": 43.6416528197085,
+                "lng": -79.3934684802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "d4680016f70e01b87d97c790138e81dae4c39840",
+    "international_phone_number": "+1 647-800-0652",
+    "name": "The UPS Store",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:30 PM",
+            "Tuesday: 9:00 AM \u2013 6:30 PM",
+            "Wednesday: 9:00 AM \u2013 6:30 PM",
+            "Thursday: 9:00 AM \u2013 6:30 PM",
+            "Friday: 9:00 AM \u2013 6:30 PM",
+            "Saturday: 10:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105373278871081680737/photos\">Sanathan Kassiedass</a>"
+            ],
+            "photo_reference": "CmRaAAAAgHQo6Q5YqpNg3f8S6WHPsMWI_qbnlQish-XFsK6pklceGMGe0hTW4qLSukaxQVOP2ebaqTQm-ppTOUIiLPTy_EEUZ-V7MEdUkWQYa10qyf6fPNhwxq0clRKgbdwYe0k0EhCBxwWS1iZbBqGfyMbUUM5-GhRd4A4QpiCp4SlIq5OSp-l3b433zw",
+            "width": 3264
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAg2VecPq9YZIWBf6UG0LzaSDHXae7ZHKkeVwLKVSeukz5u39mtTWAMkq6Nc8qwrvtXVmEFBYD3zxcFhLuxq1unliC_7BEx807b-l5vQIjJsI3ZSpNxWU5-4vR8bRyvYuCEhAm08wMuFjXPOzmsdWVuzqKGhSSkJL9ECqHGjPfICeSbr9EFYqFPw",
+            "width": 3024
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAA9IFwreess9FUgKH6JEGmiNsOBxuSS4b_KGuNkd0NRfG1C7g6CO2F2vZj099nKwwAwGYNZiCyWiqqc6w3iO5uLhGUJB7WIKZPNThrKO_ZZFqUzy_KKkZvy2ps9p8hWmBnEhB6kGJF0BqeCC7JL8SzYqjmGhSKVygUFYf7_HWkuYgzJWeF8dKcAQ",
+            "width": 3036
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104255324420092991879/photos\">A Chung</a>"
+            ],
+            "photo_reference": "CmRaAAAAJ1cWrqy_Hq84OayT_hKfb1v_QNhM95ish2qAGrY6YMfyLj4DFutqMsHJOWlAn2guh60CsjIrVUps5coGZGjmCXvYL-Wl_M4t6rFUbX7Pgvf-hKfw1cc-QHeTJF2svJUMEhBp-W1atfRW5wcKjQLsoMT4GhRnss878yi7f5bqqeTQzbPl1yr2Yg",
+            "width": 3264
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115676570407564914435/photos\">Alex</a>"
+            ],
+            "photo_reference": "CmRaAAAAB_5evn8lbPO6tpfKsEW6nw1biYYvMr9Kh-XYl9O6-VwVn7XCECJOQS_xryMR6CmDyJ8eliu9zaVzMibBpHE3NKZa9_NJXnZ0q3lOhtdsR05DKoY-okfY1F5fs-hJ9rm2EhBBn68n28W_u8LZzJaD-9fjGhQTulrP3cE3CvwJg5UcPIYwc_AiwQ",
+            "width": 1536
+        }
+    ],
+    "place_id": "ChIJjVOI0tk0K4gR8zL3hprZF8o",
+    "rating": 1.7,
+    "reference": "CmRSAAAACST1DR1sQEhUxBzPLD5XNGmzFWZha_90q-4EAemLaUEpONp4Y9v5OFHcLXNo361p5t0piutf2et_AR9KxM5hq12jP6q5kRqVC0uDkScnxVwBaaERFlos7ugzejJ26w5dEhC2V3V8q9xAJJcHZrk40eoLGhQVghPkRbx3DqfSkAM1FL0YgKuW0Q",
+    "reviews": [
+        {
+            "author_name": "Jay Arzadon",
+            "author_url": "https://www.google.com/maps/contrib/113263521226937022831/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-zulPzhY9peo/AAAAAAAAAAI/AAAAAAAABG4/R0kAXFvRcqY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Every single review here is accurate! This location has the worst customer service. They charge you for everything! I used the computer to print something off and after I done with the print I decided to use the computer to read over an email. As I went to pay for my sheets, they charged me for using the computer - $1/5min. There was no indication or notice about having to pay for the computer but what got me really upset was the fact that she charged me an extra $1 for using my DEBIT visa card. Her explanation was that they charge $1 for any credit card transactions. I told her this is a Debit Visa Card NOT a credit card. She disagreed and told me it's a credit card LOL I paid and will never go back.",
+            "time": 1520471379
+        },
+        {
+            "author_name": "zzzz aaaa",
+            "author_url": "https://www.google.com/maps/contrib/111584954727029363928/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--_GrbOLNN44/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0fqGjAgdRlgeh8h-Ya01QjToXnCQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "The female employee \"HONGMAN\" looks very nice to some customers but gives poker face to others, that's so funny. She would be a perfect actress instead of being a clerk in the UPS store as she could change her facial expression in less than a second. Hey UPS, if your employee does not know how to treat all customers equally, please teach them!",
+            "time": 1519405344
+        },
+        {
+            "author_name": "Virginie Jett\u00e9",
+            "author_url": "https://www.google.com/maps/contrib/111856863086877121831/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-FDzP9CiXw6Y/AAAAAAAAAAI/AAAAAAAAAtA/SonRl_nN4o0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "This place is a rip off. Wanted to print something was told price is $1. Then some extra $1. After it was printed they realized it was tickets for the blue jays and decided to charge $1.40 extra for no reason whatsoever. I didn\u2019t have the time to argue but printing a page with or without a ticket (same paper same ink) should lead to an extra charge.",
+            "time": 1526589990
+        },
+        {
+            "author_name": "Mushroom Island!",
+            "author_url": "https://www.google.com/maps/contrib/105873790446032761198/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-XWO0EvNoV3A/AAAAAAAAAAI/AAAAAAAABcY/9wtf67Xayls/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I think this place is fine. It isn't as bad in my opinion. Great location if you're looking to print Blue Jay tickets. P.S, if you are upset with the service, please don't insult the employees! Seeing these comments make me feel bad for  them. :(",
+            "time": 1520727511
+        },
+        {
+            "author_name": "R Forgues",
+            "author_url": "https://www.google.com/maps/contrib/112794222154839044546/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-83ddQYuKi_o/AAAAAAAAAAI/AAAAAAAAABU/i0_L6qomvBU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "They don't even deserve 1 star. Owner tried to charge me $20/box to receive them, after I called to know if I could hold at their location and they never warned me of the charge. It wasn't posted in the store anywhere either. UPS Said it was ok to small a charge fee (5$) if it was clearly stated, so they clearly abuse of their power and hold your package hostage to overcharge you. \nThe lady was absolutely arrogant and rude. Please, never bring business to these people.",
+            "time": 1522346167
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14562347177838326515",
+    "utc_offset": -240,
+    "vicinity": "371 Front Street West D1 & D2, Toronto",
+    "website": "http://theupsstore.ca/421"
+}

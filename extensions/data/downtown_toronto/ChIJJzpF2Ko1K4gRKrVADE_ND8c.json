@@ -1,0 +1,115 @@
+{
+    "address_components": [
+        {
+            "long_name": "20",
+            "short_name": "20",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Minowan Miikan Lane",
+            "short_name": "Minowan Miikan Lane",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3K6",
+            "short_name": "M6J 3K6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">20 Minowan Miikan Lane</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3K6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "20 Minowan Miikan Lane, Toronto, ON M6J 3K6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6431376,
+            "lng": -79.42772939999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444672302915,
+                "lng": -79.4265108697085
+            },
+            "southwest": {
+                "lat": 43.6417692697085,
+                "lng": -79.4292088302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "509c01811b9873654123a515bbb451b7daf72f0b",
+    "name": "The Carnaby Lofts",
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105910499357482280346/photos\">Alexandra Cote</a>"
+            ],
+            "photo_reference": "CmRaAAAA3tvDFBWKuhld04_ZO4oFGC3nr4Q167zOYWbMZbfz69gYDBpJ87fseuPTGZZKM77iPnvwOgbaBxf-joXcY9Dt6vbWS9uZl9mL2nLoRvBZrjcPt1-U4ktRTmP4JcUlFlfjEhCu--G7UOG1nWwZGMuFFJnhGhSGadczxFw3U-fQltLl1WKdZc4crw",
+            "width": 2448
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105910499357482280346/photos\">Alexandra Cote</a>"
+            ],
+            "photo_reference": "CmRaAAAAQhclBKpZjexAkLdtBUKgdGi7UUEuMByeshd_2oYNeN6NAM0vZS1Ai1O201t57QEY_FoyRvaWGByFMjLGBG7rpx96qfRS39kv5DwB-KHdxXMdNFPOq21aW4L1OzOHMFZ-EhDousAsxw_dpUIywFWtiVohGhQWAqnL89VGeRFDP4A7qcECunuppA",
+            "width": 2448
+        }
+    ],
+    "place_id": "ChIJJzpF2Ko1K4gRKrVADE_ND8c",
+    "reference": "CmRSAAAAXSAD4KAwrthr5wjpiZW75qJMliHepP0CWixfpsnZLdc73144kgSrkYLfJHSK0M8ub6nYdGm5Bggk80eZ6UaYivkCY7W8MPqdu_P-Mk7MA_SsSd32YthdcpIRmDGFjwkyEhBGFWm-TEQRIZpNbLOskoigGhQ8MRJ3r2mVv5esZ80FqiA4Dt2PbA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14343909077589996842",
+    "utc_offset": -240,
+    "vicinity": "20 Minowan Miikan Lane, Toronto"
+}

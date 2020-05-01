@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "106-102",
+            "short_name": "106-102",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bathurst Street",
+            "short_name": "Bathurst St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3N7",
+            "short_name": "M5V 3N7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">106-102 Bathurst St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3N7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "106-102 Bathurst St, Toronto, ON M5V 3N7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6442183,
+            "lng": -79.40280020000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6455672802915,
+                "lng": -79.4014512197085
+            },
+            "southwest": {
+                "lat": 43.6428693197085,
+                "lng": -79.40414918029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "d2da3cae63281e598d7d84fd12cfe8cc28849ad1",
+    "name": "106-102 Bathurst St",
+    "place_id": "ChIJtU4RKt40K4gRZxrFkb9Tnp0",
+    "reference": "CmRbAAAAObQae2UhrzzJDdsaW4DQOdPSLkUyksECiPkVzDQySaqtYn7w27DUNqmFFgjA3gQOQLOtEnIdUqXn7Gloy7u6UqoWfF03eCR9AiM2GB_9IPegYpcTI4tNSmT-qj3bXLGJEhAdblUFWioFQ6QOyC2iMKgzGhTATLRFCuICCsiRQm0jkaTcU7KxYQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=106-102+Bathurst+St,+Toronto,+ON+M5V+3N7,+Canada&ftid=0x882b34de2a114eb5:0x9d9e53bf91c51a67",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

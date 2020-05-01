@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "23-21",
+            "short_name": "23-21",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Earnbridge Street",
+            "short_name": "Earnbridge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 1N2",
+            "short_name": "M6K 1N2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">23-21 Earnbridge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 1N2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "23-21 Earnbridge St, Toronto, ON M6K 1N2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.643241,
+            "lng": -79.43272329999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445899802915,
+                "lng": -79.43137431970848
+            },
+            "southwest": {
+                "lat": 43.6418920197085,
+                "lng": -79.4340722802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "a9152859aeb5127acdb8d7d08f4bc672e254c4ce",
+    "name": "23-21 Earnbridge St",
+    "place_id": "ChIJz0nwwaw1K4gRzc2zCCTTAEQ",
+    "reference": "CmRbAAAA9wBjjVRzm5ey8cWZnPjRr0pGlC8l6QLJiQpUjrkQpHO636x8E3WsE3N3SzPnsKjTmrPZbmfPG4wsK5OeXfEJaLLVfeONWyp3sL4lZzEwYjsWVz00ky2Y5kyrItI2LrNjEhBcF07a2U17E2J5hKImYk7LGhRsbTN3fOJL3Ebzz9bjuVTZ0pNQyw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=23-21+Earnbridge+St,+Toronto,+ON+M6K+1N2,+Canada&ftid=0x882b35acc1f049cf:0x4400d32408b3cdcd",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

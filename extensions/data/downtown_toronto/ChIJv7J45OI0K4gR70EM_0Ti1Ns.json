@@ -1,0 +1,166 @@
+{
+    "address_components": [
+        {
+            "long_name": "201-862",
+            "short_name": "201-862",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Richmond Street West",
+            "short_name": "Richmond St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1C9",
+            "short_name": "M6J 1C9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">201-862 Richmond St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1C9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "201-862 Richmond St W, Toronto, ON M6J 1C9, Canada",
+    "formatted_phone_number": "(866) 644-6881",
+    "geometry": {
+        "location": {
+            "lat": 43.6445506,
+            "lng": -79.4122089
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458435302915,
+                "lng": -79.4108379697085
+            },
+            "southwest": {
+                "lat": 43.6431455697085,
+                "lng": -79.41353593029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "9d4bdffa7fb008257e019a93014c43fe7c3100b1",
+    "international_phone_number": "+1 866-644-6881",
+    "name": "Canadian ShareOwner Investments Inc.",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:00 PM",
+            "Tuesday: 8:30 AM \u2013 5:00 PM",
+            "Wednesday: 8:30 AM \u2013 5:00 PM",
+            "Thursday: 8:30 AM \u2013 5:00 PM",
+            "Friday: 8:30 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJv7J45OI0K4gR70EM_0Ti1Ns",
+    "reference": "CmRSAAAA30LrQPUBFV9t_zfRYyYJe9Zuv97cb1bOOVw8L33isHWeaId2-p8DpZ8gDvrFDIsZvzv4vEHHx4W79A8gGYAqMs_nyzv0tJ1YNaM5qtTJ0ZYbYIkNGcINMyls5g8oQbc0EhDaEFLuRbNXAhsoAPQ3AfJbGhQ2M_k6AhJCUaELf4TVokaI_TfMng",
+    "scope": "GOOGLE",
+    "types": [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15840534575333523951",
+    "utc_offset": -240,
+    "vicinity": "201-862 Richmond Street West, Toronto",
+    "website": "https://www.shareowner.com/"
+}

@@ -1,0 +1,302 @@
+{
+    "address_components": [
+        {
+            "long_name": "662",
+            "short_name": "662",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">662 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "662 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 628-4000",
+    "geometry": {
+        "location": {
+            "lat": 43.644178,
+            "lng": -79.4021439
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454512802915,
+                "lng": -79.4007649197085
+            },
+            "southwest": {
+                "lat": 43.6427533197085,
+                "lng": -79.4034628802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "54c29d3a3c8fe5d7ea485945ef09e0e1f2d3171a",
+    "international_phone_number": "+1 416-628-4000",
+    "name": "Rogers",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAA9d6iEWkUQlPVbWd7kWjiZULJpZMjMtrff-KUaIotKnk3YVYVqrlfjAceyP44PG3h2Ihr3PW3k5kk_w21UJPFn1zC7mnjhGAukqhP0KdVc-mtULGAZ6fM4EugnN5paEbFEhCraWkynbezexrhMKIMmSIHGhS_Gdp47h7UsMtLjmQacP8LINk0xA",
+            "width": 3024
+        },
+        {
+            "height": 2533,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAFVVJhLaT3IzvKO2pEMo8o3v_Y1T0lILXTKZTfVJ0cCuN0E04hvkR2JpNbVxNfgzEWaLmUmuMge4sjcTECeDB4JF3Kd---jo6f1VVxLk2cp74kmIUDTwKQZzSHPGChOs8EhAeP_tWIwPtc8yR33rBoPClGhRnsNMvlqKdxzF3Xk447togCRB0hA",
+            "width": 4442
+        },
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114325867783131444806/photos\">Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAA05k-kKqRHYd_IY2L2wbHgMQadOrT-YlGe4K77KAVLH8sBB1TmFqOUHRQ2SFvSINa9ly7gwnNGvbwwWoae-lEzPsEl9ZTU3280mBUfaZLHTwjaX8S6eIFKoDsGtPMs3EjEhBAtVcfezo-uBPuOlvRt0W5GhRRkO1tjnx-xsiXyMcMeowIGII5ig",
+            "width": 1080
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108181182288363715283/photos\">Yuri Kuzyk</a>"
+            ],
+            "photo_reference": "CmRaAAAAQiFi7XOA_fNipgmKIe2wx0O4FQbObEYicqdSeMlc4epZyT2mb_TjuKC-TULGXOTluTpSFrILczzfl6L2QbaSsKGC15ZHHgg5GWuxdiPueaJAJVSEh7zpI4EKG6-IN1MsEhADj4GlbgSiHOB7UhOB4SBbGhQ12kWT5IYx3rRIFbkVmPkfBktpkA",
+            "width": 2448
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114325867783131444806/photos\">Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAA6oInRSZ6gOyLYxPeM_SaQIVZwAje7ATEw2jPQJu6PO7-vAozDIybrEnT6DjYDFLzy_JK8PFDa6wSDYoHZtiJeB4JQ_TKIOOcH12ydGxSKc5vP8eW9k-301__GgFC6aneEhAns0V3GguIZZ3FdOF4wysKGhQ2e81CNQ5HCRJkrn3a6qyhwxeFtw",
+            "width": 750
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114325867783131444806/photos\">Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAAVdsCAPkXclQrti6BCxASbQImEMPN2TXO3_wSNmlgEi2Sr4gOULdz0MH9elWa2w7YkSvKqz8xW0mXOifQJplIAiG-cfodD6EFhPxa9mxz5YMrQYSYN0BHHhcVH-jN82AnEhA2zGJpYkZ0DWZMUEToh6vaGhQgITQHWWUlMvD4jKn8KTicAUrtSw",
+            "width": 750
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114325867783131444806/photos\">Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAAolm__mnToIViopWyUHAEOyzEarXOjtHJKfv_EXHM0sT1xnHev4xnweWBKSp4gMWc-MiSksl464m-VAMqgm9tnVDIDlaQvZlifynKhxmCw10pq_G6Qpx1_sGw5BBm66fSEhBIePoQup4JbnZ2J9fJJB79GhTNw9reQyMXiimGYJOKByNhLpSmqA",
+            "width": 750
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114325867783131444806/photos\">Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAAbaGpYW53QCmGGO5ZiXG0ZNbqYg05ge3nT_bJG5gTN33sjuSRsjK943FT10N9TMiWhpO9B7ERy2-fYdjqVzevDKaYBq55eNXEmvBeHjpWDcMukdGJYT1eQua4s_yYZfgEEhBOPmMetJI7HvCc5SGJyBoLGhRZ5fXUz3O3cz2QEqFyJBfE5ByiUA",
+            "width": 750
+        },
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114325867783131444806/photos\">Rogers</a>"
+            ],
+            "photo_reference": "CmRaAAAASb87UuJCInWRjwZvTAzExxeli0HoLR8KzAV0OIxZcPaEOtojiR1m7C6mTN4y6AFfhF9hJci9Sp1V3WxTCgFp-XUvZiCcHqUr5A2F1GBtR761_BnLBp8YdnTOa31ZflY1EhAvb3yX88d7GcQ8E4_J2dq7GhR4_FVnUwP6s8q-2sMq0VCBNXad4A",
+            "width": 750
+        }
+    ],
+    "place_id": "ChIJuWu_Ld40K4gROXghN6goSdY",
+    "rating": 3.5,
+    "reference": "CmRSAAAAF5rp1rYptlRhlCys1ooS2P3JZQevpOMO4iH5m3pz4Fb9k0hEKx8jRih-03_ElcsMUPTwG2F_Xd7iq9MXvUy9X2oOdn-thcZ87O0XUS23B_FjMoqE8n9SFgWT3oCP7oVREhDj6-Q4hFet805zkTD69DKPGhQSfR9cE-DCuWXWIh5VJ5IsFHJ62A",
+    "reviews": [
+        {
+            "author_name": "Veronika Szkudlarek",
+            "author_url": "https://www.google.com/maps/contrib/116982047959005353953/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-IU5lYTb5FfI/AAAAAAAAAAI/AAAAAAAAACE/UeAsE3Cf5AY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Dan working at the Bathurst and King location is fantastic! He was so kind, efficient and helpful. He managed to solve a problem for my mom who was feeling anxious about reinstating her phone service. Thank you Dan!",
+            "time": 1525979396
+        },
+        {
+            "author_name": "Erin Wilson",
+            "author_url": "https://www.google.com/maps/contrib/105994389164218791820/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-QRLtTxhqRBE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0xB481WReyU6MpCeV7zpQoFPlJ1A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Called to ask if what I needed was in stock. Answer was yes, they have at least one of everything. Got there within the hour and it was not. The guy on the phone was nice, but wrong. The woman I spoke to in person was not. Such a waste of time and money to travel there. Two thumbs down.",
+            "time": 1518460308
+        },
+        {
+            "author_name": "rebekah guanlao",
+            "author_url": "https://www.google.com/maps/contrib/110111605894974962674/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-FwTz3TuMhHE/AAAAAAAAAAI/AAAAAAAAoZs/iGuGw5XYv1Y/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Their customer service vs other Rogers stores is pretty good.",
+            "time": 1512958138
+        },
+        {
+            "author_name": "John Levato",
+            "author_url": "https://www.google.com/maps/contrib/117368832452796376240/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-1hV0agicpbk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3js6u_IFZ6gnOJnUx3ieTQGhXD_Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I used to hate dealing with Rogers call center reps. I am a business customer and have corporately paid lines with Rogers. I was not sure about dealing with dealerships before, but glad I took the leap. The account manager I have at Lifestyle Wireless is very knowledgeable and I love that my problems get fixed wayy faster now. Highly recommended. He actually made me love Rogers again!",
+            "time": 1487694654
+        },
+        {
+            "author_name": "Gregg Vertes",
+            "author_url": "https://www.google.com/maps/contrib/110781758785155268186/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ifcVFT9XtUo/AAAAAAAAAAI/AAAAAAAAAAs/ARjm3tb-hN0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "Called to check if they had something in stock. The sales rep said yes, when I showed up 10 minutes later, they said they didn't have it and that they haven't had any of the product for a long time. Thanks for wasting my time.",
+            "time": 1507914376
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15440917500361013305",
+    "utc_offset": -240,
+    "vicinity": "662 King Street West, Toronto",
+    "website": "http://www.rogers.com/web/content/store-locator?store=344715985&utm_source=G&utm_medium=lpm&utm_campaign=Rogers"
+}

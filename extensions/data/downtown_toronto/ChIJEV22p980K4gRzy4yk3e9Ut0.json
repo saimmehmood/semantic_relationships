@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "537",
+            "short_name": "537",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3L8",
+            "short_name": "M5V 3L8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">537 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3L8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "537 Wellington St W, Toronto, ON M5V 3L8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6430628,
+            "lng": -79.4002076
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444117802915,
+                "lng": -79.39885861970849
+            },
+            "southwest": {
+                "lat": 43.6417138197085,
+                "lng": -79.40155658029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "40cf9b3584611fdff5384566ec5e563993c5a39b",
+    "name": "537 Wellington St W",
+    "place_id": "ChIJEV22p980K4gRzy4yk3e9Ut0",
+    "reference": "CmRbAAAA-QdMiAJPIZI1flEwtBYcRk-5CjxEsqwo6O6xqicY3p2Erbi2tuAxPv052mu-zyCyGwsCMxOsqxqdgMdcJ4Px5r_zgPCRSUjkLaL_PgFqSPPz48j-ch6TVXNchi1xGxSMEhATqRxtxEzKkNtV5dSZTykkGhTuit9_RKu5HgOCWDb57SgL7_OcvA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=537+Wellington+St+W,+Toronto,+ON+M5V+3L8,+Canada&ftid=0x882b34dfa7b65d11:0xdd52bd7793322ecf",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

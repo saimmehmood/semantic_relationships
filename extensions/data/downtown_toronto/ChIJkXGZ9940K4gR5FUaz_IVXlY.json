@@ -1,0 +1,301 @@
+{
+    "address_components": [
+        {
+            "long_name": "585",
+            "short_name": "585",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">585 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "585 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(416) 506-0268",
+    "geometry": {
+        "location": {
+            "lat": 43.6443056,
+            "lng": -79.3999159
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64573268029149,
+                "lng": -79.39859701970849
+            },
+            "southwest": {
+                "lat": 43.6430347197085,
+                "lng": -79.40129498029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "660c57524dcc3dedb876ddb1aae7a91178372964",
+    "international_phone_number": "+1 416-506-0268",
+    "name": "Steinberg John & Associates Studio",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM \u2013 7:30 PM",
+            "Wednesday: 11:00 AM \u2013 7:00 PM",
+            "Thursday: 11:00 AM \u2013 7:00 PM",
+            "Friday: 11:00 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103209347568414222222/photos\">Mend Stern</a>"
+            ],
+            "photo_reference": "CmRaAAAApwP_YgakJf7ufRWnpmDC7Ehm3v8k6OTJspAlgak0FHaUMlQkUTYKt4SSEYH-MJCGK7JVz3f55SsTTkUAm7ddoAxunOYQrt6MH68JIg8UktpvkRERCHCrT5wz11A8qCrjEhAWwJgx-YX_1mG58UiIPWi1GhRxOzR_JeVo3341wswl3RC-MwCK5Q",
+            "width": 3264
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103209347568414222222/photos\">Mend Stern</a>"
+            ],
+            "photo_reference": "CmRaAAAABtipEcns5Bf8cwl-l5K8Fv0aCmpDZddUFRaxV4jQEOhJYjU278BH2wOvlCBfLv_PE7uTniOv5TqZrboWRZTdcoJCJxN52-nbsqTyMklUMFin8ITsCJVzm5IdJ11gSr_MEhCUg4bkj4HQIsycvHvtJCCtGhTlqHZjvUTDjsEu4ZHMwRYCplXhOA",
+            "width": 3264
+        },
+        {
+            "height": 2610,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100797410830512689262/photos\">Samira Niafar</a>"
+            ],
+            "photo_reference": "CmRaAAAA34S4WIHqvks4FkreleeCyakTJTqL-1zojMRf1-CKOy0iNXG3Y19I4VcpLvTsHT7AdHoFKlLQYlI6gaO50wp_abS6UQrgJgQUob0JWhSyl7v2chFfhFoH18sOhOWIUuNdEhCl1MW934KPIhV4kgP9TVR1GhRF8XcSx9HJplzZLP_3b6TA6AOKfQ",
+            "width": 4640
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAphwKF35PFAtyVZlfPUQfdyS_5kB6iv9-Ot8_g5kTgsvUV06CrARe3d-KrepBy40hBmfJkoIX0PU33LzWyt7TT4OxTvci-g2PO980cnVdYsu9YsAZSzQgQUhW51IAnIRXEhDTnuDawh35lqbUTw4sEniqGhRE1a4LuTdj4p6Qgk7faHXWMJVkXw",
+            "width": 3036
+        },
+        {
+            "height": 1951,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103209347568414222222/photos\">Mend Stern</a>"
+            ],
+            "photo_reference": "CmRaAAAAMmg1otGHwOktUcyw7jBtwyOMvibwOxw6L5aFZ84KsM1IFiyFCDNaINESVICrIXqaBk0syhN2ZyyKN6AjOklIqT7KTKhuj0ssVEExSgPf77GudHIDzrj_mqZ73KnKD_cBEhC8puRTtveGJq8gb9x0e1GUGhRHSylFbUqxaMm2a_Q5s9rUpVZ9Mg",
+            "width": 2592
+        },
+        {
+            "height": 1771,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAM0oUB0fbGuaobisgufoq-tMkZAy7K5YjH9k_3VKH_Hg-WLb_Qmb0rABGSHT6Ibpxc_-nZAKX3fOyX_bHHktRgiZqbum9H5tYEA5o-5v5P9akbQEsyLjY-NYIMiyvgbWtEhCNg7NKuojPRSVfWcKclUq-GhTU2jzpxX2ujDwexfYkcrfhjlKIQA",
+            "width": 2939
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103209347568414222222/photos\">Mend Stern</a>"
+            ],
+            "photo_reference": "CmRaAAAApnxgXn9tsjfTyqfLXdf42dX5-2Ng24FumFm6En_nxe12IB-sJfhv_HuRLiA2NruFUpsQZEQM_z3FoeZPqYzK4zPnKViZO8yORnbpi7uKQp8LHdso7vmclp1WIueYOJSyEhC4T7ah67TE8YYzicqp40GWGhR2It-vLdSgDn6XX40EpmQ7eotBkA",
+            "width": 3264
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAjvIXLrZAsVA1IgsqlMOZ4km5xT7JQIrz-jYDvbfr8P3c6uV7V7ar6hemzA_l1bgrOlfJcSszDAS9ssX7-eBZFqlSoKlYDHpZKC6kNAG9cZr4mEVe0275AKTDOKmSlrypEhAHP6cH7PhZW3GP6HHzxqQ6GhRyRscUVxLmxvwwfPtn7GbkWivWuw",
+            "width": 3036
+        },
+        {
+            "height": 4640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100335940891270524507/photos\">Dorothy Mo</a>"
+            ],
+            "photo_reference": "CmRaAAAAkzAHtkdlt8UmDFSvnh-acASbfVAXOOIuXzsKUvy1HDeldeJYcvqH_9UpLPhtYajKzQqYofXIgDTkTVXpMm6jnkop9BzzYHr5XLrwjqzDOx-ws2fVglvD8spoI8rLY1vdEhB0_p97BhWyBx_RvGZSgBlqGhRiE98mHXJpjCYhCZv2Ny4SNFPJUQ",
+            "width": 3480
+        },
+        {
+            "height": 1334,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106798662125545080980/photos\">Steinberg John &amp; Associates Studio</a>"
+            ],
+            "photo_reference": "CmRaAAAABcx9n_fEGSPHpg2HXszKosX3blHKJJliibvefQsL7Kc45tMRBOILSd3ATQ4Ar6gCfpYBwWYAHH4rNcpvPn3m9PwSlI11ILFwwIJwZ306u9bx56gD4bk7UcbMer5dARN1EhAb5kB0jXvgp3wl7N3g8neMGhQdG712WcPtz22eDUQmVG2CY9sGXQ",
+            "width": 750
+        }
+    ],
+    "place_id": "ChIJkXGZ9940K4gR5FUaz_IVXlY",
+    "rating": 4.7,
+    "reference": "CmRRAAAAFUaCd17-3KYEN8JRcjzjQgrCHrmYpd49ws2jtSer0EKluyiCsB9J4HW6wWj_x7vqm0sRbBStH5NxoPs4p48p8zAjHsnyplSi1qpdp8tdM2IusAaJmb3KP3QAfP1FLyyNEhC6jXtmFSo4mVMmb51Z_AtrGhQ3S5cZ_-L1mWk0zzEvKfAO3iAiXA",
+    "reviews": [
+        {
+            "author_name": "Alicia Bee",
+            "author_url": "https://www.google.com/maps/contrib/101928127419370068542/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-F7Iqqdh8630/AAAAAAAAAAI/AAAAAAAAAAc/v5jHYUvPSMk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I've been going to Karina for a couple of years now and she's one of the best in the game! I love how attentive to detail she is, and she does such a good job at predicting the best cut for me that I generally just let her run with her ideas. Also, being a mixed person, it's hard to find someone that knows how to do curly/fine hair, but she always nails it. I highly recommend Karina!",
+            "time": 1513790759
+        },
+        {
+            "author_name": "Lisa D\u2019souza",
+            "author_url": "https://www.google.com/maps/contrib/118183756551226798948/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-73I3w82RSX8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3PboWcg7JnPmOk-pndPUzaFT9SKg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Sean is amazing!! He took my curly dry hair and transformed it to manageable layers perfectly framing my face! I\u2019m very happy with it and the experience I had!! Thank you so much Sean! I will definitely be back!!",
+            "time": 1517517479
+        },
+        {
+            "author_name": "Pietro Pantanella",
+            "author_url": "https://www.google.com/maps/contrib/118108142615960327674/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-uMrws9w5juk/AAAAAAAAAAI/AAAAAAAAAAg/VcThOVM5s40/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "John Steinberg & Associates Studio is an amazing salon! I have trusted Cody with my haircuts/style for the last few years and the quality and professionalism he brings to them are unreal - his execution is always perfect. Jenna at the front desk always makes a great welcoming experience.",
+            "time": 1512762924
+        },
+        {
+            "author_name": "Jenny Fischer",
+            "author_url": "https://www.google.com/maps/contrib/106869208365084928791/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Q0vXu_gbK60/AAAAAAAAAAI/AAAAAAAAEXQ/C5JJyqbTG-w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Karly is the best! I've never been the type to have 'my' hairdresser but I do now! :)",
+            "time": 1521563263
+        },
+        {
+            "author_name": "Natalie Hajpel",
+            "author_url": "https://www.google.com/maps/contrib/101687043913325822776/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-50L1Z7jhtPc/AAAAAAAAAAI/AAAAAAAAAAg/0aqqKxmVqlo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Paul & Jenna are always so accommodating with scheduling appointment times, Karly will give you a cut that everyone will compliment, and Carl will make your colour dazzle. I recommend John Steinburg to all!!",
+            "time": 1516374842
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6223435867673482724",
+    "utc_offset": -240,
+    "vicinity": "585 King Street West, Toronto",
+    "website": "http://www.johnsteinberghair.com/"
+}

@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "412-408",
+            "short_name": "412-408",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dufferin Street",
+            "short_name": "Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K",
+            "short_name": "M6K",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">412-408 Dufferin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "412-408 Dufferin St, Toronto, ON M6K, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6431639,
+            "lng": -79.4289644
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64451288029149,
+                "lng": -79.42761541970849
+            },
+            "southwest": {
+                "lat": 43.64181491970849,
+                "lng": -79.43031338029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "48dd8ed8212b2bd4a84bf11b9b40ae5fbb46bf82",
+    "name": "412-408 Dufferin St",
+    "place_id": "ChIJhQtgO6s1K4gRzTGL7-Vqxmk",
+    "reference": "CmRbAAAA7YmyNLmqrrR9c8Zyf2UVBC7MRHRStF0kaxvtDhebqIn0FJIvtOF5qoNih-E0im6_HwI1FsIGM_sRjiak-6Md3SDvDfNJyzCiJ5D5ntbM1qH2Tc1-FOEWj4fojvyxTYLmEhDkZPe8QgKC7JZAq1hjqZq_GhQc-_HUrsM0HHrh26yUtn2zGRy_eA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=412-408+Dufferin+St,+Toronto,+ON+M6K,+Canada&ftid=0x882b35ab3b600b85:0x69c66ae5ef8b31cd",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

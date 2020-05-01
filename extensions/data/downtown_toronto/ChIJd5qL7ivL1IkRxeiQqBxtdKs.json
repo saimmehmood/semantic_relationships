@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "2-10",
+            "short_name": "2-10",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Harbour Street",
+            "short_name": "Harbour St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E",
+            "short_name": "M5E",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2-10 Harbour St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2-10 Harbour St, Toronto, ON M5E, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6429318,
+            "lng": -79.3756669
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442807802915,
+                "lng": -79.3743179197085
+            },
+            "southwest": {
+                "lat": 43.6415828197085,
+                "lng": -79.37701588029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "fce4293ec0556c6e2e449c41924e5404382d7e88",
+    "name": "2-10 Harbour St",
+    "place_id": "ChIJd5qL7ivL1IkRxeiQqBxtdKs",
+    "reference": "CmRbAAAAaB_gY21761COWMoRLbShmTM1uubj8OJW8AXV-kWEWzCL5owNghkXvtGndu4qgou_uozGDc00JzcpV7t6rA4VqTGAklY7maV-kVzQ0Sy4wlOv0xZKSDRcdHmn2XOJ7j1CEhBJOyeoPOoCq3tfaDd5BEQXGhR4yoUlfML5dRQDi4cMVbG1OJA3Rg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2-10+Harbour+St,+Toronto,+ON+M5E,+Canada&ftid=0x89d4cb2bee8b9a77:0xab746d1ca890e8c5",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

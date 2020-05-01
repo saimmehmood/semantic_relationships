@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "50",
+            "short_name": "50",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Portland Street",
+            "short_name": "Portland St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2M7",
+            "short_name": "M5V 2M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">50 Portland St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "50 Portland St, Toronto, ON M5V 2M7, Canada",
+    "formatted_phone_number": "(416) 366-5028",
+    "geometry": {
+        "location": {
+            "lat": 43.6432618,
+            "lng": -79.3998572
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446375302915,
+                "lng": -79.3983821697085
+            },
+            "southwest": {
+                "lat": 43.64193956970851,
+                "lng": -79.4010801302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d7ab4cad4ae065a4d8b1448423af87294922bfe0",
+    "international_phone_number": "+1 416-366-5028",
+    "name": "Victoria Sq Residences Lt",
+    "place_id": "ChIJO1yyBd80K4gRSJ5EpKacSoU",
+    "reference": "CmRSAAAA8b5mKWv0DYywxOmd0lfXi0ufhc05cDukNwZYlsBYslDomPMcQyp8wZkg7zJGFXHOSQzDJhzDpd8EaMVzP06TZJmf5OOqEEj9rOHwrN2TmAobzLnBjMxc_tdmVCOQdq0yEhB2fVWGUPFxI5cDGLdD9_UyGhTKVIo4N-z70DpCV00MxALE4DHKQQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9604661394855468616",
+    "utc_offset": -240,
+    "vicinity": "50 Portland Street, Toronto"
+}

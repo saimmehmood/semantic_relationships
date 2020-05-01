@@ -1,0 +1,288 @@
+{
+    "address_components": [
+        {
+            "long_name": "778",
+            "short_name": "778",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N4",
+            "short_name": "M5V 1N4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">778 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "778 King St W, Toronto, ON M5V 1N4, Canada",
+    "formatted_phone_number": "(416) 368-5262",
+    "geometry": {
+        "location": {
+            "lat": 43.6433545,
+            "lng": -79.4060982
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64464263029151,
+                "lng": -79.40472561970849
+            },
+            "southwest": {
+                "lat": 43.64194466970851,
+                "lng": -79.40742358029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5b138adb6b967ef29ee2ae364c93aa0c685de8b9",
+    "international_phone_number": "+1 416-368-5262",
+    "name": "Brad J Lamb Realty Inc",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 384,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114723096316445487796/photos\">Brad J Lamb Realty Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAjx74v-TJksnLx3MFJrm6SBN5lQdrJdu5lY5y20itv_J0cMnKLPvmaMlMsyd8tZ_099wmLwoVZEHmwHl9fd4d6qCf77pAvPqkatssIMGn5D-BJLJIqB_i-Q0kUz_Uh9SFEhAB3W9OgwHLKerw8HJY8lPMGhSAQAANXBJsGRWmlFUotK1LvmbnvA",
+            "width": 960
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111352003098990428073/photos\">Drew Woods</a>"
+            ],
+            "photo_reference": "CmRaAAAAhcgW5AWn-k6phDM91e-pun1VCYvBWjQtcoEcDaRnYrVKPWUolL464aw9He0Vp5nl41UktIgo2Y6inVSU-dz6AfU-a0nEyLRGQ3JpcYHWKyZ1MbDoBc6X9UQo4A3EIGGkEhDXWtMFtnXaZWx0YjVgbFQBGhTO39G9SAkw2_qd0W2x3saaBojYYQ",
+            "width": 4032
+        },
+        {
+            "height": 4283,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112396211894900880416/photos\">Brad Lamb</a>"
+            ],
+            "photo_reference": "CmRaAAAAZeycniwYMjxBI_HwaVcp3nPcD17HLaUojz8Jab8tVCWrJ5yhGp_pBtLP_00RBZt774h9dUl0OQmGdUmgJ-_i3WLfVLAloQOXRBDuM64ikyq23-eyNtJ95CDlz_PIDac6EhByWBPPZOOZCYDn5YmXUe9CGhTPQeG7TR-RQ0L_PN2vA4rQFkV4UA",
+            "width": 6463
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAtQG2SKkqMsLuW72ta04oKXTfo2w01ptpyF6-wPpmJzKuj06vlPFUuqycKgyunYG_eQfeXFb5ErogL3A1sS6sjcy2Q59CBZwRf8jTFO1H9rvDWYDurt0fIZGVl6nYhMoVEhBEIV9SpPjlEL3tRydkohI8GhRmcw1-FC4KMLTlICkIym6e02A6XQ",
+            "width": 3036
+        },
+        {
+            "height": 2804,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114723096316445487796/photos\">Brad J Lamb Realty Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAfaoFlzBSJNgOhCkfCPvd_UC1D3diByND7Te-VdoVxl_vobkAMZsTj-A2lTUlcWGu4jt1m2oZHQTpB16AuYSuuYeF1_5TGICtHAPNcQslUnNkDh5iYO96RrIRfAFLXCMuEhDQJNypK_h68e6LkLApAL5VGhR6VFV25R65fmQv2UH5R8kKQgwEpA",
+            "width": 2804
+        },
+        {
+            "height": 312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114723096316445487796/photos\">Brad J Lamb Realty Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAQrOxk4PxHxaiHJASkNbx_3IRp1sOISy8Dq7wqj6Phs0bb8-cLk8_O3qsC0McCEgUTmBq-flN3CvucnVxxiGU4QNnr3sKhw4PruYvGFWzxW0IdVWBfy2vZ7mTwxQaVKpzEhAJFQyh3uvhSloa306nRcp_GhTq-Hjq9m-nMrXFoxs161IKOlwxKA",
+            "width": 976
+        }
+    ],
+    "place_id": "ChIJo7nFZTDL1IkRWhMU4MK9o0w",
+    "rating": 2.7,
+    "reference": "CmRRAAAAwOKMIfLAu31yS0ygRypytIAf3cCNwrfOzKeyEBTGT0B2w4Dh56Ojb3oaK0VWHEaqcx8bZ_9Mv0QHd1FLBkzgwGWh1RtcNqC9oyA8n76m15QKx65nsXA3sLPRCrj1JJjlEhDq5YvdGnnRjotCChP7E95EGhRqdK2aPkSE16ymaA0teQsOBjoNbQ",
+    "reviews": [
+        {
+            "author_name": "Jimmy Agnew",
+            "author_url": "https://www.google.com/maps/contrib/114213915900850870805/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-u2aV0uXRAMQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3KWtDQODLg74-phxS-eCFNY_PJDw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Worked with Eva from Brad J Lamb Realty twice over the past five years and both times she was incredibly professional and great to work with. I will definitely work with this Realty in the future",
+            "time": 1525883049
+        },
+        {
+            "author_name": "David Icke",
+            "author_url": "https://www.google.com/maps/contrib/105128507015768480273/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-s1EI5nZt9cw/AAAAAAAAAAI/AAAAAAAAAA8/suul52ggHus/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "I live across the Lamb building, The Christmas lights they put on the building are nice to look at for the first day but after a week it gets very annoying to see. Never bought their real estate so cannot comment on that.",
+            "time": 1528160606
+        },
+        {
+            "author_name": "Marrion Cherian",
+            "author_url": "https://www.google.com/maps/contrib/110002207720407007178/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cwrSLdJmRSI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Dk6SjR6IEtB1-ATQrdC1-lq3JPg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Amazing experience dealing with one of Brad's agents ... Scott Shallow. He's Patient, provides great insight and went out of his way to answer 1000 different questions and various time of the morning evening night. Would def. recommend him.",
+            "time": 1512228772
+        },
+        {
+            "author_name": "Nicole Kristen",
+            "author_url": "https://www.google.com/maps/contrib/102176480477401983833/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-otFMMQQ4OI4/AAAAAAAAAAI/AAAAAAAAAME/FhK6aNV-_HI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Amazing! I would buy and sell with them again! On time, organized, full of knowledge!",
+            "time": 1520293757
+        },
+        {
+            "author_name": "Raghav Ohri",
+            "author_url": "https://www.google.com/maps/contrib/117451119479607679101/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vbPU2iaBO4Y/AAAAAAAAAAI/AAAAAAAAUUQ/D13U4RsHsDw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Down right unethical how they function. They rather sell the best units to their friends and not give a fair chance to other bidders.",
+            "time": 1520603496
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5522466212767077210",
+    "utc_offset": -240,
+    "vicinity": "778 King Street West, Toronto",
+    "website": "http://torontocondos.com/"
+}

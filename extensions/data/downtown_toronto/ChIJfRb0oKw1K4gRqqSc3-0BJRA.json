@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "21",
+            "short_name": "21",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Strickland Avenue",
+            "short_name": "Strickland Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2H8",
+            "short_name": "M6K 2H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">21 Strickland Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "21 Strickland Ave, Toronto, ON M6K 2H8, Canada",
+    "formatted_phone_number": "(416) 500-9721",
+    "geometry": {
+        "location": {
+            "lat": 43.6432158,
+            "lng": -79.4311111
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445538302915,
+                "lng": -79.4298162697085
+            },
+            "southwest": {
+                "lat": 43.6418558697085,
+                "lng": -79.4325142302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6f5b44cdc77fdb4f8d96615ee44876961660a5a7",
+    "international_phone_number": "+1 416-500-9721",
+    "name": "Jacub Michael Fernandes",
+    "place_id": "ChIJfRb0oKw1K4gRqqSc3-0BJRA",
+    "reference": "CmRRAAAAv0wme6DW5N2ov-hi_QXmMF5bRb1rV-3HJuhoTCaxSt59vm6mDzTjCdb5m1e0GpuJb3DbYuiV6t2TE4CuOzpBPafcI-Zno-O8oByA0F0lUYJdgThcUiSaIKvXlZ7TJN6AEhDOs8CFcxui302ZA65z8bkIGhTIzPjNuiJC6oWUIccpNMmR7rHW1g",
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1163338199915603114",
+    "utc_offset": -240,
+    "vicinity": "21 Strickland Avenue, Toronto",
+    "website": "http://elephanttherapy.com/"
+}

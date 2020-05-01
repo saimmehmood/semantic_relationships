@@ -1,0 +1,164 @@
+{
+    "address_components": [
+        {
+            "long_name": "946",
+            "short_name": "946",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">946 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "946 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "formatted_phone_number": "(416) 920-1921",
+    "geometry": {
+        "location": {
+            "lat": 43.6448091,
+            "lng": -79.41679880000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6460580802915,
+                "lng": -79.41540801970851
+            },
+            "southwest": {
+                "lat": 43.6433601197085,
+                "lng": -79.41810598029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "84dd29348d127a6c73bf9a0403af6586b20fd416",
+    "international_phone_number": "+1 416-920-1921",
+    "name": "BEworks",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJlapaZdo0K4gRzDkGygw4SHs",
+    "reference": "CmRRAAAAaaMS6gCYo0SWv260hMC0j7OGoDqelzxc5tDcoX9E7J26PWW1D7GZUCwMMP_AC2iQVSRYLpiNm9YL2L7ER9CMn2_kZjuR6lZznfySDCk-3kGb8f4MRJZ4Uv0Vk0VZaIZBEhBGbMpZuc5qQ5Ra8-6U3TFpGhQP10_NPXowzRiWwdtCmBM63MGLtA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8883411892568472012",
+    "utc_offset": -240,
+    "vicinity": "946 Queen Street West, Toronto",
+    "website": "http://beworks.com/"
+}

@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "1018-1026",
+            "short_name": "1018-1026",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J",
+            "short_name": "M6J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1018-1026 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1018-1026 Queen St W, Toronto, ON M6J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6440345,
+            "lng": -79.4195953
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64538348029149,
+                "lng": -79.4182463197085
+            },
+            "southwest": {
+                "lat": 43.64268551970849,
+                "lng": -79.42094428029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "0ea94594c97f994d094d630f5cffa9e53681eb2a",
+    "name": "1018-1026 Queen St W",
+    "place_id": "ChIJBx0s4v00K4gR-cUKGfiRmLE",
+    "reference": "CmRbAAAAKw1Ff3ZzV2ghrNfAmbSRy1VkB2Y_XNj3h-4IpE10s1ApPtibt_Q7rNluEWFFsly1CXitlSlqqFGMCB_Jm9di824qHsAzKZzmiI1qT4M15xNadi2MY-_XO9bXRjV_OJH7EhDZdyh9nGw-rjEeSHATmOXRGhT-vgyYdtyJ68LUABqIUiJdrmeP4w",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1018-1026+Queen+St+W,+Toronto,+ON+M6J,+Canada&ftid=0x882b34fde22c1d07:0xb19891f8190ac5f9",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

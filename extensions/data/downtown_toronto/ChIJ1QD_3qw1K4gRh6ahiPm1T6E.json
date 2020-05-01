@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "36",
+            "short_name": "36",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Seaforth Avenue",
+            "short_name": "Seaforth Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2L2",
+            "short_name": "M6K 2L2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "2L2, <span class=\"street-address\">36 Seaforth Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2L2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2L2, 36 Seaforth Ave, Toronto, ON M6K 2L2, Canada",
+    "formatted_phone_number": "(416) 580-5553",
+    "geometry": {
+        "location": {
+            "lat": 43.64344429999999,
+            "lng": -79.4336313
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64487018029149,
+                "lng": -79.4323120197085
+            },
+            "southwest": {
+                "lat": 43.6421722197085,
+                "lng": -79.43500998029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "e3219c5670aafaf14525d9c3059c2fa7f89bad8f",
+    "international_phone_number": "+1 416-580-5553",
+    "name": "Meisner With Greta",
+    "place_id": "ChIJ1QD_3qw1K4gRh6ahiPm1T6E",
+    "reference": "CmRSAAAAgBkDy2uHEceqJJcG5axbUBePoyVA7ED6lv8EG1ZvRIJoOy7jzIu3gu5ZgJ4aE38YRAXvDVYdZg47MRbQfBpNlvoA0EjgVAa0dWKLbkvSQWkYXzfkeJ0qUTN83CoZBXV8EhDwj15n4er4WsEe2SY_lzicGhQD0FrBX7el-ZOrXgZvtN9ZUUEbPA",
+    "scope": "GOOGLE",
+    "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11623709246610318983",
+    "utc_offset": -240,
+    "vicinity": "2L2, 36 Seaforth Avenue, Toronto"
+}

@@ -1,0 +1,199 @@
+{
+    "address_components": [
+        {
+            "long_name": "Stafford Street",
+            "short_name": "Stafford St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3X6",
+            "short_name": "M5V 3X6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Stafford St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3X6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Stafford St, Toronto, ON M5V 3X6, Canada",
+    "formatted_phone_number": "(416) 887-2049",
+    "geometry": {
+        "location": {
+            "lat": 43.64284120000001,
+            "lng": -79.41089199999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441919302915,
+                "lng": -79.4095343197085
+            },
+            "southwest": {
+                "lat": 43.6414939697085,
+                "lng": -79.41223228029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e857c6e5d7444a39feafb899f002a80de76e5e04",
+    "international_phone_number": "+1 416-887-2049",
+    "name": "TorontoDowntownRealEstate.com",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 518,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104344004407368353145/photos\">TorontoDowntownRealEstate.com</a>"
+            ],
+            "photo_reference": "CmRaAAAAPRtEtnQWY51V6HB-b7PEAHzDE0BHEu5081ymBcCtfGO6wOU_MnGq3-z3y8u4Te_bKdvjh-tJmCkEwhf9E32-aN116Twof1LCRm3xlwLqboSLvIZUPez_1mBcUlWjYwnoEhCpk5IZN4oNgTrk8lxhojy_GhQaC_FjfecH-K6tDkobqBs2vo3NOg",
+            "width": 780
+        },
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104344004407368353145/photos\">TorontoDowntownRealEstate.com</a>"
+            ],
+            "photo_reference": "CmRaAAAA_l94ZQTQFr3XS2eT0bb0keVNOoTdusq-urIXBXDlUf2Mdqf0PXiKzVKtRXQO4xsnfqDgihvw-FQEfLGhyTylAJgDqOA6UvMCkUcAU3EnsB_pqH_EptRNFilr24pEHfy8EhBASGfTFef8xl2evDUGS_wVGhSy1iLowOxVylqLzPkmgzDBzckfcg",
+            "width": 300
+        }
+    ],
+    "place_id": "ChIJA4WQkx01K4gRoB2Vg9jJCN0",
+    "rating": 5,
+    "reference": "CmRSAAAA9fkE3lZp4AZVd_cGQUii1VVpNDhYHvbN1iiMFri6SC4tJ5j7xNoMS7sDSalm6Ili_JUHOEcSZ4Mfah_-p4JKzNbAsg51DgaITV3R8xvce-WRLWdLVuEhJK4cgI9cbeRJEhC2CQ6aIWUXa5Hj8SqttdrfGhRn_VAg6UQ52uqLAWeFlOJG4_CYAQ",
+    "reviews": [
+        {
+            "author_name": "Joseph del Moral",
+            "author_url": "https://www.google.com/maps/contrib/102980806622478256394/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-a_XsCveHutg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0a8eKyTECpx_p_Nn7i7QvhkZYkxA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I have been a client of Robert's for about 10 years.  He helped me buy and then a few years later sell my first condo.  We got the highest price ever  in the building.  Since then he's helped us in 3 other transactions and he's always been great.  I recommend him to friends who are looking for an agent who is thoughtful, patient, hardworking and diligent.  I've always felt he truly had our best interests in mind.",
+            "time": 1525183178
+        },
+        {
+            "author_name": "TorontoDowntownRealEstate.com",
+            "author_url": "https://www.google.com/maps/contrib/104344004407368353145/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-nYur5nb0-LM/AAAAAAAAAAI/AAAAAAAAABI/3pQM0XaK8ok/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "ust a little note to express our sincerest thanks to Robert regarding the Sale of Our condo.\nYour professionalism,enthusiasm,sincerity and hard work resulted in selling our condo in 8 days at OVER ASKING PRICE! We could not ask for anything more than that.\nWhat impressed us most of all, was the fact that you laid out a plan, executed the plan to perfection and achieved the result, but most importantly did it with compassion and caring attitude with the minimum disruption to us in what can be a very trying time.\nRobert, you are a credit to your profession and both Debbi and myself feel that we have made new friends, not just business acquaintances.\nKindest regards\nDebby & David Frisby ",
+            "time": 1445913984
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15927202013953465760",
+    "utc_offset": -240,
+    "vicinity": "Stafford Street, Toronto",
+    "website": "http://www.torontodowntownrealestate.com/"
+}

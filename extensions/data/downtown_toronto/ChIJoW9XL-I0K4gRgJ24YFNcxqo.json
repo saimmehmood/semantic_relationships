@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "241",
+            "short_name": "241",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">241 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "241 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "formatted_phone_number": "(416) 703-0883",
+    "geometry": {
+        "location": {
+            "lat": 43.6439694,
+            "lng": -79.40880539999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453401802915,
+                "lng": -79.40740261970849
+            },
+            "southwest": {
+                "lat": 43.64264221970851,
+                "lng": -79.4101005802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "db345f11a21bd55ce0cc65eb474a8c18683c3282",
+    "international_phone_number": "+1 416-703-0883",
+    "name": "UFO Restaurant",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0730"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 6:00 PM",
+            "Tuesday: 7:30 AM \u2013 6:00 PM",
+            "Wednesday: 7:30 AM \u2013 6:00 PM",
+            "Thursday: 7:30 AM \u2013 5:00 PM",
+            "Friday: 7:30 AM \u2013 6:00 PM",
+            "Saturday: 7:30 AM \u2013 5:00 PM",
+            "Sunday: 7:30 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2935,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116730365329794972758/photos\">james karrel</a>"
+            ],
+            "photo_reference": "CmRaAAAAHE2SmuTkmhfUnKC0WFauMvs3xaODIF6QPVo37OBFZSwgPhTMlOJYfW3SqpQfohsePuyRbOmogBS4n52R_ijz9mlMt-q81zkOcyzWfwZGwZzXVe32_4V868EicIABmdH_EhAdDCvxqo8CoAOwzp46Q-h1GhSc460RKhlgRG8V--uojlFAhAiAjA",
+            "width": 3042
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106759581229392286154/photos\">Karen Chapelle</a>"
+            ],
+            "photo_reference": "CmRaAAAAs5lUGngheDiOWYgfHyRcoNaL6KjCnEAMO3rp4qAUbzKhDHXO7Td_NfOzVLP9reMJ6t7OH7-QuTtDsrNj2nxJ0NX_XeHic7kaOxkQzcWhK8bYlXYLP1FJh4mYGnST2RnhEhBTiwHR-RtY06nYzXY4cXGlGhTAw5U6QozRhsl9qZ1Rvbc_DkgIOQ",
+            "width": 2988
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102775325764780851496/photos\">Morris C</a>"
+            ],
+            "photo_reference": "CmRaAAAATBiTIXgvFD1fUFCofPvXOT7_TpFlEF2ix6oz-xev1Gdoe55sYz54brpclxgQTTJ0H3C5MWs30Ng_yO9cI-22GaAZSZuA5aB6357J-ZncADp6g5pa85q3SK53_bhtf_L4EhC9ohajHmvekF3fqDS5W2WuGhRQ8pOQJzZdAuUvKlmkV4k3yD7Z-w",
+            "width": 2048
+        },
+        {
+            "height": 2400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115004591263113807450/photos\">Stacey McCool</a>"
+            ],
+            "photo_reference": "CmRaAAAA6TUN4ahPCoL9xzU4ttZVO6OZ4D1z-o-qfAQ6EptcW6jOqYO9gZc03ucQQ6pi5-Y-cY8B4USuS6OunNIVnNF1em9L3Khny5mxCxIL6vPCsZnP6jLhN4iSrrvz6GnsvIojEhDJT2QnWIgyFdYMxJGvx8gNGhTeQgxfAt4wI2v80L432tq0PDGMvQ",
+            "width": 3112
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116730365329794972758/photos\">james karrel</a>"
+            ],
+            "photo_reference": "CmRaAAAAOsY3oL9AaJPf1Z2c3I58X6JtgqIfeI6s6fohaE1cC2P2kMHdaVCCQZiAouA0rploRup7dLKlAIicccnKAa4Biig9VRbRcv69gWus-4lB_6Hh7UU3BO6kSLJ9tMD6oHRAEhA3jxIeituuG5b15Smnrgs1GhSzZK4Ah43GFOESuIPeM5JOxiSCPA",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115004591263113807450/photos\">Stacey McCool</a>"
+            ],
+            "photo_reference": "CmRaAAAA5WdWPTtg29us1EVm9U_hQ3Y7j_0cdzhLna6JznkrBWIJ9Gs80xQYP_Al5ctzjguFkPV6ytzxlcJOOmJqos1qWvqCV82VHTX9owV3pN1nzmN2ius1Ld2rgcrxk_0Z04MsEhBFzuF2wME3UhcmkoP552w0GhR-pmtL-Fd65HPqOyvafAiyDhq33Q",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115004591263113807450/photos\">Stacey McCool</a>"
+            ],
+            "photo_reference": "CmRaAAAA36miCDRKnGiU90AzN-UgQSvcYnbmpp2eO62pYK9L9d-bSMrSsTKnhLoTfvR0CUP3mo4mogBRz3fvFt_Zv12dUedUvm8n9Y7x6R_tspbS0umaaKrnrtGzwvLvSiH70BidEhATeZN511cEJjBYD_DePFyRGhRz-1qX0fcPkAgDLBzMCEhEBnwynA",
+            "width": 5312
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116730365329794972758/photos\">james karrel</a>"
+            ],
+            "photo_reference": "CmRaAAAAKavxK8iPRrFFoRJWB6HcWswZJeYMU3YVBibKZQQnVd3UfYn4EcvA8pTUyd8HZAFQ__C09qScepEZyzUJ8S38jQ8O_N2VSyY2OhwSmH72de4eEvwo8ppRzSTIlPMlB_4dEhCiABh_wjrTWUV-id9SnKy_GhRfCKQ5k7zPsxcwNwLn0CB1eCwokA",
+            "width": 5312
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106759581229392286154/photos\">Karen Chapelle</a>"
+            ],
+            "photo_reference": "CmRaAAAAhiMMsCXUs0zSFMZ0X3el81CH_5in-RvDRoJUi_O4gXTcFJGMxsG8oyUqAjB9NsYnTtBLjBh_tVshoojDDaJA6UJ7QHpqR2suPREdCnCTIGE03gukGIqEJvb_VswDEJT2EhCC0PrgmYnVBOYFqLdDfX9xGhSi5SB2HePIKgISL48BhO_PNIGx9Q",
+            "width": 2988
+        },
+        {
+            "height": 2358,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116730365329794972758/photos\">james karrel</a>"
+            ],
+            "photo_reference": "CmRaAAAAdSUkBC_RwqDPv5aReKoQMaNTIDGTYoPv328x3osNtIAhSaXbPW2M0VoVQzdq22w9-77hURQdyB02MU7E7aDVJMkEJq-zJ8wi3E9HCr6F4fC1ADClLqWVo35uBjcpRaLEEhDKhkww1JbWHZj0S70OL9jNGhRgv-p7H3ErNIFSLeHv4pB4Lu3mOQ",
+            "width": 4191
+        }
+    ],
+    "place_id": "ChIJoW9XL-I0K4gRgJ24YFNcxqo",
+    "rating": 4.4,
+    "reference": "CmRSAAAA-xzJV2Mp41_s9KGRjZMJ-uzdSejpQwcck6HVr4qcOWhdgDADBhyQN2r4FAnosHDdClP2GPL-Zh7EiPwoSmMkLU34dcmUAqe7Hbqj-064RNYWJ6aPcRgvjg4U9WrvesJKEhAJpgGYvjuTRwEy9Rrs-g4qGhQsQi1x3mEfw4IuFvnkV-CvV66P5Q",
+    "reviews": [
+        {
+            "author_name": "Vanya Ilcheva",
+            "author_url": "https://www.google.com/maps/contrib/113196529591633606100/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-NEvwRaZw-mM/AAAAAAAAAAI/AAAAAAAAARM/zqVt4fBKh_k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Terrible attitude from the waiting staff, super rude waiter, looking down on customers! Food quality below average and super highly prized",
+            "time": 1521986597
+        },
+        {
+            "author_name": "Francis Cloutier",
+            "author_url": "https://www.google.com/maps/contrib/108951850027396564234/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-MvRiU9-_ogg/AAAAAAAAAAI/AAAAAAAAAQY/5ynT8vJ0054/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Best value for lunch out there! I have lunch here every day and the food is great, from fast food to souvlakis and pork chops. Owner is always on location and is very friendly, it seems he knows everyone in the neighborhood.",
+            "time": 1511292790
+        },
+        {
+            "author_name": "Matt Joyce",
+            "author_url": "https://www.google.com/maps/contrib/114866232241914482630/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-ngVhOPP1WME/AAAAAAAAAAI/AAAAAAAABkA/8NWkND0HjkA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Really good diner, and good prices, but be expected to order quickly or be rushed to order, no substitutions, you can't tell them what kind of breakfast you want, for instance if you want lumberjack, all meat, or side pancakes or extras or poutine with your burger or whatever alteration you're feeling...you're gonna get charged full price...and it's cash only. These are only things to be aware of, overall the food is great, the price is great, and it's fast.",
+            "time": 1518982012
+        },
+        {
+            "author_name": "Thomas Nguyen",
+            "author_url": "https://www.google.com/maps/contrib/109046463242205461002/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-N2tgdSbQlzo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq00vxK_Pm3Enr-XFXb7WNQuRm-rFQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "huge portions.  friendly staff.   great pricing; definitely don't see prices like this anywhere else.  no doubt would go here again.  very home-y.",
+            "time": 1504541469
+        },
+        {
+            "author_name": "Felix Wong",
+            "author_url": "https://www.google.com/maps/contrib/112614993942604214381/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Gr6UzHIheGo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3jv84JTkTVnm_N_iErcdwO2VoHXw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This is our go to brunch place when you are in the mood for traditional greasy spoon diner food. breakfast with two eggs, sausages, home fries, toast, and coffee for $6.50. cash only here. Sometimes service takes long because there is only one guy who is cashier for the convenience store and server for the restaurant. I don't mind though. friendly service and good food. ",
+            "time": 1492960899
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "convenience_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12305624545011211648",
+    "utc_offset": -240,
+    "vicinity": "241 Niagara Street, Toronto"
+}

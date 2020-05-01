@@ -1,0 +1,282 @@
+{
+    "address_components": [
+        {
+            "long_name": "1046",
+            "short_name": "1046",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H7",
+            "short_name": "M6J 1H7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1046 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1046 Queen St W, Toronto, ON M6J 1H7, Canada",
+    "formatted_phone_number": "(416) 588-2121",
+    "geometry": {
+        "location": {
+            "lat": 43.6439907,
+            "lng": -79.420552
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452728302915,
+                "lng": -79.41917736970849
+            },
+            "southwest": {
+                "lat": 43.6425748697085,
+                "lng": -79.4218753302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "f334d68a258a9a73a92fd34e12ddcfd6f987c7b3",
+    "international_phone_number": "+1 416-588-2121",
+    "name": "Garb",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 \u2013 7:00 PM",
+            "Tuesday: 12:00 \u2013 7:00 PM",
+            "Wednesday: 12:00 \u2013 7:00 PM",
+            "Thursday: 12:00 \u2013 9:00 PM",
+            "Friday: 12:00 \u2013 9:00 PM",
+            "Saturday: 12:00 \u2013 7:00 PM",
+            "Sunday: 12:00 \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110070306440673999079/photos\">Mike Whitla</a>"
+            ],
+            "photo_reference": "CmRaAAAAEq2b77iHX1f6kdFDswvCMYZy2DTIMCsxyHlysodpgfslwHloZNoh0o2cRg12au0ywFD3dHQF4tbP2uA4w1-4JIXf47ocM3hedcUV7lQMXb-BivbioRn8Xy3ax02FJR8YEhC_nw-YbwP8hUiTRK1IYShPGhQyl4pHDZLRbYe2P5LsiPrxj_5FeA",
+            "width": 5312
+        },
+        {
+            "height": 1518,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110917966231307633355/photos\">Garb</a>"
+            ],
+            "photo_reference": "CmRaAAAAap9cSEE4phhD88dt0o0KFh4pIKUXBrgoKWz6zvM9QA5-O3CY2nR0xQItuOPk67mtIMAwv7LNzpG25J4Dxz8IIxnxUUSMnj9VBBEo6CbUm1vxKLeMoyVoNFUFqMvJIMX6EhB2upQUOmAdLHqYH_Ep3rajGhTcfD0PviFzMsu5SJyfbiZBZVQ_Nw",
+            "width": 1518
+        },
+        {
+            "height": 613,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111022873604151742731/photos\">Fani H</a>"
+            ],
+            "photo_reference": "CmRaAAAAkIzmRPje0jM32nmHwhst74XESla0tDIrR3yXMYzEX5G1RJQSt0sLpvkMpLbmNE2A2QGQwcsTUvLzyXq-YIOB3XTDGuAYpfY11NZ1J7Ar1REMvEs7IKR5dFcA5R5se5fsEhB_PruAjxugv4yOHJXluNhnGhRT2PfWodKUS92MhhCcrAtDg0CCcg",
+            "width": 460
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103905430382825802609/photos\">Yemi Thomas</a>"
+            ],
+            "photo_reference": "CmRaAAAAoQE8C0WyPdI2CAuRDCaeHr9w6evzCjkpLXL5nmj4-FrftM8yg6WH_H4P5GUkY32V-hnR4erTnoJzRyd7tNbLS8-Sdzma4GvOeLzmQLUwGvWvnpoWnAmnAibrgCwnCWM8EhC7JzdzX0Pb2oqyKOM4ef5WGhQC0I48GL6Hdjqk06ZWX5k5ZOaEaA",
+            "width": 5376
+        },
+        {
+            "height": 375,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110917966231307633355/photos\">Garb</a>"
+            ],
+            "photo_reference": "CmRaAAAA5w0fdfLvZ4by815vkvpVa_4vqH0pnZ4O-M7-jqAzONUYeMgi356WvMkpDPU9SQUvitl8QYWHMQeHC_pHBGvh9FvACvk9ivxIlH4VsD_npQnnmlQ5X13E8vqkVD1GInglEhBHQ_YIpUXuyFANu4m88o04GhRixmzHiYJlzNnG1rrnAHaV4_YdLA",
+            "width": 375
+        }
+    ],
+    "place_id": "ChIJ4akREP40K4gRfMJnuKP1Ywg",
+    "rating": 4.9,
+    "reference": "CmRRAAAAIiV2tC2MaFvAfwzr842dBcm2c398P5i3Ov37Zco_pjpfRZh8io10I7251VD16kFLYQ2jZijrX8PPckUxnG3PUil6eqO5BYcWO9Dy03p5ITXTO0ly7J7q5h6cOE_xzO3DEhBEM76A_5Xb_n2ZFMw_TWg4GhQbDyAOm0Rb8xYm8KiIsR3tZ4C8VQ",
+    "reviews": [
+        {
+            "author_name": "A Cartier",
+            "author_url": "https://www.google.com/maps/contrib/116167134721249142208/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bPAS-oMgXpA/AAAAAAAAAAI/AAAAAAAAIKg/HEu6OZfIdGg/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "4.5 stars to start!  I just started to consign some of my beloved items and I can definitely rate it as being a nice experience to consign here.\n\nThis store sits on Queen St and just near the hip area of Ossington.  Unlike the Ossington spots, Garb's store has the large windows that lets in a lot of natural light.  When you first walk into the store, you don't think stereotypical 'consignment'.  For starters, lots of items are in well thought out displays, everything is clean and pristine (more on this later), and Dan (the owner) is careful to choose which items he'd feel be sold and not sit on the shelves.  Another thing about the store... it's well organized.  So you don't feel like you're in a musty and cluttered place... instead everything is organized just to size and by type.  Nice and easy to find that special or interesting piece.\n\nWorking and talking to him was easy... he's very genuine and not once did he give me the look of \"why did you buy this\" haha... though to be fair, I had tags still on a lot of the items I brought in.  I just hang on to things I should let go!  He was very fair to price the items and made the whole service a breeze to go through. I do like how he has everything online so if you ever want to check if your item sold... all it takes is to log into your online account and voila!  Easy to find.  Other places require days for them to catalog and then you have to call in every time you're curious.  Nahhhh not here.\n\nAbout the brands they carry... it's definitely premium and often you will find items with a tag on it.  Nothing sits for more than 90 days here... for a buyer, it's great as you can items become discounted and find those amazing deals.  With consignment, if you want tooo long, someone else can snatch it.   Another great thing about Garb is the quality of the items... its all in good shape and if it's a bit dirty, he does ask the consignee to wash or dry clean before bringing it back!  As a person who may buy from here, I really appreciate that.\n\nOverall, it's one of the better managed and better services I've been given from a consignment store.  Here's hoping my items sell!",
+            "time": 1519938277
+        },
+        {
+            "author_name": "Leeza Belkina",
+            "author_url": "https://www.google.com/maps/contrib/117264181092710045424/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-FlsQfZa1LyY/AAAAAAAAAAI/AAAAAAAAC0E/5JzTEebAFNg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "This is my favorite vintage store. The owner has a great taste and knowledge in clothing and fashion so you can always find something unique looking for every season. I like taking my friends to the store and go through the collections. Definitely recommend!",
+            "time": 1511641910
+        },
+        {
+            "author_name": "Julia Arnold",
+            "author_url": "https://www.google.com/maps/contrib/110633365227150696410/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-2HPvr3L5_94/AAAAAAAAAAI/AAAAAAAAcJM/byV1Rn2fFgk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Easily the best consignment store in Toronto. Clean and bright, well organized. Always a great mix of high end basics and interesting pieces at fair prices. Staff are friendly and helpful.",
+            "time": 1506738588
+        },
+        {
+            "author_name": "Fani H",
+            "author_url": "https://www.google.com/maps/contrib/111022873604151742731/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-cm9N23y1neo/AAAAAAAAAAI/AAAAAAAAMjw/16giM_BheHE/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Fair selection of used clothing from luxury brands. The prices weren't bad either!",
+            "time": 1517487751
+        },
+        {
+            "author_name": "Mike Whitla",
+            "author_url": "https://www.google.com/maps/contrib/110070306440673999079/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-P5Tpbrk4oaY/AAAAAAAAAAI/AAAAAAAADd0/pXr0lv-RHpo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great high end used clothing store. Designer clothes available for a fraction of the cost. Owner is meticulous about quality of what he sells and knows what he is talking about. ",
+            "time": 1494518870
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "shoe_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=604596858520060540",
+    "utc_offset": -240,
+    "vicinity": "1046 Queen Street West, Toronto",
+    "website": "http://garb.ca/"
+}

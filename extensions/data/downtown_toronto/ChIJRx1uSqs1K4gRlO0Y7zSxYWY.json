@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "442",
+            "short_name": "442",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dufferin Street",
+            "short_name": "Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2A3",
+            "short_name": "M6K 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">442 Dufferin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "442 Dufferin St, Toronto, ON M6K 2A3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6439014,
+            "lng": -79.4296426
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452898302915,
+                "lng": -79.4281134197085
+            },
+            "southwest": {
+                "lat": 43.6425918697085,
+                "lng": -79.4308113802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "7fdd2939142634e669351fcadf951b3aa1e73a74",
+    "name": "ReDeTec",
+    "place_id": "ChIJRx1uSqs1K4gRlO0Y7zSxYWY",
+    "reference": "CmRRAAAAZx-xRq0Vbs3jczptrk8iZKhPW1qoy-EoP17htRUp8nhJ8Mmet_tA01TIJUfKAWKCnSgguMWqyeiQ-NjgteJZNQQpaw2aZD3yS6avlvldraqymRhF9BsvHDGrtrBFc71hEhBeruQlkpeO8o6uQFaN-DyjGhTCJdRDlpzRxTIZqy6QC5M1ipPYUw",
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7377372505517387156",
+    "utc_offset": -240,
+    "vicinity": "442 Dufferin Street, Toronto",
+    "website": "http://www.redetec.com/"
+}

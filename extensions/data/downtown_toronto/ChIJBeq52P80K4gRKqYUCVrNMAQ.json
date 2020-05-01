@@ -1,0 +1,247 @@
+{
+    "address_components": [
+        {
+            "long_name": "101",
+            "short_name": "101",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Lisgar Street",
+            "short_name": "Lisgar St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3G4",
+            "short_name": "M6J 3G4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">101 Lisgar St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3G4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "101 Lisgar St, Toronto, ON M6J 3G4, Canada",
+    "formatted_phone_number": "(416) 535-4409",
+    "geometry": {
+        "location": {
+            "lat": 43.6435969,
+            "lng": -79.4235707
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6449281802915,
+                "lng": -79.4223002197085
+            },
+            "southwest": {
+                "lat": 43.6422302197085,
+                "lng": -79.42499818029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "b88b3c918330c20a5a0f02798ad0a27589d2e070",
+    "international_phone_number": "+1 416-535-4409",
+    "name": "Millennium Dance Complex Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 11:00 PM",
+            "Tuesday: 9:00 AM \u2013 11:00 PM",
+            "Wednesday: 9:00 AM \u2013 11:00 PM",
+            "Thursday: 9:00 AM \u2013 11:00 PM",
+            "Friday: 9:00 AM \u2013 11:00 PM",
+            "Saturday: 9:00 AM \u2013 8:00 PM",
+            "Sunday: 9:00 AM \u2013 10:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 319,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107665767851744696375/photos\">Millennium Dance Complex Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAA5T-3G92uny8jwMFgMOCQUijd3VunjU6CaUzCqwTt7j095nz9mgfWwTjqHRnSCiVaBGfNzCeV2rVnq0iW243HKfGt56OJHJrx7Nh5xDOXlV74oL5vqPu_AUtBXI6bHkBmEhDx5EqSZzz5xOEreXPXMkwdGhSjutyH6NNbZtiaQL4nOsq9iqZwLA",
+            "width": 319
+        }
+    ],
+    "place_id": "ChIJBeq52P80K4gRKqYUCVrNMAQ",
+    "rating": 4.9,
+    "reference": "CmRRAAAAfqQ12rzyMvMowtA-V8DIhnx7ywN_TrekyBWewwQC0-2bV38NPrcSiunuDO6GlNQgPox48puZ_WU-gRbFsj4RCXD4npgd1VQ-oT4GiEgCg6ouGK9UuiuIQSGb5Re4H5LFEhAUhiPLL7i2_fZ-ivH2UarDGhSEkcNSKzdAVV40ZrGUtgv7h2AgTg",
+    "reviews": [
+        {
+            "author_name": "Dylan Caetano",
+            "author_url": "https://www.google.com/maps/contrib/111753802497997665621/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-q2_NakrsuSc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2jXIevD0Z8LGuuRc37mfNIDdY_Fg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Wonderful environment. So clean, and the staff are really respectful to the customers. Many of them go above and beyond to ensure the facilities are clean.\n\nThe instructors are fantastic! They challenge the dancers and share valuable knowledge and information with them. It really is a great place to be.",
+            "time": 1528684249
+        },
+        {
+            "author_name": "Jonathan M Ponce",
+            "author_url": "https://www.google.com/maps/contrib/103718533769570255263/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vpBuod18XdM/AAAAAAAAAAI/AAAAAAAAPV8/MvMiLvqBeo0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I think that Millennium Dance Complex Toronto is one of the finest studios we have in the city! Great classes, great instructors, staff, energy and overall vibe! I love walking in every time and it amazes me how there's always something new happening each month. Would hands suggest coming here to take class to any dancers looking to train and vibe with awesome people, 10/10!",
+            "time": 1520659191
+        },
+        {
+            "author_name": "Clarissa's Life",
+            "author_url": "https://www.google.com/maps/contrib/111909848048934243423/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-SMYoHvPhhS8/AAAAAAAAAAI/AAAAAAAAAVE/sZTCqwlMrZQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Growing up as a dancer, I quite enjoy popping in for a drop in dance class every now and then to be taught the new and trendy choreography. However, the last time I took a class, I had an unpleasant experience.\n\nI took Angela Mahoney's Beginner Heels class on Monday, April 30 at 7:00pm. When Angela first walked into the studio, she had another girl with her (who I figured was her friend, but later on social media, I found out it was her choreographing assistant). Another girl entered the room soon after to join Angela and her friend. \n\nThroughout the class, when Angela would say \"find a new spot to dance in\", her two friends never moved from the front of the class. They were not acting like assistant choreographers, but just as dancers taking a dance class. This is very frustrating when being taught choreography in a full dance class and trying to see Angela demonstrating the sequence. It would of been fair to move around the room just like everyone else had to, especially if they were helping teach the choreography.\n\nSecondly, at the end of the dance class, my sister (who also took the dance class with me) finished her water bottle. She obviously needed to fill it up after dancing full out for an hour. When she asked where the studio water fountain was, they said they did not have one. They claimed they sold water bottles and that was the solution to the problem. \n\nHaving a water fountain at any fitness type place should be a must. When paying premium dollar for a dance class downtown, I expect to be able to fill up my water bottle when needed. It is absurd to make customers pay for a small overpriced water bottle.\n\nLastly, the studio the class took place in that night, had no circulating fans or AC on during the duration of the class. It got stuffy real quick, hence the need for the water fountain. \n\nI have really enjoyed my experience here, but I would really hope to not see these things re-occur in the future.",
+            "time": 1525227405
+        },
+        {
+            "author_name": "Larinee M",
+            "author_url": "https://www.google.com/maps/contrib/117137804430100914221/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-mxQdFEZKtBc/AAAAAAAAAAI/AAAAAAAAAKo/qOv7kwOHym8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "No words to describe how I feel about Millennium Dance Complex TO!!!! The staff, the faculty and everyone involved is amazing. I absolutely love taking class here.  I highly recommend you try it out ....you won\u2019t be disappointed!",
+            "time": 1522894177
+        },
+        {
+            "author_name": "Diane Jean-Louis",
+            "author_url": "https://www.google.com/maps/contrib/101578331385125401405/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-edEdf9S8AYs/AAAAAAAAAAI/AAAAAAAAB44/qfWQFU0k_9c/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The staff and faculty are amazing. All the teachers push you to be the best you can be which is amazing because you don\u2019t really see that anymore when you go to take class. You also get the opportunity to learn from teachers who inspire you to never give up on dance.",
+            "time": 1521745626
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=301966961616922154",
+    "utc_offset": -240,
+    "vicinity": "101 Lisgar Street, Toronto",
+    "website": "http://www.mdcdancetoronto.com/"
+}

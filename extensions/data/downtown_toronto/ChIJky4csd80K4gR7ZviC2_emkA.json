@@ -1,0 +1,223 @@
+{
+    "address_components": [
+        {
+            "long_name": "43",
+            "short_name": "43",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V8",
+            "short_name": "M5V 2V8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">43 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "43 Stewart St, Toronto, ON M5V 2V8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64336789999999,
+            "lng": -79.400993
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447652302915,
+                "lng": -79.39966266970849
+            },
+            "southwest": {
+                "lat": 43.6420672697085,
+                "lng": -79.40236063029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7f5c0d1c341b09e9962938aa8ea16b9d5740a333",
+    "name": "Bond Girl Hair",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 12:00 \u2013 8:00 PM",
+            "Wednesday: 12:00 \u2013 8:00 PM",
+            "Thursday: 12:00 \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 5:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115405483290188730351/photos\">Jeremy Marentette</a>"
+            ],
+            "photo_reference": "CmRaAAAAXzK-iJDF1JCZ6EoBfulW5DoWeRWDIIwNYx5_OawOljJppkLgWo0Kpixxo18oT96I7-L-mFONBUSe2P0dsUUeAkWFUUSRBigMKDACG54jysZA6lh84FSJKBMLAbR2OCVBEhCZ7L98LPqaRWobOLAMajF1GhST3VZW7HnUBfsHqBxJnfTE3qhzYw",
+            "width": 2988
+        },
+        {
+            "height": 1439,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111916246048676897370/photos\">Marissa Greco</a>"
+            ],
+            "photo_reference": "CmRaAAAATeDsUtp_nObNhB4bx0XmTVAelkcUGqGHkz_a_uH8mmYBVLRm7ErqTvkUJ6O5mJlZXD5mp20bh0iDkcevfriq_xy3QJjBTDWfFII76rAaJ_naoDLjI0Ff-6x4jo1kIGwrEhCa6jyU3jQRd13piwDnqcwdGhQC2_8UdPrEDkpGpfMsKnmDyoyL6A",
+            "width": 1440
+        }
+    ],
+    "place_id": "ChIJky4csd80K4gR7ZviC2_emkA",
+    "rating": 5,
+    "reference": "CmRRAAAAxscxgubZwOUEbdyo0VJEIazpgJwjMCpu7mxwFWnRwNmNnBt9j_QxWUrAkY_dIO93EXBuAp_CFBp0-LqgJOTWv_odn-KzHbi0Lzr0ld-RjUyamEbxovPP6pzcG81YUubjEhA_m0PzRq3Vg9Az-qorV2htGhRe96DQq35BqNmu9fKC4c3MbG3BkA",
+    "reviews": [
+        {
+            "author_name": "Jessica Campanella",
+            "author_url": "https://www.google.com/maps/contrib/114660939435299220484/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-fYysAkyuo7Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1T7lCdyUURQ79-S5LyEQ4NGg4YXw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Bond Girl is absolutely amazing! My first time trying fusions was with Jessica and was mainly intended for adding volume. I loved it and couldn't stop going back. Thank you so much Jessica and the Bond Girl team!",
+            "time": 1522433132
+        },
+        {
+            "author_name": "ramina",
+            "author_url": "https://www.google.com/maps/contrib/114532123484515762963/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-M5r4i3_fHxU/AAAAAAAAAAI/AAAAAAAABfI/FPfzcLW6GAs/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "you won't regret coming here, amazing job!! love my tape in extensions",
+            "time": 1528902127
+        },
+        {
+            "author_name": "Hope Kirk",
+            "author_url": "https://www.google.com/maps/contrib/106889816740667656637/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Mi7Env81H1M/AAAAAAAAAAI/AAAAAAAAADA/hHc1noANWG0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Best place for hair extensions!",
+            "time": 1526138672
+        },
+        {
+            "author_name": "Caitlin Burrus",
+            "author_url": "https://www.google.com/maps/contrib/118138198452346594647/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-TN77cUMI8Ak/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0Y0HnApQ_skyrs3UoJTolDcFXQyw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1515054885
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4655277733362965485",
+    "utc_offset": -240,
+    "vicinity": "43 Stewart Street, Toronto",
+    "website": "https://www.bondgirlhair.com/"
+}

@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "701",
+            "short_name": "701",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W7",
+            "short_name": "M5V 2W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">701 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "701 King St W, Toronto, ON M5V 2W7, Canada",
+    "formatted_phone_number": "(416) 703-1110",
+    "geometry": {
+        "location": {
+            "lat": 43.6430945,
+            "lng": -79.40374969999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447240802915,
+                "lng": -79.40250936970848
+            },
+            "southwest": {
+                "lat": 43.6420261197085,
+                "lng": -79.40520733029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6bb12fcea42c049173828c4f3b69d2eb695d97a2",
+    "international_phone_number": "+1 416-703-1110",
+    "name": "S Zelikovitz",
+    "place_id": "ChIJK5lKbOA0K4gR9JMGSu7jKLQ",
+    "reference": "CmRSAAAAQVaicBwM_BFYJyOT7GpSJIEHlwYt5FNMLSjNwCpnLVrxy_T7V7HDExEMTh1BN0djdvCCuO77fG9wF8kNfbyx3md8ziP0A0eFrf8wHGAtpL1U2CcXDp1RCbYUi5bronHTEhA3AWDM8gOpQ-w0twkDbrH_GhRfFai8XiyuQNoHQNiXdNfVSkh13A",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12981876538479121396",
+    "utc_offset": -240,
+    "vicinity": "701 King Street West, Toronto"
+}

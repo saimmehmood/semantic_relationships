@@ -46,7 +46,20 @@ and qualitative analysis.
 
 #### ppt
 
- - contains project presentation slides. 
+ - contains project presentation slides.
+
+#### extensions
+
+ - this folder contains extended code that cover analysis on a different level of granularity i.e., to include semantic analysis of point-of-interests. There is a data folder that
+ contains POI data fetched through Google Places API.
+ 
+ - *fetching_pois.py* contains code that fetches POIs in a specified geographical area using Google Places API.
+
+ - *query.sql* contains postgis query that fetches cell ids and poi ids that are inside those cells.
+
+ - *traj_as_poi.py* converts trajectory as walks on grid cells into trajectory as POI walks by compraing walks on grid cells with pois inside those 
+grid cells.
+ 
  
 #### Acknowledgments
 This repo was helpful in writing code to fetch POIs from Google API: (https://github.com/slimkrazy/python-google-places)

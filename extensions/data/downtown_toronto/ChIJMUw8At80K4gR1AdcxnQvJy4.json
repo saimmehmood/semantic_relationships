@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "67",
+            "short_name": "67",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Portland Street",
+            "short_name": "Portland St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2M9",
+            "short_name": "M5V 2M9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">67 Portland St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2M9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "67 Portland St, Toronto, ON M5V 2M9, Canada",
+    "formatted_phone_number": "(416) 979-1336",
+    "geometry": {
+        "location": {
+            "lat": 43.6435912,
+            "lng": -79.3996389
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6449337802915,
+                "lng": -79.39832001970849
+            },
+            "southwest": {
+                "lat": 43.6422358197085,
+                "lng": -79.4010179802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "656a2fb4afedfd6a98af4bd16c2801fab3166522",
+    "international_phone_number": "+1 416-979-1336",
+    "name": "STUDIO 67",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 338,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107883683694389076848/photos\">STUDIO 67</a>"
+            ],
+            "photo_reference": "CmRaAAAA-uXipMOhDSNQhIISoOq_qu9Crrfom8z-1Dv8OhjLA4DEh7RgmTPac4_LJTvFT7cAr1O6CVwvWrUJcZlVPOhUdarw64vJE6rJDa3flpXQF8bc1vdaANvSEjJXTE-FpAYhEhD0Rs2MlakKNcxyha_L9upYGhT8JWEQxrLyr-VMpo_lbn5rbbVZkA",
+            "width": 600
+        },
+        {
+            "height": 4912,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107883683694389076848/photos\">STUDIO 67</a>"
+            ],
+            "photo_reference": "CmRaAAAAbsXVlvzN6mbeWU6sUT0WXA9cXzhLXxzOfZYZkNNPDStr2OIL-dT7eMkviKDByUYYIroxLysaqt0JNlNJlSWUTwRTJsvEdTn44So_qlU981HCmPC8rLfkjiAwVUgCG0sDEhCfJgULc8-t2ovJ3DEzNQnhGhT339ksHqOvFEc5ULiJ-k7AhA28tA",
+            "width": 7360
+        },
+        {
+            "height": 3984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115405483290188730351/photos\">Jeremy Marentette</a>"
+            ],
+            "photo_reference": "CmRaAAAAcuI2i4L1FL3u_Cd9wSG1BAzbTtj2EkQ-4BTCVcMGKl3SlufmbmnmEGUAAqJY68qW-rWWUtJn5z7T-uBn-pC1yzpzl9aZWz6WlFfKj_54zNgP_SUaEea3sk8nX1WIjG8yEhDB33rW8jI_x34bwyPcLKeyGhT4BVsISGged5thLQm16JIcq_dIQQ",
+            "width": 2988
+        },
+        {
+            "height": 4140,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107883683694389076848/photos\">STUDIO 67</a>"
+            ],
+            "photo_reference": "CmRaAAAA9rDDSmgSczqIqj2ya127jM9u2jQgMRTm2BksMqedKk3L4n0IQfFM9dtDkKB_AVYB51p0cbLbPZJR_hTHUyWsRaZAmndYfke9CKN5v5VCQZSdQezgh5NblRUphtMmQe98EhAr02g7-I_8VI6Y4ZCd6XE8GhQKv-J2cPRYXodItnSnX6RE807jZw",
+            "width": 7360
+        },
+        {
+            "height": 403,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107883683694389076848/photos\">STUDIO 67</a>"
+            ],
+            "photo_reference": "CmRaAAAAB-8FvxFGIdvDM6ysSg5GPOJYB0liXpvA5liBE6_AFxtpHAJgPRryB2DulP-xpZGKxcCcdMSMuHjPh7rMDEMgIoyesrTImimNKKkQ5kfinmK1Fo20ZExXt_-FkZXYgb_4EhBKePUHHMl9TFMmPK6SxxT6GhTw2Pa-6rTkATVW7TA3PspchUFqpg",
+            "width": 716
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107883683694389076848/photos\">STUDIO 67</a>"
+            ],
+            "photo_reference": "CmRaAAAAbSs5u3EIve999gaI203nZIZxpGggiw3aAuuQ1i26cJMieBRBMTCr-24Hu9HVNgGCIKzJFURj2pz_q5JnzlO7m2Xf9Z-2G9Gi7k67bbykyEyDX19Frl6KJ5kLzax0VqqOEhDGZpiYV9dvfgwfV-e2ymTkGhQETpQR8gJ6NsbR-wVf85JtOvofBA",
+            "width": 3264
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116228241120143589075/photos\">Erica Reid</a>"
+            ],
+            "photo_reference": "CmRaAAAAdXICNY95OzHcl0Z8OJKtP_6CTaIZsyT9c-V_Vm2Y6KmyiCm9WNE5PjIkTKo4pOXWN0HblMm_8VwWFOhNdMM8ICJo7_bx4YlWFcdWIXoEqA7fTZd6XW9kxRECvb9FPldCEhBvInSMQaR-Ki72LsC8JNgTGhTvI8mz5KfMznSIwld6XxxKbpLM-Q",
+            "width": 3036
+        },
+        {
+            "height": 1024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107883683694389076848/photos\">STUDIO 67</a>"
+            ],
+            "photo_reference": "CmRaAAAA0p41_4kpCU0OyaW-garYh2-_lTUhauH5SjpL13oUOgvXc69K6kMnyzb0qeVbsAOFV8LQ0ym6L5KB47BxPD6ZVjJsE5WYMokQONP_gN5fz5exS9f5PsCSMiKCM5Eyn9fBEhAVvbVfbLfGknZYjVH3rA05GhTEDAaPsK2cwWR5JePZKBTcI4kojA",
+            "width": 768
+        },
+        {
+            "height": 4912,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107883683694389076848/photos\">STUDIO 67</a>"
+            ],
+            "photo_reference": "CmRaAAAABxxqPsZZgcmFc2i26pRWgeZ95kwIr8Cr8JgbnNi4sFDImO3KuAsoXqAzCK18D_IBVc8sKGk0fFCI8pp15oaPdJGjcMypN0ClOqL5tlhY2EP8sz589tSQ4VGlE1L40eWXEhBlZIQ4zBz-oE8V5ZX82oyvGhQYyamEojczhymZTnAR2ZuMZwR4cw",
+            "width": 7360
+        },
+        {
+            "height": 2576,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109689314609956686364/photos\">Marina Lazzaretto</a>"
+            ],
+            "photo_reference": "CmRaAAAAo4SCxDN8VksBHcEzqhqCpuErJOSJJkaz8Tvmcrz2yH_U71LS0kERCi7O5zS_C9PKxqrajtq70u6WNKaloMnvmOhRvZmS49nLdhsOBw4nRQ9PIfhhxa3GhBeB0jhQoOVIEhAAq2eV4Zv4tWTma9xLA-DlGhRhrzJ8mMXxssn_GVWzDjwdjIkRPg",
+            "width": 1932
+        }
+    ],
+    "place_id": "ChIJMUw8At80K4gR1AdcxnQvJy4",
+    "rating": 4.8,
+    "reference": "CmRRAAAAb0Tnfeuke9mzGhKHF-1lAwOOIZusRc2Hb_AwTPhwpQ_0tXRc0J_pTOPozz-5ZNQEdk3DZQAYIosvVz27tPp5_wm1PQ7NSnTV1lgo1tx7j7lXQlL0xi4GIwHe0wNgqn2oEhCa8f987td75XVIO5kt49SMGhSrQN5lP_JVu1v33xyGCHNx_5nuHw",
+    "reviews": [
+        {
+            "author_name": "Alyssa Campbell",
+            "author_url": "https://www.google.com/maps/contrib/111837176019913575884/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-e9cHYBxS6wQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2B-ig4YTn1kgz0-NqeO6JlGyjIwA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I love everything about Chanel. Sometimes I swear I get my haircut twice as often JUST to spend time here with her. She is the ONLY stylist in the world that I've ever gone into without pictures knowing that she'll do a better job than any of the celeb pics I pull. \n\nI cam in to see Chanel for the first time 2 years ago when my hair texture changed. Every other person I went to blamed it on age (I was 28..) but she was patient, kind, and slowly helped me restore my hair to the thick brown mop it was before. She is a genius and the only person I'll ever go to again. \n\nCHANEL!! You won't ever look back!!",
+            "time": 1523043288
+        },
+        {
+            "author_name": "Saja Jaberi",
+            "author_url": "https://www.google.com/maps/contrib/104018608706269888065/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-RhBXibZSLoQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3wn7ts_JUk_cOKU4eUDI1gPqdKuQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Got my haircut by michelle, i love her, shes so sweet and very friendly. And prices are quite reasonable for such a great salon, big space, modern, and clean. \nComing back for sure",
+            "time": 1528136204
+        },
+        {
+            "author_name": "Marina Lazzaretto",
+            "author_url": "https://www.google.com/maps/contrib/109689314609956686364/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-XBnRq3-DFGU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1cerAKhAX1mjcxQIH40yD96y57UA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I chose Studio 67 because of the fact that it advertised itself as an Aveda salon. I dont really know what to say other than this was the single worst color and customer service experience I have ever received. Got home from my highlight appointment with Chris only to discover that the sides of my head were totally covered in multiple bleach lines from his poor highlight work. I called immediately and asked to go back in to have it fixed. After he tried to tone it, the lines were still apparent. At this point I\u2019m irate as I have paid over $300 for what is turning out to be a nightmare color situation. Another stylist came over to look at me and determined the answer was to do more foils and cover up the lines. I sit for another hour while they do extra highlights. When they came out the lines were all still there. I left the salon nearly in tears with wet hair and insisted that a manager call me, as I\u2019m pretty certain at this point I deserve a straight up refund. When my hair dried, one side is so over highlighted it\u2019s practically white, while the other side is basically brown with a white bleach stain on it. It\u2019s worse than it started. Not only has the owner not called me, but the salon is now screening my calls. I\u2019ve called multiple times, left 2 messages and no one will pick  up or return. Since a picture is worth 1000 words I\u2019m posting several. I would strongly advise against this salon unless you want to end up looking embarrassingly bad for several hundred dollars.",
+            "time": 1524930315
+        },
+        {
+            "author_name": "Sumaya Hussain",
+            "author_url": "https://www.google.com/maps/contrib/111316973050672852872/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--sVknTlIIi0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2UPAZQsucHvBlPCrvTPaV9bFx-1g/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I got my hair coloured with Michelle , I asked for ash colours ombre, she was honest and told me that she will try as my hair is brown and the colour I want is tricky, I loved how she was straight forward and told me what I can get and what my expectations should be.\nI loved the colour, still need a touch up and tonning  down. But loved it\nI attached  a before and after pictures.",
+            "time": 1528136929
+        },
+        {
+            "author_name": "Celia",
+            "author_url": "https://www.google.com/maps/contrib/108826653668423639567/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-JkHyi221LeY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0VaiEyN7qv5YvCegOSbX2LivTZUA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Love this place! From the  moment you walk in you can relax knowing you are in great hands. The staff are incredibly welcoming, the space is beautiful and the service is outstanding. Chanel is a master at her craft. She has an incredible knowledge of colour and an ability to mix up just the right shade. I always leave feeling like she's exceeded my expectations. Definitely the best salon I've come across in Toronto.",
+            "time": 1507835979
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3325679028427032532",
+    "utc_offset": -240,
+    "vicinity": "67 Portland Street, Toronto",
+    "website": "http://www.sixtyseven.ca/"
+}

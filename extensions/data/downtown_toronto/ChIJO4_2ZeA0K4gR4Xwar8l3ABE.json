@@ -1,0 +1,228 @@
+{
+    "address_components": [
+        {
+            "long_name": "705",
+            "short_name": "705",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W8",
+            "short_name": "M5V 2W8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">705 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "705 King St W, Toronto, ON M5V 2W8, Canada",
+    "formatted_phone_number": "(647) 221-5994",
+    "geometry": {
+        "location": {
+            "lat": 43.64334929999999,
+            "lng": -79.4040148
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448358302915,
+                "lng": -79.4027190697085
+            },
+            "southwest": {
+                "lat": 43.64213786970851,
+                "lng": -79.4054170302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a0c9d1c99fba99073fba699a7639e8d7e43ac05f",
+    "international_phone_number": "+1 647-221-5994",
+    "name": "Dr Pamela Fardy",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 8:30 PM",
+            "Tuesday: 7:30 AM \u2013 8:30 PM",
+            "Wednesday: 7:30 AM \u2013 8:30 PM",
+            "Thursday: 7:30 AM \u2013 8:30 PM",
+            "Friday: 7:30 AM \u2013 8:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2208,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100710465356704079992/photos\">Pamela Fardy</a>"
+            ],
+            "photo_reference": "CmRaAAAAwBEcyeLDQBv2zhVZTITKgFxtMegp1qy4gTT6PRcex7f0jaPyyuSwwzAgwet1oDwkK7ME2bBlO6zIg7NSjPm6fumD4YSY2xUSCWSDFpfqactoAyY4NLPulmQ7V-wI5diCEhBrfL9BJjt0yPbOTaPKsuUxGhRjzhnBEDejW9LEKz7M-g3_eUKQPg",
+            "width": 1242
+        }
+    ],
+    "place_id": "ChIJO4_2ZeA0K4gR4Xwar8l3ABE",
+    "rating": 5,
+    "reference": "CmRRAAAAuF5xL15eUi0gHh39c9wpL96cEQ8BfC8y2JuUVX8n5YbZhAfBCwlBMVUkp74aATLj-vhK8xjWtTMw-6z3uMwCzODXPKkFQvuw4AWN4kPom2euW_1R6KAWy-5JFJpPWV5FEhC_CkgEkzpjZSuzkuSk28TaGhRuQwULNMK9cK83hj35iY62wiS0qQ",
+    "reviews": [
+        {
+            "author_name": "Nana Ren",
+            "author_url": "https://www.google.com/maps/contrib/107492765235553741116/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-sEllmr0-rmI/AAAAAAAAAAI/AAAAAAAAB5Q/QNGsMPevAl0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I've had a horrible experience with a Chiropractor last year and was scared to see another since. When my severe back pain left me no choice but to seek out another doctor last weekend, I found Dr. Pamela Fardy, and I am so glad that I did because she has restored my faith in the Chiropractic treatment. My first appointment with her was at 7:30 in the am, she offered to plan our appointment around my 9-5 job, and spent the time to educate me what chiropractic does and how it will ease my pain. She was very welcoming, informative, patient and professional. After the first treatment she also taught me a few stretches to do at home, and I set up another appointment for the very next morning at 7:15am. Obviously the healing takes more time than a few visits with any doctor, but I have faith that Dr. Fardy will be the one leading me to the road of recovery! \nRecommend 100%!",
+            "time": 1508531509
+        },
+        {
+            "author_name": "Tannis Reddy",
+            "author_url": "https://www.google.com/maps/contrib/101037858525385605187/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-qHJhrg4qL4w/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3zWjTnej1b4v3LyQHA3IMpqb3ZbQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Dr. Pam Fardy is not only a terrific chiropractor but a lovely individual on all accounts. She is professional and a master of her trade. I believe that what really sets Pam apart is her genuine approach and true concern towards all of her patients and their recovery.\n\nPam is flexible and accommodating when it comes to scheduling appointments and thorough with follow up while seeking treatment. Having successfully been treated myself for two injuries (torn tendon and dislocated shoulder) I can confidently state that my quick turnaround and recovery was all a reflection of Pam\u2019s work.I have since referred several friends all with varying injuries and concerns and they too have had the most pleasant of experiences.",
+            "time": 1500312526
+        },
+        {
+            "author_name": "Tara Noelle",
+            "author_url": "https://www.google.com/maps/contrib/109657706321498126338/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-itMuQVpPKV8/AAAAAAAAAAI/AAAAAAAAAlg/sgbr36ZH-9s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Pam is honestly a miracle worker when it comes to back treatment. She does deep tissue work on me + adjustments that make such a huge difference in my body maintenance routine.  Highly recommend (and I do all the time! )",
+            "time": 1509478284
+        },
+        {
+            "author_name": "Mike Victor",
+            "author_url": "https://www.google.com/maps/contrib/102705751876738168710/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ehj0MfudRWU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1rsE2SwHbgQU5oNjwOVxYIyvbFdQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Pam is a life-saver! She is patient, kind, and very intuitive. When I met her she made me feel comfortable and confident she knew expertly how to fix me! She worked with my schedule and fixed me good as new in much less time than I had thought. I highly recommend her!",
+            "time": 1496339527
+        },
+        {
+            "author_name": "Rex Victor",
+            "author_url": "https://www.google.com/maps/contrib/115806796920249661543/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-tbZXbmrj91U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq16aJM0QUtUDpU0gy_PeuExOnZwFA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I have been dealing with Pam since 2010...she is the best, most thorough Chiro I have ever had !",
+            "time": 1515182648
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1225110806754655457",
+    "utc_offset": -240,
+    "vicinity": "705 King Street West, Toronto",
+    "website": "http://pamelafardy.com/"
+}

@@ -1,0 +1,116 @@
+{
+    "address_components": [
+        {
+            "long_name": "304-488",
+            "short_name": "304-488",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E3",
+            "short_name": "M5V 1E3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">304-488 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "304-488 Wellington St W, Toronto, ON M5V 1E3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64358860000001,
+            "lng": -79.3985421
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447630802915,
+                "lng": -79.3971221197085
+            },
+            "southwest": {
+                "lat": 43.6420651197085,
+                "lng": -79.3998200802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "64d7755a4620aa5f2f30d616efd44760feb239d7",
+    "name": "Chatkit",
+    "photos": [
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105346100926514208303/photos\">Chatkit Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAKL5XTo2I-n_Qz1bjrWRfXxIjbl3yCwDqD5Oth8tmYvBDeROdv4ie67PU0iQfjmIkTv4l1CU2FRPladhiPdSay_3GW7Zoj_LC7yAsfyL7uu_sYQn35xktunk9HHuCxHbtEhAwEkVp-UbQNtTqf4vE77HbGhRWUt2a3miJZBI6KYgYC_ui9u9CCQ",
+            "width": 1000
+        },
+        {
+            "height": 414,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105346100926514208303/photos\">Chatkit Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAeMOwQBN0BUDHHxDBI1_E41saZOxtSFe8sZW1iPL73xv0CPYG5gsZ7pZ5wBiPC3JJTRTLFK5IieDDn0MrqnPAQMgiA6MvmPlvV3KrCBIEycQRkgjgiOFZpEXoR7eD6f1cEhD1Qwn6L4U8I0j1YtLzaC7yGhQjf3ryiMFn0wx37-_tT4je05Bd5w",
+            "width": 2000
+        }
+    ],
+    "place_id": "ChIJRZyL3940K4gRDkzmQ7XySI8",
+    "reference": "CmRSAAAAl2O0LzNQIgV2jDH_RB1_paAfG_r2zIVw5XVJ8daqw8DhDXfP4tyFOBeiWqLZ7LTqkyknG-CAqrR8JTLDIqHHbXit5wtSERTH0Zz11ihxM6t6xDSdpj3p4Jlk0DzeZXaNEhB4IDzPWQYoYEK6ShhB1epFGhS3YbluXccBw38vSDozIHPN2k95PA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10324769006089030670",
+    "utc_offset": -240,
+    "vicinity": "304-488 Wellington Street West, Toronto",
+    "website": "https://chatkit.com/"
+}

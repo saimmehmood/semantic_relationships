@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "315",
+            "short_name": "315",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3A4",
+            "short_name": "M5V 3A4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">315 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3A4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "315 Front St W, Toronto, ON M5V 3A4, Canada",
+    "formatted_phone_number": "(416) 408-5536",
+    "geometry": {
+        "location": {
+            "lat": 43.6435055,
+            "lng": -79.3894528
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6449969302915,
+                "lng": -79.3881607197085
+            },
+            "southwest": {
+                "lat": 43.6422989697085,
+                "lng": -79.3908586802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e13fcfd255a8e959616b136574fc62c3170f3b11",
+    "international_phone_number": "+1 416-408-5536",
+    "name": "315 Front Street W",
+    "place_id": "ChIJQxdwGtc0K4gR0P_TxL_P-6o",
+    "reference": "CmRSAAAA7aFWN3HOZur8qHOFQU081xMLw_tVteqDMfSaHckcB6IC03ejAYM4WNcF6TqnIU1N9zOSoj9c5sKDWcBslTjd2cBJw_s0zSNEC1OUW3-1T9l2Vf0YAAFydkmmxW_N5jLlEhDbRMReUPKRv3-CEw1i_gSLGhRKjOs3m5EE6lTpzE2l_nAr5xgS-Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12320669628150054864",
+    "utc_offset": -240,
+    "vicinity": "315 Front Street West, Toronto",
+    "website": "http://www.oxfordproperties.com/leasing/en/office/property/315-front-street-west"
+}

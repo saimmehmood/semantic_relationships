@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "26-2",
+            "short_name": "26-2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Northcote Avenue",
+            "short_name": "Northcote Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3K3",
+            "short_name": "M6J 3K3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">26-2 Northcote Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3K3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "26-2 Northcote Ave, Toronto, ON M6J 3K3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6434487,
+            "lng": -79.42623449999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447976802915,
+                "lng": -79.42488551970848
+            },
+            "southwest": {
+                "lat": 43.6420997197085,
+                "lng": -79.4275834802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "de7425c22cf670bb1f12845ebaa391935500d440",
+    "name": "26-2 Northcote Ave",
+    "place_id": "ChIJnaydsao1K4gRRV7mtBP9U_s",
+    "reference": "CmRbAAAAjnkGXud6BJh9RYaO3axTqcz8ev1tuuTTpOb7TxIgcQx3sQrIboqVDDHAk-R_wXWvo6-NhdUPS62xo9y3u9b3eTTU4NX8hX4-2zgmF0X3sd4udiPWwU8paLGMAPPSErhEEhDIQEDR7CHWGYjdyp0HZaPqGhTbDQOpSyYB1NvprgSxXXnXOnLifg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=26-2+Northcote+Ave,+Toronto,+ON+M6J+3K3,+Canada&ftid=0x882b35aab19dac9d:0xfb53fd13b4e65e45",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

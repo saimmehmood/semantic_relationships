@@ -1,0 +1,260 @@
+{
+    "address_components": [
+        {
+            "long_name": "1a",
+            "short_name": "1a",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Givins Street",
+            "short_name": "Givins St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2X5",
+            "short_name": "M6J 2X5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1a Givins St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2X5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1a Givins St, Toronto, ON M6J 2X5, Canada",
+    "formatted_phone_number": "(647) 868-1979",
+    "geometry": {
+        "location": {
+            "lat": 43.6448676,
+            "lng": -79.4175118
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64620453029149,
+                "lng": -79.41622236970848
+            },
+            "southwest": {
+                "lat": 43.6435065697085,
+                "lng": -79.4189203302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dc11eebd0b20e238c37312484e7b25b0bca28bb7",
+    "international_phone_number": "+1 647-868-1979",
+    "name": "deadstok",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2848,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111630550250678034272/photos\">deadstok</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ3TdUjxgRtPTYBJUC0NeEw9u7S1DHNRk_vA1_7auwJWOJxS3bV5DhJnPImp3c6c2-jeBWwUIRz-TsTI1wD3EmTIrHsIWozzdLfYYWiMv97cniD1m48eRYhwSq7NnHIhzEhDCbEDGTjluHTiQBhPMdSz5GhRDEiSS0L89Z5ERJod60K_feHKg6A",
+            "width": 4272
+        },
+        {
+            "height": 662,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111630550250678034272/photos\">deadstok</a>"
+            ],
+            "photo_reference": "CmRaAAAANIdyR-2-f34ClHE24Qi_IHWyujlo-5VOdyG5B-bDepmpAvTIR4U1BnzVm33Lv5_N_eKRn4eX2EAx1plqaPFrZrFJVBeOupawoxUkLWf1jcLKm7XA9fJtRcOeVs3OH06WEhCI9k9Y82_YxW7SyLlcPu6HGhQL0DP0IMEWLV1Yw9ALkz4D4zeZ0Q",
+            "width": 883
+        },
+        {
+            "height": 2848,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111630550250678034272/photos\">deadstok</a>"
+            ],
+            "photo_reference": "CmRaAAAAkC-tdyv43N-ybJ3oRiuNwXcPqrBYueVsokzPUGpLUkcvSdkYfFhABqwBEoSsVqTJWHnbKR_kdCLsYfQ5oNjUqNOcubYKwhDimq4M-W-4-QWCXakwiZnrqEQm37-xDYqHEhD2p-Gsk2QCbxKuyNOjpZWNGhS-nxAEd20KtCGMIRUmb14XUmXrtw",
+            "width": 4272
+        },
+        {
+            "height": 766,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111630550250678034272/photos\">deadstok</a>"
+            ],
+            "photo_reference": "CmRaAAAAu7VFA4Z20A483xu9-wZYH7Cn09Rlk7FYPFvYVGVkZzEGgHILOcrYBgGyGJLnNlI9E0eaLrnrV2UkrE2MA5hlsj1YvvLKI2M2BHNOdqaGlqQ9_2-40UUoDEGVPAIogwScEhCWe27V5jObNyUEBbl5E_0wGhS12QTQmga_5xq-1jGXTdiiSlLuaw",
+            "width": 766
+        },
+        {
+            "height": 2848,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111630550250678034272/photos\">deadstok</a>"
+            ],
+            "photo_reference": "CmRaAAAAgj9ZTrdddZSLCmHPTblojoFg4ZT9B1jDAinA-1L-k28XOnxpY0mKWLPreACjpny760vERwK7tA7aYSuRw6pZ-Yb-1b23dRXQNwcvB6-vnP3IxngbA3jhbuF-SPE2iccCEhC6HxWs9dAWDnMrvLlul9RxGhQD4uw49bQQXjA384whI2BfXwCjhg",
+            "width": 4272
+        },
+        {
+            "height": 361,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111630550250678034272/photos\">deadstok</a>"
+            ],
+            "photo_reference": "CmRaAAAAahfjB7si9MQby4PW2MxpkVJ8QQoy2pxiaXOc7K3CXwpVjrTeYSfEidvXTStLpmwvoTMgBX1XZI2a-zAo5Nq4e_LnF4YheWhe6cMCheUPDMYH47DXBMzNT7X4KyNv6yfyEhBfoTWp1R2g__KnzPor_94AGhTztF84sQ3b6wa2pwZhbR3UWzqXfg",
+            "width": 640
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111630550250678034272/photos\">deadstok</a>"
+            ],
+            "photo_reference": "CmRaAAAAyoqlWdddiOZ-v4j3u69xCpabCMZN9LcC7yxzfbNl63wTJAsGkRafXOHOw5lfMyt-OVtlHKKPndFtWUw06MqRcg-bm-ovkuxIebiLtHIRbrTWnKCqkuRqfUQVsthAqgALEhAdUEtldDRi52VKM_W4yjfMGhRDmNbCrmhS11wxpWjdD35XIA7UCQ",
+            "width": 1024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105849654271590479348/photos\">Irene Ogrodnik</a>"
+            ],
+            "photo_reference": "CmRaAAAATgDj9FKzn1IpDfOOhYb2RgrNM-NkA0-ekpOekuG4FjNHqPyEaCadJvOyYFkbFUNKdBHt1Y95bKuaEQXr5jf1xDquwhXNwosSS9uz8XtZa7VKMETwJsKHFMHBYlJQIJMGEhD2ovpV2XywxVHBscxsU14TGhQ5AahOTpehySlJn2srbEVaxdjYdA",
+            "width": 4032
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106350770375996051290/photos\">Kamila Rodriges</a>"
+            ],
+            "photo_reference": "CmRaAAAAsyaVoSgp4XE2G-kErjwpXyY-NCrotvcAUHzr92MaDkdpmUvu-3U3XsstZt7Bd5wMnBW5fR2Td4oS1A6y1QaXs7T4NA8WQeSVdokfGieYUz0HG8MnJaZGpbuNIzTJcBWgEhA1x2wSqDM1iI70x_sCpZ9lGhRhDxtZBw3lpTQ-cFMUeufIXSzHqg",
+            "width": 3264
+        },
+        {
+            "height": 959,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111630550250678034272/photos\">deadstok</a>"
+            ],
+            "photo_reference": "CmRaAAAAJrDvBc5gWKpvsFg6V9w8g2sRckBiWb39gIAuaUFlx_fa_p8wgv0UnUz7zi8diE3b84pIMTXZkY2Zd7yo6RQ6nR3xfuW51Z6xJiC9HTICx2b6EK8w8IzazvtfpLqk0edSEhAMCI0jNVvXm98ZK_1NDhB_GhSFMI0Z2vPqtz5v7iMjB_1n-BlCLw",
+            "width": 958
+        }
+    ],
+    "place_id": "ChIJh9eNvxk0K4gRvzWbN6mbDxw",
+    "rating": 5,
+    "reference": "CmRRAAAApZ1okQqf278p50YjTzaqeg5lzRaYT7i9m7S_RWc4tLx-k_rtz_eN1p_eFQSNqrsDwH4WgiRnWPgHr711HzJ8rgJ7gKrVM5qbeXiQmNzQwj_t10t1k2ikfWdHH7fobqH-EhC3ULrDbWpSjcDzAi8bfBO4GhQdFtu0NbtStC6LBEFPRzPBssvZHQ",
+    "reviews": [
+        {
+            "author_name": "Beth Anderson",
+            "author_url": "https://www.google.com/maps/contrib/104612011537034886921/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Px05ReFjMbQ/AAAAAAAAAAI/AAAAAAAADHU/cu53Vtpx7LA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great experience with these guys. I was looking for a unique piece of reclaimed wood for a table I wanted to make. Niko was a pleasure to deal with and gave me a great price on something that he had in stock. I'm in love with what he chose for me, the tabletop is absolutely stunning. I recommend you go in and have a look around. It's a really great place, with friendly people who know their stuff.",
+            "time": 1519785895
+        },
+        {
+            "author_name": "Irene Ogrodnik",
+            "author_url": "https://www.google.com/maps/contrib/105849654271590479348/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-0GUrdjooKfg/AAAAAAAAAAI/AAAAAAAAAD0/4Cc9mR6xNDc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "From start to finish, the process working with Niko and his team was beyond wonderful. These individuals are clearly passionate about what they do and that love for their craft can be seen through their work.\n\nMy husband and I moved into a new house and wanted to create a reclaimed wood wall in our bedroom. While we had a sense of what we wanted, we weren't quite sure what wood to use and needed some additional expert advice. I did my research of other competitors in the area and I can say I am beyond happy that we chose Deadstok Reclaimed for our project. From the very beginning, Niko was eager to answer any questions that we had, invited us to his shop to check out their wood samples and addressed all any concerns we had during the home consultation visit.\n\nWe were beyond pleased to see the finished result\u2014the reclaimed wood wall makes me smile every time I walk by. Niko and his team were professional from start to finish, priced the project fairly and we look forward to coming to them for future pieces to add to our home.\n\nIrene and Franco",
+            "time": 1513279808
+        },
+        {
+            "author_name": "Pat Fiorino",
+            "author_url": "https://www.google.com/maps/contrib/117532145112795116907/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-MogcF-Rhv4w/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2J_pKMPRSwI0MI2jAt-yco1hCnVA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Niko and his team are great to work with. I purchased some reclaimed lumber for some bookshelves and used Niko's space and equipment to build them. It was a great experience overall. They are genuinely interested in ensuring you are happy.",
+            "time": 1517014405
+        },
+        {
+            "author_name": "Mike Millward",
+            "author_url": "https://www.google.com/maps/contrib/103991431175585856020/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-_O45K2fYdko/AAAAAAAAAAI/AAAAAAAADqs/e95n4YO9jbc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "12 months ago",
+            "text": "I worked in Niko's shop several times. He taught me how to sand properly, how to use the plainer, table saw, drill press, and mitre saw! Also improved my varnishing technique. He was patient and easy going, let me do my thing and use the whole space. I loved hanging around and seeing other people creating with wood! I ended up making several mistakes, and then I ended up building several beautiful tables! Thanks for letting me hang out in your space Niko!\"",
+            "time": 1497477010
+        },
+        {
+            "author_name": "Victor C",
+            "author_url": "https://www.google.com/maps/contrib/100603839246256527700/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ed3rK_bEv8s/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2MgQyw_mZrRmcZ87IaOMilO09FKQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Niko and the boys at the shop are exceptional. They had tremendous patience and knowledge to provide me with exactly what I was looking for all my projects. They never disappoint and without a doubt will be using them again.",
+            "time": 1502988538
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2022005908797339071",
+    "utc_offset": -240,
+    "vicinity": "1a Givins Street, Toronto",
+    "website": "http://deadstok.ca/"
+}

@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "72",
+            "short_name": "72",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stafford Street",
+            "short_name": "Stafford St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2R9",
+            "short_name": "M6J 2R9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">72 Stafford St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2R9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "72 Stafford St, Toronto, ON M6J 2R9, Canada",
+    "formatted_phone_number": "(416) 351-9111",
+    "geometry": {
+        "location": {
+            "lat": 43.6432983,
+            "lng": -79.4114726
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64468168029151,
+                "lng": -79.40995106970848
+            },
+            "southwest": {
+                "lat": 43.64198371970851,
+                "lng": -79.4126490302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3b4785bb3440ae62bf8129d3bc1bb6da1abedfba",
+    "international_phone_number": "+1 416-351-9111",
+    "name": "Lone Eagle Entertainment",
+    "place_id": "ChIJs2VLYOI0K4gR2x_VZ7HInkE",
+    "reference": "CmRRAAAAR8sTS14fpfGZjhSEqkXiPs72PkfQZ_dWd2O22nqwjzJsuVSdiBF86r_VFQHoq-6lrZT36g7IxTSLzSfywJ257WHXbnu9FSv74h6YWZzAN3jY2z2WGaoo4_Ss8Ycl89WLEhBV4RCVr7WEIPa8SuluHLs8GhSVz0ZCSCrcgIO2Gyw2KXWat4n74w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4728437323062386651",
+    "utc_offset": -240,
+    "vicinity": "72 Stafford Street, Toronto",
+    "website": "http://loneeagle.ca/"
+}

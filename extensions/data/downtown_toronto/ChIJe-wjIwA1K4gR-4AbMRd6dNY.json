@@ -1,0 +1,175 @@
+{
+    "address_components": [
+        {
+            "long_name": "1117",
+            "short_name": "1117",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J0",
+            "short_name": "M6J 1J0",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1117 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J0</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1117 Queen St W, Toronto, ON M6J 1J0, Canada",
+    "formatted_phone_number": "(416) 532-1234",
+    "geometry": {
+        "location": {
+            "lat": 43.6429579,
+            "lng": -79.42380949999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444126302915,
+                "lng": -79.42250116970848
+            },
+            "southwest": {
+                "lat": 43.6417146697085,
+                "lng": -79.42519913029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b465b2c97eaec7c4af9b303bd1ab70d2d5385d29",
+    "international_phone_number": "+1 416-532-1234",
+    "name": "MoneyGram",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1745"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1745"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1745"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1745"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1745"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 5:45 PM",
+            "Tuesday: 8:00 AM \u2013 5:45 PM",
+            "Wednesday: 8:00 AM \u2013 5:45 PM",
+            "Thursday: 8:00 AM \u2013 5:45 PM",
+            "Friday: 8:00 AM \u2013 5:45 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 300,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110558802598613493069/photos\">MoneyGram</a>"
+            ],
+            "photo_reference": "CmRaAAAAUW2SR68AjpNW0A2_x04PnRyYohCytYJAy_21w8Shwx2SlPzvs3Ijb2UnPklVey6mEaP2A2vgFN9RvNd7DLARwgtjOBBdURraXstl4aVrTzj12gKknFvn9nUeG2q4uNsdEhClrgA_c89D-s3vFDBpDNonGhSJKKBe-KdYRP2_2nStTXNRqOkEHg",
+            "width": 300
+        }
+    ],
+    "place_id": "ChIJe-wjIwA1K4gR-4AbMRd6dNY",
+    "reference": "CmRSAAAAcOvyaYn_M9WQ6ZWbIu-zoqIwnHIAsgIVPLcnyzDnFyeLo77ZWWJLmhictINlZyHj_yaCwnQHUYuHGh8SBxuNL9Bv6jpmS3R-vPFla9M6VDNF6pwWRbCPDh-GQ3OwMUb5EhDxytmHSh9_UNOMh8CU4ov0GhQTj5fizQ1FFb3QTBFNBb-_MKlVNw",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15453110461441736955",
+    "utc_offset": -240,
+    "vicinity": "1117 Queen Street West, Toronto",
+    "website": "http://locations.moneygram.com/on/toronto/301724991/"
+}

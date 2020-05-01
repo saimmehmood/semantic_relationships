@@ -1,0 +1,164 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(416) 850-0969",
+    "geometry": {
+        "location": {
+            "lat": 43.64428410000001,
+            "lng": -79.3987466
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458306802915,
+                "lng": -79.3974738197085
+            },
+            "southwest": {
+                "lat": 43.6431327197085,
+                "lng": -79.40017178029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "46b10511b6aec9ca4395eede2536e50fde05cead",
+    "international_phone_number": "+1 416-850-0969",
+    "name": "Timedright Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 6:00 PM",
+            "Tuesday: 9:30 AM \u2013 6:00 PM",
+            "Wednesday: 9:30 AM \u2013 6:00 PM",
+            "Thursday: 9:30 AM \u2013 6:00 PM",
+            "Friday: 9:30 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJFXmsBTrL1IkRe-JEOG5utHw",
+    "reference": "CmRRAAAAv5IZYCIUFWjtHQGwPC0am2SUakAhWjfMFo7ONgHCtZmZUUnHNZXiMFOxVmyiXThX7Jf6dVUtFjxI18-RjIMCBAwKwKOdGATwq1bkfqwUVpJ2Zh3OspyOkDnS7hDclP94EhADZaQM1b7LK7-GZiqAsucnGhTNGPv2yx8wMqhHNNRWV4v0-FVUGQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8985928576180478587",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto",
+    "website": "https://www.timedright.com/"
+}

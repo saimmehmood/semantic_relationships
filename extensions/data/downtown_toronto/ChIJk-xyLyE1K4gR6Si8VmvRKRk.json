@@ -1,0 +1,238 @@
+{
+    "address_components": [
+        {
+            "long_name": "624",
+            "short_name": "624",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">624 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "624 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(647) 261-4127",
+    "geometry": {
+        "location": {
+            "lat": 43.6442716,
+            "lng": -79.40110349999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64562058029149,
+                "lng": -79.3997545197085
+            },
+            "southwest": {
+                "lat": 43.64292261970849,
+                "lng": -79.4024524802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5dac039ee20853cfe69548864938c4d2f453de65",
+    "international_phone_number": "+1 647-261-4127",
+    "name": "Scott Parkhill",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2359"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2359"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2359"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2359"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2359"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2359"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2359"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM \u2013 11:59 PM",
+            "Tuesday: 6:00 AM \u2013 11:59 PM",
+            "Wednesday: 6:00 AM \u2013 11:59 PM",
+            "Thursday: 6:00 AM \u2013 11:59 PM",
+            "Friday: 6:00 AM \u2013 11:59 PM",
+            "Saturday: 6:00 AM \u2013 11:59 PM",
+            "Sunday: 6:00 AM \u2013 11:59 PM"
+        ]
+    },
+    "place_id": "ChIJk-xyLyE1K4gR6Si8VmvRKRk",
+    "rating": 5,
+    "reference": "CmRRAAAA5WJ8dBIPaNK70OO2GhaQJTrZarTOqHCdWKb5FDdY3sTOdAlH8FtySszqgWBaBS1d3RGJml7Y9iq9OoZF2a2GCtE2tcyh-hvgecnaQnkix2J-8ftF--q_SUyaYdySPngVEhChCVBsxC_zthqdTqX0qPVrGhT3oIzqbWuGABjVITBSpZJ4yNsUQA",
+    "reviews": [
+        {
+            "author_name": "Tim Latimer",
+            "author_url": "https://www.google.com/maps/contrib/104968387422935911531/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/--2VGUVr6l1Y/AAAAAAAAAAI/AAAAAAAAA8A/VhmyMhxzHHc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Used him twice and both times he gave us exactly what we needed, quickly, and was amazing about talking to the other agent to 'sell' them on us. Both times he got us a preferred rent and other add-ins. He was also very personable and patient (we have a small baby that makes things difficult and Scott was a real trooper with her). Can not recommend enough.",
+            "time": 1461529575
+        },
+        {
+            "author_name": "Matthew Castonguay",
+            "author_url": "https://www.google.com/maps/contrib/105920312593078765835/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-TRysqc2AVlE/AAAAAAAAAAI/AAAAAAAAAHw/WDpE8dXU4i4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Scott is the definition of how all real estate agents should run their business.  He was detailed and dedicated in finding my dream condo. Such a pleasure to work with, huge change from the typical stuck up agents. Great attitude,  fun to be around, would definitely recommend if your looking for any properties the GTA.  ",
+            "time": 1461179732
+        },
+        {
+            "author_name": "Jessica Polis",
+            "author_url": "https://www.google.com/maps/contrib/104505605856368343403/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Kn7GHpZr0r8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3LouVKZjrK3pFPxyp1JTI0F5YV9Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Scott did a wonderful job representing us - both on the buying side when we purchased our new home, and on the selling side when we sold our condo. \nOn the buying end, he was very patient with us as we dragged him around all over Mississauga and Etobicoke - he made himself available for us whenever a listing popped up, cognizant that the current real estate market didn't give us a ton of time to wait when something came up on MLS. He was helpful, informed and usually right on the money when it came to assessing what a home would go for (all of the places we looked at went through bidding wars) - but he didn't pressure us to bid higher or go outside of  our comfort zone budget-wise. Ultimately he found a home that worked perfectly for us, and made sure we won the bidding war.\nOn the selling end, again he was informed and professional - he helped us prepare our condo for listing, gave great advice about staging, and encouraged us to list at the right price to garner substantial interest. The photographer he works with also did a fabulous job with the photos. Thanks to Scott our condo was sold in less than 48 hours, after a bidding war, and over-asking! We couldn't be happier with the outcome, and would recommend Scott to anyone!",
+            "time": 1461265730
+        },
+        {
+            "author_name": "Christina Zimbalatti",
+            "author_url": "https://www.google.com/maps/contrib/117516759217809625474/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-X81tzQbJ95U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0JK4ANsp_U3eW-TJNCe_9YS9ow-g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Scott was extremely patient and diligent with us while trying to find us our perfect condo in a very small window of time. He made us feel like top priority all the time even though we knew he had many clients. Scott is extremely professional, has a very positive attitude and was ALWAYS quick to respond to any of our emails, calls or texts throughout the process. We found our dream place in less than two weeks and when it came down to the paperwork etc., Scott went above and beyond to make everything happen and we couldn't have done it without him especially over the holiday season. \n\nThank you again Scott for all your hard work, we continuously refer your services to all of our friends and neighbors because you are first class!!\n\nChristina Zimbalatti & Emanuele Fanara",
+            "time": 1461504897
+        },
+        {
+            "author_name": "Mike kirkey",
+            "author_url": "https://www.google.com/maps/contrib/112102229357437679537/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-rxAYB5l9SxM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq08iEi2ym5tfEKyjLS5F1bzjK5QOQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Highly recommend Scott. Very professional and hard working",
+            "time": 1461336192
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1813210583940212969",
+    "utc_offset": -240,
+    "vicinity": "624 King Street West, Toronto",
+    "website": "http://www.scottparkhill.com/"
+}

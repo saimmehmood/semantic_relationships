@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "50-8",
+            "short_name": "50-8",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gladstone Avenue",
+            "short_name": "Gladstone Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3K6",
+            "short_name": "M6J 3K6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">50-8 Gladstone Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3K6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "50-8 Gladstone Ave, Toronto, ON M6J 3K6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6435295,
+            "lng": -79.4274902
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448784802915,
+                "lng": -79.42614121970848
+            },
+            "southwest": {
+                "lat": 43.6421805197085,
+                "lng": -79.42883918029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "918c5be01e039341fbac85317e2795da6178ce77",
+    "name": "50-8 Gladstone Ave",
+    "place_id": "ChIJR5ghzqo1K4gRDwdLPO5LHKc",
+    "reference": "CmRbAAAAA3dCsCymqzff4ErzhAZG1UoytlT6Zexx68sYxuNZH712dgRd6XQs2WflSTAhx5IcdRvQugcPaoHKP4lvcgXWBN8qm2BMsY-fkSXk5fMoigeKt6vtgPGuMG4npFpVA928EhD8Fi7MRtXTJX-U_2CsHhhQGhQHlDo4jx73KKaM-AEFTwEzpCH4AA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=50-8+Gladstone+Ave,+Toronto,+ON+M6J+3K6,+Canada&ftid=0x882b35aace219847:0xa71c4bee3c4b070f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

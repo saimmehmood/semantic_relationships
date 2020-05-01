@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "249",
+            "short_name": "249",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L7",
+            "short_name": "M6J 2L7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">249 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "249 Niagara St, Toronto, ON M6J 2L7, Canada",
+    "formatted_phone_number": "(416) 846-1215",
+    "geometry": {
+        "location": {
+            "lat": 43.64427670000001,
+            "lng": -79.4091412
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6456624802915,
+                "lng": -79.40770356970849
+            },
+            "southwest": {
+                "lat": 43.64296451970851,
+                "lng": -79.4104015302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "faa13bf8171947655f56dc853cc263fc3a2f9dc5",
+    "international_phone_number": "+1 416-846-1215",
+    "name": "Trace Familia",
+    "place_id": "ChIJZ6rjLeI0K4gRmUSN8VDdwhc",
+    "reference": "CmRRAAAAo6l0nUi-rLw-AdWWpFR2yNNJWMoMPgnIrrIZki-k5AbBjN6XeE6gvVyeNqlBq824GNyD_PuoR2xKYAzWbbHTaBvEtnGLnurSu_E6VF5oXXJaIdkobZ72UFVpiZIiKkBYEhAI1am6zsflBiYKdMOW1HWcGhSIya4za1XWREI8nlLiQnvdqY_Tug",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1712174148073899161",
+    "utc_offset": -240,
+    "vicinity": "249 Niagara Street, Toronto",
+    "website": "http://tracefamilia.com/"
+}

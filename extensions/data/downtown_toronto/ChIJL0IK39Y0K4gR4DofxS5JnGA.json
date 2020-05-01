@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V",
+            "short_name": "M5V",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M5V, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64399139999999,
+            "lng": -79.3886871
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64534038029149,
+                "lng": -79.38733811970849
+            },
+            "southwest": {
+                "lat": 43.64264241970849,
+                "lng": -79.3900360802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8d9165010f90e25688143afd2be52cfaa367a8b1",
+    "name": "Front St West at John St",
+    "place_id": "ChIJL0IK39Y0K4gR4DofxS5JnGA",
+    "reference": "CmRRAAAAZpHwwh9vQleBzk1d_6yduzNHPYT-oJI_adlTD_etzacwK8OQoNWyQm6MfX1aLLBk_W6fpNm66cS_Hlq0C203pdeZ4xqUChGZGKIL1KL0dbbdIKp0QbxnF3EWzrywnQu_EhDS77idunCU3RURjZdB6MDhGhTkgVPowezz6stLkTqSDwOiopallw",
+    "scope": "GOOGLE",
+    "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6961519589232425696",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "1142",
+            "short_name": "1142",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J3",
+            "short_name": "M6J 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1142 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1142 Queen St W, Toronto, ON M6J 1J3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6431934,
+            "lng": -79.4243256
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444906302915,
+                "lng": -79.42295666970848
+            },
+            "southwest": {
+                "lat": 43.6417926697085,
+                "lng": -79.4256546302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a837141e8c55f2944fbbeee8010599f7c941b3b7",
+    "name": "Drake Catering",
+    "place_id": "ChIJmcTXGwA1K4gRGC3dWl7-tso",
+    "reference": "CmRSAAAAE5N67-gz6TZFVC6oKiL1enyKxLg83jNwAqFQmTQXzlZHaGVuyw181bR_87bAuOvko6ueB06-2D61Xq4TRbh5W3ZoEeJOnAe1etphX5F_teQOhi0hV4O7SYeZ7T7v1v4BEhAeRvkfO63lTyrMtZomsg-GGhQ6zC0r7EI91weMoQHMH8ozXR8jNw",
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14607142122627607832",
+    "utc_offset": -240,
+    "vicinity": "1142 Queen Street West, Toronto",
+    "website": "https://www.thedrake.ca/catering/"
+}

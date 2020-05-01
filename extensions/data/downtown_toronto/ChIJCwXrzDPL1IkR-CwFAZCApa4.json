@@ -1,0 +1,253 @@
+{
+    "address_components": [
+        {
+            "long_name": "500",
+            "short_name": "500",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W #500</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W #500, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(416) 603-3406",
+    "geometry": {
+        "location": {
+            "lat": 43.6442449,
+            "lng": -79.3987221
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458119802915,
+                "lng": -79.39745721970849
+            },
+            "southwest": {
+                "lat": 43.6431140197085,
+                "lng": -79.40015518029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3af81eeb40a53321a6e7f902da606e09bf1e2f39",
+    "international_phone_number": "+1 416-603-3406",
+    "name": "Mercatus Technologies",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2915,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118226085847999607508/photos\">Mercatus Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAg96QJdoTMomTNbPSbZ9inrQ3PIpOjnjToWHVtd1S8L32dbaGr0vik1pgZczvYJKYVpyb9Qzi0GK7_UkP_tSr15KbrWE9byx3lbFON1AkewD9OQbWSdNzZ3peDsjPlJAFEhBnRd2fX4LCcjGlMnVmuuItGhTmE-RVks6xtMA-9V4DlRtyZ2OCiA",
+            "width": 4374
+        },
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118226085847999607508/photos\">Mercatus Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAjh_91ms1m6SoTzsQetCC7hRaQOBAVT2SOBhX5v6SPS5eMjexWHZ9aFnuIJieklqJ0G4ILDhxgg_aM0wFTp-BfdhBrXYO_8oNGcidlHqm5D97X9pJHjUeQ2jHL2zqwiMOEhDJaot5TkFBSHzNgvu4LJO1GhRKrdLspcDELuM962z3YBWI5ys9QA",
+            "width": 1080
+        },
+        {
+            "height": 1280,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118226085847999607508/photos\">Mercatus Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAAUD8tC4QAnMC8ENfFSIMmm-PPK4e4FTvYfu_XJP0nmj6YFD2sAUVU6z3bKUC5g_-3W-EscykgfyYhZ5e3VmX3nu_btFw5ihgBsWp3KbenWTQyW5sILAQWPsiHjyad54OEhAxMk8cjUpYTEGS3YjQR62bGhT5C1Rx0pNV-kqnDZddsJVvG_ZOGw",
+            "width": 2048
+        },
+        {
+            "height": 250,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118226085847999607508/photos\">Mercatus Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAbiOlhiNiZ7ZK_iTg0Snypi6Trn27KGdNn2IOx1korZBgz78bmTor10JxM1PEAsoUyeJe28HEfEhpVkGlvDAF94BS64OcZmhzT0_030SdcPQsOnUmnZyTU9mIr5Kf0F2AEhBD7G3gCj1FTlzUDah06LfsGhQr1ZJcbEm5iqIjsIHRWw1znfSSPg",
+            "width": 250
+        }
+    ],
+    "place_id": "ChIJCwXrzDPL1IkR-CwFAZCApa4",
+    "rating": 4.3,
+    "reference": "CmRSAAAAJNqSZmBK2HUZ6CtjTelrLAY3-yff2JPAOdsUwwys8RsJ-8dEa0zI7Qbr2Arx-D1xCQEXtddFy8HIHrKrgfZwo0C4tvN6TD-43tWAamrK1W4qlXWs46929ex5NYgn-4ZDEhBadQTAxjqYjm6QvI3KuSawGhSrp4EgErBXRKW0OgZw-yfZ17CxHA",
+    "reviews": [
+        {
+            "author_name": "James Gz",
+            "author_url": "https://www.google.com/maps/contrib/102886243284895453453/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0gcPf8dskSY/AAAAAAAAAAI/AAAAAAAABIw/l9RsHJ6tCX8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "",
+            "time": 1527857778
+        },
+        {
+            "author_name": "Ankesh Mistry",
+            "author_url": "https://www.google.com/maps/contrib/110866682678534151804/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-FRNbNgkIcJk/AAAAAAAAAAI/AAAAAAAAMqw/n-dckBlYhHA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1516997795
+        },
+        {
+            "author_name": "Mark Olita",
+            "author_url": "https://www.google.com/maps/contrib/101585423616327325217/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bMQ-uChKl7s/AAAAAAAAAAI/AAAAAAAAC0E/4SiiPFwwkb4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1510138104
+        },
+        {
+            "author_name": "shane mark",
+            "author_url": "https://www.google.com/maps/contrib/112991494488027064734/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-5kZBBHvS7cQ/AAAAAAAAAAI/AAAAAAAAJNo/c8pAOg0ywrA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "",
+            "time": 1501298465
+        },
+        {
+            "author_name": "A T",
+            "author_url": "https://www.google.com/maps/contrib/101076096941826678706/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-XjStuPbn31Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2OLiUjWTV0on6ebKLIVpiSwBlpdA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1495408794
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12584606089737481464",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West #500, Toronto",
+    "website": "https://www.mercatus.com/"
+}

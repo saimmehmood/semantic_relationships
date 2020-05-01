@@ -1,0 +1,175 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "formatted_phone_number": "(416) 504-1559",
+    "geometry": {
+        "location": {
+            "lat": 43.6435987,
+            "lng": -79.40875419999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450111802915,
+                "lng": -79.40725996970849
+            },
+            "southwest": {
+                "lat": 43.6423132197085,
+                "lng": -79.4099579302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "c2ea2e6b0c4a86a6dda275836e54578445f1692e",
+    "international_phone_number": "+1 416-504-1559",
+    "name": "Prontolite",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 467,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114831055472677533646/photos\">Prontolite</a>"
+            ],
+            "photo_reference": "CmRaAAAA8wSq7RtOQIWB8WTAy3e1TzItrZyz6AjXkrMzWNLzXADXhug05BB5QnH3caEMiqjbld8tmfkq3zVOFYRAJuTHSHgDQUAqcjXwhLi4VsBybIPGo7iuapgpwzi8w-9xyF1NEhAokGGpPtjsqB-xh8K-0KCaGhTlIKQIDFdSZlStH3kr80I1zfVPmQ",
+            "width": 1303
+        }
+    ],
+    "place_id": "ChIJx-U7J-I0K4gRUl8D_4AR9Zk",
+    "reference": "CmRSAAAA2189EQ-We6ahErvr3d-gOH4vuAOiKcEfUQoR5yFX0MAhE_WfDX2UtckDg-bYTVhfSYJ4pYKMFM9BYz_jiKtSFs6gH6C3Pgr8tIQEhuRpBwryK4frIx88ryZcW-dW8NtkEhBWQy7iodTRMyoelCEvwLrGGhQ7-omWR_mV7h6zUZ7BR8sd-0BZIg",
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11093792502828982098",
+    "utc_offset": -240,
+    "vicinity": "229 Niagara Street, Toronto",
+    "website": "http://www.prontolite.com/"
+}

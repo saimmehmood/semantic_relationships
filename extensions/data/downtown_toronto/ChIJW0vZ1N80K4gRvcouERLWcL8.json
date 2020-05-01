@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "Bathurst Street",
+            "short_name": "Bathurst St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 0L5",
+            "short_name": "M5V 0L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "King Street West and, <span class=\"street-address\">Bathurst St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 0L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "King Street West and, Bathurst St, Toronto, ON M5V 0L5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64390350000001,
+            "lng": -79.4026703
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6455672302915,
+                "lng": -79.40149196970849
+            },
+            "southwest": {
+                "lat": 43.64286926970851,
+                "lng": -79.40418993029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "071e250dcd55f76fa8c712f3b626efc60f5ff340",
+    "name": "Noel Suites - Fashion District",
+    "place_id": "ChIJW0vZ1N80K4gRvcouERLWcL8",
+    "reference": "CmRSAAAAkLR8sOV2ZnE9f9sQ66bkU-6dqMaGhygyIyKYcog9loT5VUx49x7eBT_2YrYtEr5_CZj1_NYJ3drrMaF4Q-HWWgNdT2-0mZ3oErPkFDxFwKsaU5d7x-4BF_sV9jWD-qPcEhCVDZCTw1n5r5hn4fUOvehOGhQbrM6ktrmSC0Tz9Mh-6WTXJ1lavA",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13794761031721863869",
+    "utc_offset": -240,
+    "vicinity": "King Street West and, Bathurst Street, Toronto"
+}

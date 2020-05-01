@@ -1,0 +1,246 @@
+{
+    "address_components": [
+        {
+            "long_name": "72",
+            "short_name": "72",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stafford Street",
+            "short_name": "Stafford St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2R8",
+            "short_name": "M6J 2R8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">72 Stafford St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2R8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "72 Stafford St, Toronto, ON M6J 2R8, Canada",
+    "formatted_phone_number": "(416) 917-4425",
+    "geometry": {
+        "location": {
+            "lat": 43.6433423,
+            "lng": -79.4115127
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447285302915,
+                "lng": -79.4099805697085
+            },
+            "southwest": {
+                "lat": 43.6420305697085,
+                "lng": -79.4126785302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "69a05018efbf967ceebc65f98d527b58d4dff5b7",
+    "international_phone_number": "+1 416-917-4425",
+    "name": "Nina Jones",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 597,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAL1keNCfAT-8-9iPTwaQQ4XrScuDHTlg6UxvcwcZqbb0vB4qTDdMtxugDABvJf2JR3nKnc-7gJL0AxtKD-CmNan8jEW4_Mcl-EzGjiEPtXS_UFdcv5cpyW1k0k4q5uuySEhD3hNRKnFGH0toV8Epsqo_JGhRTUx0i_2xpTmaPc7tsB9cRdi3Kug",
+            "width": 594
+        },
+        {
+            "height": 598,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAQv_MlBZjTMQLGa05wV2J8PldJO575ONe2MnwvJQ2ZoJQbdaUZyYRBML37m9ludSJlzZL4EBSLYNXU3IBAbqIwHs5IN6StZ2NABHZTtqM2CSOLbDZc-CvDElZppEN5i11EhCpmzvkUZdqVU09zEzSTtdzGhQZqn6PiKY9PwY95I38qkB1_N0Y5g",
+            "width": 600
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAw7Iu5iIQqw3Vw-a-crolrOMpE-HJ8WSsTrByRePELiOFq8EAzvXQEiYEdnPCOJJr4XjZYLR-AYxNH5TyS76b08A80mMlQn5J0b6CrNz4k9o7EqhPBdb3O5oPlIYbr96wEhCsppLBXhy-MGCycGG7UbyjGhQNHEqBluOz-K6h_q4tKuxYTMTwxw",
+            "width": 900
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAaoxcCKybhr-2nvDn1Hwxl81ArZQQohQ9inWEPyPSG3Na3fDH7mdChrn0xHUOXKUrwEx7TxEtlrqe-Xna79WirmHNK4OOfAPBwK2EhJnzUiSoqnO6iPimp671Pl1QhjZmEhAUjd5nS3rBo7pBj-_P8Kw5GhTupe9Uh16Hv_1MCTWdi9L1_5Tkcg",
+            "width": 900
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAPcWRUFKOdfnUZ9LS2WLRpGZCrygs70kbq1djfJuJmpGLch_80YoaQ6BKf7qwtTuXFG-jirzxRaFt2vThz6dEVBWQgyn3MEnfTA8minIA9q2HFfFL-7oYwrfSClQoSmiqEhDh1Tf6DVjPG5sZN37qkcCPGhSzcxX6H7dVcxlWCeG4s58303D7sA",
+            "width": 900
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAFwbHeFr-Dky7-X-EdhUcOyRyE-w8KDRRZaF8p-ltt4xzfERt5JmWC4BbT9hfIksoi2WkchY1rrFpMwJxb9tn19L0g_l74mSD4nMyboWHVTJ3jQfTfyGHQJbhAkhwt1etEhB4XdtmXXbgv7pIm06mRoibGhQeKjDonD7y3C4UQ4Mup0xS8JW-8g",
+            "width": 900
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAB0f7TMKEhvpWDXPD8rDZwC12ILC7L3sFBA76rDYGECYuNOuEjMUlJ6DCPxnmR4HzvBGmh4aqf1fwQAgT4guJElOb4aY816l_-kNrRC4aOws8fFxjlfO9hcfbdg-2clKqEhB7kwO1_UHWh2nBPXT49oL3GhTlYViogTN0L2gM4koWs3EVUX7LBg",
+            "width": 900
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAA_cChrZxFqkn-sLPJnsx7gymRph7UeeqZPca5kl57IK84PBUIInY13dh2d7FffEKU8nfpOgw8oTdWWRQKxtRI9XQ-brM7ucs2atFZL9A4Q1lqRuNb3b_xW3laE1X_N_YEhDkLlPaHS86voK8T7KcGszDGhQeZjMv-UD71lXDvaUiXCXyL2SLow",
+            "width": 900
+        },
+        {
+            "height": 900,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAA3TWEur_jy0jcuErG4AO21Tyq9btAD6HLi3Meiq--uEPEk9hw2buxOk9NXe9ZSpPJj6OJGS_1xk2yKz82WqDlF2xnEpIgAPm4KSEpsyqpaK_axHiiDHrixTVYNrJRz3LnEhD04KS92DiburLsxiximvV8GhT8O8WEWjqxT15t0SV6Hl03g7wRMg",
+            "width": 900
+        },
+        {
+            "height": 962,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101359571959949675367/photos\">Nina Jones</a>"
+            ],
+            "photo_reference": "CmRaAAAAv5jGK3xAeOL38gNAPx3Plz4pOjoJj0-WZjeIJSbR_pQqPZirPTsm6KvaQT5newRYAWrJ7-iV2BC_2EtCbIMDUGevwMNqnZipmalvz2LM28mC9_zMVpCcInIgD1g7JQUiEhCQKJkrUGVT4f9Zwt56Rp4-GhQXmZH6JLttXmO0SKbOMRZkaJ50MQ",
+            "width": 1566
+        }
+    ],
+    "place_id": "ChIJgznOi-I0K4gRhRlW4jW32SY",
+    "reference": "CmRRAAAAXoDNQwDGJf_-kWphOVKTzIZiuZ6QfvLBNnbCo0j7kh4d7t3A6z-2FxNsY_ajfg5cn7Xq_l5mJLtb3dM39YrYH6nz7t03INl5O8cOgUvQfZQ83uG8hJLUNcFQU8dhzHy-EhBBRIACcb7mw-l1fxI5uqSHGhRaFSynCrQkE_8iZWOtk2PpdjXikg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2799470085445917061",
+    "utc_offset": -240,
+    "vicinity": "72 Stafford Street, Toronto",
+    "website": "http://www.ninajones.ca/"
+}

@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "849-845",
+            "short_name": "849-845",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J",
+            "short_name": "M6J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">849-845 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "849-845 Adelaide St W, Toronto, ON M6J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64352270000001,
+            "lng": -79.4115065
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64487168029151,
+                "lng": -79.41015751970849
+            },
+            "southwest": {
+                "lat": 43.64217371970851,
+                "lng": -79.41285548029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "810edd03c44a0500d6e8c134770afacf79bcd163",
+    "name": "849-845 Adelaide St W",
+    "place_id": "ChIJYQ0fi-I0K4gRf4fJH6sL0RI",
+    "reference": "CmRbAAAAMbg-ECDLn2mUSspWBdYQ6ARx9oWv4_mx5YRSX748x0ifaemSc5g65dD2WvOBifBRUNII_W8S8UEhMkQa4h_5HkWbTE2eZuTzLkroULcm5R-4y4UQHLkj5SrEsKKiUFUwEhDvhyLxs3-KpUnIbjRsW1EPGhSyXHEqu2JviS1BliY8BT2Sltdxaw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=849-845+Adelaide+St+W,+Toronto,+ON+M6J,+Canada&ftid=0x882b34e28b1f0d61:0x12d10bab1fc9877f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

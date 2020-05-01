@@ -1,0 +1,174 @@
+{
+    "address_components": [
+        {
+            "long_name": "842",
+            "short_name": "842",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N9",
+            "short_name": "M5V 1N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">842 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "842 King St W, Toronto, ON M5V 1N9, Canada",
+    "formatted_phone_number": "(647) 352-1529",
+    "geometry": {
+        "location": {
+            "lat": 43.64297609999999,
+            "lng": -79.4082839
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442338802915,
+                "lng": -79.40689956970849
+            },
+            "southwest": {
+                "lat": 43.6415359197085,
+                "lng": -79.40959753029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f31678ffabd0af06c955c9af2048fa976b23478c",
+    "international_phone_number": "+1 647-352-1529",
+    "name": "Gobran Law Firm Professional Corporation",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115100280237521389075/photos\">Gobran Law Firm Professional Corporation</a>"
+            ],
+            "photo_reference": "CmRaAAAAKWHDWY9NpGFjas1Bh88DjOhWHvsQweA8Ad4hmStkSbOcKQXjF238fekn6chhJaJ_r0Um47sXfW612CqxqDIkq2Eyt0f5K4TJE8E9MslWwD3rMsMPlro11rXwV_mDu0VPEhC-Y5pKsnhmS5YXW0pTQLmbGhSNOkPw5QCKvjLgOkWZGNXC5sQ5Sg",
+            "width": 1050
+        }
+    ],
+    "place_id": "ChIJ0YJLYCnL1IkRVWGQNgpRQuU",
+    "reference": "CmRSAAAATKxh1QkAg46JGFfjzHrvDtnY7noJvg4vuVauKqEMdOnpT39IdziYHGKwfbZpEvooCJOhXM3bJyuPLopzTQyNxSEzPnpaYcIji3WBDL_gv9Ro_CIVQFWQ-I88C-etNg7qEhBiIxXKphO8ffEW_kt40RT6GhSswcsrXffrCp1P_MhSI-8vP6ZqBQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16519855487455355221",
+    "utc_offset": -240,
+    "vicinity": "842 King Street West, Toronto",
+    "website": "http://www.gobranlaw.com/"
+}

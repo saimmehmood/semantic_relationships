@@ -1,0 +1,245 @@
+{
+    "address_components": [
+        {
+            "long_name": "742",
+            "short_name": "742",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N3",
+            "short_name": "M5V 1N3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">742 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "742 King St W, Toronto, ON M5V 1N3, Canada",
+    "formatted_phone_number": "(416) 703-9494",
+    "geometry": {
+        "location": {
+            "lat": 43.6436283,
+            "lng": -79.40474449999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6449168802915,
+                "lng": -79.4033721197085
+            },
+            "southwest": {
+                "lat": 43.6422189197085,
+                "lng": -79.4060700802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "9b0dc382a52f57b70c5bb85b6b5b2392d52a368d",
+    "international_phone_number": "+1 416-703-9494",
+    "name": "White Dove Drycleaners",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 7:00 PM",
+            "Tuesday: 7:30 AM \u2013 7:00 PM",
+            "Wednesday: 7:30 AM \u2013 7:00 PM",
+            "Thursday: 7:30 AM \u2013 7:00 PM",
+            "Friday: 7:30 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111352003098990428073/photos\">Drew Woods</a>"
+            ],
+            "photo_reference": "CmRaAAAAbRG0LmnAvCqXTRvDY87BoCJjwSShI4mtPndwRDj-v9Homvw-JwEUoZ0NXPUQHG5BpPXrJ1varCz-qHijNlXNiJ0VV3To6UQiwfzlnpFyXszMbZjSuteZRZhI28CeL7FiEhDaPyoIRSJeewBr83JBitbFGhT7b5KtnIW9H5fvKGxWeiAQ_fVCBA",
+            "width": 2268
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108059731557383770890/photos\">Jeremy W</a>"
+            ],
+            "photo_reference": "CmRaAAAADj7qdVGxl_W2MrL229xyNWk0JVE_K-SDIcp8OTHihFhBC4rbyd7tlyxESF5aiIp0TcHkRR-FqoXaAxr9Cm5SOf571swl5mb15_zpff31mBHKjC2db-MF6oRWnba0nocUEhAUIZ3Vx61GmslZKIvXpH8FGhQiiFJA_Lt51feyH3rHkydfUUi9Tw",
+            "width": 2988
+        }
+    ],
+    "place_id": "ChIJiRA7W-A0K4gR2Iv_xo_Cuo4",
+    "rating": 3.7,
+    "reference": "CmRSAAAA7oIPkF8C-qDj5VrKUU1eJV1AymT-uO0R5_h51hD2MKbThcO3-WVSjttQGszk6_MjTilrJQqn8RhBrWrAy8y37M2pgASOo2vSXv2pUeRHzH7YchXkv1swxcrquzyO1CXrEhBmccrX3y7AnuIsjPEG115YGhSvxGGGTqNXUdmzd3f4lUXi8CzfMQ",
+    "reviews": [
+        {
+            "author_name": "Trystan Goetze",
+            "author_url": "https://www.google.com/maps/contrib/107996151237898809128/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-KVUYZi6ImFU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1Zqj2LBqVzsBTa12_s0G3-IWwoTw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Can only speak to the alterations service. Very cheap and fast, did a fine job hemming my trousers. Unlike a lot of dry cleaners that do alterations, White Dove has an actual changing room for taking measurements \u2014 too many other places make you go down into the basement or back room and change in a closet. Plus, if you take stuff here from the Frank+Oak a block away, the clothing shop will reimburse you.",
+            "time": 1527694197
+        },
+        {
+            "author_name": "Anthony Sanchez",
+            "author_url": "https://www.google.com/maps/contrib/112632067247200446538/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-3-I3EjaNPhU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0y3IayQVJxUJhZbOxb4YRWjJlfFQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Always do my dry cleaning here and always satisfied.",
+            "time": 1528839476
+        },
+        {
+            "author_name": "Brad Fernald",
+            "author_url": "https://www.google.com/maps/contrib/112292139571132502294/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-aGQ_4LQ-Jfw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Z9CZBdAroQ0_dDWHL_U55kVSggQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Big fan of this place, always great work and great service.",
+            "time": 1524748849
+        },
+        {
+            "author_name": "Vitaliy Latanskiy",
+            "author_url": "https://www.google.com/maps/contrib/115199466550978611011/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/--XYjn3UUZd8/AAAAAAAAAAI/AAAAAAAAK2g/XYy7BEEpct4/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Worth place for customer service. Very unprofessional. Gave cloth to clean and received my copy without prices. When came back for a pick up the price was overpriced. Would never go back for a horrible service.",
+            "time": 1489101788
+        },
+        {
+            "author_name": "Billy Boss",
+            "author_url": "https://www.google.com/maps/contrib/108105429104744944973/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-mjfQhYFVZJA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0oeg4kKvOWs9UPaZEWKmj0h0I1OA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Not happy! I took a three piece suit in on Wednesday morning to have ready by Friday morning. I paid $25 to have that done and it was returned still dirty and with tears in the sleeve. I was told I could return it to get it done again but I needed it for that night. Then I was told it was my fault because I didn't give them enough time to clean it and it was too dirty. ?!?!?! really ? As for the tears they said it was preexisting. Except that I looked the suit over before I dropped it off to make sure I saw if there were stains anywhere. Not happy! I didn't argue I took what was left of my suit and figure I would warn the next guy.",
+            "time": 1446839805
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10284746621828697048",
+    "utc_offset": -240,
+    "vicinity": "742 King Street West, Toronto"
+}

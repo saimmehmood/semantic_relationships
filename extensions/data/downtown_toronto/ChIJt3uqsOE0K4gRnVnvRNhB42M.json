@@ -1,0 +1,216 @@
+{
+    "address_components": [
+        {
+            "long_name": "788",
+            "short_name": "788",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N6",
+            "short_name": "M5V 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">788 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "788 King St W, Toronto, ON M5V 1N6, Canada",
+    "formatted_phone_number": "(416) 899-0732",
+    "geometry": {
+        "location": {
+            "lat": 43.64337829999999,
+            "lng": -79.4066677
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64460183029149,
+                "lng": -79.4052700697085
+            },
+            "southwest": {
+                "lat": 43.64190386970849,
+                "lng": -79.4079680302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f8944ab45390ea475992c7f29cc10ea156c04522",
+    "international_phone_number": "+1 416-899-0732",
+    "name": "Scott Shallow Real Estate",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1247,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107675617882478353192/photos\">Scott Shallow Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAmGp_tky8tQtmI7Du7BL7PVO1CUlxpZU3XRH6CDmMlA9bDULMDLT4iLYaBJXyXrvCqQk0SWLFoaLRgIF6RvhIOIGRmpU9I0jADg1h6yhaau6c1EpO1XW77Ig2hTvf-YujEhAS-Olk6jPy2wHKt-nlCACbGhRsrl1zZroIJzASJMSXgEfurJpVYw",
+            "width": 1247
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107675617882478353192/photos\">Scott Shallow Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAARfWFqcgyrZ9lqox6hIc00R3QDxeD8cVuiwz_8yRCz5C37386k-m-CPQf1Tlz3YfVDt90Z70pKs0sui0oWatsbNPnhQTS_6nFKd2ySiEYLjtNPi2DnfSh-6dCw3XXvui3EhDu-ptFIcCSLg41Y6kN5XV6GhSZzjz_HXz2gh-voRMBK0Kn8GmKEQ",
+            "width": 2048
+        },
+        {
+            "height": 1362,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107675617882478353192/photos\">Scott Shallow Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAjjXJeTOQHfPsLIxxpToRZ-PhS8Lj3Dbr5NfJT2GwW0OMXZrx5cuQaJQ3-tr_IDYNk5gZyC7F3BhmMivQchggastzFMEwUEePYlL_74kZJKVjDCkWFAdfuBvwVodr5kC_EhAgn7pFgUPky9nZ_Q--UAn3GhRpuW_m2WdBKcuqO7g37pBXbUwyCA",
+            "width": 2048
+        },
+        {
+            "height": 948,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107675617882478353192/photos\">Scott Shallow Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAADJvk5L1yEdq2J9OvqQwr1lgB5OZmOMcxf56B-79ZNIue3IGRBipMcc0dkU5Z7gddsciSNjgryRW7-K7hBOEjnd3CoMePJf4bHJI_TgTsKZqskrC2QUC3t-biBjH8IdJuEhDzUqEt_dBzVy3k5YlVCGV6GhSyGTmiez-J0acXRg48wLsxLX6fkQ",
+            "width": 1211
+        },
+        {
+            "height": 2000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107675617882478353192/photos\">Scott Shallow Real Estate</a>"
+            ],
+            "photo_reference": "CmRaAAAAmBk2BRjGUuk5r0RL_-cpeSgYoZfhBOBiwYpwgPHN6EZGRSLFXqRuV74FjJoDOwohrrg7pZtD5TrJ-VkBrlt3Ghq-VCv8BV3T5RCACnWjghtCx8RMNcT_yLEumZNYUOcpEhA3QFfLO4JAVhNldOiyvPxaGhQKMquWUBIWHYffQia7TWNcvRmjlw",
+            "width": 1333
+        }
+    ],
+    "place_id": "ChIJt3uqsOE0K4gRnVnvRNhB42M",
+    "rating": 4.4,
+    "reference": "CmRRAAAAVtBVm53cdh90-KYhIrW63R3S76Hrdc6ozZxHp8CPqPEtCGv5L11JHS2PWOPc5GKUJzoZRDNl7lzJQuKTdDZXziNyLQE8US3foDBa2MQJLOQ9p8jhUBvFs2-fyuDmFld4EhAwaL0SQTtuEJE9kY5OyIUmGhRAe8Hpbv54HVj5mLu1H5L_pnZ-Jg",
+    "reviews": [
+        {
+            "author_name": "Deidre Santos",
+            "author_url": "https://www.google.com/maps/contrib/100326212266642823692/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-8d4RKmcTwug/AAAAAAAAAAI/AAAAAAAAACM/foGMjx0f5eg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Not trustworthy or honest. Purchased a condo from him & Kelly Steele. Purchase agreement stated holes in wall would be repaired and painted. When I contacted my lawyer I was sent pictures of the three walls that had no holes (conveniently). Be very specific when working with him cause clearly he\u2019s fine with not following through on the contract. Very disappointed with him as a professional.",
+            "time": 1522783825
+        },
+        {
+            "author_name": "Marrion Cherian",
+            "author_url": "https://www.google.com/maps/contrib/110002207720407007178/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cwrSLdJmRSI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Dk6SjR6IEtB1-ATQrdC1-lq3JPg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Amazing experience dealing with Scott Shallow. He's Patient, provides great insight and went out of his way to answer 1000 different questions and various time of the morning evening night. Would def. recommend him and he's got skin in the game -- so when he makes his remarks/ suggestions / recommendations - it has high value.",
+            "time": 1512228896
+        },
+        {
+            "author_name": "Christine Davis",
+            "author_url": "https://www.google.com/maps/contrib/113192063876085100228/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RixDkpLvRPE/AAAAAAAAAAI/AAAAAAAADDY/gYt6JoyUt54/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "It was such a pleasure working with Scott.  His experience and knowledge about the industry is bar none.  Time and time again he picked up on things that would be easily overlooked by other less experienced agents. He went above and beyond to ensure we had all of the information we needed to make an educated decision.  Scott really took the time with us to get us a place that we loved and we couldn't be happier.  Thanks again!",
+            "time": 1495740645
+        },
+        {
+            "author_name": "Joe Workout",
+            "author_url": "https://www.google.com/maps/contrib/101636211166905842234/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-JJusCVWbCE4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq27IwMlJKmUK4sCub0oke-5HnkxEA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I'm currently 38 and have been working with Scott since 2003. We have purchased & sold & rented multiple Condo's and homes together all in the 416 mostly downtown. Scott is the real deal, he is all over and on top of everything going on in downtown Toronto. He's lived exclusively downtown since I can remember (80's) and I would challenge you to find another agent who knows the core better than him. You can drive around and point at buildings/streets residential/commercial and in his head he has the history of what was there who has developed it over the years or knows when something is going to be developed soon.  Upcoming projects etc\nHe also has an amazing team around him and over the years has given me key contacts at lending institutions, lawyers, accountants.  He's also very frank if he can't recommend something or someone. \nLong story short Scott eats sleeps breathes real estate and for a long time now. He is very serious about his business, has no shortage of jokes at the same time has a disarming personality who can quickly understand how to give you the information you need to help you through a stressful situation. Understandably real estate agents are supposed to be paid for this but with Scott I think he may be leaving some on the table...",
+            "time": 1493268107
+        },
+        {
+            "author_name": "tom halkidis",
+            "author_url": "https://www.google.com/maps/contrib/115747305790222898539/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-DSoLoNQuTwk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2LAKRfuNcOG8kzab_oVS32oEAVAA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great Agent, expert in the downtown market, clients are number 1 with Scott. Would use him over and over.",
+            "time": 1493065061
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7197669026593462685",
+    "utc_offset": -240,
+    "vicinity": "788 King Street West, Toronto",
+    "website": "http://scottshallow.com/"
+}

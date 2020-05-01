@@ -1,0 +1,191 @@
+{
+    "address_components": [
+        {
+            "long_name": "202",
+            "short_name": "202",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "548",
+            "short_name": "548",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M3",
+            "short_name": "M5V 1M3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Etobicoke, M8W 4M1, <span class=\"street-address\">548 King St W #202</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Etobicoke, M8W 4M1, 548 King St W #202, Toronto, ON M5V 1M3, Canada",
+    "formatted_phone_number": "(416) 702-2353",
+    "geometry": {
+        "location": {
+            "lat": 43.6450628,
+            "lng": -79.397936
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6463247302915,
+                "lng": -79.3965531197085
+            },
+            "southwest": {
+                "lat": 43.6436267697085,
+                "lng": -79.3992510802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "75e5aad622c639867657b6a2da01495b503dd325",
+    "international_phone_number": "+1 416-702-2353",
+    "name": "Babbs In The City",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101251777354237011690/photos\">Babbs In The City</a>"
+            ],
+            "photo_reference": "CmRaAAAATZxWvblo08UDJ4ANEaTYD8O-DjncbYw1RyMX5Gm2ze-izFq3Q-Y-nZRA3MbZ_YIyaVYcArYQthn6gmVibo9Te9cqbVhNlGIUi1rVms08bNXJfmz677GhB5AiMAGWZED5EhD38M72cr8l8oFsnhqAmpVCGhTNqsgGbb8xMoEpb6MI2Phrc5X33g",
+            "width": 340
+        }
+    ],
+    "place_id": "ChIJ88ogld40K4gRhqb6jEJ2Mp8",
+    "reference": "CmRSAAAA58Kub4pPzpm4xjCjZIcFz0nujm9zeQVG4Jy0stnFblpk6Qc-PzVKXyB2ZJLOkCLpvxj9ZtDBnEchtYC86NkFZ9KU-5SlkW4FRjj22sTfb3W_SQNLD5wRnZQVGO2oILfWEhAJI_n40xmRc-AVCtwreUTnGhTt-k2Uk1J0Ai8igQQ0EudfL28idw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11471361229071230598",
+    "utc_offset": -240,
+    "vicinity": "Etobicoke, M8W 4M1, 548 King Street West #202, Toronto",
+    "website": "https://michellebabb.ca/"
+}

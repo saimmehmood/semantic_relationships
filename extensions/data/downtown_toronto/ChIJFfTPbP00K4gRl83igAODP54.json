@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "73-97",
+            "short_name": "73-97",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Shaw Street",
+            "short_name": "Shaw St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2W3",
+            "short_name": "M6J 2W3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">73-97 Shaw St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2W3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "73-97 Shaw St, Toronto, ON M6J 2W3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6439864,
+            "lng": -79.4160036
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453353802915,
+                "lng": -79.41465461970849
+            },
+            "southwest": {
+                "lat": 43.6426374197085,
+                "lng": -79.41735258029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "468b29f753b0a52b52883dd6727d86ccca04be65",
+    "name": "73-97 Shaw St",
+    "place_id": "ChIJFfTPbP00K4gRl83igAODP54",
+    "reference": "CmRbAAAAXEmg8ctnGs7y-4Nwuq9HvSnyy7RD0IM1RXRJGcU5ZBiQH2D9fWMlbMCVzTr_mgmBWfXFGL0zTckUBqDUcYWFIFVizfCKt-LY-e--jYQjlaotqTl7iGGOgN35OZ5P50ebEhAFZ55WLAD8TSsCFKDqwF2vGhR1fG3ptCFJLdQMB-Jcx5kBwpo2XA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=73-97+Shaw+St,+Toronto,+ON+M6J+2W3,+Canada&ftid=0x882b34fd6ccff415:0x9e3f830380e2cd97",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

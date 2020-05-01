@@ -1,0 +1,277 @@
+{
+    "address_components": [
+        {
+            "long_name": "350",
+            "short_name": "350",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3W7",
+            "short_name": "M5V 3W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">350 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "350 Front St W, Toronto, ON M5V 3W7, Canada",
+    "formatted_phone_number": "(416) 800-1841",
+    "geometry": {
+        "location": {
+            "lat": 43.64334399999999,
+            "lng": -79.39231
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446094302915,
+                "lng": -79.39091756970849
+            },
+            "southwest": {
+                "lat": 43.6419114697085,
+                "lng": -79.39361553029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7abde6e1046b3d1d00135d8230ca729fc5add2c8",
+    "international_phone_number": "+1 416-800-1841",
+    "name": "Dental Arts At Front-Invisalign Toronto",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 2:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 682,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112438006434782068236/photos\">Dental Arts At Front-Invisalign Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAH2PlYws-KT0cRMaxn0K81vh_hEAoJml17H2LSa-gQi-V1QMRJm0_pFeSh9HKbsGY-GH7OgI9djbfe325p1tJVcY4T_w7aq_qXtcj2zr0TlDoS1rQZeeBGDstIYhILwFvEhBOj2aalhYPdOpQ8QfuxemOGhQHMrgS19Me1ueTuOFi7dH9-HTrkg",
+            "width": 1318
+        },
+        {
+            "height": 1279,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112438006434782068236/photos\">Dental Arts At Front-Invisalign Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAqnUR395CnsdwTpJTL1PcC2twGXrlJmaWnMKrkw7TFR7uF2tlMZCpOTJ_KU0y1pyNKotchu-AsjslXIe1IqCnoiXJ8JSZqd7P7t7LMVLCjy0YsuQ4ol-dWHh7Alz38rAtEhC0S2kwpta4YbjsfC8NjQJIGhRe7coTBUerhn7Bt94oD0EoxoG7QQ",
+            "width": 800
+        },
+        {
+            "height": 496,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112438006434782068236/photos\">Dental Arts At Front-Invisalign Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAASPYHWJ08dwlgTCI-C9pLceI9RNFyNu-mM3mKlRTM5Bi0Fs7h2d1bhz50PWfsTl0ohjxLOKJXucRHAOcWi6oG5F-AIKbQCiy3D_HSYs46UpS685iXGYxnmLQEY7aRZavvEhCp_U_XM0ULASnqxtzjyAz-GhSx52xLjpO6Mc8MbNQNkrJzmruIWg",
+            "width": 732
+        },
+        {
+            "height": 617,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112438006434782068236/photos\">Dental Arts At Front-Invisalign Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAdAb3GOjcKCBxot9OJDbkJ72Y514F2dzMM8KzCNwG7pK03FzxUGj0eiwJflscceHlF7slWJORVjo068gHwQOfLcyuEXB9VWzPr8vRzg1ivzo_pV4Sv6RyY_8a3xVuWfApEhC1rBlP75A8Kx1VQlR9GMD_GhQrXB6-6WYt3ItWKssjzN7UmKi4Kg",
+            "width": 1712
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAjAhE7ExS8uHvXUrTi6CzuRgRZkqlvSX6ZlWQanVcsMUg-HH3h1eTPfTerPtoajiukWgaT0jZsbzY1Z0Kwd1XXnec-oJ5oQiTB36qKLXdD3k9OHboXA525iexCeBkEjRWEhChsF8Rx1Nrrov5iwPrZYSZGhRLCZ20WAw9Gog9_DyN8bJdkfYcUQ",
+            "width": 3036
+        },
+        {
+            "height": 747,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112438006434782068236/photos\">Dental Arts At Front-Invisalign Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAqh0Ald-A34MYfXRu3SzusXpLdn06-1yzaxHg_323LaW5XXmH6nJxWVLtVBprGvwPMaaTPMZndUqXEU3PRZYzEPYnOaYOjoTvxyBe_UzKsxp6ahkZGSiXNajY6gzlrOW-EhCrW0C1efbgCfTc_3I9dRqeGhQ1t2Wg69rL7rzl_SRD72jCyoRqLw",
+            "width": 746
+        },
+        {
+            "height": 779,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112438006434782068236/photos\">Dental Arts At Front-Invisalign Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAL5iu_PhVIkDlyWh7wBnE8oHL1-_a_S4IvzBJSMnjaJY_Yj82wiUPC81PuSAPsXnkL5HQ-er-y0q66Kk16v8BFjnvwrj9vkjUBiHASwSNvydZAs2FbJ_ndSGqr1MR1qQlEhBMICnXfkTtiUJb-nH19IPAGhSFscYmZxWa9SCCsGRjvp_8NfYJAg",
+            "width": 1168
+        }
+    ],
+    "place_id": "ChIJHYwV7Ng0K4gREb3UxhnsmiA",
+    "rating": 4.8,
+    "reference": "CmRRAAAAqxo_qMUEVL_9gSUdH6NWChFTPVAdlWzZuMHbSJWMa0Th1JiVJSuOCd0tfLosSiU46V-Nf6BChjWtlIHBDkEaOJKZ9Ma-nxsTmigBOJ43aLquiFUJYXZI7Zl8CpJ0Jp2EEhDOelR-7xFdzjjIM4kBtV6WGhS6pRZoa55L5NcZn9SdjqeI17hdGg",
+    "reviews": [
+        {
+            "author_name": "Melissa Cleary",
+            "author_url": "https://www.google.com/maps/contrib/106959694436835771672/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-118wX75vmm8/AAAAAAAAAAI/AAAAAAAAAEY/4DXQZBYIYVA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "I can\u2019t say enough about the staff and Dr. Kurtz. I was referred by a colleague after wanting to straighten my teeth for a long time. I was walked through the process and always welcomed by name and the friendliest of staff. They were always great to address any concerns and I completed my treatment in 14 months.\n\nSo grateful to all of them I now how the perfect smile.",
+            "time": 1526394290
+        },
+        {
+            "author_name": "Amy Wright",
+            "author_url": "https://www.google.com/maps/contrib/117439501848815759479/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-uTHkjm1rqmc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1RKP4xC4zKOeaSPPJkYaqdMefk_w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Dr. Kurtz is amazing! I have been an invisalign patient of his for the last year and a half. I am very please with the results. His office is clean and his staff are professional and very kind!",
+            "time": 1507917312
+        },
+        {
+            "author_name": "J",
+            "author_url": "https://www.google.com/maps/contrib/112373844180246687560/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-03yGqAXo_Rk/AAAAAAAAAAI/AAAAAAAAALk/nKVpZbVmvlM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "On Aug. 4th, I had to get my teeth checked and since it's close to where I lived and opened at 9am, I went there on time for an emergency. Let's just say I waited an hour and nobody showed up. It seemed like this clinic was permanently closed. I even asked few pedestrians and they had no clue. There was a gentleman waiting for someone as well and he felt so bad for me that he decided to give them a call. I told him it's not necessary because nobody's in the office to pick up but he continued. He heard the answering machine and said \"they say they open at 9am.\" He couldn't believe how unprofessional they were either and told me to dump this place and find another clinic.. so I went another clinic to get a treatment..\n\nMaybe it is permanently closed and all the websites are not up-to-date? There was no business hours sign hanging on the door so it gave me the impression that they don't care about their business sincerely and seriously. If they are still operating and say they open at 9 am on their website but don't show up even at 10am, I wouldn't be surprised if they would be permanently closed soon.",
+            "time": 1502086498
+        },
+        {
+            "author_name": "Cece C",
+            "author_url": "https://www.google.com/maps/contrib/107940433872760914330/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-uP7T8lNspHM/AAAAAAAAAAI/AAAAAAAAABI/XWagjIsQekU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Dr. Kurtz is great. Very knowledgeable and explains everything thoroughly His staff have been amazing throughout my entire Invisalign treatment. 10/10 would recommend this office to anyone interested in Invisalign",
+            "time": 1507056232
+        },
+        {
+            "author_name": "Maria Hinton",
+            "author_url": "https://www.google.com/maps/contrib/114309116238574328420/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-cJruufctyP4/AAAAAAAAAAI/AAAAAAAAM3k/pSELClOrISU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "I just finished my treatment with Dr. Jeremy Kurtz and I cannot be more happy with how everything turned out. From the very beginning I was comfortable with Dr. Kurtz and his process. Dr. Kurtz and his team took the time to answer all the questions I had and even showed me what my teeth would look like after the treatment. My teeth were a sore spot for me. I was ashamed of them and never smiled at all. I wanted how I felt inside to be reflective on the outside. Now I can all thanks to Dr. Kurtz. \n\nIf you're looking to change your smile, I would definitely give Dr. Kurtz and his wonderful team a call.",
+            "time": 1509098921
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2349449751081303313",
+    "utc_offset": -240,
+    "vicinity": "350 Front Street West, Toronto",
+    "website": "http://invisalign-toronto.ca/"
+}

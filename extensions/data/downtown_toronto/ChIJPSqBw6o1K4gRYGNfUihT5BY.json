@@ -1,0 +1,237 @@
+{
+    "address_components": [
+        {
+            "long_name": "4",
+            "short_name": "4",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gladstone Avenue",
+            "short_name": "Gladstone Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3K6",
+            "short_name": "M6J 3K6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">4 Gladstone Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3K6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "4 Gladstone Ave, Toronto, ON M6J 3K6, Canada",
+    "formatted_phone_number": "(416) 588-7356",
+    "geometry": {
+        "location": {
+            "lat": 43.64285499999999,
+            "lng": -79.4273998
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64422133029149,
+                "lng": -79.4259728197085
+            },
+            "southwest": {
+                "lat": 43.64152336970849,
+                "lng": -79.42867078029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "57924fba218cd9b545247ca7b99e0cb2d1dd6dba",
+    "international_phone_number": "+1 416-588-7356",
+    "name": "GNC",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:30 AM \u2013 8:00 PM",
+            "Tuesday: 9:30 AM \u2013 8:00 PM",
+            "Wednesday: 9:30 AM \u2013 8:00 PM",
+            "Thursday: 9:30 AM \u2013 8:00 PM",
+            "Friday: 9:30 AM \u2013 8:00 PM",
+            "Saturday: 9:30 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAHVx4hGc6UErRF549TjB6aPixsfY8iKaBOQoA6wL9mOeHTXYG3t5woOId1puJJRpZaCWsPlpykW9MCNdNK7c4aEtA5oGgR5KDA7uf2yjDKjKUK0DKnbIDp1afk31hcqPQEhBHl2ftb0qHiusYOLEio32uGhT_6S1gkts0p0lqbAdRDiMHC92xHQ",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJPSqBw6o1K4gRYGNfUihT5BY",
+    "price_level": 2,
+    "rating": 3.5,
+    "reference": "CmRRAAAAvrwXa4RA8F1S181i67r8MnfEoBq5nb0eDCPS2th5IS-WSTpdnvSkGDUUkmjhU6o1pFX1MEnEF8X1AghaR4NnZ-dNfV4M29SwxESCnnhrhdrHZ-GtqO2MY80BgaUAUF4yEhCyZRyZKLzVrkt9TJB79wsSGhRQiFuOF1nOi6Uy8FiR21YnJRVZsQ",
+    "reviews": [
+        {
+            "author_name": "Dave Waddling",
+            "author_url": "https://www.google.com/maps/contrib/118243979809596005944/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-7UU2xPDqw3k/AAAAAAAAAAI/AAAAAAABT5E/BqJAYue5JmY/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Good p!ace to by diet supplements with a good selection and decent prices. Some good specials and knowledgeable staff",
+            "time": 1462936509
+        },
+        {
+            "author_name": "Sarah Neville",
+            "author_url": "https://www.google.com/maps/contrib/112391867163295099117/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-QnSqKdvjKeE/AAAAAAAAAAI/AAAAAAAAaM8/qFYteWxe8UQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "",
+            "time": 1509902429
+        },
+        {
+            "author_name": "Tom Wood",
+            "author_url": "https://www.google.com/maps/contrib/117684025297406996443/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-SpueLINzaPU/AAAAAAAAAAI/AAAAAAAAACE/vos4-Kss2qA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1485607833
+        },
+        {
+            "author_name": "Suloshan Sritharan",
+            "author_url": "https://www.google.com/maps/contrib/112949210073400695733/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-E1rovdvZwWk/AAAAAAAAAAI/AAAAAAAANhM/kdZgyL2lwt0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1453668476
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1649534796170224480",
+    "utc_offset": -240,
+    "vicinity": "4 Gladstone Avenue, Toronto",
+    "website": "http://www.gnc.ca/"
+}

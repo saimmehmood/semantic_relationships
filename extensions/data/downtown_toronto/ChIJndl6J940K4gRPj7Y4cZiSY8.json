@@ -1,0 +1,182 @@
+{
+    "address_components": [
+        {
+            "long_name": "95",
+            "short_name": "95",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bathurst Street",
+            "short_name": "Bathurst St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2P9",
+            "short_name": "M5V 2P9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">95 Bathurst St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2P9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "95 Bathurst St, Toronto, ON M5V 2P9, Canada",
+    "formatted_phone_number": "(416) 998-7692",
+    "geometry": {
+        "location": {
+            "lat": 43.6443865,
+            "lng": -79.4028501
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64574058029149,
+                "lng": -79.4014774197085
+            },
+            "southwest": {
+                "lat": 43.6430426197085,
+                "lng": -79.4041753802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "420ed87c3130497853647ae30f750cb911647ff1",
+    "international_phone_number": "+1 416-998-7692",
+    "name": "Poya R. Photography",
+    "photos": [
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAAascKQ7i_fYf0Ub1msWTLqmZZv6Hxyx-m6wihDB-8kBlAfPtJiJQk7HnlY62p_Vp-weld_FbtYtZDCB3ZiLCsfeF1g5q274CSdK8bm7VS5BnDeZouARe2Mw8k3KHrawdyEhAgwdkfIEo49QLtt9Y-PK7pGhTRIpSBPk3bmw-WnoDkU-8NSSLTnA",
+            "width": 1500
+        },
+        {
+            "height": 1429,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAAw29iv74bAOGA6mAXjZybFqNLkAM1FA_PUr9sRUjUlYSvKc0I2eBhtrXUqT8wQRXk46tPIyqDcBzUJyQXaK34GxE0f6I4Xm7r1NMgJqMszlt1LtQCRtTm2rT_X_QmJgi4EhDYenvE5L_oSBEmw_pzeyuUGhSR7Dzgxoe3adNg0cAlDhobiQuaPQ",
+            "width": 2000
+        },
+        {
+            "height": 1333,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAADi1p-tDkejO0qk-dRk3svbCL-03ZWSztV7x1VFPOHzZTogAmlkV-XiE0vL_amSV5oNxKkxEqCIfIZ1VrQOKfF0hE3F9ECWnQ8DZc_38h7qLvwwRcxNa3Mfh3aZ3GBmlLEhDFkceNI7reTar-lrRZO_96GhTzJ-KUL4sFlXvDgdMjnKl0AzkaGA",
+            "width": 2000
+        },
+        {
+            "height": 2000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAAwOrpmUyoCF3zHq0Eaxzt3BnpC38QEY4UAjzDFRGQ1CqlIc7EZSdweAtkmzndmmX6o1SZc7FDY70BtVHUz917uQk_1nAfgxDBgK-OO6lVtT7RNRREB84Q0g55FYHyFz2EEhAZb68xEJ9FjhkF8P4tsy7_GhSTZxmfP1S8h1bMsV7cduwvueHuOQ",
+            "width": 1429
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAApGYTKXdJRepimmxf3rnDV166TAQe-rWq7l-N_LzOSW0bb0gpBShYxesMg7-uoEh4IFarfJcLhd4ykaMgooeB_ZwO0ILVPW9g-2WEUexvEOjePVpMbeyMdBaVCc8h4R2_EhCn8TWcImOf9yqGXjAaHQ39GhT7_TZMB2551N2qPLuuzB62WOK_mA",
+            "width": 1071
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAAsjgtT8e0_rWS1uAXEUGYS0ho4b0vOz7OzHPcDUVyAwYgKczozAtoq4I21oPCPja6Fwe4cRBzi5a-LiqUJHWrwVY41v3tQNPJibI7jn1qGYKG1nEsrvlO6l5t60HiMCInEhCtic3pQdT1P3dXLD-6JBD8GhT2EFf1rT7Hi3u1JI8xLP4WYRDfWQ",
+            "width": 1000
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAAmveSVHQwOVyKwPi70ShJTgZOy_EaPhyMxgaj2gDWD-OdoJOP9t9D5m7Tj4OpTRA7iAUDe6HjYW7D9TqWef3Ze0p-BCEorkpuz8Kcq7DJRrnTcl3Rd6fHDZGzjOLzFtwqEhDcN_UzquD4TgbevHXB3bjdGhRbsjeFYLEQiPABL0wEg4puX6-pbA",
+            "width": 2048
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAArVV1_mz0-EVUCDHeJ9tus_OlGHORqx9yiQ6yx0vju0GkxAw-NXAPdBSsdOdp2-6OPeJ_P5rhnS0ZtaHup_YZW3qvd7ueY69T0wlLY2lrRgux1qFuyiFted2iqlP9c_dLEhBS3XM-c8_y8PVWCBWEamMvGhRm97xPEXDZA13DyaOUUK7Y3XxfMg",
+            "width": 1500
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAAGwNOa0KynUqHFRFZsgvXfJAS482vUusiJ2GHXgc-ZZckmxWVhUMdCxn_ym7Z9FnymfLyRIUTM99nSZj-k-VXZ45_jdnOBzOPiWsKdb0D1v3pSojGZCUCAQtpwUF1SRXwEhAfLHrrCoeq2k_63MYzJOuWGhTgt59u6jLdK-a_A2fMslWHpElgHQ",
+            "width": 1333
+        },
+        {
+            "height": 1435,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106952143554135112350/photos\">Poya R. Photography</a>"
+            ],
+            "photo_reference": "CmRaAAAANGt80uqsPPd6H3_YCUoZkYwMq67b-bzQSn_7NEQPRFp7socluTjszXrYUKzrYGFkvgvbY9m93Nb4K0Innjll_yagM_c0wKayTFCCD5KEyuYe126SVg_9R65feTI3VWFYEhB4kFWvVgQApqCeo7_RDMEvGhQ4b77X_J6137GUh02GVJe1mhorng",
+            "width": 1429
+        }
+    ],
+    "place_id": "ChIJndl6J940K4gRPj7Y4cZiSY8",
+    "reference": "CmRSAAAAwf73zueBDTZHTSmQrY6MSaQfE32sbNkoCQyg0YCZ52S9p_cXyNWo4V0_K4VrqAZxpsNFb5MWqIe-QDBSCPtcInnmz4N19QZB2fZULGyD_njqvA8Jl4texJtSq4cfjR7oEhDmPns4N9jgHZpHo7xWls0DGhTt3b2ZTMTZvGAAFWNPTK86wU7w6A",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10324892227055664702",
+    "utc_offset": -240,
+    "vicinity": "95 Bathurst Street, Toronto",
+    "website": "http://po-r.com/"
+}

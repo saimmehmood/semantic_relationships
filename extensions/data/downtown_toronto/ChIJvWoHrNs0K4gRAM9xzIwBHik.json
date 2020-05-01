@@ -1,0 +1,175 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2V1",
+            "short_name": "M5V 2V1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Stewart St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2V1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55 Stewart St, Toronto, ON M5V 2V1, Canada",
+    "formatted_phone_number": "(647) 760-6491",
+    "geometry": {
+        "location": {
+            "lat": 43.6431946,
+            "lng": -79.4012367
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446494802915,
+                "lng": -79.39992856970849
+            },
+            "southwest": {
+                "lat": 43.6419515197085,
+                "lng": -79.4026265302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ac8c247d737aab9fb87eb4a1cd48b8affc2d9c70",
+    "international_phone_number": "+1 647-760-6491",
+    "name": "studio.s",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 750,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105110258590821798634/photos\">studio.s</a>"
+            ],
+            "photo_reference": "CmRaAAAAj8QFwZvr8-Wfx3jRPOBMMDfKhD5hf0_A_p9byG9Aztm1Ec6PaUCQUd7ToXDwFNhMsWUgZHRAmOBg_kJiNAU_zKGF_qZWnRNJ16wwkq6Fak4ff0S53rIfCKCfgk4DyUtOEhAt2tajTDK_naoLyfC0CHDdGhRC3EnOCZGGZRJLqNrkQNZbqfS8qQ",
+            "width": 750
+        }
+    ],
+    "place_id": "ChIJvWoHrNs0K4gRAM9xzIwBHik",
+    "reference": "CmRRAAAAuv1fYkXJDgGKB2lyNWPird5I7AuYDyPAIENbvqrnIy12XrNQ41OW_HYeKxDfyC_mN14VdLHbcS4nCL-aWAp75vAjQidhVOeRvtOpUNVDZqwFo1GF5SZ6CXddsm-NPrxnEhCzsJLcgKrS_W3mvmEP9I6rGhTJKvvW3W1RT0-iO3n5EfrlH0Le4Q",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2962807309093424896",
+    "utc_offset": -240,
+    "vicinity": "55 Stewart Street, Toronto",
+    "website": "http://www.studio-s.biz/"
+}

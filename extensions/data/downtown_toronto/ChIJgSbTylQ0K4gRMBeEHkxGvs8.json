@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "442",
+            "short_name": "442",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dufferin Street",
+            "short_name": "Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2A3",
+            "short_name": "M6K 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">442 Dufferin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "442 Dufferin St, Toronto, ON M6K 2A3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6440487,
+            "lng": -79.42973719999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454368302915,
+                "lng": -79.4281889697085
+            },
+            "southwest": {
+                "lat": 43.6427388697085,
+                "lng": -79.4308869302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3e5ef61a308796b583fdae635d7c24c0bc5002e8",
+    "name": "Brockton Collective",
+    "place_id": "ChIJgSbTylQ0K4gRMBeEHkxGvs8",
+    "reference": "CmRSAAAAQKPD02mi1zmVIMrdUFoHdXpNOl-dSQ-634NyYOhi3nEpFJR4uhculWmZb2fdQPWOYmDPtycsSquvbaeOfKZCYITMj6bksF2EM3Uy8KrZKy4EHKy8h1MdxiuQnBtSaHmuEhA7mhquhWIMvwLeRgzS_aRNGhQV6xw-WP5keVYbU5uDt2DinL7IJQ",
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14969479504169539376",
+    "utc_offset": -240,
+    "vicinity": "442 Dufferin Street, Toronto",
+    "website": "http://brocktoncollective.com/"
+}

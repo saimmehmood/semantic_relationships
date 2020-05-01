@@ -1,0 +1,174 @@
+{
+    "address_components": [
+        {
+            "long_name": "662",
+            "short_name": "662",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">662 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "662 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 971-7856",
+    "geometry": {
+        "location": {
+            "lat": 43.6442449,
+            "lng": -79.4022847
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454738802915,
+                "lng": -79.40088751970848
+            },
+            "southwest": {
+                "lat": 43.6427759197085,
+                "lng": -79.4035854802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ad8e26610e6ab6f4b24e3b4f330690741828c712",
+    "international_phone_number": "+1 416-971-7856",
+    "name": "Rhombus Media Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 864,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116033982151289014017/photos\">Rhombus Media Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAz4gRLKuHjBgWNK7scNF8tvKeyjF0tA5fifOjOl6XAAXThVQN8Epw7j4uMimJIdnpapO_1CRWErB_75fl59RtAqXJIOvJ3IarQ2obYzCXi-hT9uP9piQ_3TOPEEBOLAvIEhDUIh3XGiK0gC9M-A5KAZehGhQTyP4MpQlvCsejqfW575N9fZ31Ug",
+            "width": 1646
+        }
+    ],
+    "place_id": "ChIJfwVGxds0K4gRaN7U4_oWShE",
+    "reference": "CmRRAAAAK8SpgByLbD04-h8NcfIkOunEA5PNsPEMXQUfDXqx5HSwUbY2QdDszTOhpsJBXCZJZ5LEwfVFkzMDx4UCzxPwnt0jOxpFbJuRQ2Ilfm5aIxQ3H2LgE3NgYNQ8vOkIRjiDEhB-NtduVH6fkmG7rElFjmehGhSOYOC85l3EZn-19ATEKEP3jskK1w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1245833513741377128",
+    "utc_offset": -240,
+    "vicinity": "662 King Street West, Toronto",
+    "website": "http://rhombusmedia.com/"
+}

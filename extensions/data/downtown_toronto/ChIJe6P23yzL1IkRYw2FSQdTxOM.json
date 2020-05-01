@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A8",
+            "short_name": "M5J 0A8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Suite 800, <span class=\"street-address\">120 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Suite 800, 120 Bremner Blvd, Toronto, ON M5J 0A8, Canada",
+    "formatted_phone_number": "(416) 868-7310",
+    "geometry": {
+        "location": {
+            "lat": 43.64304199999999,
+            "lng": -79.383121
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64439098029149,
+                "lng": -79.38177201970849
+            },
+            "southwest": {
+                "lat": 43.6416930197085,
+                "lng": -79.3844699802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "26e04c545da1acae292a821b985420aa8e253033",
+    "international_phone_number": "+1 416-868-7310",
+    "name": "NERA Economic Consulting",
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114914986485632669208/photos\">NERA Economic Consulting</a>"
+            ],
+            "photo_reference": "CmRaAAAAmf-64FdTfUNj6ab1B9HPwaX3PzgHvuOJCrMLhM8Jy90y98TsqDJ97KSo7OqIew3X-ybMughNUsV2ERQ6IHK6R_aArRenv8LLB9p-48OyRz9wzUdzD_HzBjPdQYGOs-qoEhBeNHpXd03wLSL_WOkFU6HGGhQWyDpDj2qgtnPVBHoxGnFImiun8w",
+            "width": 2048
+        },
+        {
+            "height": 620,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114914986485632669208/photos\">NERA Economic Consulting</a>"
+            ],
+            "photo_reference": "CmRaAAAAVIoI28ii_39bygoAf3jL9CINgZZsjua6whCQvbvpR3pa_5D1pfnXMAxn608ElxotJQo3QGh-lXY2g60559Qjb7jrFSWDrgDvBFhaRQqkI5CWzJP1UW-EIQ4mQ-P0RYAtEhDcyhxurHetqLvFem-HIO28GhSRbPLK2AxcIzs_oQTGUk2InicttQ",
+            "width": 620
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114914986485632669208/photos\">NERA Economic Consulting</a>"
+            ],
+            "photo_reference": "CmRaAAAAcUbUmERlaAUjoR2py4s9iECG4o48MW6_yGpG019nLbUrEj-RMfdL7-s6GLN4Js7Ax78jQPcUw4_zvGo3T0yMAc-r_mzyKYGyJa8E4Pac0ICpOf07GrqdFIzLaKHOnUh4EhAaaoMTYsp1RGmbrQVZKmNUGhRh2vs8yVTExbj5vDjPYxhrmYZhcw",
+            "width": 1000
+        }
+    ],
+    "place_id": "ChIJe6P23yzL1IkRYw2FSQdTxOM",
+    "reference": "CmRSAAAAkBDPa7Pa9An82ApP2bWqP49TDTF9obmNxA6FxNZ6mWI-PNWRfLNRIck4J5ulmfhj778jXYRf0Etm45EpgNfJNsAIjtv_CumD6uvDyz3pmHsb1UKsfQ7JWfkdUsZEzVPZEhBLiiTeuoAhLXumuz0xk-PCGhR7roM5DgscsHa1CUdQEqDa0xSjEA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16412334232808263011",
+    "utc_offset": -240,
+    "vicinity": "Suite 800, 120 Bremner Blvd, Toronto",
+    "website": "http://www.nera.com/"
+}

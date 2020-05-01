@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "944",
+            "short_name": "944",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">944 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "944 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64471630000001,
+            "lng": -79.41668
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64601903029151,
+                "lng": -79.41531291970848
+            },
+            "southwest": {
+                "lat": 43.64332106970851,
+                "lng": -79.4180108802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8c09b7266335eec2eab4c30f66c3086ba00d0ef0",
+    "name": "Hullmark",
+    "place_id": "ChIJfRc9Bv00K4gRDcpRVUVnRDw",
+    "reference": "CmRRAAAAQZl4Tz4jBX-1SgLw0EHaFm5jZZqA1xzFqDLoCDmlXqNxmf2Egk7XAsXfUVYuogvD-4skkBzTG2glIQk8hgOYX6zXwN1RCuTuvp4v0iFW4SYwhdUc0HLk8m0kapoG5ZVMEhAFYPmKUYKBdC_u7th_UJF8GhTFiWnwP1lh8okchkQFllGw3z-p-w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4342709488173828621",
+    "utc_offset": -240,
+    "vicinity": "944 Queen Street West, Toronto",
+    "website": "https://www.hullmark.ca/"
+}

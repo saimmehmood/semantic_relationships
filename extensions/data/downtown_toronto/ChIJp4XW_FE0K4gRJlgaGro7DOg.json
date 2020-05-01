@@ -1,0 +1,134 @@
+{
+    "address_components": [
+        {
+            "long_name": "833",
+            "short_name": "833",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N9",
+            "short_name": "M5V 1N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "106, <span class=\"street-address\">833 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "106, 833 King St W, Toronto, ON M5V 1N9, Canada",
+    "formatted_phone_number": "(416) 838-9837",
+    "geometry": {
+        "location": {
+            "lat": 43.64264489999999,
+            "lng": -79.4078552
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6440965802915,
+                "lng": -79.4065460697085
+            },
+            "southwest": {
+                "lat": 43.6413986197085,
+                "lng": -79.40924403029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "42e6167e541ad63ad94abcc359dd0b853a2bac8d",
+    "international_phone_number": "+1 416-838-9837",
+    "name": "Dorota Buczel",
+    "photos": [
+        {
+            "height": 433,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114487833159308979299/photos\">Dorota Buczel</a>"
+            ],
+            "photo_reference": "CmRaAAAA0mZ6vwxBY2j3prtmyM6RFsYjEaHQreo8SGCvBBOL9pqvrK9_wNdpCviIcCXmqLzaT3S--A4ZG699mhyq-_6q-kjkrzErkRqaY2MLzXZhqhLDf_ItMyDBjwtMAUQf69OOEhCAVJT_9dX2dzsP6GlU2gZnGhSCl5Jo_A-puPH0Pm8pcxZGb89h_A",
+            "width": 431
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114487833159308979299/photos\">Dorota Buczel</a>"
+            ],
+            "photo_reference": "CmRaAAAAtqqYsYJv3BF7lU7DHoRNRjPbibitbmB79_hEA0spbZ2hnAsmlrosEyK6n6XMDqXCuRiecBY4l51upZ7J69D-1_VIYjKZ1g9kq7Yg9bV7DmIRYBy74WQAlhLnqrtoe-QZEhAzfg4oRXn2N9H8fdFVFRTuGhQRfOr4MTvsf1mzH6ypDsWIirZKnA",
+            "width": 2046
+        }
+    ],
+    "place_id": "ChIJp4XW_FE0K4gRJlgaGro7DOg",
+    "rating": 5,
+    "reference": "CmRSAAAAKj6_sV6IqrZvOmnUtEDe30I8npSL7XRK3qVsv1IKjaMiprwnPoq4QcYf0GZeE8Knc_kbEOH1qkVBVLNaJcQzvMs2GoLoy-uBAXPTC-xf6PVh9UKCORC2LEjvQtT6YG6fEhDp1IsM7S-Q83hoZdHtdZw5GhSxq9OeysrCejP35pG-4gLKW_mNAg",
+    "reviews": [
+        {
+            "author_name": "Jolene Cana",
+            "author_url": "https://www.google.com/maps/contrib/113470063158748299088/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-kE0fXqINxsE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1qZZ1ABTdkF34sf46S3rg99b10pw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I've been going to Dorota for makeup for years.  She gives amazing lessons!  Her makeup skills are phenomenal!   Halloween is a great time to see her!   She does body painting and really cool Halloween effects as well.  Highly recommend her!",
+            "time": 1475525992
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16720805187007698982",
+    "utc_offset": -240,
+    "vicinity": "106, 833 King Street West, Toronto",
+    "website": "http://www.dorotabuczel.com/"
+}

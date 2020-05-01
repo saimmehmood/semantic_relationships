@@ -1,0 +1,215 @@
+{
+    "address_components": [
+        {
+            "long_name": "60",
+            "short_name": "60",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "White Squirrel Way",
+            "short_name": "White Squirrel Way",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H4",
+            "short_name": "M6J 1H4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">60 White Squirrel Way</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "60 White Squirrel Way, Toronto, ON M6J 1H4, Canada",
+    "formatted_phone_number": "(416) 599-1448",
+    "geometry": {
+        "location": {
+            "lat": 43.6430611,
+            "lng": -79.421193
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444346802915,
+                "lng": -79.41971411970849
+            },
+            "southwest": {
+                "lat": 43.6417367197085,
+                "lng": -79.42241208029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "d0078884e5363f24bba90dcbeb50e8392ab9ef26",
+    "international_phone_number": "+1 416-599-1448",
+    "name": "camh: Metro Addiction Assessment Referral Service",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ0ega3gE1K4gRiC5ZDtVySaI",
+    "rating": 3.3,
+    "reference": "CmRSAAAAKEwcDKrL1_VJ6ZpNNZfb2iIsfwkjSSy2aNYw4b9AAQ4RJZw-iVKkTPtdOII-v6jMupdXhgu162scTI0ucyKoB9NB8baffnXb20o6PwweAdKP4WgP82geQGmwynx9-a_-EhAsN9YVtwvXAXXjAG5ZL-LCGhSNt1ZgmbISPS0UWubMDhNdvjkRrg",
+    "reviews": [
+        {
+            "author_name": "Maria Dos santos",
+            "author_url": "https://www.google.com/maps/contrib/108946660460235603818/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-G4MquLTByks/AAAAAAAAAAI/AAAAAAAAACM/JxOADzuZdoo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "This is the worst place to go to ask for help . My boyfriend has been waiting for 4 months for a stupid report from a incompetent doctor to sign it off so he can get the medicatio  he needs . They say that they are here to help you and dont do anything . Its been a run aroynd for 4 months for any help.  Kind of ridiculous for a treatment centre to do this to their patients.",
+            "time": 1488461815
+        },
+        {
+            "author_name": "Keira Anime",
+            "author_url": "https://www.google.com/maps/contrib/100998055102446200210/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-I8Cfa69WitQ/AAAAAAAAAAI/AAAAAAAAAIk/d4_2b2meaM8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "staff and doctors are miserable",
+            "time": 1525466239
+        },
+        {
+            "author_name": "Mgr G\u00e9rald Dante Mino",
+            "author_url": "https://www.google.com/maps/contrib/116657376737005894533/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-VG-uCJKWywA/AAAAAAAAAAI/AAAAAAAAU4w/-8HR-bWO6TI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1466785483
+        },
+        {
+            "author_name": "Michelle Bouchard",
+            "author_url": "https://www.google.com/maps/contrib/101851617572963941904/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-KQHfzI5Ytas/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3WtGVkduXQTNfMRFHYESEMxXrJxA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1456716031
+        },
+        {
+            "author_name": "Thanh Dinh",
+            "author_url": "https://www.google.com/maps/contrib/108455119699691928485/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-vtjEulATWtY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3GeLCep0j1Z9BfLdobu_RgJjd6Pw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1452264017
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11694004166838529672",
+    "utc_offset": -240,
+    "vicinity": "60 White Squirrel Way, Toronto",
+    "website": "http://www.camh.ca/en/hospital/care_program_and_services/addiction_programs/Pages/guide_maars_clinic.aspx"
+}

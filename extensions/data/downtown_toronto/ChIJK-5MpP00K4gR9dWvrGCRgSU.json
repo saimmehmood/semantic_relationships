@@ -1,0 +1,312 @@
+{
+    "address_components": [
+        {
+            "long_name": "968",
+            "short_name": "968",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">968 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "968 Queen St W, Toronto, ON M6J 1G8, Canada",
+    "formatted_phone_number": "(647) 748-5538",
+    "geometry": {
+        "location": {
+            "lat": 43.644606,
+            "lng": -79.41740999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458902802915,
+                "lng": -79.4160372697085
+            },
+            "southwest": {
+                "lat": 43.6431923197085,
+                "lng": -79.4187352302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "32e4342186372c54c7ce99d1916c3c07e3657ba3",
+    "international_phone_number": "+1 647-748-5538",
+    "name": "Sekai Nail and Beauty Bar",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100048721809008773419/photos\">Sekai Nail and Beauty Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAA66p0rsTbUDWYfMF_xqYZ91gisgYrtOwgadgIDpFItvVWlYlSjT4gfk9YfprtVj7EJQEl3hNV-nrifO7rsvIAZU2hheCGwM1WSpFbQi9Ch-tEVEFcicUFZGSzub-L-iZLEhC-wzGXCeq9BYek-iJqD4eCGhSj0yb3GMWAqMjZkalXhYnqfM6oWw",
+            "width": 960
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100048721809008773419/photos\">Sekai Nail and Beauty Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAnCnoWo7tqefufGPW_jEiNgtixvDrRCVYJD5sPcsGrEfaVPtqI-1zNZxSRo9YFwxgakTyeKgnUnkDfPPysKMSm9lfxVItpw_0zA2E_Vr_AAYxjAi_evnK9xX0_08HwwrZEhB9rHwACJqE1Md7SaCcrLBLGhRK7W0Wmrvf3yEQHSqO8lFINlwh7w",
+            "width": 960
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100048721809008773419/photos\">Sekai Nail and Beauty Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAjOEBHQ1WchMfmPzrfkituvGydKL_4nc8Niw7IjvETCxJWsEsEFU8MXIHwB6Z92f_uKfrbxbZEDSqtE4fJDjKlAj8nVdVb1c5Yyg0kvS0lS1HLjulG8kQ8d1dLOw2TTXIEhAzxLa4ZB1khMf-2Y_YynZ3GhQdtbBJY7BPx_Hu2G90mxc3oxoDfQ",
+            "width": 960
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108716471486637273308/photos\">Elizabeth Grimshaw</a>"
+            ],
+            "photo_reference": "CmRaAAAAq08tsKYOI8K3r7jn9GMf36ioyR4162NgMs7ZqlkkpJ8zIpt6qNoyK0DHeYAmSe5AOyzsUloEc3ENkk2iFctPSNz2MyElfemccIg6ZrKIqk4x0nAdwrd9pu5oOvzN12J9EhAHmJUOaLBWX5MgTlsUxsM8GhRzwDTyiOdSOPxaRFT9kS7y1uxRzQ",
+            "width": 3264
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100048721809008773419/photos\">Sekai Nail and Beauty Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAATahWZDiMkKA3vsWITc1ycf59UerzQJe8o5NjoHBG5Q8JVWefPG-DQRgXY9P0kQgX-i0MNIf5pR5kMEXga5HUTbPvqgt5nNMYnaJU1d19y1O_qdaTm4u5Uz2jwAzeBucxEhA0E_0ixjOaO9TwrXDMrxhQGhTymakn3ld5jGsuDGHIhSGQ0vHcBA",
+            "width": 960
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108716471486637273308/photos\">Elizabeth Grimshaw</a>"
+            ],
+            "photo_reference": "CmRaAAAAzjTxkWaT0TsdocHe_su6Ynr3hvCWuyal4QIi9NLxvwZDtt-wwAjoovMSX6dfclTHjDbk4b9zDkDMND86mRuftZDixToisY7zwpDZIqWZC-hVuO6jIPXIKGilWulTEb6qEhAbRh5hS1Z8hzrg_IvltHI7GhRByebZSHmAxyP6elx1rs5OTacKeA",
+            "width": 3264
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108716471486637273308/photos\">Elizabeth Grimshaw</a>"
+            ],
+            "photo_reference": "CmRaAAAAcGAUsDr8sQAXEOlyLDz-xtZSwrMqdYzLl6oVDPcq7oAwpa-8McRQgyehaR6F1ICb6ier2s-1w8rS8LAbmUq0tiW9QUrnk4xOvmzZ3YH05h31CCXy9MZ_TS7aGZu9DEtpEhA6kljZOSo1cnxyIWVgZcmJGhRof3X-FebPgmwcNeuFQ11WFXGR5Q",
+            "width": 1836
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100719756097616475232/photos\">Katelyn Anderson</a>"
+            ],
+            "photo_reference": "CmRaAAAAYZuwRn6au2XMKbSmKJyyINHbLw_OtDpLavTsd152zoYaqPLtF6g49SsmvLoqv_zrSL5F0UvWAD-fbjg7xIGaXId5hbLyWl_t1G_H8Btaskd9EyecLfe43ePaVLfpXsWpEhAUydg6z4DGLTapxbRt53GNGhTb_XHPCAVthdIhLhzlNBNnWR9qGg",
+            "width": 1536
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100719756097616475232/photos\">Katelyn Anderson</a>"
+            ],
+            "photo_reference": "CmRaAAAAo5NsD4DkgibOxPuWOtU94LNjs5xULd3bYBDET2O_cGtOefAocjvWbPDdVcyaAFgWVK9QIALKXLNoRI0m87Sm5LeWLWSjcJqHw41KUV3Wqz5tW_prj8-lFVSmwkCI3WhkEhCpHrc1MoBVQeVEt_mn3zR4GhQvFF07HIQT3wOPXatyDENiMCGLRQ",
+            "width": 1536
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116470221453589954519/photos\">Sarah Hunter</a>"
+            ],
+            "photo_reference": "CmRaAAAA5BqC6jXismt8XnNlDKUwmUPTWWFG-BFCB8EuRIhRCFjbLftwWtqhUIpjpWZtBX1ktlq5A_XmG8e3iCYvZfhQeTHjw5faV_oYBeYU7o2I6JLYmm86tAcMKYd0vHYjNkwyEhDgYWNpdjmaMM99-q2j33baGhS2KzAbcx0mJhLe30pM55VqysfsDg",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJK-5MpP00K4gR9dWvrGCRgSU",
+    "rating": 4.1,
+    "reference": "CmRRAAAAgKdbPQcUzqhk0uxx3wMTOprGsfT3QQP4hnncrpOOu49Aayb3ev0qoZwWCzaBGOMcznCf4rrJYdfSCXZWRexcYlNHCbOVMdgbfm84ulJM6OT3s2xtPRENoBLXiQHH82QNEhA3vwFkBBi13pe3c79_gfXzGhRkn3cyjyF36EW0f9cPh6uqMWI6FA",
+    "reviews": [
+        {
+            "author_name": "Dani Gardner",
+            "author_url": "https://www.google.com/maps/contrib/104956040034383399579/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-9cFktoPwaHA/AAAAAAAAAAI/AAAAAAAAAE8/w14RCMhWqgE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "The staff were welcoming and the salon is beautiful! I can\u2019t remember the name of the lovely lady who did my manicure but she was great and listened to what I wanted done, which I find it rare in nail salons these days! I would definitely recommend!",
+            "time": 1528117423
+        },
+        {
+            "author_name": "D N",
+            "author_url": "https://www.google.com/maps/contrib/106467706971933788547/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-TFRiJm-2Im8/AAAAAAAAAAI/AAAAAAAAAcM/ZMBoOV7KYxY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great service, workmanship & atmosphere. One of those rare places/salons where girls do great jobs on your nails and it's all worth it! Thanks!",
+            "time": 1523705499
+        },
+        {
+            "author_name": "Jana Betik",
+            "author_url": "https://www.google.com/maps/contrib/107772935593813685984/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-A-_uI4k-YpQ/AAAAAAAAAAI/AAAAAAAAErs/TpyLJrzvmwk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I\u2019ve been to several places in Toronto and this has been my favourite so far. Always a quality experience, and my gel manicure lasts for weeks. The ladies are super gentle and sweet.",
+            "time": 1522950386
+        },
+        {
+            "author_name": "Eryn Cole",
+            "author_url": "https://www.google.com/maps/contrib/107862680344312406829/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-QSl2iF91ur4/AAAAAAAAAAI/AAAAAAAAAAc/vFBXaL5xATY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I can't say enough how much I love this place, like the nail art they do here is so good. I got a manicure and my eyebrows threaded and this is hands down one of the best places for this I've been in the city .",
+            "time": 1518365431
+        },
+        {
+            "author_name": "Lisa Teixeira",
+            "author_url": "https://www.google.com/maps/contrib/113253123079227620456/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-mz11mp9ua1Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3pTdHwnpU2GZnpnG2i7dUZFmJ70A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "I recently got the Dermalogica Customized Skin Treatment and I was VERY disappointed with my treatment. This is supposed to be a 75 minute facial but mine was barely 60 minutes. I feel like half of my facial was just the massage which was very unnecessary. This isn't a pedicure. Why do my feet need to be massaged? Overall, the application of products felt very rushed to me and lacked finesse. I didn't even have a mask applied to my skin for the requisite 10 minutes. My facialist spent maybe 2 minutes total talking to me about my skin and during that time she failed to mention best practises and aftercare. The thing that made me very upset about this whole process was the extractions. It was very painful and she made me bleed. Anyone who knows anything about skincare, least of all a facialist, knows that some breakouts are better off alone. I did not get what I paid for. This was a rip-off and sadly I won't be coming back.",
+            "time": 1520913858
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "spa",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2702601095799100917",
+    "utc_offset": -240,
+    "vicinity": "968 Queen Street West, Toronto",
+    "website": "http://www.sekaibeauty.com/"
+}

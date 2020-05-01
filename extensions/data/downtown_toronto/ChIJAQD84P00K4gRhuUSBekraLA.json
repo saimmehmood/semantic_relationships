@@ -1,0 +1,319 @@
+{
+    "address_components": [
+        {
+            "long_name": "1022",
+            "short_name": "1022",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H6",
+            "short_name": "M6J 1H6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1022 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1022 Queen St W, Toronto, ON M6J 1H6, Canada",
+    "formatted_phone_number": "(437) 580-8273",
+    "geometry": {
+        "location": {
+            "lat": 43.644147,
+            "lng": -79.419643
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64543908029149,
+                "lng": -79.4182736197085
+            },
+            "southwest": {
+                "lat": 43.64274111970849,
+                "lng": -79.4209715802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1497b0717cc70762f5b02a7fb335cc6ced62ab3a",
+    "international_phone_number": "+1 437-580-8273",
+    "name": "Six Vapes",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 8:00 PM",
+            "Tuesday: 11:00 AM \u2013 8:00 PM",
+            "Wednesday: 11:00 AM \u2013 8:00 PM",
+            "Thursday: 11:00 AM \u2013 9:00 PM",
+            "Friday: 11:00 AM \u2013 9:00 PM",
+            "Saturday: 11:00 AM \u2013 9:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114586587472528860435/photos\">David Bendayan</a>"
+            ],
+            "photo_reference": "CmRaAAAAz8CE0qooojBrDLww_0y2fO8UdA5QurtxTIuiT5i0f_MfFWKOdVS5wRbQhsPCJWQyX1iMrPSgxVUraGCPuDux_YkyeKsm_kcLXz7RjfBw93ZpIShJAzEcNwXsfCE0LlUsEhBO1JRvsUT2aQgpDCoaMwhUGhQchJeDcvbntJ5MY58xX1xaroCF7w",
+            "width": 3036
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115094370851723180467/photos\">Six Vapes</a>"
+            ],
+            "photo_reference": "CmRaAAAAuxOS-GOgwUl4-Yrz5f6cUGcqiAK5fgFSzxB5X_Dr4eHAT33Ic9HM_kO-QEk2UO5x43bzLgVMnFEtBwQl7e9FTD0fAH3G59Z0VrbTsJYjUySxMp6ZJ-DU_tBXin7Id9uKEhAxkB1gfOSrbbYnwzhMe2pnGhT-wJ_oPht0FLUGLL24x6CYB6_2Mg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115094370851723180467/photos\">Six Vapes</a>"
+            ],
+            "photo_reference": "CmRaAAAAK1FSXTDhMBIcSc68n3fb_b6_FJu3Qg2EIRnszLF9r7W1iTg2elYcv0zwqLZzLJ8iEF4mfozyuDqsl4jqs5-Ny-V_iWvYPzsv5Su3y6wOS3WYrbY1Qb9XiOppISc9kIPfEhBIuVAiupy4E_3Uqt_pDNa2GhTB8U1zwvFv-YFQvMt0P9KoRTnyBA",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115094370851723180467/photos\">Six Vapes</a>"
+            ],
+            "photo_reference": "CmRaAAAAZiPlKgqL9HsLPrED87JBg5cQ6xz91R2seCkNApJMxkBC0n6y_H-0Bd_qwRSTkcCrrHuXAbxn_ZsQCxoGLzj6IBlpy3OfLVNum81oLj7PgI6Md_2oi7stw-OBfJIjnF3DEhDKyeDb1U0Apbm3hLC41q4fGhQNLIcAXrWWcF-D36EA61YluEDr-Q",
+            "width": 4032
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115094370851723180467/photos\">Six Vapes</a>"
+            ],
+            "photo_reference": "CmRaAAAAO9wU3oF797N6idUJ1iAJPP5H3FTacnwSgkoS6ZGycj2pMoHjVPTFuvNY3ZQdei_1pi7G_Xu9TDQq-6B9q-aoCy6W23MgWahVVDG4dBhRtAj2BtlsYX5MtAmxilk2OdcIEhDYzk-PeZYpIwv8ZckYEYPrGhS_0l7fzZ7Hk4p2-Kp_2EqEvS23Aw",
+            "width": 5184
+        },
+        {
+            "height": 3274,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115094370851723180467/photos\">Six Vapes</a>"
+            ],
+            "photo_reference": "CmRaAAAALC5YcSAcqw81yIGNtTr_RPe3exUBh5AeE8h3I07IXEwXY1TORlsV7MEFqmdy3ETEfC5Mr8JBPWKI9wq4hcJfMPojQuA1mw3TEOQkAeAivh7gmlv603cwl5a1blG9CbR9EhCfMnuno76z6JVvhLiWeQ94GhQoLTTFSl0YBjUvuX_gIrMzUDxO8A",
+            "width": 4877
+        },
+        {
+            "height": 3355,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115094370851723180467/photos\">Six Vapes</a>"
+            ],
+            "photo_reference": "CmRaAAAATYkpwoXpA60QKiK93TdHcYakri8l9CH0bS3hK0uCW_jm83bMliOLTKFgpUY3To5dGMyh_Zad2ZAQv_aePcD9ex8bwqPHEfP-Bv6oeXvf3VmhZjy2psmuZA0L80vDcXj3EhCBGIT05BxSy__CiW8CFWG1GhQeRU4Ea6BthLQKcHXWf_3nXHwgsw",
+            "width": 5059
+        },
+        {
+            "height": 3351,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115094370851723180467/photos\">Six Vapes</a>"
+            ],
+            "photo_reference": "CmRaAAAAc_SoL4xpy7ygYRBAqEczfcVLIcJOLJQDW_hpx_LgogsBbEobJihUN3Gfr3aF_o6uPEpxzODZoW7HWbFjlRixoNBvv1Sq3Ki8j9SsaRX20l0Q1ZhLjNgGK4OMrwtVHO7gEhCiYLEc5xfDg7d3bO40FRGKGhQPtvVdcJ-GPtnZ7cMyJ47pqpG_CA",
+            "width": 5027
+        },
+        {
+            "height": 3456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115094370851723180467/photos\">Six Vapes</a>"
+            ],
+            "photo_reference": "CmRaAAAAqnvw1MkKXEq9O131uEam55EePG7BepjjEB97jxE4frrQI8PL1xiTmEKptBl6TOMWBmYo59WCByJQyCBxCgSS3idclKg6V8sKIKeqG-FCeE-QpayaTtTQwwx2B690YKYuEhBfDaJxMzUGk63b-gdfsQ4LGhSjbL5s8v6ex6LOjCUGs8LCjqrM8A",
+            "width": 5184
+        },
+        {
+            "height": 4274,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115094370851723180467/photos\">Six Vapes</a>"
+            ],
+            "photo_reference": "CmRaAAAAzGwiei99F1RSk92tHpcU8-CTNolGDle5MwnuewGfXNt7WEyrtR82f8bQ4wlSJGdkQHi1OJYCDPd81N1v2FBFfYwMiq8IH8zQ5NouQxXO7Kx-ykPqKIoHCiMGhcEiMvOuEhA7IQ6-uNSiwaNBVP6v6wU4GhSpmLF-WwB2DfMNUSukpeuQl4uCtQ",
+            "width": 3456
+        }
+    ],
+    "place_id": "ChIJAQD84P00K4gRhuUSBekraLA",
+    "rating": 4.9,
+    "reference": "CmRSAAAAoJzz6zOJ7MUUjKzf6Ga9tvDBFlasEbLfg-aBE4bUuyDtd95DttoyU0yrhxaLYULTFXpZ3JT-_qRk9IBOJWPCsGBkZKLszWh0LW7AW1vW1yvZvWCv_LoDhI4exvmrhi7KEhAvHqTnd7_XOspDkNQ_xqxQGhTD1kO81t_-lgUyHFMUjSOdi2KTEw",
+    "reviews": [
+        {
+            "author_name": "Mathew Sottile",
+            "author_url": "https://www.google.com/maps/contrib/115427017082847950605/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Ul5_mF4Ts3w/AAAAAAAAAAI/AAAAAAAAACk/GVxl05Igf-s/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great place and a chill atmosphere! J is very knowledgeable, friendly and his customer service skills are top notch. I highly recommend this place to anyone.",
+            "time": 1524666781
+        },
+        {
+            "author_name": "Aaron Tamachi",
+            "author_url": "https://www.google.com/maps/contrib/105203254830775390782/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-78BKcIo8CcI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1XlJxZqT2cP5ePJKBOLJnkINUY-A/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great place with a positive atmosphere, employees are trained with latest in Vaping technology, and are experienced working with vapors of various levels of expertise. They carry only high end premium e-juice, and a very vast selection for pallets of all types. If you want a great shopping experience, hands on treatment with a personal touch, and want to save some money, this is the place to buy your vape supplies.",
+            "time": 1520131642
+        },
+        {
+            "author_name": "Anita Szigeti",
+            "author_url": "https://www.google.com/maps/contrib/106904044277568843402/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ELcvpb7I2FI/AAAAAAAAAAI/AAAAAAAABek/G9pMJ-jSq54/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "This is a great place I highly recommend - every time I have been in, the guys have helped me a great deal  - intelligent thoughtful and caring customer-service - they've helped me to quit smoking and enjoy the vaping experience - added bonus the guys know their baseball and Jays trivia!",
+            "time": 1521048999
+        },
+        {
+            "author_name": "mildred ee",
+            "author_url": "https://www.google.com/maps/contrib/118357122138031373399/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-V0r9JgRfeQo/AAAAAAAAAAI/AAAAAAAANtk/3xnzDQBkp9A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great new shop, great selection. They even sell the juul and the juul pods!",
+            "time": 1525655435
+        },
+        {
+            "author_name": "Kendall Robertson",
+            "author_url": "https://www.google.com/maps/contrib/101647784659271391003/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-MnkbDSQTBjA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0wQAN2IUkXqe7Y118GTGbaRnuHmQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Amazing customer service, Chris went above and beyond to show me how to create my own coils and set me up with a brand new tank for my unit. I HATED using pre-made coils but never understood how to use cotton and do it myself - until today. My new vape is dope af!! \ud83d\udc9c",
+            "time": 1519338819
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12711458228065723782",
+    "utc_offset": -240,
+    "vicinity": "1022 Queen Street West, Toronto"
+}

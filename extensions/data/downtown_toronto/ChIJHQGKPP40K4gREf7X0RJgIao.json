@@ -1,0 +1,112 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Fennings Street",
+            "short_name": "Fennings St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3B8",
+            "short_name": "M6J 3B8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2 Fennings St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3B8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2 Fennings St, Toronto, ON M6J 3B8, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6440792,
+            "lng": -79.4214416
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454403802915,
+                "lng": -79.42002916970849
+            },
+            "southwest": {
+                "lat": 43.6427424197085,
+                "lng": -79.4227271302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "0a6b462a045b206563422a9727edcb09669589ef",
+    "name": "Fennings",
+    "place_id": "ChIJHQGKPP40K4gREf7X0RJgIao",
+    "rating": 4,
+    "reference": "CmRSAAAARXSjBnkSxiIy4Zok-4QsKCLLAHk3MAT-pNM0PtX8Tj-aI6CFDUCMYO7Nt2PuqpZjOE95l0gpPykBYTZ-xRyro_MsXxbCc5u4BEBQz6BAG2OynrJNJjuPttmXdcA0HAu8EhBO7eRfTCBq-YT8lAKxgvMNGhTptjQrrEvUfIomFCvteavvD76PnQ",
+    "reviews": [
+        {
+            "author_name": "Steve L",
+            "author_url": "https://www.google.com/maps/contrib/117319498761727606794/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-P8L8qioPygE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0XE2o1TuMe9jlXAPZd0Q1SJA8DQQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Tough but fair, best workout I've had in ages. Complimentary chocolates and excellent waffles.",
+            "time": 1489420841
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12259185294625472017",
+    "utc_offset": -240,
+    "vicinity": "2 Fennings Street, Toronto"
+}

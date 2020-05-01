@@ -1,0 +1,189 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "624 King St West Lower c/o Keller Williams Referred Urban Realty, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "624 King St West Lower c/o Keller Williams Referred Urban Realty, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 572-4887",
+    "geometry": {
+        "location": {
+            "lat": 43.644247,
+            "lng": -79.401512
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6455959802915,
+                "lng": -79.40016301970849
+            },
+            "southwest": {
+                "lat": 43.6428980197085,
+                "lng": -79.4028609802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ce19a9f561af3de9f8b94907ee6329087b555b1d",
+    "international_phone_number": "+1 416-572-4887",
+    "name": "Team Mangos",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 9:00 PM",
+            "Tuesday: 9:00 AM \u2013 9:00 PM",
+            "Wednesday: 9:00 AM \u2013 9:00 PM",
+            "Thursday: 9:00 AM \u2013 9:00 PM",
+            "Friday: 9:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: 11:00 AM \u2013 4:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101978446826196440337/photos\">Team Mangos</a>"
+            ],
+            "photo_reference": "CmRaAAAA4FkIkNHOi0B1yCmnsL6OtHpYxwj_vIXTjdgcqWwDEnNbAYHZ_9DHqBjlR2ogYeXxsWq5jPZF5sAMfe_qPZQhu3ujqsQx554cOtYOGWkuW-pTkRcu-YXjlfmY4JsAOE1jEhByP5lYX210QUc-orANNEPUGhQl-LmtCJcmSwEkHUiKkIvr_g0LFw",
+            "width": 1000
+        },
+        {
+            "height": 732,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101978446826196440337/photos\">Team Mangos</a>"
+            ],
+            "photo_reference": "CmRaAAAAubTb6EEtqfWr-9JIP418UiouwYP6NvKOuRdRMwq0IU0H6_ZyOpcw7kBjf5XP3ZuwaGVZ5Jq-ALJ-mQUu2oAk2mBUf6r_EGQ4xYCI5pZDz265zk_LWud5vEoL9BaJSEYlEhBcVSERZSkJT7atbawovi_RGhTkJBVYWrjeINwv02lmr8m52-WeFg",
+            "width": 732
+        }
+    ],
+    "place_id": "ChIJAwDA3CvL1IkRDqrFPMUuB7c",
+    "reference": "CmRSAAAAq9FfVfASFw_YcevEvMJlTsO9YllpOfMhCNQSwI1EbTf92j5kmNDOuDbxxFTRr29_NwTzjvEvY9RAzTr8TFNOACK1EV1qmXjXWrb95rAMmHUUegWbpnDd8hJl4OB0B55hEhAo9hQQQ4FJiILUoQyy7e7KGhQJcSFJ6BGbSefOJlIsZmkNBmVoHg",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13188561458440808974",
+    "utc_offset": -240,
+    "vicinity": "624 King St West Lower c/o Keller Williams Referred Urban Realty, Toronto",
+    "website": "https://www.teammangos.com/"
+}

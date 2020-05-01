@@ -1,0 +1,183 @@
+{
+    "address_components": [
+        {
+            "long_name": "705",
+            "short_name": "705",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W8",
+            "short_name": "M5V 2W8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">705 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "705 King St W, Toronto, ON M5V 2W8, Canada",
+    "formatted_phone_number": "(800) 465-2422",
+    "geometry": {
+        "location": {
+            "lat": 43.6434333,
+            "lng": -79.4041962
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64486383029151,
+                "lng": -79.40287881970849
+            },
+            "southwest": {
+                "lat": 43.64216586970851,
+                "lng": -79.40557678029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+    "id": "064c5349a0fd561688918491dadde166ef5d5351",
+    "international_phone_number": "+1 800-465-2422",
+    "name": "CIBC ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108999338855089978076/photos\">CIBC ATM</a>"
+            ],
+            "photo_reference": "CmRaAAAA-mhItx47NuTiywk-qgctwrElgBUb6h7pP_8bbXri2K34kPMywc-7s4SINCccR-JI0GwdKtRIOV5HeBO_CUbrBsqxXzJ9Yu8I__Aw4zFTER55Xraz8dRZU4FyHjvwMQbZEhA9xMmpKeCzYSwUN0vp47CIGhRg1nAitZk79RUpmR3mHxtSvPWbzA",
+            "width": 2000
+        }
+    ],
+    "place_id": "ChIJsZuVcKY3K4gRYYsQSpi0_lo",
+    "rating": 2.4,
+    "reference": "CmRRAAAAcdhT6dZ3y1Xk8oMmQrRirXEu2uPauVQfnQUnAgTixwyT78TSs6AhuU20nOx8EXYvi_DsDFYb8DdP2ONhK8TAx6Vt2hpV7pAR2zxKWzXGLKYWcT_WcXHh5Va2UHD6enYmEhAXMtT69zMWjXDIAZRTDUBgGhT1qwQOcekgd8jh3dV3GQXzhx8ixw",
+    "reviews": [
+        {
+            "author_name": "Bruno gomes sentone",
+            "author_url": "https://www.google.com/maps/contrib/109722644179933233943/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-t-GQa39BD5k/AAAAAAAAAAI/AAAAAAAAKmk/7_tpqSl-eA8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "There is no ATM at this location",
+            "time": 1498856650
+        },
+        {
+            "author_name": "Kevin Chou",
+            "author_url": "https://www.google.com/maps/contrib/104666875206642778737/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-5LDb9489BYY/AAAAAAAAAAI/AAAAAAAAVm0/zh1uDRPQ8Do/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 years ago",
+            "text": "Great ATM. ",
+            "time": 1382237102
+        },
+        {
+            "author_name": "Bianca Castafiore",
+            "author_url": "https://www.google.com/maps/contrib/110589394208599146047/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-38S-Up1Hx2k/AAAAAAAAAAI/AAAAAAAAAKs/d-tfwN2t9lI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 years ago",
+            "text": "No deposits. ",
+            "time": 1373494851
+        },
+        {
+            "author_name": "Colin James",
+            "author_url": "https://www.google.com/maps/contrib/110875434063036571384/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-OcEiO1lLnD4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1o2ITI9CACaCT_KhzHwBNEyjxnzQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1480913173
+        },
+        {
+            "author_name": "natasha pelaez",
+            "author_url": "https://www.google.com/maps/contrib/116362234603572247630/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ZOdp06x57kk/AAAAAAAAAAI/AAAAAAAAACs/N76ALZhXD6M/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1460155055
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6556876673668647777",
+    "utc_offset": -240,
+    "vicinity": "705 King Street West, Toronto",
+    "website": "https://locations.cibc.com/on/toronto/4b92?utm_source=google&utm_medium=distrib&utm_campaign=google-distrib"
+}

@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(416) 256-5611",
+    "geometry": {
+        "location": {
+            "lat": 43.643487,
+            "lng": -79.3935096
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447667802915,
+                "lng": -79.3924211697085
+            },
+            "southwest": {
+                "lat": 43.6420688197085,
+                "lng": -79.3951191302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6095495a7893071a15a49cb435980ea0b824628a",
+    "international_phone_number": "+1 416-256-5611",
+    "name": "Palmleaf Productions",
+    "place_id": "ChIJZ-E6qdk0K4gRWzotlE2MFVM",
+    "reference": "CmRRAAAAhAy5GTGkw8JDvWNhfFY2T9Hf_MdYt34hqVQiIBMW4ivtdY0DHU_JJ77X9suxyXGMv8LoC_vrXAtogY1No9exP_2uMH7JiWn3z-kiL56ooNLzUtrgLv2KGmu0z6EN4APHEhCDiAaK40cB7pySQ7Iuv6j1GhTP4_wNoIEtJQcvbTkMl2o8XRsD8Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5986845544485304923",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue, Toronto"
+}

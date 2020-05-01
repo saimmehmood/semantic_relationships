@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "886-890",
+            "short_name": "886-890",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J",
+            "short_name": "M6J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">886-890 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "886-890 Adelaide St W, Toronto, ON M6J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6431207,
+            "lng": -79.4135561
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64446968029149,
+                "lng": -79.4122071197085
+            },
+            "southwest": {
+                "lat": 43.64177171970849,
+                "lng": -79.4149050802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "0c7b9fac026863722ea28e0eae728524df594539",
+    "name": "886-890 Adelaide St W",
+    "place_id": "ChIJpcK3r-I0K4gR8TJaqUelX4Q",
+    "reference": "CmRbAAAAGw-WGqGXLpUSO3iKizkQ5OZg-3HIUhxq-qFz8A060oNjmZBj52zUYLrL11lZhShplYdkWczKOX3QXMQ4H2qK-jYWa4n-Kbo-Rra-cjlecJML49-pBA6Yti_RvETfohoMEhC8JbpIus-k3sAA4Sn_4m-ZGhT1xyGMUEDMLAVdkbSCmPuTxYCrRw",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=886-890+Adelaide+St+W,+Toronto,+ON+M6J,+Canada&ftid=0x882b34e2afb7c2a5:0x845fa547a95a32f1",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

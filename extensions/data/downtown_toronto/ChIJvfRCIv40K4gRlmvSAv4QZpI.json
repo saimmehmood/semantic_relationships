@@ -1,0 +1,247 @@
+{
+    "address_components": [
+        {
+            "long_name": "1033",
+            "short_name": "1033",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 0A6",
+            "short_name": "M6J 0A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1033 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 0A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1033 Queen St W, Toronto, ON M6J 0A6, Canada",
+    "formatted_phone_number": "(416) 538-5800",
+    "geometry": {
+        "location": {
+            "lat": 43.6438844,
+            "lng": -79.4194813
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453137302915,
+                "lng": -79.4181611197085
+            },
+            "southwest": {
+                "lat": 43.6426157697085,
+                "lng": -79.4208590802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "08b495be332a1d26dcfbb7fb214c269a47fcb680",
+    "international_phone_number": "+1 416-538-5800",
+    "name": "The Dentistry Place",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 7:00 PM",
+            "Tuesday: 7:30 AM \u2013 4:00 PM",
+            "Wednesday: 11:00 AM \u2013 7:00 PM",
+            "Thursday: 7:30 AM \u2013 4:00 PM",
+            "Friday: 8:00 AM \u2013 3:00 PM",
+            "Saturday: 9:00 AM \u2013 3:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687/photos\">Patrick Asselin</a>"
+            ],
+            "photo_reference": "CmRaAAAAeX3E09BC-c0U4JFG0vRTf3w3nD_qkT5I8_jAkiP3O_0fgiY1Ym3htcHT1KbmWiwu3xWy_Oj7ek2luYHbOEtJGcsZab9wAqTNf4FIpwpcz8dFvk-Ax0qm1ujanpkkeSnfEhDOE_jAOxIXsMWRebU1Gxe6GhQ8d5xNEw54LPy99oYkUSrVSnZYCQ",
+            "width": 3264
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAA7omSp5MDudD8l03A5hcZoPkRG2alhIbVdmSpzlgnXHLf8DN69xJEHqNOK6vPzRVjyI9Wqu5D_s1DzKZPdgRY1y0rZaZH0WB1JYk0SRYjA_zLJsA4XL76VnmWcrd2hcOkEhCPYjKydtTxkxkoHmky4UAmGhRPiJHvcI7HogzXl1HhWyu_W31Pig",
+            "width": 3036
+        }
+    ],
+    "place_id": "ChIJvfRCIv40K4gRlmvSAv4QZpI",
+    "rating": 4.7,
+    "reference": "CmRSAAAAiz8PuIq2Jq-Io_63SFUVKa29cWKGAHFKcEBiG1stI4l0inV6iZQ8clU3G6kEn3iIO1UV6QZqlUYNkddJe8BX3WarZRzrzzs8o6YKQwLUoedzcdk0Iu_uLEPppW7k3tA3EhBZC2w2m2CXiyri4aWyhcOdGhTdekC6y4WGWmmQKblu1UbCQEmPZg",
+    "reviews": [
+        {
+            "author_name": "Keith Lutz",
+            "author_url": "https://www.google.com/maps/contrib/104759088628325996721/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-X-PuRx4vevA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2JHPUcJz29bNTre9fomgfFRXF1Yw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I never write reviews but I had to for this office as I was so pleased with my experience. I recently switched dentists and started going to the Dentistry Place. I am very strict with my teeth and getting the best care for them and I can honestly say I have never had a more thorough cleaning when I went for my first appointment. They play friends on the TV for you during your appointment and the chair is so comfortable/gently massages your back... AMAZING! on my second appointment to get my crown replaced I was terrified as I had a bad experience with my original crown. This office is amazing. The crown replacement went so smoothly and did not hurt at all!!!!! I was made to feel so comfortable by the dentist and his assistant as well. Highly recommend this place!",
+            "time": 1524061773
+        },
+        {
+            "author_name": "MIKE SHULMAN",
+            "author_url": "https://www.google.com/maps/contrib/101331252391075548264/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-VAS2Oeo6ABI/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3fxqm9g_J8eXOngM8HwFYdLUmExA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "From the desk to the dentists, the staff at The Dentistry Place treated me with the utmost respect and care. Booking an appointment was easy and I received very helpful text and phone reminders. The dentist and their assistant were completely transparent about my treatment and the costs involved. It was great to get to an actual sense about the state of my oral hygiene and what I can do to improve it. They were also very in tune with my pain tolerance and have great bedside manners. Plus, you can watch Netflix while getting treated!",
+            "time": 1522798506
+        },
+        {
+            "author_name": "Karen Urbano",
+            "author_url": "https://www.google.com/maps/contrib/111934800719949508413/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-oJWWr2tbfvc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Xof3iH8aTnJfMrIlOTRCCz3AoGw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Very friendly staff- advanced tech. to show live photos of your teeth! very cool",
+            "time": 1511292311
+        },
+        {
+            "author_name": "mahogany K",
+            "author_url": "https://www.google.com/maps/contrib/108383017381009376791/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-gPR8A25S-qY/AAAAAAAAAAI/AAAAAAAAAJE/Bhth9blUYhw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I've been going here ever since I've moved into the surrounding area, my last appointment was quick easy and very well done. I never felt rushed and I always felt like they had my best interest at heart. Booked with receptionist, she knew my exact history and gave me details for my follow up appointment with ease and grace. Great customer service staff, they will definitely be recommended to my friends and family.",
+            "time": 1472183009
+        },
+        {
+            "author_name": "Andrew Johnston",
+            "author_url": "https://www.google.com/maps/contrib/102967916189530469484/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-BI9qrsVvYLI/AAAAAAAAAAI/AAAAAAAAAA0/-c0APsJaJb4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Everyone there seems nice, I'll go back.",
+            "time": 1480455679
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10549137860317047702",
+    "utc_offset": -240,
+    "vicinity": "1033 Queen Street West, Toronto",
+    "website": "http://www.thedentistryplace.com/"
+}

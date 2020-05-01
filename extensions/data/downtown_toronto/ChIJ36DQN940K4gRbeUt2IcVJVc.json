@@ -1,0 +1,254 @@
+{
+    "address_components": [
+        {
+            "long_name": "200",
+            "short_name": "200",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "642",
+            "short_name": "642",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">642 King St W #200</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "642 King St W #200, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 900-6031",
+    "geometry": {
+        "location": {
+            "lat": 43.6443295,
+            "lng": -79.401483
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64559613029149,
+                "lng": -79.40010141970848
+            },
+            "southwest": {
+                "lat": 43.6428981697085,
+                "lng": -79.40279938029148
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f3963bf84220306675f0b8326e3250ca819f1458",
+    "international_phone_number": "+1 416-900-6031",
+    "name": "Orange Offices",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 533,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAAs8RC-XXb1yzcykp2eTLn1cOfU0vs0Bq-smxNJ6iSxhgZ9F1taX05dWITXzmqmG-7v9QGE5yoZ94Y6xPFEyWe4GQfe8BaAjlajg6OsEdC4kOnN-vz60y1WsJzFPC45NGaEhCdKo8l6zJ-RHg04k9uz2q2GhTjF9r1jzY4F_XG4t6SaUiO3qfiog",
+            "width": 800
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAAD1uNKuDXs-0Dh91y2XjVimAR5SjMj8_rksTDYfX0ovypNChGOdCWSqS246N1V8lMAbgt5ON6j-xKrLeUUYmFHTFKj5Onmpv1jXc_FOEzhoz5yu2YzSAksJ-r97xUS9FJEhBwbG2YPiVvrwHu2627NvBEGhSNnts6Q0cFstWoilWe0wQJ9rABPw",
+            "width": 3264
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAALidf6k7mDn4tY1IWvy0SiLtpBzemE2XrGqa0_zzZQwlEnXd1aIzLyz4epyOhJ6iBVl28XmlsP8wzaQ0ADiEGLXXTBZRD4KQXoUfZBJ0p0UeMcgTyqE_WfGGT1INzAPSeEhCa5aCRtBgnU1Xxdeb-8dJNGhRndMz_psMmdXxEtqkggo7z1pdmEA",
+            "width": 2048
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAAYdzvekvI18LsbPHb5eayykAmOQ0C4AV_2beGsb_iBr9H3ogD66uZqFDFAymmeqjceXYhSsLbXxbSRsFRg4JwU1gzTszMjEDabs-o_C-Wn6cMplpzpO4Je5ix153vFMqxEhA_jk1JL5m7JdhUk6Gm8QGMGhSNNFhv1IZT02ROpIvUTyBTCUO27A",
+            "width": 2048
+        },
+        {
+            "height": 533,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAA6hbcPPZgtZVFyz1D4VYVfaj7gowe2ucp4ReBOD0jVSegyJsdim-CqE1SnMmZOCLErY1DSQXc6f_ud5DKXj4L4ffaXVOQ8xDYPDAeGcHHZ2ecfDq5Bvi5H2RZ_l4u7HuaEhCnWsJNr8zTrKRxK1Us-1onGhRKwVU-xe05gVj-fQFqSwI0Q0m51A",
+            "width": 800
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAAzztCM9t6ZViD--DIgbR65MWHaepkWvLI9PFY86cwLURsQmuXRNS59RDwnBrCqAm3Hs86N7-LW0MmHqG7uKogtNZEjDAQJtuzvYQFnhL8iL14t8ey7WbaCeB-acEa3ZJ4EhDKHPmIlJmB7PMloewDddiXGhQWSCHt3Ll9b0fB2pUosoqtZFEKCw",
+            "width": 400
+        },
+        {
+            "height": 533,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAA6hwLTxaN20avFJvwj_vY7SU27N3DOFzGQybvQtTySz03iOkGsoTXZvP9ntmtjoC04hj_hjiVnekA5pc_hs4c9IC8G94AO86bkULNKrEjPWE7QGmvCBKRs4UtVG-qK2b6EhBMYPbSi5kt2suypM0wVL1vGhQ3Ej02PTVFVz42Yfsc4htKgZyCZg",
+            "width": 800
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAAye1u9ZVSo38jjQUQ4gPTnLmJPLDk2FWNKeCisOiSs7BJEw1lZ0Fdjjlu6R3VMBg9mWNRaxW16Dz72qlEMCg92fYyHfzJXdRZgcJGHPvfe4r9gYzbUdjk8ZiP9EMJ_4T3EhC_6g2zRwPraRd65R1qMz-fGhSeZdPYOfxm1-qG6dK2ewgnMlDpGw",
+            "width": 3264
+        },
+        {
+            "height": 533,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAAclz9B51GnweCxKyfi-AHgKKQCe80kZBM3ciU_dSrnu0uVCObCjmVaudqgIFOTakqiz0LsYa85t34Mz7t75zZVKFfXKPaosK2ch4yME_Pe8qmjuHyTZschi8cwB8dQsgzEhCkCG8tfjEmSehqSf_rrOatGhR42Es6kFmrR2QEhCt8WKGT9sPyxA",
+            "width": 800
+        },
+        {
+            "height": 533,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110996745234824751475/photos\">Orange Offices</a>"
+            ],
+            "photo_reference": "CmRaAAAAwhNK3c9l5pfvoOodD6wejr-KIqbwA1frpEgxtiN8ZC6rRHJqTksNDu5yf3qTAfLXayP-JJbeRaVOKQ56IzivV1-yoCS7CpjotDH1Gqcskg5diTlFHuenkia-9FzIXuOYEhDZjOdjkHskxL3tcbxjlCB3GhQBqIYifCKEZfZ07XEGtTeFlv3Vug",
+            "width": 800
+        }
+    ],
+    "place_id": "ChIJ36DQN940K4gRbeUt2IcVJVc",
+    "reference": "CmRRAAAA-7CXN6YJ4oeznb1EKAFjIx9U2xjTTeTrHZ8Ccavw94G1x_xZHPLYXPQgRb6vdVki9NdMHzU92nUxaFUCY7izM2wJZ4jmnct7s3JwCSW18NNafPViPpZbeEFrUp7n3rN7EhAwr7LV_BGpaCHdP0VM-3g5GhRRzqtk6bfdHEuqN8Awpeq9VVeOUQ",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6279448928629679469",
+    "utc_offset": -240,
+    "vicinity": "642 King Street West #200, Toronto",
+    "website": "http://www.orangeoffices.ca/"
+}

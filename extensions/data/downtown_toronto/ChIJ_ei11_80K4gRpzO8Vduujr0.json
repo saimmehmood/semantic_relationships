@@ -1,0 +1,139 @@
+{
+    "address_components": [
+        {
+            "long_name": "1108",
+            "short_name": "1108",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1108 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1108 Queen St W, Toronto, ON M6J 1H9, Canada",
+    "formatted_phone_number": "(647) 339-8227",
+    "geometry": {
+        "location": {
+            "lat": 43.6435719,
+            "lng": -79.4231099
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448078802915,
+                "lng": -79.42171686970849
+            },
+            "southwest": {
+                "lat": 43.6421099197085,
+                "lng": -79.4244148302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fa3c5bd9a21f2b7e9e287d3fc42eecb6fe69f5cf",
+    "international_phone_number": "+1 647-339-8227",
+    "name": "Socrates Mercado Real Estate Broker- Bosley Real Estate Ltd.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 961,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117073505899549308097/photos\">Socrates Mercado Real Estate Broker- Bosley Real Estate Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAarg7wTX5zNf3j_0tMOfbtwxGrverdFEuoR7S1Kr-uF-1GZ8WCp6f8axelkNwQQyk5CMDBnovI-VtpOXojiLWv-SmaucxTvFSc0GVm4qvjMnICCrn8XzEUUiUEwyYvpiaEhBxnRLGD6AeXtZdgFTwz8T2GhRXsuO8Lg4LR6Ws5VIPXnxZvSNGHA",
+            "width": 960
+        },
+        {
+            "height": 315,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117073505899549308097/photos\">Socrates Mercado Real Estate Broker- Bosley Real Estate Ltd.</a>"
+            ],
+            "photo_reference": "CmRaAAAAdPiCAZJu8KnYCzdGJ33fWzvx205y4-bmdu01eqMKHwANx4cFscgFtXCqKtpQzWJw_miJvf5ZeO7pQmnmgirZ-IDtVW1mEixBZEhBc8Yu7BK0nQxTDTUy4pW5klJdoIFaEhBtjbGvBXgJ64y3lHjNnR4yGhRGKx229P4FqbDka6hU0Iv-w4lBAQ",
+            "width": 851
+        }
+    ],
+    "place_id": "ChIJ_ei11_80K4gRpzO8Vduujr0",
+    "reference": "CmRSAAAAUC440bmFCeKPS5G7_wkOVjchSxD3UGBoC0187YDHfnRKdfrjQVblF6Xc21xJKp2-nsifnEkRffiabpOuqG-R4ROAAeCj9HCllIcEVu485r3xe3oqFbbQqDxK2kA1i2k0EhC5JsbOrysgDgzMROof-PwWGhSujOfz7i_xgz1UwnXxvwJJzLD5GQ",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13659046976920761255",
+    "utc_offset": -240,
+    "vicinity": "1108 Queen Street West, Toronto",
+    "website": "http://socratesmercado.com/"
+}

@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "162",
+            "short_name": "162",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Strachan Avenue",
+            "short_name": "Strachan Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2S9",
+            "short_name": "M6J 2S9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">162 Strachan Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2S9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "162 Strachan Ave, Toronto, ON M6J 2S9, Canada",
+    "formatted_phone_number": "(416) 831-1728",
+    "geometry": {
+        "location": {
+            "lat": 43.644268,
+            "lng": -79.4129794
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64561698029149,
+                "lng": -79.41163041970849
+            },
+            "southwest": {
+                "lat": 43.64291901970849,
+                "lng": -79.41432838029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "adf5d13e284babfd3c424c35112658894a384e35",
+    "international_phone_number": "+1 416-831-1728",
+    "name": "Arbetsenhet",
+    "place_id": "ChIJSZ9Aw-I0K4gR8J-Rd1MptTs",
+    "reference": "CmRRAAAAG143JfqvITP9BK-0_uEQMoXU1BKL01NlTYOpRfeE41UlgVgbsos9pLUcdulITBT3yPghtDE0R_DBgnWCTLhh9zykU21I4U9bQQAs1QpDen5YdbdtPD6LbkLGMnOboyFFEhCT85aC3z49Dgn-RKwjGecZGhR0Qy3TtXDOXBNET-HiDlff0RMoUA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4302390457487433712",
+    "utc_offset": -240,
+    "vicinity": "162 Strachan Avenue, Toronto",
+    "website": "http://arbetsenhet.com/"
+}

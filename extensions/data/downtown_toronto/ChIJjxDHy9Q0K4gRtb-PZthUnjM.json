@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "55",
+            "short_name": "55",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A6",
+            "short_name": "M5J 0A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">55 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "55 Bremner Blvd, Toronto, ON M5J 0A6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6428849,
+            "lng": -79.38061669999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64434133029149,
+                "lng": -79.3793109697085
+            },
+            "southwest": {
+                "lat": 43.6416433697085,
+                "lng": -79.3820089302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "8b0535f8582638f71508b08c45f051541bae3911",
+    "name": "LIMBIC Learning",
+    "place_id": "ChIJjxDHy9Q0K4gRtb-PZthUnjM",
+    "reference": "CmRRAAAAs0lXr5ANDDDL8umMAovNGBBQwX_UWf6eeXDM16KkAbOh0y4CiVyiiUHHwQOcibwXSffCTuKzAGYydbdEbUoVjxwWmVtF5wrk5z-uQ1Oybrmq8_vzRvUaGqluLysWyATJEhCXzCFbHw5vsg6jXI8p7-UYGhShraFQ2gng392GNPC22rspg4cIiQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3719503630664974261",
+    "utc_offset": -240,
+    "vicinity": "55 Bremner Boulevard, Toronto",
+    "website": "http://limbiclearning.ca/"
+}

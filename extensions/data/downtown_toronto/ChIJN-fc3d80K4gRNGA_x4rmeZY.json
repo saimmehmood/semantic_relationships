@@ -1,0 +1,237 @@
+{
+    "address_components": [
+        {
+            "long_name": "68",
+            "short_name": "68",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bathurst Street",
+            "short_name": "Bathurst St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2P5",
+            "short_name": "M5V 2P5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">68 Bathurst St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2P5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "68 Bathurst St, Toronto, ON M5V 2P5, Canada",
+    "formatted_phone_number": "(416) 504-2955",
+    "geometry": {
+        "location": {
+            "lat": 43.64281829999999,
+            "lng": -79.4024641
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64418903029149,
+                "lng": -79.4010096697085
+            },
+            "southwest": {
+                "lat": 43.6414910697085,
+                "lng": -79.4037076302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "cd214e891e5f9cdf095ccbb267556d798428906a",
+    "international_phone_number": "+1 416-504-2955",
+    "name": "Cykl",
+    "photos": [
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114181485321211510238/photos\">Cykl</a>"
+            ],
+            "photo_reference": "CmRaAAAAdCbkTVnK9SjnrSbToRP2elClpeajh2eyIUNNRV9zXy2pR2qray4hK1Yuim_nixNZJ3OI6qIxE83Eg4mOgGAl_euB-Mi9ykWoZ5Gqz37_iknx-TEHCcVLQwuengwapbHJEhDTBZvzfhoI33f6Ip9qC71-GhSaihjDRPa1RQjTADBamd-kaZk-Ug",
+            "width": 5760
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115405483290188730351/photos\">Jeremy Marentette</a>"
+            ],
+            "photo_reference": "CmRaAAAAqlPBA_dNVdsnHA-CZtuM7XC5B4bXzM9k2OX2jebEt-p5Rljb3RVBur8TO93yjRb5eZrsish91Xj2XVRE22WEh2dNedETxPY3m7OByzpfF-_6cWo1E1B-1PtEaLWyWy6pEhAwl5Ozj7Vdtf86oDFFxpiWGhR5rFURfvILSmjafH9t7RSYdFkfVA",
+            "width": 3984
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114181485321211510238/photos\">Cykl</a>"
+            ],
+            "photo_reference": "CmRaAAAAvlk36frrG4vxvV9doFdafQU20PjCgwGWWypgmx8wi3rICvTUeSBLNcaGB4RGh9HAAomFhoDj7HVay76zZT9qA8P3F62TDuKtQBvHWE_0ispY__JglaadBgOwU6UnESkPEhCJKHT12vqAmsk5Pr_zy2jEGhSaVdygtAKLAhUO-GbQv8zppgoVxg",
+            "width": 5760
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114181485321211510238/photos\">Cykl</a>"
+            ],
+            "photo_reference": "CmRaAAAAgOmiyv8TOrW30pLrj_4m5ArDGaZev50ijOELC16LbxsVW6hRcqqc4wbiXdv0WfdF93aHnYiPmPalKzd9b2Z9lpsQKqDGzaF2zcKDnKEycFjEpbbjmrb88Xe0zJ6gwfdeEhC6FROjfznksj722xEy9Hs6GhTaB3YkuqccTRN6C_GUbcknIACumg",
+            "width": 5760
+        },
+        {
+            "height": 2698,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114181485321211510238/photos\">Cykl</a>"
+            ],
+            "photo_reference": "CmRaAAAANPJ3XNV9Gfz6nlxEZH_4UkCdY27ZNyzmwrfUJx7gylPgNjY-EvpjSkUWigpkyf2K_lY-5uNPbWwLcsUjr2Ryk3h2mxR59CSGC9Q_t3bd4HIdDvV3Cyms3ED0RjeAhYrEEhDA4esfKhjNFU2lLTKme9FIGhTZbhulf2AnZtEHwkyOAuZSD6y1rg",
+            "width": 3637
+        },
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAA6iCxR1j-3dh7Ey4jiEuDNHXI5wXx9tX0WsM2dk4KRbmUZhp33MGyEHFiSXfmcdMPQ0CRVjcP8zPiTJZ5ZWH4jOCL14CBhyilB7ecA7G1-WByViwLtjtWwtTR2KJwAvJnEhArJxCZkQAKeQEQyQFD5jwhGhRlEp10GogfDWCrBgxTjUFMg1IHPQ",
+            "width": 3264
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114181485321211510238/photos\">Cykl</a>"
+            ],
+            "photo_reference": "CmRaAAAAeNtzOArLthtXoGnvTflXHyQukrdD0mF68x94BkvffzoJvgZcUTjoe3Hjz6N1fTvZOTDVm2xF77DYaJdgL0l_TVbSjacxz3pDYb004GWYXC7ZIrAj6_nxW22kCqlo11KIEhBOTbQssnr3h0_WD_LgUFsKGhRIvjBXPPR0CvNWhRCJ6ZD4kvZWxw",
+            "width": 5760
+        },
+        {
+            "height": 2702,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAi8oxR2xPrYtakauA6LkTaOSr1CkVwMmoxAyni0gTq7JubqoR1BMLU8D3POAsCQkxiV13HCfWPwXAo7F-tB9_zbyyOfktEpBs9IDz0Q7qPYNzJH3Q7le0n_R3FxgZzsM2EhD1L6FNr20o3gkeMZRqUEKNGhRvA_TK-YKwbaLChIIex4Z9MAJwwg",
+            "width": 3649
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114181485321211510238/photos\">Cykl</a>"
+            ],
+            "photo_reference": "CmRaAAAAlgPRrs3ji4BpE9pKzo1isoUQJLsA7GEa1O0zV-hwCMwH3QMexP-KhHHS8eT1O-jxjZUg9-gw247c59RrSBHvL8Q7vhxmJFGG9isu5tKueszf4lZQcyhYWHJwcRBWnfmyEhAZ5S-9lwZmlKzDCKG3UqOmGhRzKdJq-WQIXWw5-oUC4Gntv3P3NQ",
+            "width": 5760
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAK2B1YgaK2bm29vrfPBrNyHL0jBHqNvEZonhMNLtvb9Y9x7czyWGvLRCJGDDKP792vw6eGvkjT_PyICwxt8k-IMYcIiedAocuG1b9zAJd4l6Gb_4eLBT4arbjs5GMGUaZEhABtx5T6WyMXc1yj1D2JTOtGhTyXvlkeIduapiydFz9QpqENTQ_8A",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJN-fc3d80K4gRNGA_x4rmeZY",
+    "rating": 4.6,
+    "reference": "CmRSAAAAy5YuYnRiuvkX-spMO_0cKZlWDuqA6xFFgVdIRUtNfDv8dJ0IjD1whVyBZZqJbh5Db3lG5qariuz0ABx1Zl4AVCtzntTwQpQzZRyPKhfzs1ngV_fwpVmN8lbXfi2AhYl-EhCFcWsIID1TqnKXyJVVLpaKGhQYHO0ew1xSOsLaW5hQzF_Rt3pkGQ",
+    "reviews": [
+        {
+            "author_name": "Brendan K",
+            "author_url": "https://www.google.com/maps/contrib/104098783969628776447/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-TtBIG2ECJ0Q/AAAAAAAAAAI/AAAAAAAAW8o/XSn4yhTdFn0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "A great workout - Connie's 45Plus class is my current favourite, followed by the quality playlist and difficulty of Krista's classes.",
+            "time": 1521988415
+        },
+        {
+            "author_name": "V White",
+            "author_url": "https://www.google.com/maps/contrib/115598680488652592826/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-nudGGf1Os1U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq29X_3JF-3kcVTrmbCRV5ujcmnz4Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Great class - the bikes tilt for a more realistic experience. Nice instructors.",
+            "time": 1509570361
+        },
+        {
+            "author_name": "Tracy Solomon",
+            "author_url": "https://www.google.com/maps/contrib/117757165861421344919/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-szRu_2y4J8Y/AAAAAAAAAAI/AAAAAAAAAKI/a-2yZn2Bun4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This is the best place to ride in the city of Toronto. The bikes are kept in great condition and they lean so you get a good core workout taking turns, especially on hills. You can count on a great workout every single time. Instructors put a lot of thought into the course for each class and I love how they sync it all to great, motivating music. The staff could not be nicer, the facilities cleaner or airier (the natural light especially nice during the daytime).  The emphasis is on your health and the quality of your workout and there is no judgement. There is a real sense of community here. I am addicted!",
+            "time": 1483478708
+        },
+        {
+            "author_name": "Mai-Liis Veinberg",
+            "author_url": "https://www.google.com/maps/contrib/112749361593964519608/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-u5puLLhyyYI/AAAAAAAAAAI/AAAAAAAAABI/TcCQk6aABCI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "TRX and Amy made my hands and butt hurt for days.. good pain!  One of the best workouts of this year. Using classpass, so i visit different studios and work out with many teachers. ",
+            "time": 1504997686
+        },
+        {
+            "author_name": "Barbara Fletcher",
+            "author_url": "https://www.google.com/maps/contrib/107636501582510950464/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-aiFyNr3N0bY/AAAAAAAAAAI/AAAAAAAAAa4/WBcD7bILf1k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Wow, what an amazing place to work out/spin (which on a RealRyder bike is way more challenging and fun than a regular spin bike!). The instructors are so supportive and encouraging. Kim and the team challenge you to meet your goals in a safe but invigorating space. Men & women, older & younger, athletes & non -- there's a nice mix of riders in the room, all sharing the spirit of improving fitness. It's the best indoor cycling studio in town.",
+            "time": 1480003763
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10842951061593874484",
+    "utc_offset": -240,
+    "vicinity": "68 Bathurst Street, Toronto",
+    "website": "https://www.cykl.ca/"
+}

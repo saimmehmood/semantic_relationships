@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "57",
+            "short_name": "57",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Michener Court",
+            "short_name": "Michener Ct",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3R7",
+            "short_name": "M6J 3R7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">57 Michener Ct</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3R7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "57 Michener Ct, Toronto, ON M6J 3R7, Canada",
+    "formatted_phone_number": "(416) 203-0378",
+    "geometry": {
+        "location": {
+            "lat": 43.6440098,
+            "lng": -79.4050962
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454140802915,
+                "lng": -79.4037683197085
+            },
+            "southwest": {
+                "lat": 43.6427161197085,
+                "lng": -79.40646628029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "459277f759f1e47a27c5f339164484f5b1b2e1c4",
+    "international_phone_number": "+1 416-203-0378",
+    "name": "Velotnus Consulting Group",
+    "place_id": "ChIJQwAPV-A0K4gRw11gfJHfPWk",
+    "reference": "CmRRAAAAnTcb5xl9ZdHUYtJyWwDxCNI7yE-vKKiUEybfDzZIt2Mygx-XMfAEEbagbAtAlcjek8WVqRZGvUCQT4BK5WJQIgMlkmfz0EFIJ18mAF66JF2LkMsaTwDSKDXjclaDuZ43EhDH8cGnJeodKJpmLFekZ362GhSgor3eAqN1HTzc97emOoG7-Si-aQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7583463163511725507",
+    "utc_offset": -240,
+    "vicinity": "57 Michener Court, Toronto"
+}

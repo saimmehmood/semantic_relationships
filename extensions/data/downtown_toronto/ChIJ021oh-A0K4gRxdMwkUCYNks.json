@@ -1,0 +1,285 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Y6",
+            "short_name": "M5V 2Y6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Toronto, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Y6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M5V 2Y6, Canada",
+    "formatted_phone_number": "(416) 417-0983",
+    "geometry": {
+        "location": {
+            "lat": 43.64403199999999,
+            "lng": -79.40262500000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64538098029149,
+                "lng": -79.4012760197085
+            },
+            "southwest": {
+                "lat": 43.64268301970849,
+                "lng": -79.40397398029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "048ab21ffecc73e75bfda41b7f6c012b088f6595",
+    "international_phone_number": "+1 416-417-0983",
+    "name": "Cotton Candy Event Staffing Inc.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 8:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: 8:00 AM \u2013 8:00 PM",
+            "Saturday: 8:00 AM \u2013 8:00 PM",
+            "Sunday: 8:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3238,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAARjSonVEsrsZLG3g4QbesY--_ujjv8oxTTdMSoejZT7y438duKQScVNbvg7dTKfS9j6EXoI7Dg2fhjPy9EVOFvYGEFrp3VQ_tdplLe0M8DTZhnDn9hEqPPfoAwdrKz3S3EhD96hSGDn9DOFx6im791-taGhRfg4NhJxfWq6Wqe4kDjPCLBTNtcA",
+            "width": 3752
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAws3H5jLJYBvZBFR_QcUvR-dAfWeytlzn91i3S_9upkypuaFV5gWBCboBOGGseG8Z1xakTgzWhMNCkUWBoxKpqmqNdaFKCxhTNJnXo7gbm8O9a4Mg64u59Dw4-JBMab99EhDgfMDYxCrmMT91SMeN6RmDGhQRIUcvVre1g8ovwfZR1dsPSJJf5Q",
+            "width": 4032
+        },
+        {
+            "height": 432,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAR4PaA5B5KOieR63IYYsXexrKf07cn2Heyt8AP1HNUoXIM6MaZFcuyYPV1fU-dgtlAChKUu44f4cNVGrdQvXqjRP9rl-9igo8CEfWZ_qhyMJLjxBnjikL9XiOfwC0NB_NEhC2kaFQVS4_eeWUWFEc-i-8GhTLDxJamtoGLtfwJatko-A0_l2raQ",
+            "width": 605
+        },
+        {
+            "height": 491,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAUG2wukXEpjXFnXI4WWE0JJA4O4e2JQ6QAUK3cQ2PNp746GZLMo5FoBvtCi9AOumOOIxB59XbXU8wQDjPPTHQgNq0SHUSkeMtLqbOAEaePLaL90OzfXNNAgHvjubZpMmbEhCtPIu26gur9ZhVAPBagZJqGhRGPv7AgGNO5qqs8skI9zHBiRbyYw",
+            "width": 599
+        },
+        {
+            "height": 1217,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAQJNlqf8zvCcVzeVCNAjqIhB8D2-_aU6XjmLg-Gb3L7q4pwQa5PWD8n9VkY0aaU9L0eHSoHNK3JZ0jHGf1ylBSSVqu2-1s7uGM4ABga7UIPWUOb_hojlGjUv629XvZBaqEhAG26K-YogR-h1eb0J0GqffGhTfQ2_9yw3s8lm7gRdjYYyuFY_WYQ",
+            "width": 2584
+        },
+        {
+            "height": 693,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAqZ5rS2X2y8YMTdGizMA6NLEpjk2aXtT6PJb5SsjaEJONGiTdPYkO_wX6JnXAUhN1X18Jiv7KbWB-DO8oPMq9eUcoDmkgtor2o4FWCmYaQVQPvXUA2kvINSsNjjUqUMTxEhAFGUQ4vRbz24TTPbIgbg9FGhQ0At10xPUQJYZMb3s9U6KntKbuaQ",
+            "width": 1311
+        },
+        {
+            "height": 598,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAo1gJAYqQg6s19Ab6b2BH4wt7l4grAcbt_OJsBRsjy-LsTh9sO0KPFq5bDhdJxweG_J0BrMoipZACqoZXhpRRR13XOrdRbYxl3F2OBD_6CHeoRFp4yufElg2zwxDLRZS_EhDWk6JdFEhdqyWDS023eM3fGhRvEHBvBi8m0xRF9bzNyt4ecFLjsA",
+            "width": 585
+        },
+        {
+            "height": 4000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAA24ucTZm13vGseR0D1gF8jEXTakBWyg7gEdskJzmrSXFR1Q4IHRiiBpK7BRcXNjAn1TqRQpj2e2veyY2GZIqS_kLV9leKMP1-EdSGsgMnba0QQJWE71hxxxXC9U-siZ_rEhBR3zNHgtu6h5kgVEYbyk9bGhRjto2Z20GWvjZVXsrIFP6JUW6Vdg",
+            "width": 2601
+        },
+        {
+            "height": 5242,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAfqFG6QI5gbkHE8Ego70UYruFIrcSvQfStleMduMGl-553ib1u6jBOkC9uNG5KlQWBXLgQoH22YQkwuvWCSav8MtA3jmwBpFEVG5gLW9qpzfVCbyr4q5VUDGeTP_mAQuOEhDxxGD3V4OafSo29Wp1HzSTGhQ-xCYD4Y2QfCNxtmU2CW2LLN_ERA",
+            "width": 3744
+        },
+        {
+            "height": 599,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112415297092090891775/photos\">Cotton Candy Event Staffing Inc.</a>"
+            ],
+            "photo_reference": "CmRaAAAAu5822sTTARruMMy63wBr5Tj2kBrX_p_jCjNvxs8n5Bir4x4fA3yQe_0CK3OX39A4igowqOFWcw8aKcJyZl1dtSAFz1a_RolAJxS2rlUNzkLxvuj-VaX1ZzTSKa0nvooCEhBWu9L7TMptKU0IIWExzMzYGhTxo-MIFCI26ED30EAGrP-0AvhA4Q",
+            "width": 571
+        }
+    ],
+    "place_id": "ChIJ021oh-A0K4gRxdMwkUCYNks",
+    "rating": 5,
+    "reference": "CmRRAAAAUd2ALT8PsUUBeHoBdEdDrTBxMpUHFqYeN31E-OaIbLEkrwk7twCf5cuZCoAcdCoqpynGssg1p3Urv9ojzrU-QtcRqtOsWVa88o7CAH8DQeDPbf4cWdXBDLTsstJ0BeZjEhAdcOZL-jCoWd7AQQTTzdHLGhTh8ymiO1VclsTFIiqtzglWSHH3NA",
+    "reviews": [
+        {
+            "author_name": "Kelly V",
+            "author_url": "https://www.google.com/maps/contrib/115542479396742678367/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-5TQM7P-C95Y/AAAAAAAAAAI/AAAAAAAAACU/ZjQ3IGELDmM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I have been working for Cotton Candy Events Staffing Inc for almost 2 years now. My experience from the beginning has been nothing short of excellent! Every event I work, I have the best staff by my side who are enthusiastic and prepared to elevate the event's brand. This is all made possible because of our detailed oriented and professional leaders, Jorie and Nicole, who care about their employees. I am thrilled to be part of their roster and I would highly recommend Cotton Candy Event Staffing Inc for your next event!",
+            "time": 1457016088
+        },
+        {
+            "author_name": "Melissa Spivak",
+            "author_url": "https://www.google.com/maps/contrib/108214056294120360552/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-P_MBk54EEtM/AAAAAAAAAAI/AAAAAAAAB_M/8UXj8DFHX_Q/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Cotton Candy Event Staffing Inc. has the most engaging, personable and professional staff! When I hired Cotton Candy to staff my company's re-brand, Nicole and Jorie took the time to understand our vision. They selected the most suitable team of staff for my brand, providing event staff that set the tone and made a huge impact on the success of my event. I highly recommend them and can't wait to use them for our next event!",
+            "time": 1456862695
+        },
+        {
+            "author_name": "Shaina D'Souza",
+            "author_url": "https://www.google.com/maps/contrib/108573456507911462605/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Gt15TzhtlRQ/AAAAAAAAAAI/AAAAAAAAABE/-pKY63U69Ok/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Just wanted to say that this is my most favorite promo company to work with!! ",
+            "time": 1472505315
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5419686604668195781",
+    "utc_offset": -240,
+    "vicinity": "Toronto",
+    "website": "http://cottoncandyevents.com/"
+}

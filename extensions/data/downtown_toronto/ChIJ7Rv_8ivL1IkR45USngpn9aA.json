@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "16",
+            "short_name": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 2A1",
+            "short_name": "M5E 2A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">16 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 2A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "16 Yonge St, Toronto, ON M5E 2A1, Canada",
+    "formatted_phone_number": "(647) 205-9942",
+    "geometry": {
+        "location": {
+            "lat": 43.643123,
+            "lng": -79.3762977
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64456028029149,
+                "lng": -79.3745537697085
+            },
+            "southwest": {
+                "lat": 43.64186231970849,
+                "lng": -79.3772517302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fcdcfb3ee3e8c6a2f38690ecdc495265312243a3",
+    "international_phone_number": "+1 647-205-9942",
+    "name": "We Buy Houses Canada",
+    "place_id": "ChIJ7Rv_8ivL1IkR45USngpn9aA",
+    "reference": "CmRSAAAAqPMVpaSs0Bteq2TnUcNhOUefMjdMtT4kOboCFbrB6dpyn985wQRQw4-0n2Ig79Wr0CoMwR2OtuH3XLm0j_T7dKcNiDsXYqZiw3EMfnJfYrx3E1nr9DxLWHVKX3d4sUFcEhA8gy2H3iPCKdiup1rLw6RKGhQdOvldQheYT5nMMdVnNYTsePkQ0g",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11598289710661932515",
+    "utc_offset": -240,
+    "vicinity": "16 Yonge Street, Toronto"
+}

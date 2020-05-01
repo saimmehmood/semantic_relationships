@@ -1,0 +1,89 @@
+{
+    "address_components": [
+        {
+            "long_name": "The PATH - Southcore Financial Centre",
+            "short_name": "The PATH - Southcore Financial Centre",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2T6",
+            "short_name": "M5V 2T6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">The PATH - Southcore Financial Centre</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2T6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "The PATH - Southcore Financial Centre, Toronto, ON M5V 2T6, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64333370000001,
+            "lng": -79.383022
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446826802915,
+                "lng": -79.3816730197085
+            },
+            "southwest": {
+                "lat": 43.6419847197085,
+                "lng": -79.38437098029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "24c53b7ce478f6a2e6225e739a2655f2d37006aa",
+    "name": "The PATH - Southcore Financial Centre",
+    "place_id": "ChIJh_PaitQ0K4gRBS39-IYy5uU",
+    "reference": "CmRbAAAAzVSkPLe4BgGICCd2GoeJwRsJchQ08frvH813JtuAGg4-5olvHZvlmm4N9Asyr0MaYcmZD8oGJD-LKHaMMCLo5Z51uqYET-BKW9_O3eTTKL7OZ_LMbieHwDqHiewyYJjiEhAGpaMVIvAc0kLDsfv5RU_rGhT2fbvxAxIAMGc79MDnUpcMSmsOyA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=The+PATH+-+Southcore+Financial+Centre,+Toronto,+ON+M5V+2T6,+Canada&ftid=0x882b34d48adaf387:0xe5e63286f8fd2d05",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

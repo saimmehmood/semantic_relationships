@@ -1,0 +1,227 @@
+{
+    "address_components": [
+        {
+            "long_name": "25",
+            "short_name": "25",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "York Street",
+            "short_name": "York St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 2V5",
+            "short_name": "M5J 2V5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">25 York St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 2V5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "25 York St, Toronto, ON M5J 2V5, Canada",
+    "formatted_phone_number": "(844) 724-6787",
+    "geometry": {
+        "location": {
+            "lat": 43.64327199999999,
+            "lng": -79.381076
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445676802915,
+                "lng": -79.37998276970849
+            },
+            "southwest": {
+                "lat": 43.6418697197085,
+                "lng": -79.3826807302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fbb8eb34b5050cf957b1fef2943b7861f5cbd782",
+    "international_phone_number": "+1 844-724-6787",
+    "name": "PC Insurance",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 7:00 PM",
+            "Tuesday: 8:30 AM \u2013 7:00 PM",
+            "Wednesday: 8:30 AM \u2013 7:00 PM",
+            "Thursday: 8:30 AM \u2013 7:00 PM",
+            "Friday: 8:30 AM \u2013 7:00 PM",
+            "Saturday: 9:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ5UoRutQ0K4gRDffQ8yr5PeM",
+    "rating": 2.2,
+    "reference": "CmRSAAAAYj5E5Xp21-CFOiIc6lzpqj0_ndRig6IJ-nkNG9dY3BKYSf78rVn8kPvdi6nHzIlbCuNwu8YERNPvBHvyFUZSGofU8bbsbuphnFYgcYFkgYtXb6xtel5RP_-PVhJE1LgMEhDi5bEj5ZYZKZNtaLx3zz6XGhQndVx04jT4Dc3ekIZkoFjlKmUKOA",
+    "reviews": [
+        {
+            "author_name": "akhil chandhu",
+            "author_url": "https://www.google.com/maps/contrib/112562342590595968584/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-GgfmH-PrzqA/AAAAAAAAAAI/AAAAAAAAANI/EQCH0ijoM8s/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "This is the worst insurance company i have ever seen. They just charge you 270$ for cancelling your policy without any reasons. Never buy policy from here and there claim service is also worst. Never go for PC.",
+            "time": 1528298776
+        },
+        {
+            "author_name": "Sanpaulo Bojaxhi",
+            "author_url": "https://www.google.com/maps/contrib/106727568622455341120/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-0VXtsP9J-fc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq13sYrUfri_QPcIOGpFFua7jqv7xQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "PC insurance is not a trustworthy company.\nFirst of all don't read the  5 Stars riviews they write them themselves or pay other companies always read three stars and down.\nThey're not loyal company I signed the policy with them one week before my end date one day before my insurance thay called me and increased my insurance and sead sorry but we made a mistake\nSo is that ok and increased by $60 a month\nI said i dont trust ur company any more and will stay with the one i am now with.\nIts sade wat we have to pay for insurance in Ontario\nAnd u wander way people try to scams tham.\ud83d\ude14",
+            "time": 1528879718
+        },
+        {
+            "author_name": "Auburnlady1",
+            "author_url": "https://www.google.com/maps/contrib/109339035238951914381/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-trY4f163ym0/AAAAAAAAAAI/AAAAAAAAADE/ceeV2v4m0c8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "I called this institution to get an insurance quote for my 19 yr old son.  I can't be happier.  Compared to my own insurance company that I have been with for almost 25 years, this quote was AMAZING!  They looked for any discount available and the young woman, Samantha, went above and beyond for us.  I can't thank you enough.  I know insurance is tough for young fellas, but my own company' s quote was outrageous!!!!   Thank you again PC for helping my son get his first insurance!!!!",
+            "time": 1516226455
+        },
+        {
+            "author_name": "Derek D",
+            "author_url": "https://www.google.com/maps/contrib/100998635004652047113/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-w7u3FaZ6gYM/AAAAAAAAAAI/AAAAAAAAAB8/BplmvR6kgEU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Seems like nobody who had a good experience here has taken any time to write a review so here goes mine.\n\nI was a loyal customer of Belair Direct since I first got my license 12 years ago now.  Every year since first getting insurance my premium decreased a small amount. (and a much larger amount when I turned 25) \n\nLast year for apparently no reason my premium went up about 5%. (No accidents or claims)  I didn't think much of it and wasn't in a rush to change insurance companies.  Then this year rolls around and it's time to renew once again.  Once again my premium is going up about 5%.\n\nI called Belair to see why this was happening, to which I was given little to no good reason.  After trying to adjust my rate for a little while, it comes back at the same price.  So I do some online shopping as one would do, and I find that PC gives me the best quote online.\n\nAfter receiving my quote I called the number provided in the email they sent me. Within 10 minutes I was set up with new insurance.  No hassles.  The prices I was given was slightly higher than the quote, but still a few hundred dollar less than Belair Direct, with whom I was been a loyal customer for 10+ years.\n\nIf you're looking for new insurance I would suggest giving PC a chance for yourself.  I had no problems at all like the ones other people seem to have had.  The customer service has been great, and the price was lower than anywhere else I got a quote.",
+            "time": 1503693048
+        },
+        {
+            "author_name": "Mohamad Darianian",
+            "author_url": "https://www.google.com/maps/contrib/110605871811832473533/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Cfgp_0Jyl8E/AAAAAAAAAAI/AAAAAAAAA6c/hJbqMvf9O4A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "Indubitably the PC Insurance is among worst auto/home insurance companies in Canada. This includes premium rate, customer service, and even quoting system. They have the most ridiculous and unfair quoting system ever. You wouldn't know your premium unless you activate it and they bill you!!! (it is technically fraud) The majority of customer service reps are impolite and not trained properly, and just learned to keep repeating things.",
+            "time": 1502381292
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16374517783063492365",
+    "utc_offset": -240,
+    "vicinity": "25 York Street, Toronto",
+    "website": "https://www.pcinsurance.ca/m/"
+}

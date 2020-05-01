@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "982",
+            "short_name": "982",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H1",
+            "short_name": "M6J 1H1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">982 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "982 Queen St W, Toronto, ON M6J 1H1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6444688,
+            "lng": -79.41801269999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64575663029149,
+                "lng": -79.4166375697085
+            },
+            "southwest": {
+                "lat": 43.64305866970849,
+                "lng": -79.4193355302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "67d6ecf9bca3062809a9f154fe90b29260f4151a",
+    "name": "The Citizen Room",
+    "place_id": "ChIJObWovv00K4gRoGAqjCNyR6g",
+    "reference": "CmRSAAAAGvXp9vayd2e52xcbf5p9eZkpzMEZUL8-MD-dgDjREz-Ucl9AceHZpO3cd7vHYP7GkNpp69oxgkApcW89-HrYR1T8VXWRGBFjCY9NsIUeMtK49w_bY9MQUFZbN87TzKTcEhCvcI_3R7eREmLbc6_V8U8pGhSrAOB79JpsQtNSVK7wj9HCcINNEg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12125786018719359136",
+    "utc_offset": -240,
+    "vicinity": "982 Queen Street West, Toronto"
+}

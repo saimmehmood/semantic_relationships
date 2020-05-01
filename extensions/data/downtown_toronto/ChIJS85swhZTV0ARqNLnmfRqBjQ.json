@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "York Street",
+            "short_name": "York St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0B2",
+            "short_name": "M5J 0B2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">18 York St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0B2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "18 York St, Toronto, ON M5J 0B2, Canada",
+    "formatted_phone_number": "(416) 366-7511",
+    "geometry": {
+        "location": {
+            "lat": 43.6431719,
+            "lng": -79.38222859999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64458233029151,
+                "lng": -79.3805848697085
+            },
+            "southwest": {
+                "lat": 43.64188436970851,
+                "lng": -79.3832828302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5705836de357914852a786c4c9a0fef4fd6d1a74",
+    "international_phone_number": "+1 416-366-7511",
+    "name": "Western Assurance Company",
+    "place_id": "ChIJS85swhZTV0ARqNLnmfRqBjQ",
+    "reference": "CmRRAAAA5intmLG7iZ7B134YPj3aogqlOz3TcyJgM7HtWERqWzAqU5GOopnFwYSQwKk_Q0Pm6zF07ZOkNb2cngYppuygS3Aj-C-Zf_yyndLFLUQ_zdMS7TI1LS3cpjO0Qho9CwhhEhASffi3CXIIpVrlZI1Y8g0_GhQClX-8x712YBh1V997-5H8qovSWg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3748801338619187880",
+    "utc_offset": -240,
+    "vicinity": "18 York Street, Toronto",
+    "website": "http://www.westernassurance.ca/"
+}

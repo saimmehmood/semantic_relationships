@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "786",
+            "short_name": "786",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N6",
+            "short_name": "M5V 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">786 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "786 King St W, Toronto, ON M5V 1N6, Canada",
+    "formatted_phone_number": "(647) 749-8600",
+    "geometry": {
+        "location": {
+            "lat": 43.6433361,
+            "lng": -79.4063596
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64460818029149,
+                "lng": -79.4049808197085
+            },
+            "southwest": {
+                "lat": 43.6419102197085,
+                "lng": -79.4076787802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "230b701b3e7d085bc3a26cc8b44fdf74c729af6d",
+    "international_phone_number": "+1 647-749-8600",
+    "name": "Cloud Network Solutions",
+    "place_id": "ChIJz41MQPY1K4gR4jQtnNzM_mw",
+    "reference": "CmRRAAAAZXu-OFYjp0NC8iVYeGqNvTCdlmo5N6zxaRzHa1hzBO3X0qCAj7kmXZp1yu_BeC86SxSSuXlngNRHnJIIrZVJtScKyGfIemGlyDUuZm8UqVcN2TLQ7iSlxzbAesT0heLtEhCIfjXgPfXiXM7o5G_RzhtKGhRlPcA8FMjdJOpmPevMiERjvg-kgA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7853940048065803490",
+    "utc_offset": -240,
+    "vicinity": "786 King Street West, Toronto",
+    "website": "http://www.cloudnetworks.tech/"
+}

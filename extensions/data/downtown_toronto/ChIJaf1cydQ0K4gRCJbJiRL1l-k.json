@@ -1,0 +1,165 @@
+{
+    "address_components": [
+        {
+            "long_name": "4210-65",
+            "short_name": "4210-65",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A7",
+            "short_name": "M5J 0A7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">4210-65 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "4210-65 Bremner Blvd, Toronto, ON M5J 0A7, Canada",
+    "formatted_phone_number": "(416) 458-6199",
+    "geometry": {
+        "location": {
+            "lat": 43.64286140000001,
+            "lng": -79.380732
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64431743029149,
+                "lng": -79.37942611970848
+            },
+            "southwest": {
+                "lat": 43.6416194697085,
+                "lng": -79.3821240802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "381633781b11c3fbd4a7c91cce5b687b39ecf60b",
+    "international_phone_number": "+1 416-458-6199",
+    "name": "DiGironimo Partner Corporation",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 AM \u2013 5:00 PM, 6:00 PM \u2013 12:00 AM",
+            "Tuesday: 12:00 AM \u2013 5:00 PM, 6:00 PM \u2013 12:00 AM",
+            "Wednesday: 12:00 AM \u2013 5:00 PM, 6:00 PM \u2013 12:00 AM",
+            "Thursday: 12:00 AM \u2013 5:00 PM, 6:00 PM \u2013 12:00 AM",
+            "Friday: 12:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: 6:00 PM \u2013 12:00 AM"
+        ]
+    },
+    "place_id": "ChIJaf1cydQ0K4gRCJbJiRL1l-k",
+    "reference": "CmRSAAAAzCnSTuUutlSGlSWC0hMRJXWE0-JrJ2llDkkTyMsyqFUc3xH7Nh1wW5tMaVKXscQThzeryey-zDK08c1gHMt-5nsymC0XGQfy3CuP3sYAkcruu4TMa5Qe_7Lun5DiQ5G4EhAnO8hxFHds4R8s5ls2rq8nGhTGwyGY3ceWJJM3ENwMqan7P4qS3Q",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16832191592290424328",
+    "utc_offset": -240,
+    "vicinity": "4210-65 Bremner Boulevard, Toronto",
+    "website": "http://www.digironimo.ca/"
+}

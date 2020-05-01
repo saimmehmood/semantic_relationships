@@ -1,0 +1,310 @@
+{
+    "address_components": [
+        {
+            "long_name": "8",
+            "short_name": "8",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "12",
+            "short_name": "12",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1Z9",
+            "short_name": "M5E 1Z9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">12 Yonge St #8</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1Z9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "12 Yonge St #8, Toronto, ON M5E 1Z9, Canada",
+    "formatted_phone_number": "(416) 214-9119",
+    "geometry": {
+        "location": {
+            "lat": 43.6428717,
+            "lng": -79.3762208
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442206802915,
+                "lng": -79.37487181970849
+            },
+            "southwest": {
+                "lat": 43.6415227197085,
+                "lng": -79.37756978029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "3d19e8749f2c696f84ff3b241ad7735405f5aa85",
+    "international_phone_number": "+1 416-214-9119",
+    "name": "Harbour Dental Centre",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 6:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 6:00 PM",
+            "Friday: 8:00 AM \u2013 6:00 PM",
+            "Saturday: 8:00 AM \u2013 2:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 393,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107084275824971181753/photos\">Harbour Dental Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAA_vChey3fM7ibVkvSZiqDTNTtBTc3a9qPy9q0gxeCvaUWyHqeodSDfOruSsyhJO8SXS-MmIYEtbiVcilFccONNzscYBBEKofsHfGYoGfOH2bxaYlCVMRZRdq4zybjkJb-EhDiNSNZAP-fX5Y_el9SEtVBGhSMMirL0JGQntBV7TNY__qemBNkjQ",
+            "width": 590
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107084275824971181753/photos\">Harbour Dental Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAA8Bl5GfbCLaGflzrS9i5cY0rfalUKlDsB6Wzpuiz32LEx-DL4tI6Jr4xBtjYq15EwY4A-3cE0jzp9jIRJHov3GQ1qrzJ68hldte59qJ0J6w3KRnpjSWKxWf7CgFRlQDjZEhCy6IwI3-eOly67sINfkYBSGhRVAitzkYlrdHdJpMT8Xlv78aPKwg",
+            "width": 2048
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107084275824971181753/photos\">Harbour Dental Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAXN6OFXvitI7UaBaJE3yNIXROem3EZJdiPvRsJ6x67SxHePlpb3JOxfhId82FO2LqeWbRTVIly4pMp4i1GFvp5HZheAIsnPsfjLeKWz_akqH0tFdXdiva2tMxuUMjBBadEhD_3ONcPJokGfxHJHMZvX28GhQjz57ZahxpyTl9rmkLkzj4NmV0dA",
+            "width": 2048
+        },
+        {
+            "height": 1536,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107084275824971181753/photos\">Harbour Dental Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAABo6CNWlyYaz_fTZZWmoBcwYnJTZ6AQf_V9NDtQVrzfmSdw-_A4njGmErOgPgIIkvVSrY662LV-LT2Q6zDczI_GpQzgbMXbWwsdEZ5cOFW4z8XcdRfPROq_FRbln_5FlJEhCGG7PeUdoB4V-UcePsZm-6GhRn0QrZGYGT0Py5aBqWe4S2rCsrWg",
+            "width": 2048
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113751359172254525976/photos\">Sergey Alakov</a>"
+            ],
+            "photo_reference": "CmRaAAAA3E9c9d8FNZBEetblVXGmg0o8mA0PBS21QVwMEWjR8f4_G3vs6zVwqEWFqA9-nZQi2OFKOsecuJrO4wvBwAnMke-CAOa6r1lu13fOwh4YjEDbiqiJLUELEwDwXoLGoQX1EhAqAonpuu7qp-vKLpV3emPBGhStqV9JkvC099ss7TTSiuKKGF-JXQ",
+            "width": 3264
+        },
+        {
+            "height": 1655,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107084275824971181753/photos\">Harbour Dental Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAD_rnwZvBRG8KvXrW5P3Kek0D4HGeMnjxDTH_e0lF6R-WGfQWl3rwrxeembvT0v4__QyTAfyv92MF9DdLoBdN2-82rCxRsf7uDsYWUGNGEEO4dGK9nxAnL4ecpS7O8U4xEhD_a-AoVmDbYxaABwK9DGzYGhSs1TvZwcK4gHmghHtgZcmwBoPUvQ",
+            "width": 2048
+        },
+        {
+            "height": 654,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107084275824971181753/photos\">Harbour Dental Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAACj8ANBJsqtP9iM-TZ5X6KRV5JhEKu_wcLVveQzAMLyyqQg-nGT8IcGptNGJfuLPpj6EaMx3g_rYYdrAY_3YKg0jEmWouVXrMwiQyBGpIH6l04QMEU9EmkRT-sf5ldA6REhBWeaoxaGgP60xp1zUfcsMrGhRY0N2-gI8aVMq9npVcOHOUXAslEg",
+            "width": 654
+        },
+        {
+            "height": 550,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107084275824971181753/photos\">Harbour Dental Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAbX5BRbP82qarjl88O19-NinQg9OqeEKtj8tB57fhW6PD8w5vpX9Z6G-G58fMqe57tPqEII80nWTIMV9_C9zs0kYh1hV8UBq6CjICp2MS9-PmeAcW47vi2pxetBTQ_ROLEhBYurv69Bt9D-pGLgO8_-NKGhRBot1_X2Rk0ZuniuS5KKwLUMkSnA",
+            "width": 1047
+        },
+        {
+            "height": 364,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107084275824971181753/photos\">Harbour Dental Centre</a>"
+            ],
+            "photo_reference": "CmRaAAAAIZB2cdmk3oH4RGIpZAR4qLRWhi4OxmBttEukksgT8p0kg9XPaQdyl9JY0C3ICTRb-VVAAHgedv8TXonVrR3tzTq_qWXpQVBdSr47qSFBjkH1aomZferSXJQDpigGcHEwEhA_C_kXs_yvYWaKrWkETJgUGhQ2hdqC3g6dOVCOoHf7Hzxe5UqBkQ",
+            "width": 700
+        }
+    ],
+    "place_id": "ChIJJ3bplCvL1IkRvuU1Cl385K8",
+    "rating": 4.5,
+    "reference": "CmRSAAAARu6geZ9kXgAQBIol9Ov263FuwFcW95Tr0IRyTi3zZMCuXnGDbseisnW4JnQOthD3lHCltcfYbJGZl648c7YtDUPnJAUyKzSHiwH-HHrO2o_lm9mWH-gK8iIx6UT5GT9ZEhDbzveDeY304dAikK98z1_WGhQAoc4dRzlEM7hEzdah7C1JTjDXqw",
+    "reviews": [
+        {
+            "author_name": "Shakur Idris",
+            "author_url": "https://www.google.com/maps/contrib/104097257214510330309/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-CVtGpZilL4c/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq01vZYDY-K9Q30KAidCuHI61ZjzvQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Always get a great experience there. The whole staff is very professional and nice. I have been treated as a family member every time I visit. Dentists are very competent and I will really recommend this clinic. Moreover I will recommend Dr. Ali  for his skills, competency and professionalism. The whole staff is very caring and understanding.",
+            "time": 1527236395
+        },
+        {
+            "author_name": "Cameron Duff",
+            "author_url": "https://www.google.com/maps/contrib/112199499130194985779/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-T0ZeQZ6ooKE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1VP-PUoJLWZKFR2_Pk3LEV45Gp5g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I chose to see Dr. Ali Khadivi at Harbour Dental Centre because his qualifications and training are more extensive than those of a regular dentist. I came to Ali for a full mouth aesthetic rehabilitation. Each step of the procedure and related costs were laid out for me up front. Ali explained each step in a way that was understandable. The finished product exceeded my expectations. My teeth have been transformed because of the beautiful workmanship of Ali and his team.",
+            "time": 1525444913
+        },
+        {
+            "author_name": "Rajvir Reehal",
+            "author_url": "https://www.google.com/maps/contrib/117251067285148482173/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-b6lsSALPCh0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2umxmyTbUrkNokWElDzM8yq2UX3g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "Prices Seemed Excessive\n\nI moved to downtown a couple of years ago and say this clinic had great reviews so I booked a new patient appointment after I saw received their flyer promoting their free whitening package if you book a new patient appointment. About 30 minutes before the appointment I received a call from the clinic saying my appointment was scheduled 30 minutes earlier and that I was late and needed to hurry up. I jogged to the clinic from Wellington and when I arrived they said they made a mistake and that the original time was the correct time. Whatever, mistakes happen. The clinic seemed really nice on the inside and very clean. The hygienist that worked on me was very kind, couldn't have asked for more from the cleaning. Then dentist then did a quick ",
+            "time": 1516891995
+        },
+        {
+            "author_name": "shervin gerafiani",
+            "author_url": "https://www.google.com/maps/contrib/102210067654971552580/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-FcVRgp8I9Po/AAAAAAAAAAI/AAAAAAAAAAY/bupsZrUowko/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Amazing team!! With caring staff from start to finish. Lead by talented dentists (Dr. Amir and Ali Khadivi) that use the most modern and high end techniques Ive seen in a Dental clinic. I have been a patient at this location since day 1. Prior to this I would travel to their North York location for 8 years. I would highly recommend this Dental office to anyone looking great care and service in the 6! My smile is whiter than yours :)))",
+            "time": 1523232066
+        },
+        {
+            "author_name": "Katarina Payne",
+            "author_url": "https://www.google.com/maps/contrib/111591945484899572248/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-oAgeWALxl80/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq209EoCZCWWGMgFMdNPIGfzB86_ww/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I had a wisdom tooth extracted by Dr. Khadivi here in July. At the time, my mouth was incredibly swollen and I was so worried about the procedure. He did an amazing job of calming me down and assuring me everything would be fine - and he had it removed within a few minutes. Overall great atmosphere, wonderful team - would be glad to go back (which is saying something for me because I've always disliked dentist visits)",
+            "time": 1517847226
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12674532727860880830",
+    "utc_offset": -240,
+    "vicinity": "12 Yonge Street #8, Toronto",
+    "website": "http://www.harbourdental.com/"
+}

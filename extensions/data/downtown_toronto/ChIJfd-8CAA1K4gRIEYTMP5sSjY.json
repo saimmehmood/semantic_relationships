@@ -1,0 +1,249 @@
+{
+    "address_components": [
+        {
+            "long_name": "1158",
+            "short_name": "1158",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J5",
+            "short_name": "M6J 1J5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1158 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1158 Queen St W, Toronto, ON M6J 1J5, Canada",
+    "formatted_phone_number": "(416) 399-3499",
+    "geometry": {
+        "location": {
+            "lat": 43.6430453,
+            "lng": -79.42510279999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6443394302915,
+                "lng": -79.42373266970849
+            },
+            "southwest": {
+                "lat": 43.6416414697085,
+                "lng": -79.4264306302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7e727e987252c949e4bb3eda7a9778543c32574f",
+    "international_phone_number": "+1 416-399-3499",
+    "name": "Town Barber",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 8:00 PM",
+            "Tuesday: 10:00 AM \u2013 8:00 PM",
+            "Wednesday: 10:00 AM \u2013 8:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 10:00 AM \u2013 8:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106577344878651725292/photos\">Town Barber</a>"
+            ],
+            "photo_reference": "CmRaAAAAxX2DiH6UIc_A7ek7urYiYnQNSVwe6FVp0RW-I0WXZmXOoK7hg8J8ME0f_Je_rK1dIA8YrSgl6LJ7It-vF2esjKkeFTVVxd7J8gN1DuJQISxnlCf2Nqne2aPphC6iewSSEhB3aO0R7paCxnGGo_b_sHXdGhSx1CRTKFlYIlAeyC6L3AMu94HipQ",
+            "width": 2037
+        }
+    ],
+    "place_id": "ChIJfd-8CAA1K4gRIEYTMP5sSjY",
+    "rating": 4.8,
+    "reference": "CmRRAAAALsKGhOEIWDB6kZ2rL4DkPIIUldv6bNo7nKv0sh0fI5uD3RF2GyW_p0KurFBH2mS3Srzpr73KLflZGo_mTjioiQWY1ytQBZJUovWGg3cCCWPvTisS5N_WrcZ8EQeQXfM3EhCFdj4EZv1bMTxxiOwezRMWGhSXQyhHMgmy3_yBIaxg5saWqf2xVw",
+    "reviews": [
+        {
+            "author_name": "Julia Barker",
+            "author_url": "https://www.google.com/maps/contrib/111066736257096718306/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-KaBKC71edMM/AAAAAAAAAAI/AAAAAAAAAJU/xJJOVsrunQY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Taylor always does my hair & it looks fantastic every time! I was super nervous about going to a barber, considering the fact that women hardly go to barbers, but Taylor has always made me feel super comfortable. Love this place!",
+            "time": 1527127403
+        },
+        {
+            "author_name": "Paul Jackson",
+            "author_url": "https://www.google.com/maps/contrib/108951467895224265589/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-s1wYL5hIogA/AAAAAAAAAAI/AAAAAAAAAAA/TGsU93zMJnU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This is your dad's barbershop. Took me a while to realize that the essence of this place is without irony. Look past the trendy artwork.",
+            "time": 1526167278
+        },
+        {
+            "author_name": "Chris Beers",
+            "author_url": "https://www.google.com/maps/contrib/104325054657962715242/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-KW6dyi0waPo/AAAAAAAAAAI/AAAAAAAADuM/POwjaZSioOc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Great cut. Nice guys. Cool space.",
+            "time": 1527217659
+        },
+        {
+            "author_name": "Peter Mahoney",
+            "author_url": "https://www.google.com/maps/contrib/112946874037850567457/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-8I68dSYjRsg/AAAAAAAAAAI/AAAAAAAASCE/4PsL1bUxBZo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Best shop. Best cuts. Best barbers/people. Also, Jorge is an excellent greeter. Highly recommend Chris or Dexter from direct experience, but all cuts that leave the place are solid.",
+            "time": 1514499508
+        },
+        {
+            "author_name": "Steven Trevellion",
+            "author_url": "https://www.google.com/maps/contrib/106191516874628559735/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-f_VK0sb0ZcI/AAAAAAAAAAI/AAAAAAAAEJw/6j9txku-80E/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great cuts and Atmos - very popular so booking well in advance is recommended",
+            "time": 1525474029
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3912059065308759584",
+    "utc_offset": -240,
+    "vicinity": "1158 Queen Street West, Toronto",
+    "website": "http://www.townbarber.ca/"
+}

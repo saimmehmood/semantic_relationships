@@ -1,0 +1,220 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "1092 Queen Street West (entrance on Dovercourt), <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1092 Queen Street West (entrance on Dovercourt), Toronto, ON M6J 1H9, Canada",
+    "formatted_phone_number": "(416) 532-9075",
+    "geometry": {
+        "location": {
+            "lat": 43.64361999999999,
+            "lng": -79.422535
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64496898029149,
+                "lng": -79.42118601970849
+            },
+            "southwest": {
+                "lat": 43.64227101970849,
+                "lng": -79.4238839802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5f54f0ea64a4907cba8f412b3000fc99d96ce507",
+    "international_phone_number": "+1 416-532-9075",
+    "name": "DAVID KAYE GALLERY",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 11:00 AM \u2013 6:00 PM",
+            "Thursday: 11:00 AM \u2013 6:00 PM",
+            "Friday: 11:00 AM \u2013 6:00 PM",
+            "Saturday: 11:00 AM \u2013 5:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103250598553050498634/photos\">Lynne McIlvride</a>"
+            ],
+            "photo_reference": "CmRaAAAAUycFNzefEVMUkLyNOAkEFVgn0s-YSLeKN4Y-k2VdiRzz1_zg2oilb6ZzsRoC7In6PyGXOHnfjZugN1gF_1p2mmbf58uhZm8lrMJDUHTMyRtENEK9k14tDtHRSrhS5hXZEhBo5PZusGrW8Jv5ezsPsZKbGhT60q_hH8Vqt3HoCotB79cardW9Kg",
+            "width": 3120
+        },
+        {
+            "height": 4160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103250598553050498634/photos\">Lynne McIlvride</a>"
+            ],
+            "photo_reference": "CmRaAAAALgmB5Aq_73xo9hRjWJLzPTFhbzL9p7F_hzoUzOMZLtjWsYkhUpSGFmgxuiSuObmKhxOrueM3kqfUQZqpMUU9XtRBepCKhFNXPpSgfSks7iGs21t_gJe5r8Vx1yKypVcwEhDuqLiNmpk2iZeGMqrczhC6GhRVJyjuYqb1xoe3xOGX3GRA7zqy4Q",
+            "width": 3120
+        }
+    ],
+    "place_id": "ChIJRSvLK_40K4gRk4uvHse8Pw8",
+    "rating": 4.4,
+    "reference": "CmRRAAAAYzfeX85ZdA4qn_EC32EZL5th-BOxe4t1mqF6w-J_mVbX5PJ3awU_8v4EjP31zGHPyhLrHxiKi2f0TMd3TEUWmpWWENkd9qsDmHfy-_tM1_aY4B-dhwLJOEdMkg9LUnyUEhBkkT3WafT4MDTh_kPoN9gyGhQdOyDzQ_aTUa2L9zgc2rjGhswFVA",
+    "reviews": [
+        {
+            "author_name": "Alan Gasser",
+            "author_url": "https://www.google.com/maps/contrib/116287760392310914555/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-aXTtKrbT7jM/AAAAAAAAAAI/AAAAAAAAAAA/XaGrftQ2mWI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Intimate and lovely place for Barbara Klunder's exhibit ...",
+            "time": 1525486323
+        },
+        {
+            "author_name": "Ron Donaldson",
+            "author_url": "https://www.google.com/maps/contrib/106980477224739774205/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-rj1RZEbMfp0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2FNolCQczQA6IHBMcb-k6d-3ZBgQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Wonderful space and so many wonderful pieces. Glad we made it to the Bruce Cochrane opening.",
+            "time": 1480803429
+        },
+        {
+            "author_name": "Mark Wilson",
+            "author_url": "https://www.google.com/maps/contrib/105343207858389170984/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-n7J_hntOjkg/AAAAAAAAAAI/AAAAAAAAAY4/SeylaWi33YM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "First rate gallery. The best for crafts in Toronro",
+            "time": 1475407715
+        },
+        {
+            "author_name": "Lynne McIlvride",
+            "author_url": "https://www.google.com/maps/contrib/103250598553050498634/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-idSFeK4_UdM/AAAAAAAAAAI/AAAAAAAACf8/9nqtqndAeN0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "",
+            "time": 1526397074
+        },
+        {
+            "author_name": "KIAN FIT",
+            "author_url": "https://www.google.com/maps/contrib/115807887523993920734/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-BH3uEJTx3tY/AAAAAAAAAAI/AAAAAAABWac/HjS6eqP6xfs/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1462520196
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1098804397501025171",
+    "utc_offset": -240,
+    "vicinity": "1092 Queen Street West (entrance on Dovercourt), Toronto",
+    "website": "http://www.davidkayegallery.com/"
+}

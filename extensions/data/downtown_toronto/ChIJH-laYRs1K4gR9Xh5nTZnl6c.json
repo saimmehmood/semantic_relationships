@@ -1,0 +1,155 @@
+{
+    "address_components": [
+        {
+            "long_name": "355",
+            "short_name": "355",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Wellington Street West",
+            "short_name": "Wellington St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E7",
+            "short_name": "M5V 1E7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">355 Wellington St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "355 Wellington St W, Toronto, ON M5V 1E7, Canada",
+    "formatted_phone_number": "(519) 433-7511",
+    "geometry": {
+        "location": {
+            "lat": 43.6435244,
+            "lng": -79.3948381
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64507128029149,
+                "lng": -79.3935685197085
+            },
+            "southwest": {
+                "lat": 43.64237331970849,
+                "lng": -79.3962664802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c449c9fabb38937ddeced32abeabedf4dc9be062",
+    "international_phone_number": "+1 519-433-7511",
+    "name": "Citi Plaza North (Impark Parking)",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110872493570625777388/photos\">Citi Plaza North (Impark Parking)</a>"
+            ],
+            "photo_reference": "CmRaAAAAlATh3Y8udxNYoXtbaVwbr7XDaAQyiMdB3uUfcJ9TK34gmGBoxmF6L9s2-ahuVYoIs1GGpdVCt6eLcc4Sz5wqcEw5O6PHKVNINu9Ln3_9dkhSizZU_h9VxAu9DgACC4CbEhBbn-WsjXq_9y2jtC_t6VDpGhQFe31PQi-tNoIzvFWA-hgo683yWQ",
+            "width": 960
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110872493570625777388/photos\">Citi Plaza North (Impark Parking)</a>"
+            ],
+            "photo_reference": "CmRaAAAAZ47RizpoEIVWSKx0PHN_yGrXRwzgX3d2yrZFGYVzl0v5IiFvvHikv9S0QKfF2NkIqEWisQFTQZhiZuoM0altd-zoGOQKQ42B_ywbZlRDdDVyQ-tztJzS4AtXEslq0wDQEhB0UI1yWCSvD-o1CR2q8dotGhTqRy9Oee5SuiaHSlaPpvcK9nKofQ",
+            "width": 960
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110872493570625777388/photos\">Citi Plaza North (Impark Parking)</a>"
+            ],
+            "photo_reference": "CmRaAAAA_-aWac3-Qr009APAkH3rLJUUdJ9Spr-oeuoTzeH7B8e1KBoqMORPrBI7p61XWhR-HLHZ_3_b-f1UPyi_ym_lelgoiVHD-imlMEkwEt7alFPi1dSxbDgSgEWmGeWRtKXaEhB9ibtEDvzuHb4LEr5xn7TiGhRit_7SK-p7VrvSd3jQwVYC7wAM1w",
+            "width": 800
+        },
+        {
+            "height": 904,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110872493570625777388/photos\">Citi Plaza North (Impark Parking)</a>"
+            ],
+            "photo_reference": "CmRaAAAAkpjt0DRYM0-gSW5CT2RxcGE0xLM74o0bTAgIMsdWALZEBgnWeS9gqWDePFsfunZGs8FXGBkkbbTBT3cZpcYcYbA2QPTVRlzbhqYskzY-ZwFfu41cL9zaZLWB8SKzLkvSEhAyGNS4sdBUv9HEL5oSFWFlGhQSiZIuQlTVW05h_1aDaiUmafnuaw",
+            "width": 904
+        }
+    ],
+    "place_id": "ChIJH-laYRs1K4gR9Xh5nTZnl6c",
+    "reference": "CmRSAAAAFZWTiZ_Ivrk6YkCz28tWeJ8f3QZHVd01XVF971zkh4CbVBIjq5HFT3VIpqS9rKSK2LwdaD9XZoYX9fPUWzzPjYDj3XW6HcvaD6aYMVTNdlAI4EUxbhlnqdIUsSEwQGOSEhBLBnV_I2sfKJKouGWZj5dXGhSmqFZcJGGwRWw3QCha7FYAjpBTmQ",
+    "scope": "GOOGLE",
+    "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12076234410085153013",
+    "utc_offset": -240,
+    "vicinity": "355 Wellington Street West, Toronto",
+    "website": "http://parking.impark.com/london-parking-lot-145/"
+}

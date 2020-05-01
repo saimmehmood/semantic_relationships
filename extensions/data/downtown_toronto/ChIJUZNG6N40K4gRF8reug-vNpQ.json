@@ -1,0 +1,202 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(855) 728-7728",
+    "geometry": {
+        "location": {
+            "lat": 43.64428410000001,
+            "lng": -79.3987466
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458306802915,
+                "lng": -79.3974738197085
+            },
+            "southwest": {
+                "lat": 43.6431327197085,
+                "lng": -79.40017178029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "48c38f61b0815d5f86b22007d4232bd4baabfbe3",
+    "international_phone_number": "+1 855-728-7728",
+    "name": "Vectio Technologies",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "photos": [
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAW55k1v7KjwDtqm_emyM9I56QCVEY0DYp99pcrFleTqFh9W2F4gkM6JRtfnVQWXzpTPISERdSpyDheLKlfU0uhOvoiqTPDu8dUtms4NcCpOhhPs14xvmWZ36aXlnbXd2iEhDRoNq4ui6IjohaU-Gvza1IGhRl79lx_MZYE8gu0h41zPcbC-1eLw",
+            "width": 1080
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAARX7nHsGQekxj5MpkUtaO9M0wSLDd7pBQhWwro_QCTZtY7ZKUhrrq7O-4s8vsN-8EyfeOulishzvReY-QwIeZBmCz4a2yIrxoO0G4bPEvgAINlXh5GWU0gJikB6dJ5YRkEhBDAYns3UxGihd9_RkSZohEGhRVbPrIrmfKY1oOrkrzgfavcLGHaw",
+            "width": 2448
+        },
+        {
+            "height": 405,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAmEYSqIbuk6K2oEBUZo8o2G_N8UaWnaLRXs4N8c-suHeguOHsbDPgt4ETf_B4huAFs5rsK1DcgofWzm_9v_SaGmGIrR8h-hielJwc4CRbQfTsEZMveMNFbmBxbViHW7rJEhCoJhYpl5HIpgcKVo1WghGtGhTC_ykiQDgZWoBuw7OP-eslOrAujw",
+            "width": 719
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAVPKcwrLWaOV2MnVLxaQ1hvPhOIfMwfpOAbq4STU5SsbPswOR30oohkHLu0JLzdO-d7QxlKTn-w8ZEj_wwKuEm577zajLc4ykwPnGBL1WKMJqxeDIiJ3eUM_IwN0EV836EhAV4ai2nwHAidxM1uBN9i__GhReoj-15yj2eBxSU-c_YFUS6U2IiQ",
+            "width": 720
+        },
+        {
+            "height": 498,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAA3sYuND20Juynwq8tVSuxGTd4e_hqR4_VWSHID_njvjuTn8Pqe5y8SpkdTfVE2csSW0N4Lv6FjC8xr1bM-t9JwPZI9cyHGVBY4b5-R7ra-V3eIVN_b2qT_nx1JVOmgyIiEhD1ogRwv-cU1KVDZVWSvuasGhS5a_To0ArAh3bWRL75u9jV1DF45A",
+            "width": 498
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAx4MSs8kdPG9EEBH6aAcWjGX6iA3On7icF4h-zhzDWnAWmrAU7rrKG02Iu2VbrcDVQQ2oWDg2_Hjk3VCRFradGFM8zLr1T5kpDZk2FSACLNUmtsdg8kROkMMQ3qCxQ1ELEhCKIuKewBd-xZfDEzu5VIBwGhSquctor9xp-fy5KhQkapZjJH1Nyg",
+            "width": 480
+        },
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAFdo96_p80b1X_W0qGheh32OrDCAECXD3yJs8GSnE7XDS__TyppOAyi-77O6VarejEzkmzuljWjtqzem2Y6UD9xdOQ4kSfHTJFBJNhNCu2_bdThJzsUY2fi-lS285mEtpEhDlZ4SfMvhyY4n9_vAP7MJHGhQFpLLzUrYN2GvM3aw_bIhdKgDgOg",
+            "width": 1080
+        },
+        {
+            "height": 270,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ15WJ-vNTCOnaiGFGCMbRn7aIElMJ1Mi3g4F-P9dTPbiTtJ1wf3WrReL1ighb4gHf6kl3E_UfYxZx7GTa9BVEp2t5DGT5SeDUQei-IvQ9w-LhTJ5jeY9FRpggx8ngxZ0EhCtq9-P8yP4hkSo3vKyFL7oGhRoAxHqQm_aonxCCNdevX5fZ44Uxw",
+            "width": 480
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAA2vP-0z67zoAXIma6zzemslSN_ThkW6rPJC3B4K9qEisPcDuKb6_y4doZBF31GFYHXICrbiucNz-x6umf8ZfDOvoXpeLV7A3XGKBJqlCDM0o0pmYE7IbYFAD5x_s7fWCiEhCVswSNie4CwjCXNBkTmHecGhQ7b_IHod1kPrX9bwU0LmvaD5KKmQ",
+            "width": 480
+        },
+        {
+            "height": 315,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104015612902154584657/photos\">Vectio Technologies</a>"
+            ],
+            "photo_reference": "CmRaAAAAsJ7DIwJUbJFlrH3MAZwQ19uzAdEY-IXqcolrwppTFFl6BkZ1m5TBCXesahWXOMQgPon4OYUSe_NK1492ooz_ua97WiwzFcgmSclyrsZYC8h4vOLVu4T-aZWRw3SrHxCjEhAj7rJAcPuExAGrNDT-m8v4GhR06-GMi_IfVmjHAhkxFtfy3-6j5g",
+            "width": 851
+        }
+    ],
+    "place_id": "ChIJUZNG6N40K4gRF8reug-vNpQ",
+    "reference": "CmRSAAAApM5UHhrRgqz4XWX88Cyl76xYevHmYTPPQTnj6o-pdpv01P3rk1ErhhthpZWjVlRYGFkn4o8ir8ylSTr_KJZ2qFoxglRhXE1zRxCf-i-i8YegAjrUkZmnVkPFFrV2WhE2EhDAx67hMbOBWLQCDEz1YCJWGhQEl_TwzsoMhZVzNrUMmrWGorIzGg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10679916048450243095",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto",
+    "website": "http://vectio.tech/"
+}

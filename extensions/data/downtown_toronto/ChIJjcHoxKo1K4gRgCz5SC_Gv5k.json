@@ -1,0 +1,120 @@
+{
+    "address_components": [
+        {
+            "long_name": "10",
+            "short_name": "10",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Gladstone Avenue",
+            "short_name": "Gladstone Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3K6",
+            "short_name": "M6J 3K6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">10 Gladstone Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3K6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "10 Gladstone Ave, Toronto, ON M6J 3K6, Canada",
+    "formatted_phone_number": "(855) 898-2378",
+    "geometry": {
+        "location": {
+            "lat": 43.6433135,
+            "lng": -79.42732079999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446546802915,
+                "lng": -79.4260105697085
+            },
+            "southwest": {
+                "lat": 43.6419567197085,
+                "lng": -79.4287085302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "340d76bd929b576edad955016a5fc6f08a033c31",
+    "international_phone_number": "+1 855-898-2378",
+    "name": "Bike Share Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJjcHoxKo1K4gRgCz5SC_Gv5k",
+    "reference": "CmRSAAAASFNLUOYgW117zYxBvfMaEMx82PBmC0oYvYUCls2noHadeaMdvo96J2oeZkq5e9py9LY9UdF6Fcv0Vp_lmcLF5KsHuRf7OqhLCEbqczj5RH6U7ST4sn2_E0yWYRJwAakKEhDlv0W23ZCnjl0-1djOG249GhR1CrVKU3KkQsYHzTDENxSqAVr7Lw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11078791514744761472",
+    "utc_offset": -240,
+    "vicinity": "10 Gladstone Avenue, Toronto",
+    "website": "https://www.bikesharetoronto.com/"
+}

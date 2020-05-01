@@ -1,0 +1,248 @@
+{
+    "address_components": [
+        {
+            "long_name": "2",
+            "short_name": "2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Cooper Street",
+            "short_name": "Cooper St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1L7",
+            "short_name": "M5E 1L7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2 Cooper St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1L7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2 Cooper St, Toronto, ON M5E 1L7, Canada",
+    "formatted_phone_number": "(416) 491-2222",
+    "geometry": {
+        "location": {
+            "lat": 43.6430509,
+            "lng": -79.37266710000002
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445911302915,
+                "lng": -79.3707776197085
+            },
+            "southwest": {
+                "lat": 43.6418931697085,
+                "lng": -79.37347558029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6a00599acd3ae8db4961f4a734f20a6605be8694",
+    "international_phone_number": "+1 416-491-2222",
+    "name": "Sugar Wharf Condominiums",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 12:00 \u2013 6:00 PM",
+            "Tuesday: 12:00 \u2013 6:00 PM",
+            "Wednesday: 12:00 \u2013 6:00 PM",
+            "Thursday: 12:00 \u2013 6:00 PM",
+            "Friday: Closed",
+            "Saturday: 12:00 \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1543,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104861861347982678507/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAH-SCNTlCixfR1_Qlmm09n4v7HktgArB8IZ7zcboVcrzZJHJ4yZugwLFTIRGUmlK88Upm1CUCOABiSKsMU8wa09T6jF1A3BW3fD85onJawuFmX1wPVRAhOzhUuGllebv6EhCiJsG2UdWwxhzlunlu1IpWGhRzejE3pWwqUStcV82D4ZKWY1OuPg",
+            "width": 4275
+        },
+        {
+            "height": 1121,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102377534993761520604/photos\">Cliff Paulino</a>"
+            ],
+            "photo_reference": "CmRaAAAAjOD_hcqr8T9fojK2MPiFLCF4_LyzAjM_QifSLlE_zLAw_JENIWnrEaLxxF4yUqy8pQe0_U5MNlVji0POHeB8_tikPlxjRbHPt2UhfAakcVwaMaP4GxJijNPChbFrLVzZEhDTn28yVVyUcgTogrvM_1DvGhSAJkP7tkcd_GZuKA8KyYZ8Otn9Kg",
+            "width": 1125
+        },
+        {
+            "height": 1119,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102377534993761520604/photos\">Cliff Paulino</a>"
+            ],
+            "photo_reference": "CmRaAAAAY65KdqP8BzbZ6O0SPJx69Su4S1EE9funudPRRHBgzfdQdNf1lJuz-N9uj9s6z-fcQ_luT1pXWHgvbC4P9T50mBvjzHEakuE9Dfip8cdkU0VB8lDONaE5KfYw-hWyip_eEhDQmY6o3nmMhsNCNDpKsGeMGhQfb-PFB6t6sf4nSFMvdjLdDoGMAQ",
+            "width": 1125
+        },
+        {
+            "height": 627,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102377534993761520604/photos\">Cliff Paulino</a>"
+            ],
+            "photo_reference": "CmRaAAAA6cAS7kumACxM0wxxHQ_-6uSBIdvqMkBvYRbwjBCuRCyyKixfkVlbNlE1_ckklX6kD60PeG37c3fdQG_pe_Dn-DNK7AUHRoAm25GMES-Rr4SXhrowKCJtMSnfchZ5QVo6EhB9l1QecJ2P5IDw88c4-5pcGhT1SI07eriopRGsI8GSICWJSxxyww",
+            "width": 380
+        },
+        {
+            "height": 642,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104861861347982678507/photos\">From a Google User</a>"
+            ],
+            "photo_reference": "CmRaAAAAnBvmHlCuKs82WjZ1ecaedREmiPtcZDo-2JaK9Ai9AeST9ZOOJRoVbbOlThzvWbE-C_G_umGFT5m2VPPVToLTJShTJluIhgzRDnVRWbhihTEFdZVjzuRnmIbR6zWWBEkyEhDABbTTPQwD6jaHNpr0eOVLGhThg8UlNhKdYHCDRrNl1m3gfHUgdA",
+            "width": 1824
+        },
+        {
+            "height": 990,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102377534993761520604/photos\">Cliff Paulino</a>"
+            ],
+            "photo_reference": "CmRaAAAA8DALLjwcfSLemPtfxNjZIqybMlLBPd6nyiMyv7rqiC8YJKph8VB7ORPNiDx_icFHA7nXsjE4w2A9TDrO1Mmi_8WxKCrSZpAQ6a4Uz0_nheYIhO4xHYMjBo6oqJc6qzVUEhBmPh6Zv9_mrt7NUZ_0Yd5dGhTsIT45wCuyTPRq4iv9Er_9x9qJxA",
+            "width": 1600
+        }
+    ],
+    "place_id": "ChIJXfs5XhbL1IkRTHoriqlK8jE",
+    "rating": 5,
+    "reference": "CmRRAAAAuoMUCXJGqJRPqok-vRTTY4zis_DrK4_lZfrX3Ewh755khwASx1SEAm6294yNBmg4fvcCf4LIQIR7ZUp4g8XaKSEPMcQl_piJodCTPP9CWgxegkqQmUO_HTTgYBxam1ZNEhCvoFTeneqNiLY0XBFQgYriGhSaEtIWMdwmO3H8BNuqviugYWaMXQ",
+    "reviews": [
+        {
+            "author_name": "Vicky Hung",
+            "author_url": "https://www.google.com/maps/contrib/105697778030475253569/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-uW9ntW1-m_Y/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0ZbCkzn3aDnpJuTZtUc0vJwknsHQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "MENKES an incredible builder. Great location - signed up for VIP access",
+            "time": 1527002616
+        },
+        {
+            "author_name": "Ishan Kohli",
+            "author_url": "https://www.google.com/maps/contrib/103137179798135494874/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Sm9yYRifKqU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3-nqZAW5_RKF9MOpkQocalmH_0Cg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Amazing project. Cannot wait to see floor plans and prices",
+            "time": 1526778966
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3599021144250481228",
+    "utc_offset": -240,
+    "vicinity": "2 Cooper Street, Toronto",
+    "website": "http://www.menkes.com/sugarwharf"
+}

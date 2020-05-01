@@ -1,0 +1,232 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Y1",
+            "short_name": "M5V 2Y1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "325 Front St W, Toronto, ON M5V 2Y1, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Y1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "325 Front St W, Toronto, ON M5V 2Y1, Toronto, ON M5V 2Y1, Canada",
+    "formatted_phone_number": "(800) 604-0647",
+    "geometry": {
+        "location": {
+            "lat": 43.64313,
+            "lng": -79.390286
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444789802915,
+                "lng": -79.38893701970851
+            },
+            "southwest": {
+                "lat": 43.6417810197085,
+                "lng": -79.39163498029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "77cde4227c65c1f6379d64df7ae188d3b9d1fe66",
+    "international_phone_number": "+1 800-604-0647",
+    "name": "Platso",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0630"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0630"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0630"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0630"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 6:30 AM",
+            "Tuesday: 8:00 AM \u2013 6:30 AM",
+            "Wednesday: 8:00 AM \u2013 6:30 AM",
+            "Thursday: 8:00 AM \u2013 6:30 AM",
+            "Friday: 8:00 AM \u2013 6:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 683,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAA7IMP3AOmhYGF35R_zONmSDaUDkmzf6kerraFO2F711067gq1Q-phXFWtOKzyNuyMpBkcFOzQV-yqBnqGcGFyRJsrqG6Zrr2Q4xS62S2GKPSsd_29UaP0hlLVTiQdapcqEhBzYe7D2FDl27vEkU95L25sGhRSFhhW206RJRQXQ9BqD7FfLAIteQ",
+            "width": 1024
+        },
+        {
+            "height": 585,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAAK0kfTZyHRb2W5YOZV7mJSdtHgzUcD00gzlwJl7eKf1Z28b4qRA0t9xvAH4BKoaxla5oprdd5DyQI0wsTmlwfnEvTh_M6qEiVOb9trowDutotCwNAzCQChn575JdrwW1aEhAO7Zb2EoRKZazRblDBvRyfGhQxlYNVbxa8oGNFnYeblefl2Yzk3A",
+            "width": 800
+        },
+        {
+            "height": 667,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAA5X7Urkoe6Qq4cgZ8J2mXqU-fHPaeZSNXdz36WkZP9joyeqYDwPywBYIKFoO9l5L0LaSZMt2qHBHQ34jauc3KVdhETROabdmorUs-rkSJ6EJ7vVI9tyleS1OtjWSRfDY-EhDqvkuW-bOwZ4lqussyVwbKGhRinfcOp_5Lu0uXVfa9Jw1BuYFItQ",
+            "width": 1000
+        },
+        {
+            "height": 569,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAA_de-uvQJ5LC90Iiklir83ju61XYfufeqNCf5aUu1Uf8aKfvC9YxQ6UTosu58girgx5ZeCMhktlJRL4VD01OX8LKwVhUj4_O5s-PLupqZ273Df2TGxBFDOv8SMS3y_7fKEhBMgwVkAvJqpgiZiKQx3PzjGhT_mFGoqTaJu8eRKi5xcA17VDEwqw",
+            "width": 800
+        },
+        {
+            "height": 375,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAA6zC-pmp3fPb2sJtcd8el3FRyc9sseZ5209AuX9LY8EAj2mkUFauDvoY2PiMZKt9CK8F2VdqmE5m-hKeQ8D4eCu2f5aN1KS7VL4tn0HxYPXrVL_hdoreff-B-HFG3YYhMEhAofToI1jAnnIdUHfUsdN-YGhQqiCkEV4IQ2_NGIXAX_Odh0kWgJQ",
+            "width": 500
+        },
+        {
+            "height": 768,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAAN3uEh5rXMWuBH4LCZ_kDXKID5iiwiMI7SeiSWAQfpf1cbuipwezeWm0YNOkc9007QvceRtTzFd7kEHoPPqoJ2BW8hMDTAd5yTyk0jmP3L55lun3O93QqwTgDmtCvVOnFEhAdITIHlPCXLsxHfz2jnJomGhT8NQGsULQSgSHpEL1YYsch5RKrSg",
+            "width": 1024
+        },
+        {
+            "height": 333,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAAyiMLZJVzJCa-CVDR2d7h0WdfjatcC0WA8-DpUEqCNWsabsqiXUfJHlgZo70lzBAeHNi8_-97dIwdePQcWsXfwiUtD0UH893-3W2Vqlsw2jBIQuKg0jFBQHGljuqyf3eFEhCty7lpHFWJiI84lw0g0vZIGhQrMllKHNRt8eMnE4LQOUcLuQDr-A",
+            "width": 500
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAA64Dca-lykRjHh4o6dPHNgheNxuUK1PvwtZOWXHh2jS2vxKBTm8ge1LOmBpIsxpDa-3N4TSzbl-3UjTtL5iWPEt8WCPMXHJRQW-Bh-BP7FbNI04Q0pHDrA0xp3620jml-EhBqmV-XUa8SMD5l4hFRZCimGhSV9qUomushvQrrN-6SMtp8MeJE4g",
+            "width": 1920
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAADbrTu0VaBJopyxC5ggUDpuTuGsjgO78S0CgSmMmn8_ruSxsRcYDEAI6HZsfHIg81euf-cnHFRl3f0q0VzXEPRzdHtJwhmsKv5alJaOrdQnF0mu26BdpZvL5Q27IisrznEhCLq4GSDypoOD6Yup9onxAcGhSpaQy6d-PMymvOX97FbUKBEdYz7A",
+            "width": 1920
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104565215170491271081/photos\">Platso</a>"
+            ],
+            "photo_reference": "CmRaAAAADelOjtD4_pTgAdImOG40o_nAf6qkfBMJ19aitgWiQHCq-PLTBijdw_r_XytQCBgRGFLH13Nfo5Y4ksdb5hehTMBM1hk7R0us97GWenJ0wLhKyqHfGFSZGOjTtGcOYQ3vEhBJ3gBwX6GpMHmZ1s6mYOa_GhR6K77yjTbsUuOj3U7de1a7sac8Lw",
+            "width": 1500
+        }
+    ],
+    "place_id": "ChIJz4pnc9c0K4gRGxMBXI5lvn4",
+    "reference": "CmRRAAAA6oqVAYcS2_IK5gnko-l3dO1rSv_41H_7ylg53Z21JJeAsgV-UhLzAD8IgBF4EGlyPbuWKBb9nufwC2Mrj_92aVwrfqKrcuFj3pQoAH-WNW91tDWCM-FRNsvHv5xI5Z8aEhBkgwJQoa9GEXkZ1md74J2aGhTfZShOzzriFkCQlYcHsLfsgbwGEw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9132848756457280283",
+    "utc_offset": -240,
+    "vicinity": "325 Front St W, Toronto, ON M5V 2Y1, Toronto",
+    "website": "https://platso.com/"
+}

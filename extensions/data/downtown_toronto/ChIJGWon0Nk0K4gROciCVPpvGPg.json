@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "352",
+            "short_name": "352",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto (Ontario",
+            "short_name": "Toronto (Ontario",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3W7",
+            "short_name": "M5V 3W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">352 Front St W</span>, <span class=\"locality\">Toronto (Ontario</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "352 Front St W, Toronto (Ontario, ON M5V 3W7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6434855,
+            "lng": -79.3923045
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446896302915,
+                "lng": -79.3908801697085
+            },
+            "southwest": {
+                "lat": 43.6419916697085,
+                "lng": -79.39357813029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "cd5cc71adf72a31a217001960579abda330a917b",
+    "name": "Life Suites CN Tower & Covention Centre",
+    "place_id": "ChIJGWon0Nk0K4gROciCVPpvGPg",
+    "reference": "CmRSAAAAM5obaABMaJeSfrVys7nR4wo_SDgAWxTp_X3vLgoohtroJX_2StCXsBf-dy07Yxls5Ex_VBCni6QHc6fUrdG2Ey0Mo1o-3s8XCzMPjCubeYsYz0UpxcU61a-Q4ZtxmcCZEhDIjoGSK6A73-7sH2nJVsz_GhRMbeVvGih7HnEpxoqsn6N_UzQjsA",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17877161841797548089",
+    "utc_offset": -240,
+    "vicinity": "352 Front Street West, Toronto (Ontario"
+}

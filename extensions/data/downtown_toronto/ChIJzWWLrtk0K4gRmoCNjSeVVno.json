@@ -1,0 +1,210 @@
+{
+    "address_components": [
+        {
+            "long_name": "402-49",
+            "short_name": "402-49",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"extended-address\">402-49</span>, <span class=\"street-address\">Spadina Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "402-49, Spadina Ave, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(416) 865-3376",
+    "geometry": {
+        "location": {
+            "lat": 43.64348400000001,
+            "lng": -79.39359
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447731302915,
+                "lng": -79.39246536970849
+            },
+            "southwest": {
+                "lat": 43.6420751697085,
+                "lng": -79.3951633302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7e80cb885bf516480ebc85979fb9934fe3384995",
+    "international_phone_number": "+1 416-865-3376",
+    "name": "Catharsis Managed IT",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103527674620703879783/photos\">Catharsis Managed IT</a>"
+            ],
+            "photo_reference": "CmRaAAAAWgh_AXT6CRj-iSIWZb28AWRnADSncOmu1rWP-n_WICdKNVFeCQ8NlVYHfmI77vyeWTr3T-_d_n-zM6C2ZEVLYsbRRVN2xiEZdGLTW9YEhhJ0UYRcuzmzsr4v61eVrTNaEhB-utUyIbc8DGTtlJyp3HumGhSEqwJ9ntm9ynd-mU46DA5UyeMJUw",
+            "width": 2048
+        },
+        {
+            "height": 1539,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103527674620703879783/photos\">Catharsis Managed IT</a>"
+            ],
+            "photo_reference": "CmRaAAAASsbjXwnBF4bJLmFa_nGe3pRJ5SLHIF5_PNfVSNBcrDYmCnokVtdsgKemeFRyxyElK7BAgz0Y__g-HkuX0UYg0Mci1sMOuSjdCAjBW4kkBrUm-NxTgK3AwPH2d3UJ1Lf1EhDRPyHDE2Jwa3jBZLXtozi6GhSlqiLpz2GBzS2si-h98qREJkha4w",
+            "width": 1539
+        },
+        {
+            "height": 2084,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103527674620703879783/photos\">Catharsis Managed IT</a>"
+            ],
+            "photo_reference": "CmRaAAAA_BQWcx5p_DM4kOI2kQTx_lSoR7zKUJxdZyH3k__jxnY7tD5gtpQFClPyvZCg3DttVH5maK-1Ozxkk0H7B0nXgE7MBRhh4GqgNG51phVu178YHJDNJ50rsq_iOCoEBHPgEhABK9ipWHpTksdsKqavvVFhGhQNGTpGgtu5vTIu6lIIXq69LpgRKw",
+            "width": 2084
+        },
+        {
+            "height": 1772,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103527674620703879783/photos\">Catharsis Managed IT</a>"
+            ],
+            "photo_reference": "CmRaAAAAjgjxQl7XKbeS6CJa68Kdof2504RpJGm6Epky6f-fSKXnobgcgPC_F2T-yOpMqknr3U5sue0TSpk7qiPTl6PkRWynoCRoPyhnHiuERlb_FCjVSk3kSWKvskeqmmE8acMbEhAmdXI8CD5QnpxLb9dCPPEdGhSfJg1pYd-o35NDEd7VEDBIVl_Gyg",
+            "width": 5834
+        }
+    ],
+    "place_id": "ChIJzWWLrtk0K4gRmoCNjSeVVno",
+    "rating": 5,
+    "reference": "CmRRAAAAuVOdMLh3njoULDPllWuJl22faH_VnxhqHwtZyYEZX9ymE6tZUpYBnkdHS4TxKtFnJM3ync_cvY-3cAfIh9Q3mXJgXUKlGuRUj7fgS0tiWEyalX3PZqc6dXsZ4uP2F0ouEhCVPB968KffayO1T33ScTIuGhSyyshVryVomTLldSCgrwUlMBOIjA",
+    "reviews": [
+        {
+            "author_name": "Oliver Plante",
+            "author_url": "https://www.google.com/maps/contrib/110309816076405590351/reviews",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-0aeePSCa0ak/AAAAAAAAAAI/AAAAAAAACIw/4Hkp_gBn0Xw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "",
+            "time": 1525301625
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8815397317735448730",
+    "utc_offset": -240,
+    "vicinity": "402-49, Spadina Avenue, Toronto",
+    "website": "http://www.catharsis-it.com/"
+}

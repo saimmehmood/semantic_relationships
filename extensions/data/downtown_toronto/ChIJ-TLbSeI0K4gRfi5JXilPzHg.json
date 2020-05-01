@@ -1,0 +1,134 @@
+{
+    "address_components": [
+        {
+            "long_name": "155",
+            "short_name": "155",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Walnut Avenue",
+            "short_name": "Walnut Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3W3",
+            "short_name": "M6J 3W3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">155 Walnut Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3W3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "155 Walnut Ave, Toronto, ON M6J 3W3, Canada",
+    "formatted_phone_number": "(416) 532-3019",
+    "geometry": {
+        "location": {
+            "lat": 43.6442425,
+            "lng": -79.4099434
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6455765802915,
+                "lng": -79.40863776970849
+            },
+            "southwest": {
+                "lat": 43.6428786197085,
+                "lng": -79.41133573029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4d1816db15c9a6f4e95244e9fbb586c53ff200ea",
+    "international_phone_number": "+1 416-532-3019",
+    "name": "Array Space",
+    "photos": [
+        {
+            "height": 584,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118234171796409215389/photos\">Rick Sacks</a>"
+            ],
+            "photo_reference": "CmRaAAAAPiIrqghd5-ZL36NXdsBqcuFX1BC9U3gQ9ZihJewP4dGcBGHKw8dTJEV1mOGXQOZF9-4wgXtqRVEcbI9T6uelwZU9GEllJq7JUsZKZmnyqZPnPRmQWm8RlV6xPEOkkAm4EhDHREdcm2uwgKA82ULt3G6MGhQMYjAPCISMcqU23wm91nBxU0AV7A",
+            "width": 593
+        },
+        {
+            "height": 583,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118234171796409215389/photos\">Rick Sacks</a>"
+            ],
+            "photo_reference": "CmRaAAAAyD-uvPtnLfv9xfGskPAyialxZgoRBam7jUo3iI-3dmPVGcYa25jS_kLc4DIZao-vNtjxwcbUrvgUoy9w6vKXTj4rcJMqrymJLXn6asAhJdptDo4pMbUYPaKTyi8v1b1SEhD2mZQkKEKtVV0zumRWLPaNGhSp4SXXfPAXGYl_3t3veRgwDI9bLA",
+            "width": 587
+        },
+        {
+            "height": 565,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118234171796409215389/photos\">Rick Sacks</a>"
+            ],
+            "photo_reference": "CmRaAAAAWnsuDiIMVwy2dACZCPjqKzJt_usmY7Is07enEcoUrqNRZxv4DiHRJc88RJIIk10--Dn1j-DgXyBZGVwpQOmsHGNqKus6kCou3UeGuNxzUPoRbRTjo-xBBX13af0Yet5KEhAQ57FgsUQLw6nGtkP7PCXTGhQptF4j5GTWCRwplRt8yGkZr00B2g",
+            "width": 597
+        },
+        {
+            "height": 593,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118234171796409215389/photos\">Rick Sacks</a>"
+            ],
+            "photo_reference": "CmRaAAAAFT9DqvUEB_EFMEfXyEWpjSddrbBJM7XbIKQBKUYr2z--UwSsmJeU_VJEBBRtcOwR5lH5kxvnzsfngexApb0yXw6ShPqsGN4O0Z0Q4sMy2AcGUPlVLaQ3rdrrolxvFa8sEhCsTiz5WSNfZ_5hnFOuX4IbGhRQnIGXP6cgXr4N7MlQVLx32pDnbw",
+            "width": 597
+        }
+    ],
+    "place_id": "ChIJ-TLbSeI0K4gRfi5JXilPzHg",
+    "reference": "CmRRAAAAZjLC2YTVLNmEK21F-6uKiXU3UMWqkHEANF-JiTqI8WQmNwv5hVu2JCNijkkQPBDM7j3q3ATfUIsTUgj4Rc6b5yAo5Pgss_EfOVD9CR_TTXWvnliWvoAc75vQ5GDz8zgdEhDmowrsP-mTrv-cV6Qti1MYGhRuMdauKO6PPMoj0ebbCH10n1cjgA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8704419218894433918",
+    "utc_offset": -240,
+    "vicinity": "155 Walnut Avenue, Toronto",
+    "website": "https://www.arraymusic.ca/array-space/about-array-space/"
+}

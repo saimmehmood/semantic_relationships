@@ -1,0 +1,93 @@
+{
+    "address_components": [
+        {
+            "long_name": "701 King St W",
+            "short_name": "701 King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W7",
+            "short_name": "M5V 2W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">701 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "701 King St W, Toronto, ON M5V 2W7, Canada",
+    "formatted_phone_number": "(416) 504-0434",
+    "geometry": {
+        "location": {
+            "lat": 43.6430945,
+            "lng": -79.40374969999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444434802915,
+                "lng": -79.4024007197085
+            },
+            "southwest": {
+                "lat": 43.6417455197085,
+                "lng": -79.4050986802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e67789c65ec633b1b9f501e03d80b866f73d50ca",
+    "international_phone_number": "+1 416-504-0434",
+    "name": "Ceyx Properties Ltd",
+    "place_id": "ChIJdclIZOA0K4gRWBoMtzknoNE",
+    "reference": "CmRSAAAAToSlKeJo_A8tIROIW5sg4D_pSjqrpR78oOII9ndNCbIRTn_6v28cr20q6WDsmc2kknFEMUztqPot_qkuLRtACarwhzBXaxgSCXe_l7YmF_5aJf-pkvbN-EsH6fSuVilEEhD7UuuNzCqvYB9prH4OzauiGhTURknL3-4j88HOdCVHd21bkEAJVA",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15105116279038286424",
+    "utc_offset": -240,
+    "vicinity": "701 King St W, Toronto"
+}

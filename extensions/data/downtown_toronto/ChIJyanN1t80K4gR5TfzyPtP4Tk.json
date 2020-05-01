@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "69-75",
+            "short_name": "69-75",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bathurst Street",
+            "short_name": "Bathurst St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V",
+            "short_name": "M5V",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">69-75 Bathurst St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "69-75 Bathurst St, Toronto, ON M5V, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6435475,
+            "lng": -79.4025266
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64489648029149,
+                "lng": -79.40117761970849
+            },
+            "southwest": {
+                "lat": 43.64219851970849,
+                "lng": -79.4038755802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "e2afbc7e9596a5359464585afe39ce78b0daeddd",
+    "name": "69-75 Bathurst St",
+    "place_id": "ChIJyanN1t80K4gR5TfzyPtP4Tk",
+    "reference": "CmRbAAAAdRHg1E8JZet8DyYBk5gQtmp9SRVpsx0SA_dusapx1olcyHhfOiT0x9mSnXYzPWly3dSVbtvo3L1a7dSZfhehnDUQuX8SZagV_mO8iMwjmNSyhHUwQzh5SOZrgSWPfvC5EhCSy4lb7RA9wXndqULtwML4GhQJnsvLpzTZojkbqS5F_nk0_9Z9rQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=69-75+Bathurst+St,+Toronto,+ON+M5V,+Canada&ftid=0x882b34dfd6cda9c9:0x39e14ffbc8f337e5",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

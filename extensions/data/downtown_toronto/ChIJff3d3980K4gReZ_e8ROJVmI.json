@@ -1,0 +1,91 @@
+{
+    "address_components": [
+        {
+            "long_name": "Niagara",
+            "short_name": "Niagara",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2P5",
+            "short_name": "M5V 2P5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Niagara</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2P5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Niagara, ON M5V 2P5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64280060000001,
+            "lng": -79.40277379999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64414958029151,
+                "lng": -79.40142481970848
+            },
+            "southwest": {
+                "lat": 43.64145161970851,
+                "lng": -79.4041227802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8ba5c604adfa27766e8360a593323d3fcfa4b053",
+    "name": "Public Parking",
+    "place_id": "ChIJff3d3980K4gReZ_e8ROJVmI",
+    "reference": "CmRRAAAAIsrhhGiPQpblYHRow_GtJe4Szfg3eQ6aW1VEc7OyUg4qHrJ8fg7XWbffVIfghYFXx42NBU13sX2ijhbrWFB9LzSa-9XyF9hReedo8hL_4Gp5CfWJTmHxnEpsxhHhB-0XEhCHjn2CGHPcQbATqdZwcpoVGhQOUPEhqvVRmTW1VjmT2dQI9IarNw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7086001782469336953",
+    "utc_offset": -240,
+    "vicinity": "Niagara"
+}

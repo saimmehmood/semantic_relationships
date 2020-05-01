@@ -1,0 +1,150 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1E7",
+            "short_name": "M5V 1E7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "401 Wellington Street West, <span class=\"street-address\">SE corner of basement</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1E7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "401 Wellington Street West, SE corner of basement, Toronto, ON M5V 1E7, Canada",
+    "formatted_phone_number": "(416) 857-1318",
+    "geometry": {
+        "location": {
+            "lat": 43.6434672,
+            "lng": -79.39487749999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448161802915,
+                "lng": -79.3935285197085
+            },
+            "southwest": {
+                "lat": 43.6421182197085,
+                "lng": -79.3962264802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "c1247dda33f25c46d6f0f97397a5c77afa2a7203",
+    "international_phone_number": "+1 416-857-1318",
+    "name": "Friction Fit Models",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ3xWUA9k0K4gRfhXr1q-aeUI",
+    "reference": "CmRRAAAArj5ZLJIdJpwU8N1n5re_TNyB96IJyjIm_ZLNkV0MVIXEGhqFU0X4bIawM8tXr4fVn3_8TqTgPTaEHFGUxR7MarEgIr48BcKxm8XwsojZl2cOARbnpviXSl8-8TfWbXidEhAOIC3dXnYREV48uaVgbYSbGhRO-CUdSo7D3wEbATTgwtXrP8fsDw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4790029758700918142",
+    "utc_offset": -240,
+    "vicinity": "401 Wellington Street West, SE corner of basement, Toronto",
+    "website": "http://www.frictionfitmodels.com/"
+}

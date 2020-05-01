@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "436",
+            "short_name": "436",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dufferin Street",
+            "short_name": "Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2A3",
+            "short_name": "M6K 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">436 Dufferin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "436 Dufferin St, Toronto, ON M6K 2A3, Canada",
+    "formatted_phone_number": "(416) 530-2889",
+    "geometry": {
+        "location": {
+            "lat": 43.6437075,
+            "lng": -79.4293023
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450680302915,
+                "lng": -79.4278935697085
+            },
+            "southwest": {
+                "lat": 43.6423700697085,
+                "lng": -79.43059153029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8f50f0da02057562cf5a91c42be67498d2114bbf",
+    "international_phone_number": "+1 416-530-2889",
+    "name": "Glass Art Gallery Inc",
+    "place_id": "ChIJKb1MylQ0K4gRFMPvu8m8us0",
+    "reference": "CmRSAAAARE_zcvA3iHQib6uGbfu6bi4gOBucQtDS0XVZtWFOMcWaopf_Wn2uLNZdVhz374R-FlkKCsT8-BdJ0CBgoDL5bnA_aM6Qhj8qeuBanEENDOPowEVkKFTm7YDBYOqk5ix4EhDhDjRY1v0fJBirZMLabLOJGhQpPW2WJiJY4B2STIzQZAoY157Umw",
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14824368698070909716",
+    "utc_offset": -240,
+    "vicinity": "436 Dufferin Street, Toronto"
+}

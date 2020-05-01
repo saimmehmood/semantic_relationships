@@ -1,0 +1,323 @@
+{
+    "address_components": [
+        {
+            "long_name": "1000",
+            "short_name": "1000",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H4",
+            "short_name": "M6J 1H4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1000 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1000 Queen St W, Toronto, ON M6J 1H4, Canada",
+    "formatted_phone_number": "(416) 531-6600",
+    "geometry": {
+        "location": {
+            "lat": 43.6443827,
+            "lng": -79.4187269
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6456447302915,
+                "lng": -79.4173448697085
+            },
+            "southwest": {
+                "lat": 43.6429467697085,
+                "lng": -79.42004283029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "1e3e36f4555d1a417cb133aba8ae76d853ee2c4b",
+    "international_phone_number": "+1 416-531-6600",
+    "name": "Shinola Toronto Store",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 7:00 PM",
+            "Tuesday: 11:00 AM \u2013 7:00 PM",
+            "Wednesday: 11:00 AM \u2013 7:00 PM",
+            "Thursday: 11:00 AM \u2013 7:00 PM",
+            "Friday: 11:00 AM \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 8:00 PM",
+            "Sunday: 11:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102337089136186323740/photos\">Justin Ang</a>"
+            ],
+            "photo_reference": "CmRaAAAA4xfmvHciKYzSRNrvL-jYkCjGBW_gxLT0mzwodsQ4VPczy-2LAF15495upifJJNZoEdYuaRG9C_CmGhV6qVfnr7PpxJjYlgvWLcNXq2bCh1YAgn8EpfoJxMpjXKTw0E4oEhD57IWOhSpQN2Y2pH2lphnvGhQGFuUWkq1SmJ61T4yYZ1HoRaUl7Q",
+            "width": 4048
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102337089136186323740/photos\">Justin Ang</a>"
+            ],
+            "photo_reference": "CmRaAAAABSBjwm0TkX8Zw9YaQvIGG4Dr8wt_sLbxL8InQtSGlpjbOgmxCvYI6SILJoKLlZHobNhAlzrUKPlbnxSFs16sk1wn3UknVaqaJB2p79lI9OjYuolQVl8jD2AA3oB9CU8REhB3ZGwOonM22cs9_6VohtlAGhRUh24f3fwJwdDbl5GGmcDQXMLPPg",
+            "width": 4048
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102337089136186323740/photos\">Justin Ang</a>"
+            ],
+            "photo_reference": "CmRaAAAAtPX3w-Ygv0jYJEnIAw_F9Zf95fackeZW0zUO4SUymsFTLe7-bBb63O0XOeig6PZwT56aGWUKpOp3QlZ_MX_ONjxnJg_8qWU5C5ufDzyLMsMZPOzIoWmlAwWbIHDpNvz6EhBD7aFsGxMIUQ6POSTWYaBNGhQd2LMRMfHja2AHCqOJvLvvdKPaEA",
+            "width": 4048
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102337089136186323740/photos\">Justin Ang</a>"
+            ],
+            "photo_reference": "CmRaAAAAcheKAGvuI3NnZH6yHTCfKC0cpXcM8mhbY-E98RyEZ4JFY9Wnc6tHgtJf30m9pCjHL0jW55ItHfXKqHbMh4XzkdpOW-dqaYTYHezXqjC1FijCYxU1QoXbpH5IDcnJe5X8EhA5fINF6drYW5LbveTQALf6GhSLWlUjXLORpBxz2QHFASM8pyMfAA",
+            "width": 4048
+        },
+        {
+            "height": 1456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105595145326500691540/photos\">Ju No</a>"
+            ],
+            "photo_reference": "CmRaAAAAvTGae3RkZmPYOmrReJT7ucJZxwTIMMIPX9XxlSOLpNjWWjk0KnRU4TX1ISpWxjV_Pdq_D5QZD3OmgEmnOedWYQ9AJgOJErq6TxPiRr7Fb_Thg-KQNL3OyXxsbasStCGTEhDljXIX7_FFZZSdK5WpCVSBGhQ9PtmUD4puRe9b510KbKbf8Y358g",
+            "width": 2592
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102337089136186323740/photos\">Justin Ang</a>"
+            ],
+            "photo_reference": "CmRaAAAAo70ozOCkKt4zUCzGahstea6huoVhkC0K3515bfv0WapFqcUg39YuRu1__9UdXuOpswKtA1u_cHq867BmpoDQ-Br1VzaJgwQw58yXSP0BkzeFBbL3ZZQSNJlMBsd60ze0EhDxwF2r7z-Gqj0PyraAX4ojGhSdeXfnXA3GchMRhCQG8iK5gHk9Zg",
+            "width": 4048
+        },
+        {
+            "height": 1456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105595145326500691540/photos\">Ju No</a>"
+            ],
+            "photo_reference": "CmRaAAAAL2JbMxL30Klh3kIOPaerD__uGDV-Kxgt5axR57z0loSPnFkvcMo25zl_VAF0UEDBI2bN0gPVUkGF8ec0qvTo_eAl1324YkKUja4ksCoOA3X3DQP7wxYFDgFtth0HD32YEhCyX1e7Wd6HfWXlBhBLIupuGhQBfhG69JECPH08KnHjorfGi6t6hQ",
+            "width": 2592
+        },
+        {
+            "height": 1456,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105595145326500691540/photos\">Ju No</a>"
+            ],
+            "photo_reference": "CmRaAAAAOfEm_qjBFHJQHJ1iIU573wwHMnirEG6fuLIp8-5RxBmqHVpmbl5KcxLYPbX0wJo3KU1t8sLw_H453x5SdBirnxgF8DAetYYw9da43ncBo5aaSNaoQsmh7GXf8ID1nMCbEhDMguKq6T197X9ghKjAICWVGhQ0oxp52KIGYME7PkOVnlqWz20AoA",
+            "width": 2592
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100392902242663335083/photos\">Brandon Calleja</a>"
+            ],
+            "photo_reference": "CmRaAAAAsmx-djfJWjzTczFDb2kPxs18GI3WulF_ijXj-_0PdSJaG99GY7c3dwWI4QJqEKmNEIZl08EAh2W3AX8kjUlIyIRkGKJ1q6XMm5KVseXy2ovojhDeguTuAcMV33NMcWa4EhDNTjsSEfDZzuZOA58dNlJYGhRknrEa4UIJPJ3D-dCuYZdz9J769Q",
+            "width": 4032
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102337089136186323740/photos\">Justin Ang</a>"
+            ],
+            "photo_reference": "CmRaAAAAJ4y0sutmlHMLRPwInVlHbTcRH5NFLy5iihd3FlcOZTogswHiv48BC53s8W9Jz5CeOUqat-yZvGYH9gkonA2tFUygf8rmhYgFvNmb8kBYnMKkji8QeXD7nGXvcQ8bJWSaEhCFtvcGatGBQIJndSeZMOP9GhQAEM4ISw11GkjAPPHlaM1VVJWjHA",
+            "width": 4048
+        }
+    ],
+    "place_id": "ChIJv7UWwv00K4gRZ7UG8WEPoCE",
+    "rating": 4.1,
+    "reference": "CmRRAAAAId7tMjhxNboDV-yCmoUDlDY2k6S3itQL_3SBjgkeh0VNuyHqIxsjZhQcVnI2fr5nhWEblnB69YlXtaSW8K4GXGgRJ0fRozyfH8HAaDcCq-XrQMQPizUnWZqxFnWqdkBREhC6lDyzi5qUUvUlyAsUimLcGhRpVUsWADIvxmiSxrrumm1LZFXOhA",
+    "reviews": [
+        {
+            "author_name": "A Cartier",
+            "author_url": "https://www.google.com/maps/contrib/116167134721249142208/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-bPAS-oMgXpA/AAAAAAAAAAI/AAAAAAAAIKg/HEu6OZfIdGg/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "3.5 stars.  Nice spot to check out for a gift your someone special or yourself.\n\nShinola looks like any regular leather or watch store but there's an interesting history that goes beyond the gleaming glass cases filled with many masculine colours of leather bands.  I watched a video of how the original craftsmen specifically chose Detroit to create Shinola.  It was an effort to rebuild the manufacturing history and skills that seems to be fleeting in that city.  Another interesting tidbit, it wasn't just to build items they can sell but very high end products that require 'craftsmen' more than just plain manufacturing lines.\n\nThe Toronto store sits on one of the hippest corner ... Ossington and Queen.  Between the Shinola, Lululemon's men only concept store Local, Tiger of Sweden, and Toronto's only store outpost of Burton's Boards.  This spot is targetting the active, hip, and moneyed crowd.  Shinola definitely fits in.  \n\nThe store itself is nicely done up with a lot of showcases of their leather goods (journals, watches, bags), bicycles, and other little gifts.  The service here is personable without being overbearing.  If you need help, there's easily 5 people here to help you with your questions or concerns. There's no issue with asking them try on different watches and they're happy to do so.\n\nNow the only pause I had was the price...  these were heading into Gucci territory easily.  Though I do appreciate how it seems to be more focus on craft and personal touches to these watches, the prices do give me pause.  Most ones with a leather band were sitting at $800 and were very casual looking.  The metal bands ones had a bit more luxe look to them but easily pushed $1000+ and a few of the mens were at $1500+.  \n\nSo for those who like the history of Shinola or a casual look, this maybe more your territory especially if you have bigger wallets.  For me, I can appreciate their efforts but their style isn't quite me to easily put down my credit card for $800+.",
+            "time": 1522080526
+        },
+        {
+            "author_name": "Liz Mayer",
+            "author_url": "https://www.google.com/maps/contrib/112216861187582279430/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-fnUIYtA_mmE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1z1FKzIAZQlShXA8qkmCOAKYs0Pw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "Overall, I would say that Toronto doesn't deserve its reputation for attitude, but this Shinola location is a disappointing exception.  I have tried to make a purchase here twice--first, a handbag, and next, a backpack. Both times, in the midst of starting the transaction, I have been abandoned and ignored when a younger, more beautiful person walked into the store. Never mind that in both cases, I was the more likely and valuable sale! My advice is to steer clear, in case you don't pass the \"cool\" test of this pretentious place.",
+            "time": 1501092555
+        },
+        {
+            "author_name": "Noah Barlow",
+            "author_url": "https://www.google.com/maps/contrib/106267656072306890785/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Gix2WkGJguM/AAAAAAAAAAI/AAAAAAAACaM/GmfyEhYtaLE/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I had a great experience here and the staff were very friendly and helpful.",
+            "time": 1515943389
+        },
+        {
+            "author_name": "Ross Winter",
+            "author_url": "https://www.google.com/maps/contrib/112338901391678622222/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-pKJBiGOVf3w/AAAAAAAAAAI/AAAAAAAAAFU/UOsUiAlJ2Dc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "Wildly expensive, gloves sold out, and not restocking 'til next winter despite the cold weather.",
+            "time": 1515101157
+        },
+        {
+            "author_name": "Vesa Mikkola",
+            "author_url": "https://www.google.com/maps/contrib/111507682935747249807/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-EAuvyMi6Mgs/AAAAAAAAAAI/AAAAAAAAADE/sUVDFowcZWA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great customer experience and service! Gocke, the Store Manager, was amazing in facilitating my wife's birthday present surprise! She had presecco waiting for us, so we had a great time choosing her watch. We liked it so much I ended up getting one too!",
+            "time": 1488661271
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "bicycle_store",
+        "jewelry_store",
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2422953512855319911",
+    "utc_offset": -240,
+    "vicinity": "1000 Queen Street West, Toronto",
+    "website": "http://shinola.com/"
+}

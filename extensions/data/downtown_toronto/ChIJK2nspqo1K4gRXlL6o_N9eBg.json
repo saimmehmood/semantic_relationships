@@ -1,0 +1,319 @@
+{
+    "address_components": [
+        {
+            "long_name": "1176",
+            "short_name": "1176",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J5",
+            "short_name": "M6J 1J5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1176 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1176 Queen St W, Toronto, ON M6J 1J5, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6429347,
+            "lng": -79.4256269
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442309802915,
+                "lng": -79.4242575697085
+            },
+            "southwest": {
+                "lat": 43.6415330197085,
+                "lng": -79.42695553029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "8c07dd426ff15c2bd1b0406ba27aba571038c3ce",
+    "name": "Buna * The Soul Of Coffee",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 6:00 PM",
+            "Tuesday: 7:00 AM \u2013 6:00 PM",
+            "Wednesday: 7:00 AM \u2013 6:00 PM",
+            "Thursday: 7:00 AM \u2013 6:00 PM",
+            "Friday: 7:00 AM \u2013 6:00 PM",
+            "Saturday: 7:00 AM \u2013 6:00 PM",
+            "Sunday: 7:00 AM \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109259313834117868593/photos\">Suresh Doss</a>"
+            ],
+            "photo_reference": "CmRaAAAAIQagkaEvpRIPk_y7_tnn5waJ_ybLv8CJw0EPXcmqaJs6_-cXpI7lPNl_V5aPUrXEI8xMngN9XotZoSC-312uWIMUrjM_h_dLbcma2ePoy7wWtXNFMDE93sG4gUk3k0QoEhDl70ac6jKnoHDxZiWc58hbGhRuNJzde7OQjXPVo-GqYQ1imar9Sg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109259313834117868593/photos\">Suresh Doss</a>"
+            ],
+            "photo_reference": "CmRaAAAAB-2M3nD3QLuIFKSghMLiSiq8RZDSRYDQb4a6YBI8hEN0xDTxnzjhhHottg5XZro-lPoD08hY3SaruGeDIsOqe9aLEKo3Q-zrPspewYJlU8qDPkL5ajJcJsr5oOTn1dvQEhCZYtTuPYHZ6jNfyIXEpYANGhQRAnFeaitz0D75Nj8_5Bwwg370_A",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109259313834117868593/photos\">Suresh Doss</a>"
+            ],
+            "photo_reference": "CmRaAAAApFh_APU_Z4yFedNwAvpplsowbHv1txwwuDe1C4UUUJUSYd5iALmJaUjxRkziDTdU0kMW_NOVXZM2Fy5168QuseJ3SL6wVSC-Dg6YWwdG2H8mWZOe6yXY-PHrdKD7oA1_EhDj2zqxjFwW7UixmatrAbVdGhRWxbxmubV_OWlRiYHpT01RttKrLQ",
+            "width": 4032
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112783983508841338704/photos\">Kittie Chan</a>"
+            ],
+            "photo_reference": "CmRaAAAAgoewChuNV4j8EFJb6uZNrFqZn_7tvYq526BA0Ek8ojqKaVFBiaraxLydTQnjfsFuL7-GnrLrNj_NMnqnWBij9xVnlWZrEoSY6NkKcUrOF1PhRPF1V1CxSxV-0Dvvc_0MEhA5NcDLOCY2ocNZl83_u4PmGhRe5Nbb7wGkSTUgRCVJnd7gMuwnTw",
+            "width": 2160
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113628536044134284625/photos\">Alexander Buck</a>"
+            ],
+            "photo_reference": "CmRaAAAAXDcFAUviG0XCvkE_toni8enkH-oBnOZITMpM6uSDw5Ap1dCEBudEfe_b2BNGMaLJW1Kvj4kztWYWjVewQpQQ5cijRwoZv4mgTKroBqQRdmsPS-NpEaFLA1S-kQKvaVXQEhD0P0ShUTMl8W-dKeC11YFaGhQQSXToE7nHH_xlgIErZ_U5zua-ow",
+            "width": 2988
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115475893127989217893/photos\">Louie Parker</a>"
+            ],
+            "photo_reference": "CmRaAAAA0uAL5VTcAYXDH_oMGH28RHAwJ19UkKYAgDJQghwwOsaefByeUkhvZXAQY6kMzp8tpyE6R3l9E4rYKIilsKY1_kBhsRObTt0IgDHQB-9E_LpLoTMzzhVt5HxGjQlARSiwEhAl633AkvJo7H3CH344l4GWGhQjgRarwhduqEGl1XJ_8Hmj_F8nZA",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115475893127989217893/photos\">Louie Parker</a>"
+            ],
+            "photo_reference": "CmRaAAAAfUjke2HmYxROUKH7q38l_S5PUGWxDaKnyVRCVokXeeDNBCJTiRQ-JdLIdMkX7NSpSQcg64QzQkB-P8jXYd72aKMPBErDLhqAvxVyQMtTtj-9KJK7IxTjA8nBckcXF0YMEhD5_-DzqKgpWTfDXsjwbRngGhT0oqNv2CM9DkF2upOAESfojTvXlg",
+            "width": 4032
+        },
+        {
+            "height": 4608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109214607057705023824/photos\">Kaiser Dandangi</a>"
+            ],
+            "photo_reference": "CmRaAAAAmv6BtL7CbboqmoGGOdMvmJtcWSAudpC2htd_G0KZwsTC0DbrUnGZ2BQtOXlWJANuKSPBG6OwjC3j5O3m0TArCuH-5dMBQ2TPmi61mQJu7FP7QkKnikZKyZoMLHKnWGklEhBbk442B6jMwpPBhkiTwtbnGhQVuvYCy-wxYcqjdxkh9QJRtbz3kg",
+            "width": 3456
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109259313834117868593/photos\">Suresh Doss</a>"
+            ],
+            "photo_reference": "CmRaAAAAUVOEypLgV5LLYQrPAqM9TXlvag5fwT0v8-PL3pa5G9UeWl7f1QZTRB7w-va5_Pg5LPAnGCRuUTVMWelDkINHf8aZT5efIsKzgPUz5uMdzmbGvLC69I1zVzGgHFnKHf0SEhC5rs01BhQ0On_L0OsWiy09GhS_gpfMH4HZyKWGRuN_ooA3HZs-7A",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115475893127989217893/photos\">Louie Parker</a>"
+            ],
+            "photo_reference": "CmRaAAAAzO0uNiXTRvM4Gpv9neOjQksZH3_El7dEnCva1KCqDP5aH4czggiFrN-cKGj5Ii5tuE1f6VV_XRwsgMJ6GOWngdi8LxmBojfWR68U9SAC5t6hqLO0tDwJbl9wuZmtyS7CEhDbC4AAQHsI5NHYMCm1D7PLGhQOKaHikqaAfcpQF1WvmP6A604dqw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJK2nspqo1K4gRXlL6o_N9eBg",
+    "rating": 4.6,
+    "reference": "CmRRAAAAXWo9zTGM-Uj2id8_O3HldgUz9BpQCFlRjrl2gWJzxyXX0Rz8J_tTLxwcfgTTgtx8TPabBmdQ_IQwk8qRX5NfudgRt3uDPaOLSnpx6v30iBSiUin2K8v5DDW98u0RR9sDEhD6e_8bmugRDZa9GDZzYQyQGhRTQEaAx-mwldqzTLl6VXkpFAQFfA",
+    "reviews": [
+        {
+            "author_name": "Louie Parker",
+            "author_url": "https://www.google.com/maps/contrib/115475893127989217893/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-51X6O1-J9IM/AAAAAAAAAAI/AAAAAAAAB2U/QEluWaEp8kA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We had a fantastic time here. \nEthiopian style coffee!\nWe did the ceremony which was a great entertainment and experience. \n\nThere's a restaurant right next door which is owned by the same owner. I'd love to try that one out!\n\nGreat service, great coffee, decent price!\n\nCan't go wrong with that combination!",
+            "time": 1522326628
+        },
+        {
+            "author_name": "Patrick MacNeill",
+            "author_url": "https://www.google.com/maps/contrib/112716437685054173724/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-F7H4soriwT8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3C2dlL445jVR2YpEtll1qpivOLnA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Cool spot to get some coffee and dessert.  Beans are always freshly roasted which is really nice.",
+            "time": 1518811547
+        },
+        {
+            "author_name": "John Graham",
+            "author_url": "https://www.google.com/maps/contrib/101111491286904460268/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-bOZ3c_fokxY/AAAAAAAAAAI/AAAAAAAABAI/2QBt0AQNPTY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Just found Buna and reminds me of Addis Ababa!  I miss my macchiatto from time in Ethiopia and this is the best I've found in Canada!",
+            "time": 1517529822
+        },
+        {
+            "author_name": "J.L. Cleaves",
+            "author_url": "https://www.google.com/maps/contrib/113656415373590780644/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-xS7UOhSKnSA/AAAAAAAAAAI/AAAAAAAAKCw/q0V694xdO2k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Neat educational experience with traditional coffee ceremony. Pan roasted beans on the spot. Don't expect espresso.",
+            "time": 1515334472
+        },
+        {
+            "author_name": "Terefe T Godi",
+            "author_url": "https://www.google.com/maps/contrib/117621171136217387504/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-f0X128k9-lw/AAAAAAAAAAI/AAAAAAAAAI8/W2Eliclj1dg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Buna the soul of coffee is sourcing Ethiopian  wild forest coffee from Bench Maji Coffee Farmers Ltd Cooperative Union",
+            "time": 1523886971
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1763297739497165406",
+    "utc_offset": -240,
+    "vicinity": "1176 Queen Street West, Toronto"
+}

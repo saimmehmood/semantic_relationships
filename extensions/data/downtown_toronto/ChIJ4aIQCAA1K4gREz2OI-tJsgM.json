@@ -1,0 +1,165 @@
+{
+    "address_components": [
+        {
+            "long_name": "1164",
+            "short_name": "1164",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J5",
+            "short_name": "M6J 1J5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1164 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1164 Queen St W, Toronto, ON M6J 1J5, Canada",
+    "formatted_phone_number": "(416) 546-6355",
+    "geometry": {
+        "location": {
+            "lat": 43.6430561,
+            "lng": -79.4253313
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6443237802915,
+                "lng": -79.4239509697085
+            },
+            "southwest": {
+                "lat": 43.6416258197085,
+                "lng": -79.4266489302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ff021d694a7d87492d2c34603d505aba90469357",
+    "international_phone_number": "+1 416-546-6355",
+    "name": "Ten93 Queen West Condominiums",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 5:00 PM",
+            "Tuesday: 8:00 AM \u2013 5:00 PM",
+            "Wednesday: 8:00 AM \u2013 5:00 PM",
+            "Thursday: 8:00 AM \u2013 5:00 PM",
+            "Friday: 8:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJ4aIQCAA1K4gREz2OI-tJsgM",
+    "reference": "CmRRAAAA8NlHfTPA61GaIVWiXEqzjIVM_tMAlABnuMrDtFp4o55GMqXfOXMUfob6bWV0fgWIb2oMEJ_AeEwJRcFo3c7NGpcspjL9E9Ge-BIz2_7OWMnxFHYKmxwmlaODxaFaBt99EhDtaREIHofpWYmN48i6ybX5GhQcugw1FH0Amx10GEV_rcMkV62PrA",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=266356602230947091",
+    "utc_offset": -240,
+    "vicinity": "1164 Queen Street West, Toronto",
+    "website": "http://www.pembertongroup.com/"
+}

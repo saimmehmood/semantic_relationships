@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "17-41",
+            "short_name": "17-41",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Beaconsfield Avenue",
+            "short_name": "Beaconsfield Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3J1",
+            "short_name": "M6J 3J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">17-41 Beaconsfield Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "17-41 Beaconsfield Ave, Toronto, ON M6J 3J1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6438543,
+            "lng": -79.42511520000001
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452032802915,
+                "lng": -79.4237662197085
+            },
+            "southwest": {
+                "lat": 43.6425053197085,
+                "lng": -79.4264641802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "dd219cdf8eaad964af601ca976a1752441a90129",
+    "name": "17-41 Beaconsfield Ave",
+    "place_id": "ChIJY7OM_v80K4gRLyKC4XETLlk",
+    "reference": "CmRbAAAA3y_gJhJ59Nz8t9ZAXwn5yQ8LhkjIcqsin5WXxgAET057-Ittb6D79WywRhceuCWkA-wMRFirFwpuW2C_sBrs3wG5tR7NW4mtTAuP-8enG1dyNMDSmRSJPFBkZhs53ZrfEhDiFcoy21F6-IJIuARsTaPxGhT_HGNXDtJo_BeZyXfR8BCcTYHsYg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=17-41+Beaconsfield+Ave,+Toronto,+ON+M6J+3J1,+Canada&ftid=0x882b34fffe8cb363:0x592e1371e182222f",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

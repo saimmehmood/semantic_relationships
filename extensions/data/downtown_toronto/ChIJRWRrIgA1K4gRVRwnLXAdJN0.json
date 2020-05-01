@@ -1,0 +1,307 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5H 2M9",
+            "short_name": "M5H 2M9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "1130 Queen St W, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5H 2M9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1130 Queen St W, Toronto, ON M5H 2M9, Canada",
+    "formatted_phone_number": "(416) 536-3738",
+    "geometry": {
+        "location": {
+            "lat": 43.64325579999999,
+            "lng": -79.4239473
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64460478029149,
+                "lng": -79.4225983197085
+            },
+            "southwest": {
+                "lat": 43.6419068197085,
+                "lng": -79.4252962802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "023fabc514495b46239fcbbb20bf8dedab6bb71f",
+    "international_phone_number": "+1 416-536-3738",
+    "name": "King Slice",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0430"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0430"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 12:00 AM",
+            "Tuesday: 11:00 AM \u2013 12:00 AM",
+            "Wednesday: 11:00 AM \u2013 12:00 AM",
+            "Thursday: 11:00 AM \u2013 12:00 AM",
+            "Friday: 11:00 AM \u2013 4:30 AM",
+            "Saturday: 11:00 AM \u2013 4:30 AM",
+            "Sunday: 11:00 AM \u2013 1:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111190452313008083072/photos\">StoneBrewGood</a>"
+            ],
+            "photo_reference": "CmRaAAAAHF-UmAXFnaVyyDAbp5AUuNDUi16ApVoGPOKWVCtDPuQfwUfMjsBI3Ql4AGkfxu9Nxzseuiq16HM0SJ3cngcalnHPUetE0ISlvt98l6GwH7jA_YxzXqJoNB2lysvNtrdgEhDGVbay-GHVffAPwP_xx1QgGhTAuXLG6RkZQvQZMkE0TPK4O3dnCQ",
+            "width": 4032
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104887578780289179029/photos\">Eamon Wild</a>"
+            ],
+            "photo_reference": "CmRaAAAAmBw11Xv9OlU41SeIhvQWdaPpg6w4fDxa5l03hAsQpYbEoPtgJs5QBv1WM6wA2JMn-j4WOzPtKmM2roWhZ3VDI4rIeBD9ts_NglsHyk24t79GQFlXLNHJFElUi6YDdlArEhC8laP_MTqxQF1_h7_NzS0pGhTP2N_hFnl51GOWmi8HfPV-gVyuRQ",
+            "width": 4160
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104887578780289179029/photos\">Eamon Wild</a>"
+            ],
+            "photo_reference": "CmRaAAAA8OUe-Ol-Ideguh7q81vhEqTVRcSrUaF6re-pHYq7H2J5C08ZK1X-0mTavmTggWF2yJ9x2IsP-r0Y_uV0deTIQDn0Yrk_xfe-wdoDnxgYW0V1b-MYGm9T_Zbu_ri-GnEbEhCTtZWA6BJHwN1zeesn0RG_GhT2l46VpT-KX-4Pw6zMxaNLc9AjgA",
+            "width": 4160
+        },
+        {
+            "height": 3984,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100402188821624658185/photos\">Janis Navarro</a>"
+            ],
+            "photo_reference": "CmRaAAAALp1Ww6OpcGxVAVPHZozkXdR_ibiDg32FUIqzOmk59mqyrVTbMWVkML_tIK4w3FHhJheFbYB-r7NRa3BQLK4QV-551hX3hEl7RjHnKgN7INJi360xf1rlJsfd1h-ZP_ZwEhCOFroIgfdkTM1DANFdCqwvGhSg0mdPlY-bd0Hxxfjd-psXozCugQ",
+            "width": 2988
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117537222566980568023/photos\">Zlatko Zahirovi\u0107</a>"
+            ],
+            "photo_reference": "CmRaAAAAeQA3l1RVD8-s5VWgPiIuZhrPmw3bREFtdqzJx12WfKd7eH8AYKWIF_YxE5UNQGw8Fw_k7wLCCsXFspNMVx0eSggHKJQcLAPtZ9c8Q7XmTbZttoA5-7p_bFbTN0OygewgEhBvFbMMcZXqSr77WIIzCX6TGhTS7ZFZjLgJTO541qi-xTrn93R4ew",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110738646920667163505/photos\">Kojo Asante</a>"
+            ],
+            "photo_reference": "CmRaAAAArM3RynMOyG3Yoc6YWy09RzDbp7aIlH5Y0C2pX0TeW73oubqJhYHXTZzzMmiX5MK9MabXQk_a4hB7rEjpQZbhRHK-KXTq3238JJfl7YZgCEDLcYFkedKkz-s3RhKKqFyAEhCynjYLxM5BsD66BoDszk_2GhQUXMhh4sWO1D_Zf1YrEfG6joek8w",
+            "width": 5312
+        },
+        {
+            "height": 2992,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114327503848602035960/photos\">Bishoy Anees</a>"
+            ],
+            "photo_reference": "CmRaAAAADdGPAfe7zWtdUdcTGx_zN2IlcbPHkcYMoKJgRoF53yoe0wAIU7n_ZueskGYZep5G5102fUgmgcX_MWzLKG6jd6YRG-KwnLUzUI1p9krD6QiHc8UnDp2iX0flOargYLWwEhBiIhgHMl6dDYBDh2Y0flP5GhRHAHP9WjAW34I3bQQ60w5EhiPEFA",
+            "width": 4000
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117537222566980568023/photos\">Zlatko Zahirovi\u0107</a>"
+            ],
+            "photo_reference": "CmRaAAAA46OTU9poD_YeC7VqVlDj9u-2060VzRPPajPLFDnTmEL5QUGPUYU3WhjfjrMpcHYe51zLknMxUZPiq0Z-DCJijZhHa5jk6Cz8JnPyQ6BERBMJqOqP6aoFCFOVLcz-2YjVEhAvgTH60YqhUc0KrmJOC0F5GhTbj9prnnvvwdUNVpDpZqdtzKG8GQ",
+            "width": 4032
+        },
+        {
+            "height": 1936,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106814554613737230030/photos\">Janelle C.</a>"
+            ],
+            "photo_reference": "CmRaAAAAPOS4nDruQuUnhkQn57SBcNRPitOywwXLdYRlhbgmoJgAwKLDYBD1CNeWrdHAqVeL0mPlOUkOMfW4im97feIwZs3a__UcncDESAuR9K-QJQKHW_QlnhON4D5jEb1ZwoA6EhAciEOkZBTi8MzJO3cd0iSPGhQq0EyI1IWyz_wmenIZbREaIYAjzw",
+            "width": 2592
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107949018667535862219/photos\">Nhat Nguyen</a>"
+            ],
+            "photo_reference": "CmRaAAAApAlKpErZ-25HPO1xG7be8_sia5Bda8LjPxngJzqZqc5sWbeFp0SWDtEM-f4XLKFwgWk_1V0JN9b7NQsLUEK0q_X6pPksqHmMRJDPQl0Jx5XJmzTWiycIGzUmpOmLHUFREhCt94wPv-DBtefwj916gFzgGhTzc3ON3Dpi9uotAm53L0nixBJApw",
+            "width": 4208
+        }
+    ],
+    "place_id": "ChIJRWRrIgA1K4gRVRwnLXAdJN0",
+    "rating": 4.3,
+    "reference": "CmRSAAAAALsENXhOgL226U6SZAqBNoeS76OXPUsG0zKSspeNiE4rKDQs5Q4Qnn64wKEis6oJoJ14XTQk143BEusSdVi4dvnivMJ_eC-kufoyuBA03zui_hcYAPfDSa_IkWtIGWiaEhB-_V9clJBMYPWqryKxRhIpGhRJ_aQnSfMFGgWgrQArOtRdtHU25Q",
+    "reviews": [
+        {
+            "author_name": "Ruby Mesa",
+            "author_url": "https://www.google.com/maps/contrib/117714083700069498185/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-6V6EBMgAPwU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0cbmlNOnuN3qGav2mM3IJArnpt3g/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "I love this place.\nExpensive but delicious slices!\nSometimes it's hard to get a veal sandwich but when you do it's delicious. \nNot many options here so it's easy to pick what you want!\nMake sure you ask which slices are fresh.",
+            "time": 1526465315
+        },
+        {
+            "author_name": "Kelly Tiller",
+            "author_url": "https://www.google.com/maps/contrib/116426926217079966453/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-HD0FntNYZMw/AAAAAAAAAAI/AAAAAAAADJI/ganEa7glNDo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Love the pizza here, fresh ingredients and a thin crispy crust. ~also the slices are massive. The garlic oil that you can add makes it taste even better! Ive usually recieved pretty quick service from my experience here. 100% would recommend! \ud83c\udf55\ud83c\udf55",
+            "time": 1521398086
+        },
+        {
+            "author_name": "sean moore",
+            "author_url": "https://www.google.com/maps/contrib/112812198913525276845/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Blj832ERGgQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3z1DotoyvtNmpTxiKPfIw-Y2P0zw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "This is the best slice of pizza I have found in Toronto. I am yet to order a pizza of my own with the toppings I desire. However, the few slices they do offer when walking in are the best I've had. The garlic pesto they put on it is full of flavour and I'm always satisfied when I have a craving for a slice.",
+            "time": 1521031170
+        },
+        {
+            "author_name": "Mark Unterberger",
+            "author_url": "https://www.google.com/maps/contrib/110807838774464860108/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-4y-2PoTdjBc/AAAAAAAAAAI/AAAAAAAABn4/GFIqdCQOZ5I/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Decent slice! Huge slice....very fresh and flavourful. Can't say anything negative about it, really enjoyed the pizza. Recommended..... Especially for that part of town. There's a lot of sub standard pizza around there. Definitely worth your while to make sure you come here.",
+            "time": 1513570413
+        },
+        {
+            "author_name": "Caleb Groen",
+            "author_url": "https://www.google.com/maps/contrib/112419715649177319778/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-6hWy3Lw5XuI/AAAAAAAAAAI/AAAAAAAAAEc/HCeZlnqMpE8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Was pretty standard pizza. Not much better then the pizza PIzza next door. I didn\u2019t think it was worth the price I paid.",
+            "time": 1524760505
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15934893749174738005",
+    "utc_offset": -240,
+    "vicinity": "1130 Queen St W, Toronto",
+    "website": "http://www.kingslice.ca/#!contact-us/c24dg"
+}

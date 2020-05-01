@@ -1,0 +1,120 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(844) 532-4636",
+    "geometry": {
+        "location": {
+            "lat": 43.6442837,
+            "lng": -79.39874669999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64583048029149,
+                "lng": -79.39747396970849
+            },
+            "southwest": {
+                "lat": 43.64313251970849,
+                "lng": -79.40017193029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "05ae1822d5b1139950d19eb1c3e18027f4276485",
+    "international_phone_number": "+1 844-532-4636",
+    "name": "Life Design Analysis Inc.",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJwZRG6N40K4gRvHWhtBQckv8",
+    "reference": "CmRSAAAANDKQzSFmaYx0mLbOdNbRPBlXwbWStrraBGILjoWQCLoY00bHj9ubQZ7gMWSdNSNghxXNUC81A-DL2Mk7KYzNP98cGDVyi6HGYODPhZ64GYPOXO8Gzz6a2N_WaVG2i3jVEhAJxxFuQnedGmg6XDQSZI9iGhRG4L6evbeSn_SNrAYIrTbFJZIInw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18415812701526783420",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto",
+    "website": "http://www.lifedesignanalysis.com/"
+}

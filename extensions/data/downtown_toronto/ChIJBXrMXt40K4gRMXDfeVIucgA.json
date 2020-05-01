@@ -1,0 +1,322 @@
+{
+    "address_components": [
+        {
+            "long_name": "602",
+            "short_name": "602",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M6",
+            "short_name": "M5V 1M6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">602 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "602 King St W, Toronto, ON M5V 1M6, Canada",
+    "formatted_phone_number": "(416) 366-4772",
+    "geometry": {
+        "location": {
+            "lat": 43.6445656,
+            "lng": -79.4002979
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458361302915,
+                "lng": -79.3989181697085
+            },
+            "southwest": {
+                "lat": 43.6431381697085,
+                "lng": -79.4016161302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "fa9edbfd67c0758d799d4bc3a435cce5d47bf0f2",
+    "international_phone_number": "+1 416-366-4772",
+    "name": "Hammam Spa",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 9:00 PM",
+            "Tuesday: 11:00 AM \u2013 9:00 PM",
+            "Wednesday: 11:00 AM \u2013 9:00 PM",
+            "Thursday: 11:00 AM \u2013 9:00 PM",
+            "Friday: 11:00 AM \u2013 9:00 PM",
+            "Saturday: 10:00 AM \u2013 8:00 PM",
+            "Sunday: 11:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102380662597637640180/photos\">Hammam Spa</a>"
+            ],
+            "photo_reference": "CmRaAAAA00xqc_e_aL53Kg_SqHTk0DzOtYxNaozNDULB8aoFEpKvDIXySBS5PXaq5YVKUysm3JTsCiYiOkrRq_nZDiIjs7Xow0dh08Ddfv7NIP23xJUATpaOhNGla8nJrqpXbTPAEhCrmvw08UY09__UCXfAmtMEGhQbLjdr2Z1yseZZko3_DDY0bihLzg",
+            "width": 1286
+        },
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107112953143578586065/photos\">Arun Kochhar</a>"
+            ],
+            "photo_reference": "CmRaAAAAjySb08EhsWyBaGaxePKR_sdez1b5T8WwojIw4fbLeT8gKJf_ehINC0ia2eU_gKZ4eKo3t22HjonliEkg3-ogtCOzgAu6jmt89TVNIcGcRQ1pqV-KLfABDRtTDA0L0hjPEhB_HQmsPCQsnJYK6GySTBZRGhRplAHZYhImBmcXllWGGN-_kAYQuA",
+            "width": 4640
+        },
+        {
+            "height": 3672,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\">O. Strictest</a>"
+            ],
+            "photo_reference": "CmRaAAAAjJoE8MvDbhtC_zAQ-ezUug3HaQC9ZH8I_aWCCYinftuoshqVGJraiCSmbWKnC571N5nJyWQKPSkFR3vQ3SpFOGWJxx0IpdUeiVio2yTTOTSK9yUB_JzP5V3wqhi7UaOXEhBwDKs6JgbxoAQMTJW2JvqiGhS4UOsito5KshXKwczPAYPtt0x4ug",
+            "width": 4896
+        },
+        {
+            "height": 3313,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102380662597637640180/photos\">Hammam Spa</a>"
+            ],
+            "photo_reference": "CmRaAAAAf3IxPc28ioviZO3FLgL8gCyRJ1qa3CUo6poK0og-_44sYGztAZXSjBGaD6h6jLE-Qj7RXXPzIOQwLWAFUO0X39Z46tvasbwVOCrlxnj9X667ObZaigqzZc18na9M1nehEhDvzZOMhjd6NrqQIuOvZT_hGhQksXvuITXpSWNt-CpWYbM_HhxgbA",
+            "width": 4786
+        },
+        {
+            "height": 2726,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102380662597637640180/photos\">Hammam Spa</a>"
+            ],
+            "photo_reference": "CmRaAAAA2UDWjWUgO-wVAjIelPt3Ht2lAxSTpPVdomQs_GhSJW1XPsTP7Db61NrTjxEp2bQvGIQ4btMbEtOW9KG-UVPxdQ7zkiESr-V7xd8h6WeiwufpSCbX1Rka5fPOJ_cQyjM5EhA2Nb8Lfk5KyZBuXUYsjABBGhQgkTQKKvRmstS4qNzd5RENFSBVpA",
+            "width": 3607
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113609403122684706138/photos\">Marcella Mon Ami</a>"
+            ],
+            "photo_reference": "CmRaAAAAU0k6CsNYoFnWByvioendVbPl-h-JgMcW0GxisqUA-ExK-hhPbeYdvxln5IZRC7--1gwxaEgBpNPtOdR927sQ8ssLDcLO6EpgRcOMBGcOl8B5PFBvLKdcEH7RbE6bA3woEhDf7p45ep1zv2NKLOrOcBzeGhTXVRlxf12NsQhwMQzO2umh664A3g",
+            "width": 4048
+        },
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107112953143578586065/photos\">Arun Kochhar</a>"
+            ],
+            "photo_reference": "CmRaAAAA8uoxrUnUojX4BDWJbzLeRgyZVlOaTDQ3BHVDPRS6PxHU0tYNA6CJ1fybcKUPZPcFuPAgcerISmJYmVgb_t0VLS69eWxwUO1Sh-747PeQS12Yp4i2ys5NNmE1GQg66skiEhBCmjiK99sKycJRwIwsjOh0GhQKII9nQZ4xuiVjqJPYsgx1S9WcqA",
+            "width": 4640
+        },
+        {
+            "height": 3006,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103925950866030436050/photos\">Cat Vindedzis</a>"
+            ],
+            "photo_reference": "CmRaAAAA2mAJL2DPBJvm1zli7FctfXW3zpBDmQYcBEgMlGL5fU1u3fXnOZhoK7Ka8VWLugc-jByoyLRo_oJ266u2_pKYZ-yzMdQvK8y9IXpz5LlkVhpVjJeO8kB9HkzswAi7sl6FEhA1I7IbTFk9trcwYxTWbB-jGhSteuYdZfZ_R75UFgJJfZEvFJmDCg",
+            "width": 5344
+        },
+        {
+            "height": 2512,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102380662597637640180/photos\">Hammam Spa</a>"
+            ],
+            "photo_reference": "CmRaAAAAwC5lmT6z78t0Bq_4BDssY-_4prMIAah5gt3FeilOEhOC0GBRQPw9n0_noPf87bRcnkQ12esnLk7ZoF-8uHzKy1GkywC25VSRkExzTt_GttXuUU3NjIQQwl6YgG0Y1fOKEhAijmgci3MIaRiI7tVYT8ATGhR8LyaywQ0-4JFj4gTpG0A0GZPSog",
+            "width": 3416
+        },
+        {
+            "height": 2460,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102380662597637640180/photos\">Hammam Spa</a>"
+            ],
+            "photo_reference": "CmRaAAAAKkMPbIh4V6Lx11wSw3QEzV_7LvBrYr2A4mTueA6Gp9IxgKsVkyO0Lb5ue1xQh8GRLbv4gZNAMlPB3w0H7zEzWYS_RdGlK7B4m6EmLF9J6CpjM_lRUDQErJjK07PbIBz5EhC1BqIU5L94n7maoDq-avXBGhRWqN4LLEfvPOcv2oSXDWGtIQAFvQ",
+            "width": 3516
+        }
+    ],
+    "place_id": "ChIJBXrMXt40K4gRMXDfeVIucgA",
+    "rating": 4.4,
+    "reference": "ClRQAAAALdwBJX4W2z6ERo6JPKG8nntnO9NGDzRn24YmZw_nOCFpox_NjgBdMSBOoFPnlcrHj11QjMzZwcI6Imj2ONXewd-2gcCMABxPYHxqFhX4wHoSEFBJaesYnmpRaij9lBhTcLwaFDJPJAbh_6JQOIaS0GAUGP1rMU8D",
+    "reviews": [
+        {
+            "author_name": "Irene",
+            "author_url": "https://www.google.com/maps/contrib/112404020254360177181/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-7o8YdI3uCIw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3BpD6AsOgo953YeG_SbIY0PiaOrQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Fantastic spa! Wonderful experience. While you wait to go in the lounge area is really nice as you can enjoy a tea, water, fruits or just sit and read. \nThe steam room is awesome!! The bathrooms are stocked with anything you might need after a shower.\nThey also sell all the great products that they use on you. 100% going back again.",
+            "time": 1524024319
+        },
+        {
+            "author_name": "Natasha S",
+            "author_url": "https://www.google.com/maps/contrib/101011097495446365524/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-WOfPfcPgl5g/AAAAAAAAAAI/AAAAAAAAAh4/6l0gH_Zduq0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Really cool spa, but may not be for modest people. I had a body scrub/wrap done and it was invigorating and relaxing at the same time. High quality products, and the space smells amazing. A bit more social that other spas I've been too. I recommend going at a quieter time as things can get a bit noisy. Also, perhaps not the best place for modest people as the sauna is co-ed and you are just wearing a towel. Also if you have body scrubs done, you will need to leave the room to have a shower in the shared shower area by the steam room, and you will mostly naked, but covered in mud so no one can see anything (plus it's really dark) but this may bother some people.",
+            "time": 1525824454
+        },
+        {
+            "author_name": "Natasha Jansen",
+            "author_url": "https://www.google.com/maps/contrib/118278727794841881808/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-qmj7yZ5ojT0/AAAAAAAAAAI/AAAAAAAAAfM/kCCQ6qb7ylU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "I had a great experience with a couple's massage and hydrotherapy. The place smelled great and the wraps and robes were cosy.\n\nThe steam room was intense. The available ice was a nice touch.\n\nThey were very welcoming and understanding that this was our first time visiting a spa or receiving a massage. I felt very comfortable.\n\nThe only downside was that it was kind of loud. You could hear street rumbling in the steam room. You could hear people chatting from the treatment room.  I get the street noise is unavoidable, but it would be nice to soundproof the rooms a bit more.\n\nWe will be back!",
+            "time": 1524802282
+        },
+        {
+            "author_name": "Ali Qureshi",
+            "author_url": "https://www.google.com/maps/contrib/107474411115832594705/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-RQajoI4gwYU/AAAAAAAAAAI/AAAAAAAABTg/VJ1r9cZKNqU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Was given a gift for a spa day where i had the baltic mud wrap and then an hour massage. This place is amazing. Their facility is top notch. They treat you like a king/queen. Excellent service and what an amazing experience.",
+            "time": 1523217377
+        },
+        {
+            "author_name": "Gem Management",
+            "author_url": "https://www.google.com/maps/contrib/108844745738407758930/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-gEtax-YmGdw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1AUHI0_7-q8ZDNTRp1aFDUdrGnnQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "My experience at Hammam Spa is always a treat! The front desk is friendly, professional and competent. I recently had a facial with Anna K. her expertise in skin care made my experience a absolutely terrific one.  Thank you,  Hammam Spa.  I would recommend visiting the spa the next time you need to relax and be pampered.",
+            "time": 1521210572
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "spa",
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=32139079111897137",
+    "utc_offset": -240,
+    "vicinity": "602 King Street West, Toronto",
+    "website": "https://hammamspa.ca/"
+}

@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "formatted_phone_number": "(416) 364-6191",
+    "geometry": {
+        "location": {
+            "lat": 43.6436247,
+            "lng": -79.4085623
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64500298029149,
+                "lng": -79.4071463197085
+            },
+            "southwest": {
+                "lat": 43.64230501970849,
+                "lng": -79.40984428029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "098483270fc71a0bcfac3e3245123216d69941ec",
+    "international_phone_number": "+1 416-364-6191",
+    "name": "Corpfinance International Limited",
+    "place_id": "ChIJs5ItnjLL1IkRuIUd25UNsB0",
+    "reference": "CmRRAAAAvm3V31yi71n9UPEn-JIzS6CM40jFOWPn9wGrdKvHxDS-2ApoohKj6UUn2AnYuBol9qXGYy4oxZ5OAzL1qd7WcWZx5NMNfmi2zEl8nBPymQ1e0ImTceuEWoz0ssxWfYVbEhAEcu5I-m1ITgGKzCJ4PAMlGhQjozsEGP8amZGCf07SCC3MdK8ziw",
+    "scope": "GOOGLE",
+    "types": [
+        "insurance_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=2139224760278418872",
+    "utc_offset": -240,
+    "vicinity": "229 Niagara Street, Toronto",
+    "website": "http://www.corpfinance.ca/"
+}

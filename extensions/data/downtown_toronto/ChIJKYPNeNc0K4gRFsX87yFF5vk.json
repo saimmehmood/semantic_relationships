@@ -1,0 +1,309 @@
+{
+    "address_components": [
+        {
+            "long_name": "a9",
+            "short_name": "a9",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "16",
+            "short_name": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Blue Jays Way",
+            "short_name": "Blue Jays Way",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3R5",
+            "short_name": "M5V 3R5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">16 Blue Jays Way a9</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3R5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "16 Blue Jays Way a9, Toronto, ON M5V 3R5, Canada",
+    "formatted_phone_number": "(416) 623-0181",
+    "geometry": {
+        "location": {
+            "lat": 43.6430459,
+            "lng": -79.39120919999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444067302915,
+                "lng": -79.38980521970848
+            },
+            "southwest": {
+                "lat": 43.6417087697085,
+                "lng": -79.3925031802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "5d0c424a2f637b9fa865feb924e56a2814ca02b5",
+    "international_phone_number": "+1 416-623-0181",
+    "name": "Room1Six",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 11:00 AM \u2013 8:00 PM",
+            "Wednesday: 11:00 AM \u2013 8:00 PM",
+            "Thursday: 11:00 AM \u2013 8:00 PM",
+            "Friday: 11:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112464678830632813023/photos\">Room1Six</a>"
+            ],
+            "photo_reference": "CmRaAAAA4_vE5VpzqNr3By4jhK0_bgvgOnCC6cLr2KiDdoHlhXJ48jkfBpt4sWUN4EhnUr9JXFZy69aKvbv7NGFTGLOMgCdWc2YKb5gaXHQv3xXTpvZXuOdMf2KhpAPKx5vXfzNQEhBrbVGcI3WPKiuKa-OKkZ56GhSQ148pm_Skk7zhTc4J7A52TdJuhg",
+            "width": 3264
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108427399698816213863/photos\">Satish Shikhare</a>"
+            ],
+            "photo_reference": "CmRaAAAAxnCTMAw3wBHQLJapXZXy31U2Ne8mRJp_buXhhptPvqNGRbJb3JfCzNLpim50kKHRk7VCB7_QnAmum3OO2VvEAtpQAVP6eOg84Nv1CnkPuqqHkRw-e9hX3he_5XVC35KAEhAiwHkHyiCZFD5PdnITOO3TGhTv9moUtwFrePdX0O4ocShVO7BkiQ",
+            "width": 4160
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAQcC-gluDZ4aTGhHBWUXnGFsGUxq2R8YJW1CP1wbB74JSPCR9aEp-KDgdWD68sLEL0RyMauTu_S8wpwkXi8nYKzz1dsJ4sHUItTXZf0E02P2xoNLXtyeNwNw66J7vG8LQEhBzn4Qvz_hQuZbai9-71-UuGhRXxp2l44zjstfAyWloUukFj0khUg",
+            "width": 3036
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108427399698816213863/photos\">Satish Shikhare</a>"
+            ],
+            "photo_reference": "CmRaAAAA8mP6XJP3Zy2-gj2SzpP-1rKQV439BTUflFrdKGu6RKLsP5h3Spo9shyMEK0xdWol2EC0OW5C2-MSkwxg3J16yvV79rejilqnwRLTbLJ7J1A7IY3FS9n3s1JiUTnANqxPEhB7700q08YA-rlKnNrtP6yoGhQWmXB8nLPkt0BIp92JzuBCVtycFQ",
+            "width": 4160
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114859961779441582657/photos\">Moya Semaan</a>"
+            ],
+            "photo_reference": "CmRaAAAAQvHJ_BaDlj3HpEkCbKAnJennKFGu0YQGS7XPk6GCYqYEL-7k4SXD3JmcQxmfdocphoOC7APHqpiGCb71zwSW5I2MGuP391wA0HBNg4EpQ4uVkBxEJIE5RYcG3DQEM6LaEhA8yGaGzIuyO6LDHyQYrcTLGhR0W6PmFOe-t18fKCUblkikKXyMRA",
+            "width": 3036
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112464678830632813023/photos\">Room1Six</a>"
+            ],
+            "photo_reference": "CmRaAAAA8Nh5J7ZDAZdpNR0MkKeW_QDC6_CONmvsSZTFGqKpX2K3zI1Z-u2SA65L_FqKIeH0cz06vExwsV01YPQm2EKz2FeA_3StusFLLWsgQrtutM0bCo2uworsvovYfBQ6IrnwEhDdrKeyHgPsF2_6UoZrNA43GhS5EPmO4pXA30AMSf-TIzEE1uKaQQ",
+            "width": 3264
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112464678830632813023/photos\">Room1Six</a>"
+            ],
+            "photo_reference": "CmRaAAAATB5lkrZEMn6in-XIZWO9jsiDXNGj0omh4zvYce-qdwJPtwspgYdDkgiTBXFm29oqfuZ1Q4uGe2AHCPNp4BLK0KaNzq0lmjVeCgV1TFXW-82hnTZhC965EjCHPuqzzglpEhCQmQ0ckPsxt9G3ii9AYvjyGhQSLeiGL1jsji_NpKF5XS3IInAc3w",
+            "width": 3264
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107464599793818784246/photos\">Kim Schlaht</a>"
+            ],
+            "photo_reference": "CmRaAAAAr24OwBY24V9mQDhR9TtwqiINTNVInXCm9FlYbOPJPJ0EoUnA1tLCXUercxPowyeIOQDiCAp71RRhW6kZkczixScULfSTAlo2NlumoRyfl03wfXb4kOgnPl_MwVpDupNDEhDuACYQgyXFwL6i-by2dFp5GhQx02pFm-0mnhvEbZpnnLp4TKTdbA",
+            "width": 2448
+        },
+        {
+            "height": 2592,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106864772482550002930/photos\">Mark Nadolny</a>"
+            ],
+            "photo_reference": "CmRaAAAA3dYRr9pSeyUTGjzDiQGItV4Ep1bsIwFUPTEwhM2D3R4dTWjduzDtwz3YDUPxJf7_FHyy9GSziw669btkbsfjkHkUwDU-bONQlKEjq0iQGGHJUR1gdN__XhYOFreFDdwyEhAuqZyeqhEkZIJ28onm5FypGhQmzwxdkNI_eWcg4o2WT3zwJfJ4Ig",
+            "width": 1944
+        },
+        {
+            "height": 1557,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112464678830632813023/photos\">Room1Six</a>"
+            ],
+            "photo_reference": "CmRaAAAAH2aCq1axvgD-KOcXCcYLbBVkKrGv22MKM8h8FeB_mjbIEBkz7eNfczUM8IZCZyQj_INVExMA9IUVMQWuhwy_GmKgPiHldJRfNIlo10tHIxKGw7jrDqDtMQEnmiRMT6moEhBNcACYYkASOLz4lVqoN7KTGhRG0HAWxzH3ayBEMqgzTNpqY-0WgQ",
+            "width": 1560
+        }
+    ],
+    "place_id": "ChIJKYPNeNc0K4gRFsX87yFF5vk",
+    "rating": 4.6,
+    "reference": "CmRSAAAAF7l2WNB7945MVyVi6LEaQb1XYJRawmPLqswjf7eYZxaLgIW1RBpiMDfylphCYX7krcaUGqw2TWenZ-K3tTV8R1Qnm3OJb39dT4uTTsiZCRyS9HGB7k8MVECJPYJio-ryEhCrN4njQRVF_BlpyKdIRg4EGhSO-81CDosgSRe7ELFxToloHp3M9A",
+    "reviews": [
+        {
+            "author_name": "Amani Latif",
+            "author_url": "https://www.google.com/maps/contrib/110369062604291243409/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-rZeyS1L012E/AAAAAAAAAAI/AAAAAAAACaE/SD50uTvkDHk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "My happy place! Jeff\u2019s my boy and he\u2019s amazing at what he does.. I wouldn\u2019t go anywhere else.. everyone at Room1six is great at what they do.. most importantly they will make sure you leave feeling happy \u2764\ufe0f",
+            "time": 1521491380
+        },
+        {
+            "author_name": "Mrinali Goyal",
+            "author_url": "https://www.google.com/maps/contrib/115560737778119450620/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ek4jn0wQJys/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3igUPtm4wJ2l9MtcL7NJHRCkCeKQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I got a polish change manicure and the nail technician (I wish I knew her name) messed up my thumb nail creating a bubble. I pointed it out to her as I didn\u2019t want the bubble in my manicure. She was a little offended and painted another coat on my nail. I picked an extremely light pink/white colour so the third coat made my thumb nail look a lot more solid. Due to this I asked if she was ok with doing a third coat on all nails to match the colour. She got extremely upset at this point. She was extremely rushed with the rest of the manicure (colour and top coat) and she was being rude. I apologized for the inconvenience and she sarcastically responded calling me ma\u2019am I have to do whatever you want. She also asked me if I had ever gotten shellac before. I am a working professional that keeps extremely groomed and get shellac manicures at least 9 times a year at polished nail bar in the path (they are amazing and always do three coats!!!!) Keep in mind she is at least 20 years older than me. I am 24. She then proceeded to tell me to stop talking and then bitched about me to the receptionist while I was in earshot! I went up to pay and the transaction was extremely awkward. I tipped her a full 15% as I was so uncomfortable but definitely should not have. I will never go here again. Extremely disappointed with the service and it sucks because they are a 5 minute walk from home. I rather pay twice the price and have a decent interaction.",
+            "time": 1525906964
+        },
+        {
+            "author_name": "Angela Cope",
+            "author_url": "https://www.google.com/maps/contrib/105887369416949996895/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-BstzJShUUng/AAAAAAAAAAI/AAAAAAAAADE/7hMaXELudQ0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I have long and super thick hair. For years I have tried different salons and have had different people cut or colour my hair. However, everyone I\u2019ve ever gone to has always gotten frustrated or impatient with me as my hair appointments do take forever.  I have typically always ended up leaving with a poor haircut. That has never been the case with the team at Room 1Six. Not only is everyone talented, they also care that I enjoy my time there and the end result. They never seem to be annoyed with me when I book an appointment and always welcome me with warmth. I love coming here and have finally found my salon! Plus, Amy always makes my nails look amazing!",
+            "time": 1517069849
+        },
+        {
+            "author_name": "Brett Gale",
+            "author_url": "https://www.google.com/maps/contrib/108784624551763671464/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-rP7wJP5RFck/AAAAAAAAAAI/AAAAAAAAABY/SUHapzNPfbY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Really convenient location and super friendly staff. Was able to get same day as booking and was very happy with my cut. Will definitely be going back here on the regular.",
+            "time": 1525798934
+        },
+        {
+            "author_name": "Matt Plickert",
+            "author_url": "https://www.google.com/maps/contrib/112045101116466906992/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Dzm9k3VBIdQ/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Cq80gtNbvJlF8xKiYw6vRTI3nTg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "After checking out a couple different places around Cityplace the search is finally over. I will not even consider going somewhere else to get my hair looked after in the future. Mix will definitely hook you up. Took the time to evaluate my hair and the style I was hoping to achieve before giving me exactly what I was looking for. The salon is immaculate/aesthetically pleasing and every stylist in the room is a complete gem. From the moment you walk in you will feel right at home.",
+            "time": 1520277197
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=18007156172150064406",
+    "utc_offset": -240,
+    "vicinity": "16 Blue Jays Way a9, Toronto",
+    "website": "http://www.room1six.com/"
+}

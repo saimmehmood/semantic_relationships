@@ -1,0 +1,98 @@
+{
+    "address_components": [
+        {
+            "long_name": "3603-300",
+            "short_name": "3603-300",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 0E9",
+            "short_name": "M5V 0E9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">3603-300 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 0E9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "3603-300 Front St W, Toronto, ON M5V 0E9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6439482,
+            "lng": -79.3886796
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64529743029151,
+                "lng": -79.38733071970849
+            },
+            "southwest": {
+                "lat": 43.64259946970851,
+                "lng": -79.3900286802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "78358077d61f020a5e1c5b7c70aed107b27bd79f",
+    "name": "5 Star Condo Downtown Toronto",
+    "place_id": "ChIJF1W739Y0K4gROE9G7RP-Bkw",
+    "reference": "CmRRAAAA7e7ccxy4yxf-5qejSzHdcpv3RI-TEkowIAQdHDVmkkOX2paNAnrYwqS2wgK8KFjGhRU20dOnv8XfGdlFCasXPnpMN457CdAbAPm6bfYtuka3Z5Mob-G3u5Jhn9e06O96EhD2om-3fa-CcVIXwFvZNan7GhSfikPDhHqzQkq7ML-SIDGD_fi5FQ",
+    "scope": "GOOGLE",
+    "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5478345358281428792",
+    "utc_offset": -240,
+    "vicinity": "3603-300 Front Street West, Toronto"
+}

@@ -1,0 +1,107 @@
+{
+    "address_components": [
+        {
+            "long_name": "201",
+            "short_name": "201",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "58",
+            "short_name": "58",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Stewart Street",
+            "short_name": "Stewart St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1H6",
+            "short_name": "M5V 1H6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">58 Stewart St #201</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1H6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "58 Stewart St #201, Toronto, ON M5V 1H6, Canada",
+    "formatted_phone_number": "(647) 347-6775",
+    "geometry": {
+        "location": {
+            "lat": 43.64331309999999,
+            "lng": -79.40218759999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6446239302915,
+                "lng": -79.4008239197085
+            },
+            "southwest": {
+                "lat": 43.6419259697085,
+                "lng": -79.4035218802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "b65549ec385963fe7dacdd85314a9991269c0c53",
+    "international_phone_number": "+1 647-347-6775",
+    "name": "Pretty Bird Studio",
+    "place_id": "ChIJkShJxd80K4gRDDQKV6wvWzA",
+    "reference": "CmRRAAAAdKeUd6rryiNDdyf1nVn8nh95WlNKLXrPAu3mqosvovOcZH4ifi9dXQy4NSoZa4NbexPhM2MQkl7LmPfoZaiS40oi9eMEG07DkmHH_MbAJzE15oMtNREd8TzWhimOw8z2EhDY_J8ruXAptytCrI-c7pP0GhS9Ywvv3_2qi2CJEsXnCvVVxoUQsg",
+    "scope": "GOOGLE",
+    "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3484431153942377484",
+    "utc_offset": -240,
+    "vicinity": "58 Stewart Street #201, Toronto"
+}

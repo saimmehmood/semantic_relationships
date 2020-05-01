@@ -1,0 +1,93 @@
+{
+    "address_components": [
+        {
+            "long_name": "78 Stanley Terr",
+            "short_name": "78 Stanley Terr",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3P9",
+            "short_name": "M6J 3P9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">78 Stanley Terr</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3P9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "78 Stanley Terr, Toronto, ON M6J 3P9, Canada",
+    "formatted_phone_number": "(416) 865-1566",
+    "geometry": {
+        "location": {
+            "lat": 43.6439171,
+            "lng": -79.4108565
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6452660802915,
+                "lng": -79.4095075197085
+            },
+            "southwest": {
+                "lat": 43.6425681197085,
+                "lng": -79.4122054802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a8c3d5e897c010b8177f1dcd11fd6da0537ba375",
+    "international_phone_number": "+1 416-865-1566",
+    "name": "Goldland Construction Ltd",
+    "place_id": "ChIJp9-kW-I0K4gRfmdWcid0P3g",
+    "reference": "CmRRAAAAwSKi8U-AtqILuf9xCtkK-hmvsTiOGEfsGTNR9OPSvQFHcifx1t7dxIeb8QbQxOrkz3UsQSXQi7JTA0u0SEnHJ417GWYJ5y4jvhcrr0SE0xEjjhSGoEupP_kxGpY5YAwyEhCjWvX7iNozV4u9DBUh4-RXGhQsKoHzSmlOPBE3IBKoI2ydNSxj1g",
+    "scope": "GOOGLE",
+    "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8664771920854935422",
+    "utc_offset": -240,
+    "vicinity": "78 Stanley Terr, Toronto"
+}

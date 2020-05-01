@@ -1,0 +1,304 @@
+{
+    "address_components": [
+        {
+            "long_name": "400",
+            "short_name": "400",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave #400</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave #400, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(416) 616-3046",
+    "geometry": {
+        "location": {
+            "lat": 43.643518,
+            "lng": -79.3936332
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64481018029151,
+                "lng": -79.39249716970849
+            },
+            "southwest": {
+                "lat": 43.64211221970851,
+                "lng": -79.3951951302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "23dc78eafab50bc7a87b9123b2fd21040809981c",
+    "international_phone_number": "+1 416-616-3046",
+    "name": "Reshift Media",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM",
+            "Tuesday: 8:30 AM \u2013 5:30 PM",
+            "Wednesday: 8:30 AM \u2013 5:30 PM",
+            "Thursday: 8:30 AM \u2013 5:30 PM",
+            "Friday: 8:30 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1192,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100488659626512206590/photos\">Reshift Media</a>"
+            ],
+            "photo_reference": "CmRaAAAASV9Xh2sWFnes1rS75y1sENQwDpzvzh5Q3IpUQ2IRnmj1fsUmHaP2gFSyeNdfgUftA9hBPC2TxE7fZWshphC7qVIXLAszV9P0BeYSkkyBVlrG5xWTCwtcQmoVclOtCojBEhB7oOr68nna3XXjcuq_acG8GhQoM7SlT1cu5xI1G3gpIknhGbedAQ",
+            "width": 2120
+        },
+        {
+            "height": 375,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105023885681991322921/photos\">Backup of Reshift Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAUKd6n5QQ32hoK4apFrmCF0PydkKdbUYteUna3ZlBjdly6vb5KuU5-CNMVYcz528Z_sXXzhqHHOmUiJwcXtuDAdR9NtaI8_Gt4CmURw1ln6LWEUcckRvk46DrMdFK7nd3EhDotv0y7IYV3CptTdACpE6LGhTT_u8-lHJ6GQmhU9BvyEv9y-NHYw",
+            "width": 500
+        },
+        {
+            "height": 462,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105023885681991322921/photos\">Backup of Reshift Media</a>"
+            ],
+            "photo_reference": "CmRaAAAA3JHmk-GR3Be8hd4T51sN9-_gfGyjiKXkZMLTKUY6VIUhVQEeI_QRAG_Rs1z2p6lgT4KejJBq4VtvW38Au-SEHeh3Tj6FctWGdr3mxpJvW393MIPPS-5ihzhsVrEwwEHiEhDtiOkkaCQ7MaR5CYgy0nP4GhRQeQlnf_v-BlcyTjBWe3QzCSUW7Q",
+            "width": 627
+        },
+        {
+            "height": 382,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105023885681991322921/photos\">Backup of Reshift Media</a>"
+            ],
+            "photo_reference": "CmRaAAAA2CMtjaREjQCsCwk86Mrhix6JftyhHbLgW6v5tnwPJ3rAOY152pj388WyiuNc7vY_JaoGYIK7iyEhZFmqSi-Ptfbl54xAnOgN70ZsuDpl9BvKYx-jxV_XA7vPjZTC6xnJEhCORMCril4NxIB9j48wKGzzGhQjomTBmNPxl7ZqZ1yp9XaDeKUrxA",
+            "width": 545
+        },
+        {
+            "height": 2016,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100976721978164797469/photos\">Kirk Allen</a>"
+            ],
+            "photo_reference": "CmRaAAAAcQ6SyvINcI8eksBq56UZvsy43_5rxTYbJcZPgcPF-YjmhhYKZHZji9NyN3YB70h5CIkD8w1yg2alMlwxRMq7SYWN-n7MzMWnNZdSHqmS0As8BNaoCpxWJUtvw-lNtCF9EhBK9HWaMCc8N8xqvuUgfJVwGhRrq0YGvBbZAk9ADjVl9BCMriJqLA",
+            "width": 1512
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100488659626512206590/photos\">Reshift Media</a>"
+            ],
+            "photo_reference": "CmRaAAAANGf_UiNHtBpDIKOl2yLmd466eJwFc15_2Rc6aS_4rQmRGEJR16fXzSZ3CcxVFIRogVdfKo87PMD5ESPBrnICuZ6htxIyHZy-zfThsIyzA-zzA8OZmjsyXYvMSbeDDCikEhCgUl1sr5KryzYd3qgnPc5pGhT_bmhgHcaJcHXhEj6SJK7fdJxuYA",
+            "width": 2048
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100488659626512206590/photos\">Reshift Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAw9J_oaF_m-_3uZrof58CoKdNYJCVGHEaJJx5Z-fGgHQ9Z4Vtbmo8dr9ZDwrIzrTRUoj3ZbWnjtOM6qjQWB9RVUvge_t963pQHLsbxS2GxDie7JsrsCkk9pQPtBzwpYqKEhCeOnnWbSQkt38UqwzQKVvLGhSdyuMd9OaS-jJUAvzohd-ZP_wgMQ",
+            "width": 2048
+        },
+        {
+            "height": 1148,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105023885681991322921/photos\">Backup of Reshift Media</a>"
+            ],
+            "photo_reference": "CmRaAAAA4hDtOhiPt8WeRUxYJAKoEeMSZKTBdGZrvl8WZh8Q-btUxeHnjwca9MruvHwSRzrJ31pGLW6wbYvfkHqKyPRpqGixr8OF7Dk2NC1T3lyze95lTsJLAWwWZFWCppXqTbqHEhCyxZ74XbVoDFm8lKDfdKuYGhSgzKlY9hBB8HpUS2N0NW3iiFq2WQ",
+            "width": 1159
+        },
+        {
+            "height": 440,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105023885681991322921/photos\">Backup of Reshift Media</a>"
+            ],
+            "photo_reference": "CmRaAAAA7VhkfFcu4yT06xGJZP0Uw6lnRDbrmUWosfUHetidck9aDAatKIA9yUjCFAnOPpY_RRop6TXj572QJtDvjMKC0iWFHDVfx6F20bsDOkQiIuY6aZ_VKW4l8TNzfC0AhAvMEhDL4Eh4sfZfz5EIQI-R7rygGhR_UaOZRymBHTqEZ7SPMv5edksK1w",
+            "width": 600
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100488659626512206590/photos\">Reshift Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAor1xxtMB8SXIEoOIBVURa4Rrn4bxr_z0W-tWWWiUaoEgk51yhHZp0MmXvkAOf3OWTW7Z5aZd9scXYTMBUl6vW-LwLf6xlYW0NzYrLfHXoUCt-PeRuFbU4knedPVrntP4EhCdY00NMiqtC880SjFt3smfGhQbZ1MUVX-eWfwu__5ruHgrkSIDzQ",
+            "width": 2048
+        }
+    ],
+    "place_id": "ChIJuSo1rtk0K4gRa-_l2TBwkL4",
+    "rating": 4.5,
+    "reference": "CmRSAAAA_5HaLja7XlX9bFZnkR7fN1hi3xwHc1ecy0IHnbHfvKhZVzvtvsTsIsSxvH8iovLl1ydPho3pw46ft41lVFw6RnDo3qDiD4-hJbZrT95kxPuXVGQAgtcUQcfu3wFRBzqUEhBHfI0-XZIf6ysgRj-1x_MYGhTab11IymXH9XGkY7u31cD1dEr8KA",
+    "reviews": [
+        {
+            "author_name": "Jason Allan",
+            "author_url": "https://www.google.com/maps/contrib/103525113524462752611/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-qzHvYEQQNwo/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3E1eKTphTnrUeEjuN7TsQLWoG9ng/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very pleased with the high quality work and excellent customer service.  Thank you Kirk and your team!",
+            "time": 1525462620
+        },
+        {
+            "author_name": "shane vine",
+            "author_url": "https://www.google.com/maps/contrib/107565516754537059237/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-k0UElVdXQM8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3UxrospkUy-d0Gsc8yb5JwJ-RzOw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "RESHIFT MEDIA  WAS A GREAT HELP AND I WILL CONTINUWE TO USE THEM . I STRONGLY SUGGEST THAT ALL MEINEKE CAR CARE CENTERS LOOK AT USING THEM ",
+            "time": 1452194545
+        },
+        {
+            "author_name": "Justin Phillips",
+            "author_url": "https://www.google.com/maps/contrib/106523488777398162334/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-gTh4EN7e7-0/AAAAAAAAAAI/AAAAAAAADq4/gHgQzNK6FuU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I contacted Reshift Media as they were the most authoritative source I could find across the internet for expertise on Facebook managment. Kirk was extremely generous with his time and knowledge - I would highly recommend them and their Social brand Amplifier tool.",
+            "time": 1438610180
+        },
+        {
+            "author_name": "Peter Hoggarth",
+            "author_url": "https://www.google.com/maps/contrib/101381787088120673833/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-hFP8RrssVok/AAAAAAAAAAI/AAAAAAAADNo/pjNTvV16hGg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "",
+            "time": 1504899672
+        },
+        {
+            "author_name": "Evgeni Nikolov",
+            "author_url": "https://www.google.com/maps/contrib/114244972453927506422/reviews",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-zj-0NssVwNk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Y9N2S85XnUpokSuH5WPFln17rug/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "12 months ago",
+            "text": "",
+            "time": 1497397081
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13731598618969108331",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue #400, Toronto",
+    "website": "http://www.reshiftmedia.com/"
+}

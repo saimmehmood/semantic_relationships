@@ -1,0 +1,97 @@
+{
+    "address_components": [
+        {
+            "long_name": "8-2",
+            "short_name": "8-2",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Beaconsfield Avenue",
+            "short_name": "Beaconsfield Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J",
+            "short_name": "M6J",
+            "types": [
+                "postal_code_prefix",
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">8-2 Beaconsfield Ave</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "8-2 Beaconsfield Ave, Toronto, ON M6J, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64317859999999,
+            "lng": -79.42484209999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64452758029149,
+                "lng": -79.42349311970848
+            },
+            "southwest": {
+                "lat": 43.6418296197085,
+                "lng": -79.4261910802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "ab3864d308439f7361aec89909525bd8173fc857",
+    "name": "8-2 Beaconsfield Ave",
+    "place_id": "ChIJ4QKoBQA1K4gR-x0bJX71wX4",
+    "reference": "CmRbAAAATbQcXIB_7pL-4hV6-cgubvoQNe9iCZPrv5z7Osaj5sUi6W9vYi0e8Izk01rBsI94Te0dXmT_l9P21UGTcQWwWoESPf2ycU3w1As1mLgr6sI7K5xPnexmLLfW6GdzCwtCEhD-G-dy0IGrfqAzoMZ_7IXIGhTW0ntBfd-XQZDDBe2_C30BQo__sQ",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=8-2+Beaconsfield+Ave,+Toronto,+ON+M6J,+Canada&ftid=0x882b350005a802e1:0x7ec1f57e251b1dfb",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

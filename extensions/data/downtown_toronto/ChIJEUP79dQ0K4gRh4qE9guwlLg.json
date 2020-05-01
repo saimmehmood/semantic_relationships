@@ -1,0 +1,186 @@
+{
+    "address_components": [
+        {
+            "long_name": "120",
+            "short_name": "120",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A1",
+            "short_name": "M5J 0A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">120 Bremner Blvd</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "120 Bremner Blvd, Toronto, ON M5J 0A1, Canada",
+    "formatted_phone_number": "(416) 607-1500",
+    "geometry": {
+        "location": {
+            "lat": 43.6430416,
+            "lng": -79.38312049999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64439058029149,
+                "lng": -79.3817715197085
+            },
+            "southwest": {
+                "lat": 43.6416926197085,
+                "lng": -79.3844694802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ad707d95f5ff6cc920002de778de6761adeee401",
+    "international_phone_number": "+1 416-607-1500",
+    "name": "Thomson Reuters",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1630"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 4:30 PM",
+            "Tuesday: 8:30 AM \u2013 4:30 PM",
+            "Wednesday: 8:30 AM \u2013 4:30 PM",
+            "Thursday: 8:30 AM \u2013 4:30 PM",
+            "Friday: 8:30 AM \u2013 4:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "place_id": "ChIJEUP79dQ0K4gRh4qE9guwlLg",
+    "rating": 5,
+    "reference": "CmRSAAAAKh8muyFgvoe88jgLHGww1KPtezbLmdhdKcOseiDeAbr9s-M7MOZn7-WR8OtKcN-toqqYb7zb8qR9ppoVGBiPg9L9wDnLEUPdaQdxPOQpb1cwweccXoGoVEYH6mu7qX0qEhBtqrehfx14S20fGJ3yRjmuGhQfW-hWKP8V8UJgtQDnsMe9YroUhA",
+    "reviews": [
+        {
+            "author_name": "Brian Zubert",
+            "author_url": "https://www.google.com/maps/contrib/117862179706394898034/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-wnfcak5WL1I/AAAAAAAAAAI/AAAAAAAAAM0/qVKhDXRTs4s/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great office, great employees",
+            "time": 1514789498
+        },
+        {
+            "author_name": "Niketh Sudhakaran",
+            "author_url": "https://www.google.com/maps/contrib/114134723554601276315/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-oC__WNQXynA/AAAAAAAAAAI/AAAAAAAAHX8/O0kbgP90NjU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1514510128
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=13300449164958927495",
+    "utc_offset": -240,
+    "vicinity": "120 Bremner Boulevard, Toronto",
+    "website": "https://www.thomsonreuters.com/"
+}

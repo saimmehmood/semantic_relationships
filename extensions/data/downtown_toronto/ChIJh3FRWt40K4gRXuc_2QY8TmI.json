@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "606",
+            "short_name": "606",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M6",
+            "short_name": "M5V 1M6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">606 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "606 King St W, Toronto, ON M5V 1M6, Canada",
+    "formatted_phone_number": "(416) 363-2291",
+    "geometry": {
+        "location": {
+            "lat": 43.6444801,
+            "lng": -79.4005463
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6457665802915,
+                "lng": -79.39917281970848
+            },
+            "southwest": {
+                "lat": 43.6430686197085,
+                "lng": -79.4018707802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "eff7971f9d48496ff27aef485ae7bb7caa6f2e1b",
+    "international_phone_number": "+1 416-363-2291",
+    "name": "Pangaea Asset Management Inc",
+    "place_id": "ChIJh3FRWt40K4gRXuc_2QY8TmI",
+    "reference": "CmRRAAAAWNG9CHcU-FGbhjsbR0yvErI4Evnr17g3ylPN9Ih0MvhfghBeYp4C49cDNdCerRNkEr1xa0RuP0OzepIKf21x5PKabvx0u1attgXT4eqlNs3B394KvuROaerc5P2cxFZrEhBmpLCYC0saoSPjEJZdHQtKGhTjMfKzRGl0zL52ktrTt8WgNbJjoQ",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=7083665264012683102",
+    "utc_offset": -240,
+    "vicinity": "606 King Street West, Toronto",
+    "website": "http://www.pangaea-asset.com/"
+}

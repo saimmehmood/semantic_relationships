@@ -1,0 +1,253 @@
+{
+    "address_components": [
+        {
+            "long_name": "902",
+            "short_name": "902",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Adelaide Street West",
+            "short_name": "Adelaide St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 3S5",
+            "short_name": "M6J 3S5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">902 Adelaide St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 3S5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "902 Adelaide St W, Toronto, ON M6J 3S5, Canada",
+    "formatted_phone_number": "(647) 706-8040",
+    "geometry": {
+        "location": {
+            "lat": 43.6431247,
+            "lng": -79.4145884
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6443664802915,
+                "lng": -79.41319796970849
+            },
+            "southwest": {
+                "lat": 43.6416685197085,
+                "lng": -79.41589593029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ad612a9e4987768407034ba0c567e538af2f72b4",
+    "international_phone_number": "+1 647-706-8040",
+    "name": "Trinh Paralegal Services",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 8:00 PM",
+            "Tuesday: 9:00 AM \u2013 8:00 PM",
+            "Wednesday: 9:00 AM \u2013 8:00 PM",
+            "Thursday: 9:00 AM \u2013 8:00 PM",
+            "Friday: 9:00 AM \u2013 8:00 PM",
+            "Saturday: 11:00 AM \u2013 7:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117989521382313108195/photos\">Trinh Paralegal Services</a>"
+            ],
+            "photo_reference": "CmRaAAAAdgadNPxOLWK1QCvoIkD8eCVd4VGHZ_XROO1nXHIhfKAo_pkRe0IXxlgCiTEm1QAJPspntVBvjTycnRA5fC3DBcddkxE4U8U5Txexa4J_ala-13aR9jEb5TX4oZ3Hm4DSEhCYQTw0fkiIfp16C7WeHdfxGhQOcf3inxQvCOO0mSAYWlMC7XPZAg",
+            "width": 750
+        },
+        {
+            "height": 588,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117989521382313108195/photos\">Trinh Paralegal Services</a>"
+            ],
+            "photo_reference": "CmRaAAAA2jtmKkhhrFpKgYLfg5XD6pdm1tB5JTHFn3zEE3wPaaiMtBfpVyuv0MjrQ0Wz8Vr-1ngLWyWHUWz3A5AAYoQeytJ3dTfAIj2z98UCOcLTxr5j2jwRS0uMVn4c-mx4uq9kEhAG7ZfDk90WUyqN8oZ-JoGtGhQcl4yUMRYc9iYg8HERadEcCSDxPQ",
+            "width": 1024
+        },
+        {
+            "height": 410,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117989521382313108195/photos\">Trinh Paralegal Services</a>"
+            ],
+            "photo_reference": "CmRaAAAA_0M9BuErmRBUaUu9gZvCXUKl4duhY-XAiBCVfzgIJxA9TqIJgSJ7V6Tj2i6sMZjiA1qgZLToQOJNcvNETBY_DKVHpzyf7gNhZE7yMDlEp7vdV1g6W0EoHMknxPs6jfrEEhBTtrWc1NlPrgtAiQQhaXR7GhTMI6NtIfRl5PTQqU2UJ0Ly6gaSsw",
+            "width": 410
+        }
+    ],
+    "place_id": "ChIJA3pHcZc1K4gR6OK1KCmX4E8",
+    "rating": 5,
+    "reference": "CmRRAAAArCHVsk4uSgaPbZhGJvGeSoa4Jp-Xc09mGLjvrjQ0YnOkS5fsrU4If7ZbcY91yIMGaGATm47dmmrmeAsF8HfPgKaNXOZDqLC7SYcEGqaCTjlKNf9FWnPrq__4xPYADSOmEhCrWBIRRTN8pCLVveNboYbsGhQYzuAYci9Wd_l9hWkW3VA8dHphpg",
+    "reviews": [
+        {
+            "author_name": "Kim Johnson",
+            "author_url": "https://www.google.com/maps/contrib/108431211068082835354/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-XlDS4R65s1o/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0zTbVRbHeSU0olzDjHbB-Izzdjgw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I was fired from my job of 4 years. My boss told me I\u2019m not a good fit. I was crying so hard when I was escorted out of the building. I was so numb by the time I reached home. When the numbness went away, my fear kicked in. I have young children and really need the job to make ends meet. I went on my computer and googled lawyers who deal with this sort of stuff. I called many lawyers and they all told me that I don\u2019t have a case legally and to look for another job. Some of them told me they would write a letter on my behalf to my boss, it would cost me $500 but that was as far as they would take it. \nI kept scrolling down the google page and saw Trinh Paralegal Services. I had already lost hope but thought I had nothing else to lose. There was this heavy feeling in my heart that if lawyers say there isn\u2019t a case then how can a paralegal help me? I was willing to make this last phone call to see what this company has to offer. \nI spoke with Samantha. She patiently waited while I purged myself of all my feelings, including my fear of not being able to make ends meet. I must have taken at least an hour of her time before she even said a single word to me. When I was finally done, Samantha asked a few questions, and then said that I do have a case, but I would need to speak with her personally. I said that I have young children and can\u2019t come out to see her. That very same evening, Samantha came out to see me at my place to talk some more. \nShe told me that I don\u2019t have an employment issue. She said I had a human rights issue. It turns out that the week before they fired me I had asked my boss for accommodation as I was sorting out some health issues. I even gave them my doctors note. I never made that connection but luckily Samantha did. I told her that I don\u2019t have money to pay her. She said no problem, either she will seek her payment from the other side or she would do it for me for free because she says I have a real case. I cried some more with her and when I could cry no more, I thanked her and she left after I signed some papers to say she is my paralegal. \nThe next day my boss called me and said that I restart my job next week but from when I was fired until I restart my job, I would be paid. I called Samantha to tell her the good news and asked if I could pay now but she said no, because my bosses paid her fees. I don\u2019t know how Samantha did it but she really saved my life that day.",
+            "time": 1527807846
+        },
+        {
+            "author_name": "naheed salman",
+            "author_url": "https://www.google.com/maps/contrib/115698298786839221535/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-mMxQDqkmuKE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2YXvXvU1wc5B7BN7idaBsgX9fiIQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "She has worked on my case very thoroughly.She has a great law acumen and can pinpoint the smallest of area that can benefit her client. Moreover she takes complete ownership of a case and that really puts your mind at ease.Most importantly she is very proactive and thats her winning streak.\nShe never gives up . If ever i get another legal matter I will only ask for her expertise.",
+            "time": 1527552444
+        },
+        {
+            "author_name": "Tayyab Malik",
+            "author_url": "https://www.google.com/maps/contrib/109752711200636073737/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-SKsgiYqq-fw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0LoQQk43ffcznSGPBn8vDX8mmtiQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "awesome service, I will recommend to all others if you want professional and satisfying service for your all legal matters. They helped me a lot.",
+            "time": 1527497016
+        },
+        {
+            "author_name": "atta ullah",
+            "author_url": "https://www.google.com/maps/contrib/117615258123499119037/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-ALcLK8K7Ork/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0ScM03UCylhaZZkBif1bgcJ9UqNw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I had almost lost my job as my employer was giving me warnings duebto absents as my spouse was sick and I had to take time off take her to hospital.I was on the verge of being fired.I contacted Trinh paralegal who helped me by contacting my employer on my behalf and resolving the issue.She helped me get a job protected time off which I was not even aware of and my employers never mentioned it can be a possibility.I took care of my wife who is better now and I am back on my job.I am so thankful and Thank God and God Bless Samantha.",
+            "time": 1527829888
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5755766526811955944",
+    "utc_offset": -240,
+    "vicinity": "902 Adelaide Street West, Toronto",
+    "website": "https://trinhlegal.com/"
+}

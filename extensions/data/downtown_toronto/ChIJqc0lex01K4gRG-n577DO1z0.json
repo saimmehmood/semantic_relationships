@@ -1,0 +1,92 @@
+{
+    "address_components": [
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W7",
+            "short_name": "M5V 2W7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "King St W, Toronto, ON M5V 2W7, Canada",
+    "formatted_phone_number": "(647) 968-8150",
+    "geometry": {
+        "location": {
+            "lat": 43.644288,
+            "lng": -79.4007851
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64561408029149,
+                "lng": -79.39942711970849
+            },
+            "southwest": {
+                "lat": 43.6429161197085,
+                "lng": -79.4021250802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "a864383eb0e89ec14d9b236fd2aee22649242619",
+    "international_phone_number": "+1 647-968-8150",
+    "name": "Neon Amazon - Flowers. Soaps. Events",
+    "place_id": "ChIJqc0lex01K4gRG-n577DO1z0",
+    "reference": "CmRRAAAAwJo8BV9_0HA9uL-QWdE5Asr1TH_O1XZsrBRMOGweEzW0vXB6qhaWzmQdPDLRds0ofQgkveeg8Y1Wdcrz6V_NgCg6AYpeMRopVCWeepOcWfFEZmUwJqbhZ82bEc9gJmLiEhBFf4UFZZ-leLBQ-jmckoC7GhQ45cSewBk9GW8mb3IQegfYywvyyg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4456257615642093851",
+    "utc_offset": -240,
+    "vicinity": "King Street West, Toronto"
+}

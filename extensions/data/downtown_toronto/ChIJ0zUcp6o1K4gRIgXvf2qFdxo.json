@@ -1,0 +1,320 @@
+{
+    "address_components": [
+        {
+            "long_name": "1170",
+            "short_name": "1170",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J5",
+            "short_name": "M6J 1J5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1170 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1170 Queen St W, Toronto, ON M6J 1J5, Canada",
+    "formatted_phone_number": "(416) 588-8103",
+    "geometry": {
+        "location": {
+            "lat": 43.642976,
+            "lng": -79.42546999999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6442678302915,
+                "lng": -79.4240989697085
+            },
+            "southwest": {
+                "lat": 43.6415698697085,
+                "lng": -79.4267969302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "005de57b466e2efe08ce973691759b5794c44328",
+    "international_phone_number": "+1 416-588-8103",
+    "name": "Bolt Fresh Bar",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 9:00 PM",
+            "Tuesday: 8:00 AM \u2013 9:00 PM",
+            "Wednesday: 8:00 AM \u2013 9:00 PM",
+            "Thursday: 8:00 AM \u2013 9:00 PM",
+            "Friday: 8:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: 9:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 2832,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113746766131014050040/photos\">Bolt Fresh Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAqEdPZwu7ItrC2O2-g5fWOU7vk2cwl6IL0F2644YWCpa0JLEPLtODz9qcABOSIvdJW-_EqQxRppDIfPWTANWl7AGCNVJPMmNrOqSM0JynZL0MtJQCh5t62wxNHyTqxNs8EhAtEXxuPCt0fA3e2LYj3-mEGhSswnEtyc2kZqvMRh6dDAWWElCrhw",
+            "width": 4240
+        },
+        {
+            "height": 4640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100335940891270524507/photos\">Dorothy Mo</a>"
+            ],
+            "photo_reference": "CmRaAAAAbbrat4qGfK4IiV6vNj91kp8sWbGrBbXU-f5yAKB4L7bPIWm0TpQ-s0TA-RwOLlBbI9JuFxJ7wDJKYPnn-MNfNb1MG9egQXgSbwNC52dG4iaYL0s2rk-0m5fhSQQHz4hpEhDeBPyM5qKCoyOLjCrxc_WTGhRE2_zOklOgsiqCG8E3p2NlpEHN-g",
+            "width": 3480
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113746766131014050040/photos\">Bolt Fresh Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAwbEuDATfImmkqwI41dzhaRZErBB-BQiqS1NggQdjsJYrEO1Ea0AF2TtX8J1d8bOBwfJsTq_WJ1qGIFwxKb2xsOjIrc_oiUg_PFEFkuDtHBd5vaQ4p2WV50aEYxbDWFsUEhBbpfCpzjFm8VVTTb9bhbT-GhSLnRGHSOvAGNnRHcmy8VsYgGElTg",
+            "width": 960
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105156827734430809926/photos\">Michael Antonio</a>"
+            ],
+            "photo_reference": "CmRaAAAAC5IIlQw_BMO6x5beVLQR_KBEkb0CXbzsPo5yKjBKb7V9NvdOrhmIfUJyT01VXcluNl2vAWVXxK9DSfn3cmQ8VT-6zCfhKHlzrWOW8WYr4tkrgMkGrzEhAtIB7hdBVT2mEhCoTpPNg2nY3CdPLSTPL_WIGhSlec86UzO-nKLqcZVQxuprYaR3NQ",
+            "width": 2988
+        },
+        {
+            "height": 1308,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113746766131014050040/photos\">Bolt Fresh Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAarexqzUNnH-Zir6nycPRWxZvdbweC_YI0BQuqqQ0uMIzvZc8FufAGv4S-MeCSQ2xQbfj1vldTf87WanjmKdOTEkrQ_jMCQvZmdkcEP7ZZteFL5GZXzEzeCuBH9a8cIvyEhBJQsxm0l_0sNlfUAL_MVMPGhRxtSnGrG02x7yTVAYLFDmz1nIoQQ",
+            "width": 2500
+        },
+        {
+            "height": 3480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102261138023321140631/photos\">Bogdan Papadopol</a>"
+            ],
+            "photo_reference": "CmRaAAAAMRiIvKB8hfFKSu7EBKqUFfOrXvc0cjzIe_ERiHaAqRHMi9gWyTjhdEeLr3uk_s61VhAfLOuapv0g10r1TDFb3_sf_o6n1qlVHCmfptLWfPDBliSr_DkK7yBRGSjpg8-3EhCKRcajFGee2Cq3Zx-R0v4xGhSgPv-kFzxuks1UogEXxNRbpfN8Sw",
+            "width": 4640
+        },
+        {
+            "height": 1194,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113871754779627522259/photos\">Gabby DaRienzo</a>"
+            ],
+            "photo_reference": "CmRaAAAAag2VdsZgCabYSeOube2LBocCTYRX6WJ54B-CV0z5jKK6tZJ4Vsl8P7FHseP-tnFHIA4HQ3a4smZ3z2cceSzgU3WQJJiVjGo_d-a5JwZp5VkxWFUQa3YCVDY4o4S9_weMEhB8ahROLBA3McuQtnKzyN4FGhQh8OFUuEF2fDbxuuCzKZu2xFLQiw",
+            "width": 1192
+        },
+        {
+            "height": 1308,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113746766131014050040/photos\">Bolt Fresh Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAO4cPZtneg-gnIh9jeRQAUMlfRlAMJ6yUEmEjLALTLF6GqDog3sxk-Womy8I1FMnv-c06oTUsv7YlkQC3gw_gjleSlg54wBu0uARi7gtfZ5oN3oco2W1gJ2aX9XyRjgb-EhB92U1Mn8Md2zZKb9sQSd78GhRDfhZFMWYO63GsGRdOkue3wOwt7A",
+            "width": 2500
+        },
+        {
+            "height": 1308,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113746766131014050040/photos\">Bolt Fresh Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAGHDVHyeWHEw1kOaNyBN01jJBdHqoxB4DVF93vgwPB5iOgdb6Di1GfZN3dCAPXiU0G0P75yBaw9Xe0meUGcQRjHf2Qqs4Od5T-78YjcEbPesUH-nGPrxeb_9F3AVTvbwJEhDQ4_FE7ZvQA9fR281siCQfGhSvI2QYrtB3knFN9cYPBOcMPW9lrw",
+            "width": 2500
+        },
+        {
+            "height": 1308,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113746766131014050040/photos\">Bolt Fresh Bar</a>"
+            ],
+            "photo_reference": "CmRaAAAAnMWyHifkLW3LsnKod9Ly50QOizrNyU8QT2x2zltsIK8G9hxdEGEH538GqjtOKQ57-GynZrhkeoZldr84RlUdPCg9em7w_S-I9_slPF4Jxzc2zOqF9a_lB2rEAQmSIaKfEhCcMgKZ8_hk3TcuCWBlDKLuGhRn31caelaRGqwSkSjrzkndaS4NEQ",
+            "width": 2500
+        }
+    ],
+    "place_id": "ChIJ0zUcp6o1K4gRIgXvf2qFdxo",
+    "rating": 4,
+    "reference": "CmRRAAAAykhC6MOiFr1QC9dHpVfKEChPaShjlA_QEboAbCRVEm-M6oEI-2ggvc_HhDBXyxuC16bX2Zjy9fjHC5c_9YWPilrYM-pkcMOVdzisF63W7TTJWmGNEIq3FM3Fy4Z1dpM-EhCR9O6cFd7ePXFKGk5yZw6EGhSB4U-wLbUgi0ynGJPe8BnWvggR2A",
+    "reviews": [
+        {
+            "author_name": "Rebecca Nmezi",
+            "author_url": "https://www.google.com/maps/contrib/113078981028381466761/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-eJyKH3N9dFM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq24yCr7VOMUSzp8wjqEPLry21K1Xg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I didn't know what to order and the staff was really patient and knowledgeable, great service. The food was excellent and filling, and I really love the mushroom instant coffee. The price is not cheap but for the quality and service it's totally worth it. This would be a great place to try for newbies to the vegan world and also great for vegan veterans. It's right downtown Toronto so parking sucks, I would suggest walking or taking public transit. I will definately be eating here again and I highly recommend.",
+            "time": 1521597541
+        },
+        {
+            "author_name": "Dora Juhasz",
+            "author_url": "https://www.google.com/maps/contrib/112869912693552007060/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-7qeKoIwQ2fc/AAAAAAAAAAI/AAAAAAAAACY/4eDgX1wshXQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 weeks ago",
+            "text": "I keep getting disappointed by this place.  Smoothies are good, but the grain and salad bowls are a huge rip off.   Portions are inconsistent every time I order. Today I asked for edamame to be added to the Vitamin Sea bowl....I get home and sure enough no edamame which I paid for!!  Sometimes the portions are good....most of the time small and missing ingredients.  Very pricey too.  Management:  please make up your mind on proper portions and train your staff.   27 bucks for a salad and a smoothie....I am super pissed. I'm done with this place.  How much are fruits and veggies anyway??  And don't get me started on the clumpy day old rice. Please.  If you want healthy look for another place I'm sure there's better value for your money and better food for that matter. I'm hungry already.\n\n**Update!  It's been over 2 weeks that I emailed Bolt about my complaint....as they asked, but with NO response as of yet.  Goes to show they don't really care about my feedback, as much as they claim to with their generic auto-response to my initial review.  Even better reason not to shop there anymore. Onwards and upwards!",
+            "time": 1527709865
+        },
+        {
+            "author_name": "J",
+            "author_url": "https://www.google.com/maps/contrib/105861643518193465621/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-oiWGUovyWYc/AAAAAAAAAAI/AAAAAAAAAEY/rbg6OT0cBo8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "I don't know if someone was having a bad day, but ordered some soup and was really taken aback by the service. Forced tipping with minimal customer service? Paying $7.50 for a ladle and a half of soup. Nope. Save your time and money. The soup was ok, but if you're paying that price it would be nice to have more.",
+            "time": 1528130518
+        },
+        {
+            "author_name": "Jenna Munro",
+            "author_url": "https://www.google.com/maps/contrib/116873630461016339904/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-gkleI2lP8dw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0inNC9lFT92vW0U2AgtFQervxJcg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Favorite acai parfait ever! Get the coconut cream - it's a must! \nGreat salads and soups as well for lunch! \nIt's a small place, better to take out.\nPricey place but for a good hearty healthy meal out - it's worth the treat!",
+            "time": 1522172520
+        },
+        {
+            "author_name": "Madeleine Kelly",
+            "author_url": "https://www.google.com/maps/contrib/111198377212387292282/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-RUhjMhnjeJ0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3ka5YkjCiJ7qULhSfjNPPH-XNGWw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "Acai bowl tastes of warm apple sauce on more than one occasion.  Over priced, grumpy staff, and inefficient atmosphere.  I have had a few good meals here, but in general the salad dressings are increasingly acidic and the general vibe is crowded. It is a good spot for vegan options, but in my opinion there are other places I would recommend first.",
+            "time": 1521512668
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=1907139659674092834",
+    "utc_offset": -240,
+    "vicinity": "1170 Queen Street West, Toronto",
+    "website": "http://www.boltfreshbar.com/"
+}

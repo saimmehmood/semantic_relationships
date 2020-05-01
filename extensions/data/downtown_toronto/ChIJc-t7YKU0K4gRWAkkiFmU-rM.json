@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "1106",
+            "short_name": "1106",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1106 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1106 Queen St W, Toronto, ON M6J 1H9, Canada",
+    "formatted_phone_number": "(416) 921-1721",
+    "geometry": {
+        "location": {
+            "lat": 43.6434658,
+            "lng": -79.4230102
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447603302915,
+                "lng": -79.42164001970849
+            },
+            "southwest": {
+                "lat": 43.64206236970851,
+                "lng": -79.4243379802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "455bbf9bcf057366f404210ed95b6cdb613f9088",
+    "international_phone_number": "+1 416-921-1721",
+    "name": "Craft Ontario Shop",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 11:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 10:00 AM \u2013 7:00 PM",
+            "Sunday: 11:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 5304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107468755143190520029/photos\">Craft Ontario Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAt4m-iZ2RWuYbIhjIf92qZ2Gfh1J1vZZYaRcMDM16uF1xB9pte9VP3-u3p_6wYnoPyy5JC1vgbKEqDti4WdpugK37y_GeYy9wfkncT7pMEWXi5T0aWPyLFC8Bgjph3OEJEhBq1U53aN-LA4h-80w-YWtoGhRK7JHwYs_eiXfiM_SGVipf4OaGqA",
+            "width": 7952
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107468755143190520029/photos\">Craft Ontario Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAA4A7QUfRMN-2QaGcTw2SjgjGK7dkSROiNbpaNNGh9PYw_4h3SkYW4F_lGsNzav0mXCb6vPrazuew0ujHyWLuieG-cJFMBXOU8LAdYMtzSLNA6BY6fOxxstv-1WFy6LQy4EhCVJGZG7m0r-Gc7nJ40wE0QGhSCfiagiHq7umjSTKDQVQeTnL8yBg",
+            "width": 800
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110380556470752948732/photos\">cain Kuri</a>"
+            ],
+            "photo_reference": "CmRaAAAAzwgoN2xGq-EKlNN5c0rEp77c5uI7HPncJptXjS2rCunSzpCxNHeoPiKm4mGi2T2VCayCZJ2V8YWtnJ3N8dKbEqBdQgIZWqPNqJ0bo64sBTAJGmxYL-sb-6NFRv-C5evUEhApCoQOc4PqEcP6s5VgV1POGhQ5YAcjIsnTC4TzeX0k4LOXOeskeQ",
+            "width": 5312
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAA9xgG9M0QgMpiv2yLWhHbMiGp2JqBcjlJRs8de1vlvLr1hzQ8Rphc2Qx77pa6Zy5VCWKreC_oyKgqfJu2yDzkCai59CYGdscmwSL1Cw0Fc40dIXG5woa1ToLZiDS0F22QEhCdej11jAXHkKv9YPafr3sLGhRTECWeXmchjiv8dPEbTRfmWzmElg",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110380556470752948732/photos\">cain Kuri</a>"
+            ],
+            "photo_reference": "CmRaAAAAMNzbjKw939kzprmoyFcrE9wm5qALcqGknQp6ARTCXOOu0A8KqFaAuJ-PTzcQNgfSnAG5gRyYijGJa9VHK6R2nLq4dG3zELqSY2MU6PGTVhIt8RiCTjQe4ZaFH1YLSRbyEhDrcoBqF0sLMooMfQvblHI9GhQG7uzJIbPWgLk15fQGMa30JBGCbQ",
+            "width": 5312
+        },
+        {
+            "height": 5304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107468755143190520029/photos\">Craft Ontario Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAlnVwIwmx7nbtOvCEfiFgzLqHy-91oru42uSJn07O1dN7Z_iYGEDNQF534uCbQuiNCRs40iZft-hkqrkJwAGzL6JI7lg8YWwMd4Kh18rbCLzan1APSRvm0ngfQwW-M0H0EhC2PrKKVC1OGngrDDE_LXCiGhRWLh0c1IcIZfNCDFcdxmp88qnffA",
+            "width": 7952
+        },
+        {
+            "height": 566,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107468755143190520029/photos\">Craft Ontario Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAA3BehEU5P1dmeUuA5M2uVF08rgLMcquDrtSB60qy4J1tu4K-mDwvQESH8FlqM-tvjtvf1SsrkNhfoo2vAALTDwXC-iy2CiUzvxHY0Zu6dz3HVYCaFkzeuWvuzn2090RXeEhAFRYpfft7Ed91YFL3B-yEHGhQzuNN03e0kh8rFrUfxfLRg66uFDw",
+            "width": 850
+        },
+        {
+            "height": 5304,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107468755143190520029/photos\">Craft Ontario Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAzufSaVfWqIuln25YddvjBT6PCrdF59C_xWUtEx5rBQnMVCTaV01b7K9LyiHm8L64oPhK1X4xcprENkRepesir-xREf5LTO4LbHC6YtOd-SIZ0UG1HXGt5gIL2f9K0oa5EhAZOySPntO_WOmqlPRFCkrfGhSp-oq_pmNkJRPjZ86IzyjX-m3MNQ",
+            "width": 7952
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107468755143190520029/photos\">Craft Ontario Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAAQ0u2sYnDHYyWeBcgpMCL2Osdf2tZd0P29nnDxVK0PZRmkdkziN3Beg53YQtrybjeDFNxU6a-TJKYgHvntloLsvnJ9iHkJ6SAkj-QYTcF75KIyL5oVBki8F6SOWYIeM5iEhBLGI38Ltc6OYR29tppt0BGGhRhtI39us-6GSxIMSSSM6WMXNHdjg",
+            "width": 800
+        },
+        {
+            "height": 1800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107468755143190520029/photos\">Craft Ontario Shop</a>"
+            ],
+            "photo_reference": "CmRaAAAASNwBQKgrtg1jnzxG4gg1l96m5Z9YJ1QSkbqjOJ-Y4qK_H005KXAQZIAineQBENfFggswuP5Z9UQHbsfF0Yx5e4AJ9WKb0P9KVG4a5DxUX1PgTyRol2g_uFiALasf7y1lEhD35LSJR0ZLnZOLItPQ-RcPGhT6alud7opyN9JhasvK_CS6Rz9_Dg",
+            "width": 3264
+        }
+    ],
+    "place_id": "ChIJc-t7YKU0K4gRWAkkiFmU-rM",
+    "rating": 4.7,
+    "reference": "CmRSAAAAhY9rtSX1gB0mSYTjkpxwyMzMkzL0_7U35pnRl5Vp_ynCvHQhTarFv5UvO8ClFSBV5LPMP_Ng2bJUEQ5L8V6dKptnTapPN87qplEzucEdLrNCrkphJcJYX89scgMD0a_cEhB3V8W_lAMCb18A5jg7XzlTGhT-m1tr4D3vegjSllDIE4zdAx8P1A",
+    "reviews": [
+        {
+            "author_name": "David Cooper",
+            "author_url": "https://www.google.com/maps/contrib/108383796957687853004/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-KxTeX0nJKzs/AAAAAAAAAAI/AAAAAAAAACQ/JCRGvoZquRo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 weeks ago",
+            "text": "If you ever want to gift handmade things, I'll say that craft Ontario is the best  you will have variety of beautiful hand made gifts.",
+            "time": 1526340178
+        },
+        {
+            "author_name": "Becky Lauzon",
+            "author_url": "https://www.google.com/maps/contrib/108777869272127148853/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-rTzZ-dpUnhc/AAAAAAAAAAI/AAAAAAAAAEY/NeJjJ51MYXM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Amazing place to get local handmade gifts!!!",
+            "time": 1526565001
+        },
+        {
+            "author_name": "Christopher Kott",
+            "author_url": "https://www.google.com/maps/contrib/109271179222531331180/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-LulDInDQ35U/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0oBkw6zOOqRR7snpNKG_ib3mIfvw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "A great sampling of local art. Lots of great finds!",
+            "time": 1513393273
+        },
+        {
+            "author_name": "Charlie M",
+            "author_url": "https://www.google.com/maps/contrib/100842634939973120696/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-oFS2_PG-eqc/AAAAAAAAAAI/AAAAAAAAAFg/gRvsFLW7-Rk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Nice selection of locally made gifts. A little on the pricey side, but everything feels like a piece of art rather than a mass produced dust collector.",
+            "time": 1507463027
+        },
+        {
+            "author_name": "cain Kuri",
+            "author_url": "https://www.google.com/maps/contrib/110380556470752948732/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-wsKb4GkzgNA/AAAAAAAAAAI/AAAAAAAAaTI/7k9oRGuorLI/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very nice place. A lot of artists together for exposing their art. ",
+            "time": 1478977126
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "jewelry_store",
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12968841189223827800",
+    "utc_offset": -240,
+    "vicinity": "1106 Queen Street West, Toronto",
+    "website": "https://www.craftontarioshop.com/"
+}

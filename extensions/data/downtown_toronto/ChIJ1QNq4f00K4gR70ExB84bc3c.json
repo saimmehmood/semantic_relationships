@@ -1,0 +1,325 @@
+{
+    "address_components": [
+        {
+            "long_name": "1010",
+            "short_name": "1010",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H6",
+            "short_name": "M6J 1H6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1010 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1010 Queen St W, Toronto, ON M6J 1H6, Canada",
+    "formatted_phone_number": "(647) 748-5155",
+    "geometry": {
+        "location": {
+            "lat": 43.6442003,
+            "lng": -79.4192956
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454974802915,
+                "lng": -79.41792861970848
+            },
+            "southwest": {
+                "lat": 43.6427995197085,
+                "lng": -79.4206265802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "4a49f79dfe1d773db413d58eefdece2be106b9ed",
+    "international_phone_number": "+1 647-748-5155",
+    "name": "gravitypope Toronto",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 8:00 PM",
+            "Friday: 10:00 AM \u2013 8:00 PM",
+            "Saturday: 10:00 AM \u2013 7:00 PM",
+            "Sunday: 12:00 \u2013 6:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 546,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAEI4ICaWRkri1oxyTRuTz2LO070ULtMhvG2crBI1HCpB1aHEszS0hu1YP3to2vNGodxp53Xmx2B-iCJE11LTKdU-LE4RknBp0QlGlY55hrdbf-MffazlKWXnE8Sbpnh2WEhBD-MtQK4ekEJM4AcE5RmTjGhSr_yCH9DjvkrKINwEzq7aye3wWbw",
+            "width": 745
+        },
+        {
+            "height": 491,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAA8UaoMzniNqiDd3PwVDy9kqOGAn9r2s8kcuW6shpC1OqyV2h0knC4k7U_zFOZOOmfllwUC57vdOBrqVMppes3VJ94I7iiLUHV_LD-kEX2geFcyF41Rg4TMKmrx6RYARLJEhDJHnChkDw1PFvh3CCQfyAzGhSi5CQu16K0QGglG8ZLkVMYYVuvIg",
+            "width": 736
+        },
+        {
+            "height": 1001,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAnNiWowKSYzAif7p1eU6d_MUCsx-NwmGmTgtsLnsAJxDj33QULD0Oxvdp_6KUuVUmkDKR7t2XLYi2v0CiikVt5LR7KoqiWtZK7pHr3a1lzQekK1GZz_PCfngBzaN5f3gzEhAK1-QNicDcadAGhksO9vvOGhTJWHR_bNu9Kgb1hsruVeZWO54jVA",
+            "width": 1334
+        },
+        {
+            "height": 2400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAGDV6nKipjRy7AEBYgjdf6YYz4pg3qUst7GLxGybG2Yf8KWIQtfxNJP3jlzhPALgyB9aka6iHhuq_Xv9EyEMpqMbodPXFcWEHYQwVhNo8H_fLGz14bTqVbxnnanos875DEhDqMOidaNun11SZemsOWkhUGhS3sfjMsjdtxFy4pgv95eP1NIYEKQ",
+            "width": 3596
+        },
+        {
+            "height": 2016,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAsKKkkmE-aiNKyIvjpl9sgJtPpz0IX_5Nl0x2aqp9H7kcZX9jq2HGXrEE804sI2QHqyUUFaVCYHIzy8GpzG05rgIZVhnvltHyttnMYdDdp__Tdj3lHUgVSu2KYZwRNJubEhDgR50H8JYXJbGPeaWtEDy9GhT3RytaY3eHXmvxr1ftqKZ9rDkh7Q",
+            "width": 1512
+        },
+        {
+            "height": 1001,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAAE_IdL_4kSR0kyMgk2lAqVu-IN0mjCc8sJ4Smc6zxZ4TnHH6cClcey7irlbcbbhv5SZfbXPklHRc6GprbORNXLj2b1rEaqYKxJWqIwBMTAzJ60Ys7CMt4xKGpmE8Zi_MEhA3zeB6Tn-yrKPOEhBf1D8-GhQ-x9X5-fPXEapXxtTEXGoANMULsA",
+            "width": 1334
+        },
+        {
+            "height": 1001,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAbaoIverQ9LoHMmqka9SEmLw8CE9zToekbbRUF5-UDApdtDU4UOp_CQ3ogaFY4sV799KaA_F1iPrLU6FT11xnQB4zisT-MBDDzCxTwJMt7nn4yoB8wJGsAVUMhm1qa0CcEhAo5y-J1dPELJnus9YHfEllGhR2vKmXw3Un5j3Gri8C8JuYlHaRFg",
+            "width": 1334
+        },
+        {
+            "height": 450,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAT42jGCuVG5N2beLBYDbFWphKzFHNh7AwoyMjwyhN7r36oHqRkpdRh7EbHxAFSAcBrVevdF0V55Srk0jQ35tucNi0SHgI3PhAgloe8JVZlOgqtVOy18cC5tBK5jRhOqcCEhDgpKvdt70a5xsZaJoV58G3GhRy43qG7ajULRphTDkmu9-Q3GEr2Q",
+            "width": 600
+        },
+        {
+            "height": 1936,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAqpSJr3cv-hvjAREWlvfA04rpjUEJIljbBWK3cTTedS6Bp6s4qsR5BFQBWhdU0UU00UaOT2O2kY3_Z7XbqY2E8Lxg8dopzHeCv3QMQm4xNpsBeOFFzpuqmMtDPYeDTHyIEhCZEbjYUWsQnZ73C78zwa3kGhRUzHA56Mh7hjKoqDvLqKL7vn2bQw",
+            "width": 2592
+        },
+        {
+            "height": 1001,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111711068883044230194/photos\">gravitypope Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAUdBT3ncTef8jHFxD91GbDWNKkCZmdlkbq91KJ22XnY9GEIWaMMBpZJ5CSRkoAqn6SlQrcYjRv4qUx66PAkxIyDSR4uP0lLvUKCqRxQ0rDRPz8iuDziRIecfWI1Gwm90-EhAGQGzCOUy5-c-037EjXKF2GhT3XXI22SmY2DGk8CSB5oEv8xa00w",
+            "width": 1334
+        }
+    ],
+    "place_id": "ChIJ1QNq4f00K4gR70ExB84bc3c",
+    "rating": 4.1,
+    "reference": "CmRRAAAA-FMSMx1ZzbTWyooEJo23IMhlv1DyDLfS9OHuaFZhmIKz5jPb5MnSACA3Hse23O1bTmAMReh24-NNM7jNsd5kfwSdGhv3R9pArR6FalqMbxnYCWUXjpBaZBrDCPdwBgMrEhD4rrdguF1PiNZM4RoboapaGhTXDVq_prB_mf1lu4CBBz-o1ghJSQ",
+    "reviews": [
+        {
+            "author_name": "Dasha Lu",
+            "author_url": "https://www.google.com/maps/contrib/118252598034118615064/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-9CmKIDa2RLE/AAAAAAAAAAI/AAAAAAAASYE/-uLgCed0Zk4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "They carry great quality brands such as MOMA and Officina Creative. Expensive but very well made shoes.",
+            "time": 1526931738
+        },
+        {
+            "author_name": "Inna",
+            "author_url": "https://www.google.com/maps/contrib/109362612261785393547/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-tgB5RA8QjYg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1tEgCQQcdVagQv7txs48rguan8yA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Usually I can find shoes here, which are not available in other stores.  Like Repetto dance shoes.  They often have sales as well. One of my favorite places to check out for new shoes in Toronto.",
+            "time": 1520333986
+        },
+        {
+            "author_name": "Marcus MS",
+            "author_url": "https://www.google.com/maps/contrib/102284501445222062423/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-BENvprZl8pY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2ac-_0MS-yp4AgxMJtTQPUV3I_1A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "Shopped here a few times, products are not bad. Store promotions are very restrictive with little incentive. Customers often get treated unfairly due to system restrictions....not a very accommodating retail store.",
+            "time": 1523479652
+        },
+        {
+            "author_name": "Sergio B",
+            "author_url": "https://www.google.com/maps/contrib/106873762178316556242/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-6CxdjJFyzV4/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0GoafpQQzg3PD8SLGQqDd-fX1Wiw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great customer service. Good selection of quality brands.",
+            "time": 1516245561
+        },
+        {
+            "author_name": "Alla Sidorenko",
+            "author_url": "https://www.google.com/maps/contrib/104766907784745379558/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-xiE-NT9o8es/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1IrWV4AapKfGO6LH4v7e2z-akeCQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "This store is a dream! So much to see! Better than Bata shoe museum!! Both have Trippens!  Lol! I have purchased my favorite Rosa Mosa shoes  in there: fell in love with it to the point that had to order it for my store in Regina, SK.  The artisanal  parfum from France, Denim from Japan, the Russian Criminal Tattoo book,  etc... The Argentinian decor is stunning. The young and stylish staff are patient and helpful. Looking forward to another visit!",
+            "time": 1513309201
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "department_store",
+        "shoe_store",
+        "jewelry_store",
+        "clothing_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8607253884533031407",
+    "utc_offset": -240,
+    "vicinity": "1010 Queen Street West, Toronto",
+    "website": "https://www.gravitypope.com/pages/gravitypope-toronto"
+}

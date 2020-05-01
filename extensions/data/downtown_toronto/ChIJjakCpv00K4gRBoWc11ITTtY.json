@@ -1,0 +1,245 @@
+{
+    "address_components": [
+        {
+            "long_name": "18",
+            "short_name": "18",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "964",
+            "short_name": "964",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1G8",
+            "short_name": "M6J 1G8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">964 Queen St W #18</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1G8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "964 Queen St W #18, Toronto, ON M6J 1G8, Canada",
+    "formatted_phone_number": "(416) 628-3121",
+    "geometry": {
+        "location": {
+            "lat": 43.644726,
+            "lng": -79.417245
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6459690302915,
+                "lng": -79.4158571697085
+            },
+            "southwest": {
+                "lat": 43.6432710697085,
+                "lng": -79.41855513029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "8ea95d7842bb0cc231dc6bf139046ece32c6d609",
+    "international_phone_number": "+1 416-628-3121",
+    "name": "Appliance Repair Queen West",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:00 AM \u2013 10:30 PM",
+            "Tuesday: 7:00 AM \u2013 10:30 PM",
+            "Wednesday: 7:00 AM \u2013 10:30 PM",
+            "Thursday: 7:00 AM \u2013 10:30 PM",
+            "Friday: 7:00 AM \u2013 10:30 PM",
+            "Saturday: 7:00 AM \u2013 10:30 PM",
+            "Sunday: 7:00 AM \u2013 10:30 PM"
+        ]
+    },
+    "place_id": "ChIJjakCpv00K4gRBoWc11ITTtY",
+    "rating": 4.7,
+    "reference": "CmRSAAAAdnWFdKaMleZFHUAQ_saIdILNoRYw9RxTQuFQC8rgWxLt_M3NUcC2lGCCdvt6DSjv5mtkZ_PhVS3WM5GP-hNsLc8sG4q0gscrZRL7Iyp6-n53zxPuYcUDDuqCuQwdDsGsEhCt1PCc765L8t69_0_vsP8WGhQxapqDAYnj1IJVZ9YE6xI8tmckVg",
+    "reviews": [
+        {
+            "author_name": "India Ruiz",
+            "author_url": "https://www.google.com/maps/contrib/112567501256012370542/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-vrdPnyU5kXU/AAAAAAAAAAI/AAAAAAAAAAc/shSIEWo6hPI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Food residues came back up the sink so I enlisted the help of Appliance Repair Queen West. A friend recommended their appliance service and said that it was excellent. It\u2019s true as that was the type of service that I received. Their mechanic found that the garbage disposer was clogged causing the problem. He unclogged it in no time and fixed the issue.",
+            "time": 1503577262
+        },
+        {
+            "author_name": "Faith Quinn",
+            "author_url": "https://www.google.com/maps/contrib/115359771811569797584/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-3EC9sXxOQ_4/AAAAAAAAAAI/AAAAAAAAAAs/0My_NPyy19w/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I noticed my fridge wasn\u2019t cooling properly so I called Appliance Repair Queen West to have it checked. Booking for their appliance repair was hassle free. The technician came on schedule and found the cause of the issue, which was frosted coils. He did what had to be done and my fridge is now working fine.",
+            "time": 1489145400
+        },
+        {
+            "author_name": "Frankie Deyoung",
+            "author_url": "https://www.google.com/maps/contrib/101028406642104674807/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-XLuF47syHto/AAAAAAAAAAI/AAAAAAAAABk/FpYuKZ9yiLY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "We had some serious refrigerator problems. The temperatures were way too high for a fridge and wouldn't change. My husband also found some water besides the appliance. Finding a fridge technician was our first priority that day. Fortunately, we got hold of Appliance Repair Queen West  really fast. A friend recommended this company and now we recommend this team to everyone else. Our appliance was repaired within the next hour. The tech even cleaned the coils at the back of the appliance. Excellent fridge service! ",
+            "time": 1458229480
+        },
+        {
+            "author_name": "Sue Burgess",
+            "author_url": "https://www.google.com/maps/contrib/110036457312131958752/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ytX5SvzuNaQ/AAAAAAAAAAI/AAAAAAAAABc/FM5LpC4eEZ0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "My freezer suddenly started leaking and Appliance Repair Queen West told me that they had to replace a motor part to stop the leak. Good thing I called them; they have the best home appliance service in the city! They work swiftly and efficiently, and they gave me a very irresistible quote.",
+            "time": 1487932740
+        },
+        {
+            "author_name": "Dewayne Kugel",
+            "author_url": "https://www.google.com/maps/contrib/103725877343590575716/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-dBJ_jLjp_kI/AAAAAAAAAAI/AAAAAAAAAAs/Laf3U4Q0b10/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "It was a hot Sunday afternoon, which was a perfect time to do my laundry. Unfortunately, the washing machine wouldn\u2019t start, so I asked for professional assistance from Appliance Repair Queen West. Their repairman was nice to talk with. He explained everything that needed to be done and got my washing machine up and running again.",
+            "time": 1479496271
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15442301418825614598",
+    "utc_offset": -240,
+    "vicinity": "964 Queen Street West #18, Toronto"
+}

@@ -1,0 +1,241 @@
+{
+    "address_components": [
+        {
+            "long_name": "26/F",
+            "short_name": "26/F",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "120",
+            "short_name": "120",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A1",
+            "short_name": "M5J 0A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">120 Bremner Blvd #26/F</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "120 Bremner Blvd #26/F, Toronto, ON M5J 0A1, Canada",
+    "formatted_phone_number": "(416) 707-5944",
+    "geometry": {
+        "location": {
+            "lat": 43.6430416,
+            "lng": -79.38312049999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64416678029151,
+                "lng": -79.3816810697085
+            },
+            "southwest": {
+                "lat": 43.64146881970851,
+                "lng": -79.38437903029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "66db3b009af0125aceaed2e7335ce316d1ee785b",
+    "international_phone_number": "+1 416-707-5944",
+    "name": "Amazon Toronto Office",
+    "photos": [
+        {
+            "height": 1836,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112942586853670715121/photos\">Glenn Dickler</a>"
+            ],
+            "photo_reference": "CmRaAAAAKi3nbKBsSwSVuHrm08fqr9W8FbkVAdpwL-m5HH383qFs0jy0GxU5rS28xdhquT3DxW61OimodNhWf8gWq0NF4t5DsZvkRhRwXcSDoO473FpSZ9vyxhyAJuDX-lOdFFsFEhDjINmEzZAh22xv10hRj19DGhQm_MR-th4I5l7xB6G7x9s-59bU0g",
+            "width": 3264
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105168561459914975911/photos\">Roberto Borges</a>"
+            ],
+            "photo_reference": "CmRaAAAAO9Wv0Z1lwliTXL6s7HBzaFUTSTIvdqRAtlVV_Zs8j3NOgXudjIryRfEYQRpjODobcxfJp-Ce_Jv8ElpTWcQmkj1CAGq_QeA-uI6WBqonHeQG5Qur2eTULwy664HfUlUUEhDyYpLjFGF_ELEuU8JpGiC6GhTbd-TOUm4E9eYHjTPKGvR7AgGJ5g",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105168561459914975911/photos\">Roberto Borges</a>"
+            ],
+            "photo_reference": "CmRaAAAA2djS9_ezDqrIL0M7fsNt3CzoCXVVhd_3PLjAm2tqZlapHkb9r6QYMDXDtRpPlJKFKZIittKtntdBrxnNmM6pKAr0n0AhJeMgbPmuTmFXJ1fUpcYswWPdKdaziUGigVE9EhDjTKcnLxrc2MgLrDJAFANgGhSEqFCnoG0Y0-hsQw5OOZ8jqSce7g",
+            "width": 3024
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108225789929245879304/photos\">Jason Lee</a>"
+            ],
+            "photo_reference": "CmRZAAAAvB1gLsHNebTMt9LnNsofz93Z-hQO0fFiOvzTxDgjCtbvD4jkBIBC5PTt_bZDQ74rlib8xFBGgnH5osqBal-bv5LAKUePXB4Ism4WcqSQj1OUpWHMa3O5oF5rwmHe1ZoIEhDyHwKtDeS35Dz39FND8VdAGhTceT6hU9hy_kfbA-65RRKNL3LeYw",
+            "width": 3036
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105168561459914975911/photos\">Roberto Borges</a>"
+            ],
+            "photo_reference": "CmRaAAAActDox1s66Evx_SwLtaeBMIbDeZKJcqU2N8SUuRQIXxNNrQAzcAZrk6qX7-udQmkg3-E4LhebEur5BtaMkKJrcfxRdKuj4YhQekPnDgJ1UJfz3SwtTG09nF6pm0CshhZzEhCGs1LdP8HEILTUsHR_srZmGhRcmMKOQLC76j9t94tbt3RThjTMEw",
+            "width": 3024
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108225789929245879304/photos\">Jason Lee</a>"
+            ],
+            "photo_reference": "CmRZAAAAZ5sFQsZwjmrbXOn4pxprNv9i1Gxk-FHpc45ka4qQTvQDVvdlnAcS9c6dcjNOX8GSK6u_ELtoE15nR6TM1vcTpdS9jlyBPmjg7404Ge9bHFw6Y8DtOtugs2KSCgdajaLdEhCohAeHJrfcKaRlEq6fUwn0GhQ1-_1LKD4XPg8ch-Hn-O1iQBpMWQ",
+            "width": 3036
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105168561459914975911/photos\">Roberto Borges</a>"
+            ],
+            "photo_reference": "CmRaAAAAMlAOUiapWZEUxZicWrW2Jbluewxm7rSIBOaRB1G7cwaoa_7msHnzYK1d37lCziS_dF7stDZ-73OYSYM29sRPi8Us_xPrKuGnBggWCJcxtsCT-SixxmuwviueTOz-9daSEhBhmktL5wIczUCvRmLaRCkoGhSS1O95Ks3Nf93wFRJoJslG69KYzQ",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102588162482182134883/photos\">PREET SINGH</a>"
+            ],
+            "photo_reference": "CmRaAAAAAoJhtnZU2O6K5fr87JJD0U6VcCKMSGmkgZ34zEC-Q3LHNw_VMdMgbwc8-8yBu5BSFqnFrSdQEdU2rLoCeroozrWGuDisDlOSSdEKD_1WXD2-H4WgwR7t_3Meg0EIJKLnEhDOuDMa2ENVXv43IDy-7QWgGhRNm95UaQivJ9Zh-ZdhYOWxRZ1akA",
+            "width": 4032
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105168561459914975911/photos\">Roberto Borges</a>"
+            ],
+            "photo_reference": "CmRaAAAAP-c33UwaQPt9iP4kJS7UC6YnuTj-iAqQl_iwBqs7SWLDp2zrB1DSpfyfW1XJIADUTA2WVtKo_TuFwE8--tr35iWbFL4oNaQvm5EDH0TS1rBL3NNfZnxAf0VOp2nsU9F1EhCw6w9ce8VRES2ToCRkTVPJGhTHWJ8EcTR68S4jk_q9Ko0zm6PRyw",
+            "width": 3024
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105168561459914975911/photos\">Roberto Borges</a>"
+            ],
+            "photo_reference": "CmRaAAAAa5b7xDhOYE90PiXHszNm23LyWqJcjKqTIObieYogKPfZi3xxxyGvI81ZjaYG8_Jqjiu_eYRsjxoeNfkYXbmXk7120nb2_ax5Z-UgYs-04AslZMw8BJ0wBbxozabw3_pGEhCy4ua282MD3llNgJA3p3YzGhRlKELQUa0NNU2eBGRhiYaFkWkpLw",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJEUP79dQ0K4gRX1Qj_TSIZYI",
+    "rating": 4.1,
+    "reference": "CmRSAAAAe7sIm6qv_auFt46vs8co8v3Fs6DvHQQOKwqeBHqq7zou1ayCQbxiFwupomWkqhcZA8hhB4NBkSRdV0dpIduYJhYveGUckI33JCT4ImrHOwMBli1LKBtBmqLa4ceZLPBpEhAPpLU31GCIzwHVY75-aTn3GhRDlmYqEyOwWN9gsbjev_wzVn-RDA",
+    "reviews": [
+        {
+            "author_name": "Wind Mill",
+            "author_url": "https://www.google.com/maps/contrib/118174220686487747163/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-oTrsR6UH3AM/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0jTcfj6UoYQpyKeuFaEAuYrSq2Kg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "You won't get hot water when washing hands in restroom. The toilet is so low and you'll be very uncomfortable. Cannot imagine this is in such a modern building in Toronto downtown. Oh, and the curtain is all automatically controlled without manual override which means you won't be able to see outside in sunny days but you'll get a perfect view when it's a gloomy.",
+            "time": 1519915459
+        },
+        {
+            "author_name": "PREET SINGH",
+            "author_url": "https://www.google.com/maps/contrib/102588162482182134883/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-VPOmXbnMu9o/AAAAAAAAAAI/AAAAAAAAA00/uKzRrwsi0no/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The building is located at one of the best places in Toronto Downtown. It is surrounded by places like the CN tower, Ripley's museum, the Rogers Centre and the harbour front around it. It is very well connected with the Union Station through the skywalk and there is also a food court on the second floor of the building. For an office location, with a wonderful view of the lake from the window on one side and the city's skyline on the other side, this is the best place to work one could ask for.",
+            "time": 1519247026
+        },
+        {
+            "author_name": "Moe Fawal",
+            "author_url": "https://www.google.com/maps/contrib/117678382820109438727/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-C0IXW-35u-4/AAAAAAAAAAI/AAAAAAABPNk/P1-Ii8_f-AA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "A very nice modern office space with extremely friendly staff.",
+            "time": 1520100286
+        },
+        {
+            "author_name": "Glenn Dickler",
+            "author_url": "https://www.google.com/maps/contrib/112942586853670715121/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HSuZQB0TAUo/AAAAAAAAAAI/AAAAAAAAADE/2Pk6qZEQMmU/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Big new place go,s all the way to union station.",
+            "time": 1518393342
+        },
+        {
+            "author_name": "Roberto Borges",
+            "author_url": "https://www.google.com/maps/contrib/105168561459914975911/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jVszujk_boo/AAAAAAAAAAI/AAAAAAAA9X0/m4-Gca-f0WQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Nice place, awesome teams",
+            "time": 1521807412
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9396065958745035871",
+    "utc_offset": -240,
+    "vicinity": "120 Bremner Boulevard #26/F, Toronto"
+}

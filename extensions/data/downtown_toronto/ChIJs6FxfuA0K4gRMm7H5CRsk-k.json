@@ -1,0 +1,188 @@
+{
+    "address_components": [
+        {
+            "long_name": "204",
+            "short_name": "204",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "700",
+            "short_name": "700",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Y6",
+            "short_name": "M5V 2Y6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">700 King St W #204</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Y6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "700 King St W #204, Toronto, ON M5V 2Y6, Canada",
+    "formatted_phone_number": "(416) 703-6598",
+    "geometry": {
+        "location": {
+            "lat": 43.6441335,
+            "lng": -79.4033477
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6453165302915,
+                "lng": -79.40194086970848
+            },
+            "southwest": {
+                "lat": 43.6426185697085,
+                "lng": -79.4046388302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bc11efee49ce4a15c4a6eac1b00aad35e1855098",
+    "international_phone_number": "+1 416-703-6598",
+    "name": "The Arnott Design Group Inc",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 679,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108467235110225255039/photos\">The Arnott Design Group Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAlXx7btSBq4Lnp1uMTwXfLVtcBWQYt7YkRgT5kIgx4QKa7ered-m2PdeitOK5R50ai_YCoRq054QEHCoxCts6Z8yZdtuJ2rSaIM6kvWCWpsVC8MsJyKdDN_fQEU2yzji3EhAp8SpwkUWD5SWOekrqnrTNGhQJ6aH1ZCd9ZQEghc_512bBvyfVRQ",
+            "width": 679
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108467235110225255039/photos\">The Arnott Design Group Inc</a>"
+            ],
+            "photo_reference": "CmRaAAAAn6M2M7WB7HePCO1Yj6fJcKNOk1IVT_DPg9DSGpPsemL-IB8vYg0i_aFN-9EETYS9XCjvTPW3HE9rLKyQVYlAvrmuBKSCaznv-reoANjWYuiW10sMeAI5NX5ryuKxzT9CEhAy-DMhWsGEPdcipUrYNlVZGhQnLzq_4pRTt9bWwVC89mJHKHsJ-A",
+            "width": 720
+        }
+    ],
+    "place_id": "ChIJs6FxfuA0K4gRMm7H5CRsk-k",
+    "reference": "CmRSAAAAOSu9kwgQgwbEcHlAJ0xqkMOuwVxWPVwLI2jQKtJqAEYQbu1sVeqVFnVI8hcE7Z8p4ZnWfXRVtabMy7uoS9tbLV-SWJZbJdMN2rTof9q_Sy2B8UdANAwQeOOJPlIx4J-wEhDV8aI4b4jeL2SX_9dp1JrfGhRuIA7Sesw5LgbvCWGj7Cc6KB4qFQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16830915138126573106",
+    "utc_offset": -240,
+    "vicinity": "700 King Street West #204, Toronto"
+}

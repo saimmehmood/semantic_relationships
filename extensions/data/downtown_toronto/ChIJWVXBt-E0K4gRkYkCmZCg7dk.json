@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "775",
+            "short_name": "775",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2K3",
+            "short_name": "M5V 2K3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">775 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2K3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "775 King St W, Toronto, ON M5V 2K3, Canada",
+    "formatted_phone_number": "(416) 367-5464",
+    "geometry": {
+        "location": {
+            "lat": 43.64301200000001,
+            "lng": -79.406201
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6444492302915,
+                "lng": -79.4048862197085
+            },
+            "southwest": {
+                "lat": 43.6417512697085,
+                "lng": -79.40758418029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "7ee77ac5f7d2dc9817b7528b33757ab3d29cfa30",
+    "international_phone_number": "+1 416-367-5464",
+    "name": "Minto 775",
+    "place_id": "ChIJWVXBt-E0K4gRkYkCmZCg7dk",
+    "reference": "CmRSAAAA6mWe5-NqGuZ1CNark1FI-gi4nxN7fnh2hHJO6qNPHthyYM2FQxy-QroqQqzwrOiqYCm_uYiA3A3gJs_QZqLbChtpkcCFjhmciUMcCRMMpbu5b9g3kkg2tNbZy5FMcrioEhCZmttnFyO5ZL9JFWr6vdsvGhR7Sg5B1kCL64U83VmLALyve_CZPg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15703384018613602705",
+    "utc_offset": -240,
+    "vicinity": "775 King Street West, Toronto",
+    "website": "https://www.minto.com/gta/Toronto-new-condos/Minto-Yorkville-Park/Developers~1573.html"
+}

@@ -1,0 +1,172 @@
+{
+    "address_components": [
+        {
+            "long_name": "442",
+            "short_name": "442",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dufferin Street",
+            "short_name": "Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2A3",
+            "short_name": "M6K 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "UNIT H, <span class=\"street-address\">442 Dufferin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "UNIT H, 442 Dufferin St, Toronto, ON M6K 2A3, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6440487,
+            "lng": -79.42973719999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454368302915,
+                "lng": -79.4281889697085
+            },
+            "southwest": {
+                "lat": 43.6427388697085,
+                "lng": -79.4308869302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "50d488991b2765cdfecb38287a5590d605e30e92",
+    "name": "NEST Collective and Studios",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 2:00 \u2013 7:00 PM",
+            "Wednesday: 2:00 \u2013 7:00 PM",
+            "Thursday: 2:00 \u2013 7:00 PM",
+            "Friday: 2:00 \u2013 7:00 PM",
+            "Saturday: 12:00 \u2013 5:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "place_id": "ChIJaXu7ylQ0K4gRIEU7AWnCddA",
+    "reference": "CmRSAAAAdN0uSUa5Qd6WKD3gX4fKFy4FOU_USefRpBpL9YpTJw7qrqsoxmHcyE7E1SI5y44pnnuyyI9_b8vkpGZoFnJ5eGKhD5dCzpLIkfie1dLUmO-tMjK9rUXkmlxv9M1SRKGxEhBmaolb_-04icdfuLyJUg7BGhQEWpZeMjfT0-zJOvTP2BNQSBL_Bg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=15021125888412173600",
+    "utc_offset": -240,
+    "vicinity": "UNIT H, 442 Dufferin Street, Toronto",
+    "website": "http://nestcollectivestudios.com/"
+}

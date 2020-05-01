@@ -1,0 +1,100 @@
+{
+    "address_components": [
+        {
+            "long_name": "442",
+            "short_name": "442",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Dufferin Street",
+            "short_name": "Dufferin St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6K 2A3",
+            "short_name": "M6K 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">442 Dufferin St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6K 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "442 Dufferin St, Toronto, ON M6K 2A3, Canada",
+    "formatted_phone_number": "(416) 538-3304",
+    "geometry": {
+        "location": {
+            "lat": 43.6440487,
+            "lng": -79.42973719999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454368302915,
+                "lng": -79.4281889697085
+            },
+            "southwest": {
+                "lat": 43.6427388697085,
+                "lng": -79.4308869302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "574a79bec9494c3b4ebeab02ec994c409ed8358a",
+    "international_phone_number": "+1 416-538-3304",
+    "name": "Taliaferro Jones",
+    "place_id": "ChIJ43gGylQ0K4gRe_R0Y17qaso",
+    "reference": "CmRSAAAAU5sqzJqxSwkavaZj7LhyY23IqPKskEjJQ4eeW4YZ8e8qbxqJXkunNhT3D8y_j375byJnKzTevJcOBK_Wr5R2Sph_WB2X9O1OdOr_Vvu5BqG5GniI8xgw5KncmKT-wO6ZEhD3EOI3XZtSY5EKlUJtH681GhTrz-aT0UdJkeuP8i98ME4zJmUo7Q",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14585728034309207163",
+    "utc_offset": -240,
+    "vicinity": "442 Dufferin Street, Toronto",
+    "website": "http://www.taliaferrojones.com/"
+}

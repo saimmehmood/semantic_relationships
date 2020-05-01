@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "1052",
+            "short_name": "1052",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H7",
+            "short_name": "M6J 1H7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1052 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1052 Queen St W, Toronto, ON M6J 1H7, Canada",
+    "formatted_phone_number": "(416) 535-1999",
+    "geometry": {
+        "location": {
+            "lat": 43.64398899999999,
+            "lng": -79.4207426
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64525413029149,
+                "lng": -79.41936141970851
+            },
+            "southwest": {
+                "lat": 43.64255616970849,
+                "lng": -79.42205938029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "28b06d5c09d42c80704839c8957666dab1c9b472",
+    "international_phone_number": "+1 416-535-1999",
+    "name": "Carbon Computing",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 7:00 PM",
+            "Tuesday: 10:00 AM \u2013 7:00 PM",
+            "Wednesday: 10:00 AM \u2013 7:00 PM",
+            "Thursday: 10:00 AM \u2013 7:00 PM",
+            "Friday: 10:00 AM \u2013 7:00 PM",
+            "Saturday: 11:00 AM \u2013 6:00 PM",
+            "Sunday: 12:00 \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116622559904223153127/photos\">Carbon Computing</a>"
+            ],
+            "photo_reference": "CmRZAAAAUgfK8M9ww2amI86Avc2pzyKDuOK0Xbo6M3VgRLxTWvfNOebjGZhK9txWUWkOCuxMMN5d4xIK_4JK1H89i3FdQU7k_4e8g0FMHfiVxLbocqAr6i6NWp4r48cdWvmgFb4SEhCkbL_5zl_3lrWDFkP6_-SbGhTpSFM2yEtLExHDELaA1XIhBP9eFQ",
+            "width": 720
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116622559904223153127/photos\">Carbon Computing</a>"
+            ],
+            "photo_reference": "CmRZAAAAViHMpZa3hWAF7KWtSnHkw5b82fGflPR8F_bdzevNsOd5WnDpEohuWyn8FldZqsBeqUf6L0rNajnMkuGcsnCnfBzmgLs9sqGFhoKuygQAKx0vRrX6ZOWsJm6xnWoDDnOtEhBcO1z8uL2vQ61wgXZJGDyDGhSH7bMGbdTA_h-kYWAVevc__b9knw",
+            "width": 720
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAUBaZfyT9zf8aUWdqOedhvCay6htsSWuXqJsVIXNJKwcRgFd_1tXoRB1xIxLWc8xbd10UE75ZtgeX0zeD44sTY2OHPDeZnNWnSBbZv7zaE_XFHg7pKa5cYslltPCavEskEhDe80YDgg4f41AkNbUYC0FVGhSZWGRJOYkpT71S4T4RX3vYyzSvWw",
+            "width": 3036
+        },
+        {
+            "height": 393,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113736518527703437267/photos\">Neil Oates</a>"
+            ],
+            "photo_reference": "CmRaAAAAWa0BHKrq76yD2tY7sfL8uqcJ9pwvywofxPAyy0UoHOQ0mi4cCpqMyhxSd8yeg_Qjn4zKJPp52pCa0un-bnuCi0iUUKWwIGjFn3ZfnmSuu3BCYDYVUkTvEj-XplCxvzsVEhB6TohTr5gobUwhnMLFoFT6GhSWc0ohUn3YtkxtASI2GnBg2t-ZPQ",
+            "width": 590
+        },
+        {
+            "height": 3697,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114451357122303327526/photos\">Manny Singh</a>"
+            ],
+            "photo_reference": "CmRaAAAACQ34eKrxp-BAjB3Y2K7GoOEeYUbNywJRs6DkdhSiemkvlS965AJDahgTP-P5G8k_633xIxgFYbtrJ2zh-nDtmArtTz_sVn4KbeU1EEYQQe0AbMCVQ73WqrP7b0T07tzIEhC62JtlHJzd-VRLlYTCYt4GGhRzE4MbXgK3B3Ym4Y1lLu54oiX0xw",
+            "width": 5545
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116622559904223153127/photos\">Carbon Computing</a>"
+            ],
+            "photo_reference": "CmRZAAAArQ7X7EggD4VPMpFXRsk-9EKKcWfBtjkPJu1duS7N8Vfrz63Quv8JorpNOcYARtaMWjlr5hqgiXskhtbAtI4AuhFSi1lQ1TzCcqgJvVdB5rbGHfWGSbCXsFMLhRzD0esMEhCpzPaL_QiZECe5jT-IjlSgGhTB9BV2fb435sJuCEihErgyYJi9kQ",
+            "width": 720
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114451357122303327526/photos\">Manny Singh</a>"
+            ],
+            "photo_reference": "CmRaAAAAob1to4RxpuboyoNPujYDCWnRMisK8upEivmlu999RT-yHcfMcpgkBbgmK_xEbC6H091xY9IwRMKrhX6ytkqtbAtkoh5v_6j1tysmKn7d71VOgIKoBIedvPHpnaxhTOwdEhCgD7uizDPSYbZE9fDwCL_5GhTI3ltloVcmEoeEjgQbL9TfjsrUiw",
+            "width": 5760
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102160384115860551617/photos\">radokonrado</a>"
+            ],
+            "photo_reference": "CmRaAAAAev6JpLdfkOs-NUIaPtVAu8JPHWWYfylFknA95wl1TCM_dzPSZWP3uBw9X_6L_lxh_8TzHE6HVuPgPZ39qt7tStIk3I1hrqxyREXUwnpurjyz1vutJsPi4BcBCtx--uRTEhACCiFSCHW2tFy6KvnfMCRzGhT_G_RuaHHqIh2CJFSPAPy85upD4g",
+            "width": 5312
+        },
+        {
+            "height": 3840,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114451357122303327526/photos\">Manny Singh</a>"
+            ],
+            "photo_reference": "CmRaAAAAcogx4qlIsCtuebhlGYwmMIQfxmFXiI07_s37s_F1N9cv8k4od3xpPVYtDOjwSeGIVhAFfeuWH2K7tIyxuAMobEsJt8AZUmqkVni4ZbW0Q4Xw95pbMMDqitN7IZTRwFSfEhBfL0W0FAZJQvq-aH5QnZUhGhRyoJ2zZHr0z5J6zx5xeYCl8avoiA",
+            "width": 5760
+        },
+        {
+            "height": 480,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116622559904223153127/photos\">Carbon Computing</a>"
+            ],
+            "photo_reference": "CmRZAAAA-2UCxKXd7xKGtnpNzBQa2jRzBwvhJHCKZWAFitBaMl_bCl2W_hInaNSRUDBHwOKP-K1_SWpxJV_rUnIeT4S20hK-NmM3hKR8u96uID7q8ykhyNl4ttwhf--6vEf8FmVpEhBcNJ62FPnQw3gM9sEgq0-FGhRil7UmJE0NWwXr_5NbfO0YdpNTJw",
+            "width": 720
+        }
+    ],
+    "place_id": "ChIJs7Qw723L1IkRju9av8NTlQ0",
+    "rating": 4,
+    "reference": "CmRRAAAA-CJ1RKtuQhvCIbWURyrmM469piywnqQkARRbCSg9ArMLIfIZSdK1i0yrwcL_dd3wEGYj94WzYkryV1J1wLBMCcXIo8nBcHJV4yLPpvCEQw2vXM-Vzax4dFoRyrETqUc0EhBAyQA4VkAkLHfpAzdEYzOjGhSM4n7WIJQfYyU59YvqS90Wj0hldA",
+    "reviews": [
+        {
+            "author_name": "Cheryl Treleaven",
+            "author_url": "https://www.google.com/maps/contrib/112706179317035595812/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-oBILrF9hIdw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2w6ZAOwPj5Uv3GGJv6yXdkeRLOvQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Hate all computer tech stuff! So getting my laptop repaired is a big deal for me. As mine is an older version-quite old! I emailed the store first to get some idea if parts were available, cost, and time frame for the repair. Received a prompt reply from Devin, tech specialist at the store, who gave me an honest opinion in that parts for this laptop are no-longer available, but possible a part that matched the problem might be found.  An estimate of service, parts, costs, and time frame of 2,3, business days for completion, was given. Based on existing problem. At the store, Devin covered all alternate options before deciding the best route if I did not want the expense of servicing an old laptop. Finally, after a demo on an upgrade, and much questioning on my part, I decided to go with the repair, based on all considerations. The repair service, parts costs, were exactly as quoted.  Time frame, overnight! As i had to contact family in UK, the turnaround time was greatly appreciated. Thank you, Devin.  And front desk staff for your time, information on trade-ins and new computers.",
+            "time": 1525627613
+        },
+        {
+            "author_name": "Munish Nanavati",
+            "author_url": "https://www.google.com/maps/contrib/108403691635045456490/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-DS1mm_jfyH4/AAAAAAAAAAI/AAAAAAAADjY/g-LN8grBMbU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "The store wasn't able to resolve the issue my phone had. Not sure if they have any authority to make a call on any device. \nHowever it's good that they accepted it and asked me to get in touch with Apple store directly so that there is no wastage of time in going back and forth. \nI wish they could resolve the issue.",
+            "time": 1521166633
+        },
+        {
+            "author_name": "Olenka Choly",
+            "author_url": "https://www.google.com/maps/contrib/107011320603865972855/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-_S5G8Zn2GEk/AAAAAAAAAAI/AAAAAAAAAxE/SejMSiFtR38/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I walked in with my frozen MacBook air that would not respond. Alexandra and Tejal were friendly, professional, and extremely helpful. The services Carbon Computing provide are very reasonable, but before they even took my computer in Tejal tried one thing and fixed the problem in a few seconds! They told me to come back if there were any further issues, happily there haven't been. If I ever have any future issues with my Apple products, I'll definitely go back!",
+            "time": 1527816196
+        },
+        {
+            "author_name": "Mark Abernethy",
+            "author_url": "https://www.google.com/maps/contrib/103708417248428228706/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-LRIlroyWL4o/AAAAAAAAAAI/AAAAAAAAVYA/MJsTHw3sk-0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "Updated: In fairness a lot of this is the fault of apple's booking process and the staff here seem pretty helpful. I get the feeling there is a lot of frustration going around regarding this particular issue.\n\nWanted to do the iPhone battery replacement. Called CC first. Was told to book appointment online via Apple site. Did that and waited a week for it. When I got there the service desk was busy so waited another 20 min. Then was finally told that the batteries are out of stock for 2 or 3 weeks... left with nothing but disappointment and frustration.",
+            "time": 1518553910
+        },
+        {
+            "author_name": "Ryan Cincinnato",
+            "author_url": "https://www.google.com/maps/contrib/117417626763022102037/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-dFJV5LzMOIU/AAAAAAAAAAI/AAAAAAAAANA/3XnY6pg0muw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I Was looking around for places to upgrade my 27 inch iMac from a hard drive to a SSD. Just over emailing several different places, Jonathan at Carbon Computers was super helpful and kind which was the main reason why I decided to go with Carbon Computers. I dropped the computer off Saturday morning and within 3 hours they called me to come pick it up as it was already done! I am very impressed and will definitely be back for anything computer related.",
+            "time": 1523756789
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "electronics_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=978780594217086862",
+    "utc_offset": -240,
+    "vicinity": "1052 Queen Street West, Toronto",
+    "website": "http://www.carbonation.com/"
+}

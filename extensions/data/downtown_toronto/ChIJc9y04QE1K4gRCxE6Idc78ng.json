@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "2006",
+            "short_name": "2006",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "White Squirrel Way",
+            "short_name": "White Squirrel Way",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H4",
+            "short_name": "M6J 1H4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">2006 White Squirrel Way</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "2006 White Squirrel Way, Toronto, ON M6J 1H4, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6432036,
+            "lng": -79.4209669
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445525802915,
+                "lng": -79.41961791970849
+            },
+            "southwest": {
+                "lat": 43.6418546197085,
+                "lng": -79.42231588029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "c44c60bc00d396f0e458f90bcb9c42f4d1662955",
+    "name": "2006 White Squirrel Way",
+    "place_id": "ChIJc9y04QE1K4gRCxE6Idc78ng",
+    "reference": "CmRbAAAARiN-gGPkvDNenXVlvUPxuRA-gWOLzbr1LCayfNMLxJ9YcM28jz85qoX4QVkdEqqF5kEutd9fiHXL2kWo4Ey_PSQwFyf1jf_8F8EjlYpnFqrVlNsnE35NoprI4IHzSlLBEhB9ZwBJWJg_eoFgKqHblfpuGhRNZlTkl9VFZDQm_5elF_fQXlntDA",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=2006+White+Squirrel+Way,+Toronto,+ON+M6J+1H4,+Canada&ftid=0x882b3501e1b4dc73:0x78f23bd7213a110b",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

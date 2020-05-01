@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "1092-1122",
+            "short_name": "1092-1122",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1092-1122 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1092-1122 Queen St W, Toronto, ON M6J 1H9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6433548,
+            "lng": -79.4229785
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64470378029149,
+                "lng": -79.4216295197085
+            },
+            "southwest": {
+                "lat": 43.64200581970849,
+                "lng": -79.42432748029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "815de7c63472e26dbd6f617672e40846299dc30c",
+    "name": "1092-1122 Queen St W",
+    "place_id": "ChIJ-xKaKQA1K4gRzZeMrMWf_pE",
+    "reference": "CmRbAAAAjvIZg93IhH3-rnd-dfu_L2hmXVArENhFuOLXNAn50Kpyk7neQKdhKGY7oiImDHqs6AN7JlYqM8CtCr77JgKY0UeVxapf41oo8n0kxjuKgAiFajo-7Qg9A9T0Patvv706EhBUaiQ2R2rhZalDQccdzkioGhRBcd1SAwo8d_NTecqsQDYZFvMV_Q",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=1092-1122+Queen+St+W,+Toronto,+ON+M6J+1H9,+Canada&ftid=0x882b3500299a12fb:0x91fe9fc5ac8c97cd",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

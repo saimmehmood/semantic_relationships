@@ -1,0 +1,218 @@
+{
+    "address_components": [
+        {
+            "long_name": "16",
+            "short_name": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 2A1",
+            "short_name": "M5E 2A1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">16 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 2A1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "16 Yonge St, Toronto, ON M5E 2A1, Canada",
+    "formatted_phone_number": "(647) 888-7087",
+    "geometry": {
+        "location": {
+            "lat": 43.643123,
+            "lng": -79.3762977
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64456028029149,
+                "lng": -79.3745537697085
+            },
+            "southwest": {
+                "lat": 43.64186231970849,
+                "lng": -79.3772517302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f1a8fda9ea95f44abfe329103bc5c21b133e34e8",
+    "international_phone_number": "+1 647-888-7087",
+    "name": "OG Design",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 11:00 PM",
+            "Tuesday: 9:00 AM \u2013 11:00 PM",
+            "Wednesday: 9:00 AM \u2013 11:00 PM",
+            "Thursday: 9:00 AM \u2013 11:00 PM",
+            "Friday: 9:00 AM \u2013 11:00 PM",
+            "Saturday: 9:00 AM \u2013 11:00 PM",
+            "Sunday: 9:00 AM \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 697,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104038663548886742528/photos\">OG Design</a>"
+            ],
+            "photo_reference": "CmRaAAAA6Vi6fUHDqVY5WPKAhQ9SBVzjLd_mdGdKVAXCG66jShCDYcnmzgbeudRW0MfMCHF1EYPvuMkMMOHynOUUS1DPf-dKM2fDAijXcgqtmo6me-NShQJ_7F48am1bnhbdeTn2EhDFuDdvcDUtJlGsKuPOH-BBGhR9EvF8QDcoC_ao93RUYyoyT9Sq1w",
+            "width": 1039
+        },
+        {
+            "height": 545,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104038663548886742528/photos\">OG Design</a>"
+            ],
+            "photo_reference": "CmRaAAAAwlN45rOwNgpsybG14AQOgYDbwThJpktssIzgZIR4tT1PaKiJwFdOxyeZaPmngjQTMZw09NJeU9-uKsDgymDLRIxnzF4wDmqLRLfFHA8yyKieEELZGZLzyvUO6RH5RyEoEhAWPcb3AOD6ej_x5q1sFS6SGhTEkeBFAEDNdWao-gR45lVOy6dlqA",
+            "width": 465
+        },
+        {
+            "height": 635,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104038663548886742528/photos\">OG Design</a>"
+            ],
+            "photo_reference": "CmRaAAAAIw-uTsyFmBleWxcne8b0owozKxC5DdLPA4kTYh3d4JY7iCYRE2FfYpkj4RrdUjDZlIOSK2-FYXGjo8krLhPTQeoOl7v_mNrohfnXu0WcAX9RHHQCUpEW0rx43_Ycay6VEhCByYjJnEdUVdhRpHjTP7FKGhSRZbT8zEUV4_UuyCJzR-b03m49Pw",
+            "width": 465
+        },
+        {
+            "height": 545,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104038663548886742528/photos\">OG Design</a>"
+            ],
+            "photo_reference": "CmRaAAAAxT6TdaA9AFkHPob3VD10cBpjHeikqNfHmk12TG1lJs03-HNE4qfLYy3rTopursLYx9bO5JC5sJDDbzkCdX2x9OIqDc5GWnLGGyEXiayxerMNIYtD_2VdQwdnYGfn7b87EhCJ9li-6JlQQXdPFIxAgyCsGhRQHJr7rEd2izJ7HUpwi8SY7730_Q",
+            "width": 465
+        }
+    ],
+    "place_id": "ChIJY20X8ivL1IkRnB8gMMt3QQg",
+    "reference": "CmRRAAAADudf4RZSV1vaLitEWZITzfOqooDYeIv0jgalEx934Jkg9u5hMOxm8XMJk_P9EhZ-24Dyk9U4cchv_pS5461qiC3JsFCT9iVtsoqJT6HloIO0EE9at1cdhOR-6Pj1YcenEhDK9LyAiWNAa1oo-5D3PPDvGhSdk5G3hDar_nXiquw4qSLcAEdxrw",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=594888340359094172",
+    "utc_offset": -240,
+    "vicinity": "16 Yonge Street, Toronto",
+    "website": "http://ogdesignstudio.com/"
+}

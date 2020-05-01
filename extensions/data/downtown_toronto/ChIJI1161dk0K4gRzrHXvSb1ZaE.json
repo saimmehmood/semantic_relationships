@@ -1,0 +1,117 @@
+{
+    "address_components": [
+        {
+            "long_name": "suite 2006",
+            "short_name": "suite 2006",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "361",
+            "short_name": "361",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 3R5",
+            "short_name": "M5V 3R5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">361 Front St W suite 2006</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 3R5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "361 Front St W suite 2006, Toronto, ON M5V 3R5, Canada",
+    "formatted_phone_number": "(416) 671-4422",
+    "geometry": {
+        "location": {
+            "lat": 43.6430505,
+            "lng": -79.3916429
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445228802915,
+                "lng": -79.39035361970849
+            },
+            "southwest": {
+                "lat": 43.6418249197085,
+                "lng": -79.3930515802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ad057a6ab472353538b332dd421960d3983f9bba",
+    "international_phone_number": "+1 416-671-4422",
+    "name": "416 Magazine",
+    "photos": [
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115786878029561888703/photos\">416 Magazine</a>"
+            ],
+            "photo_reference": "CmRaAAAAs5_fLdUKMf1OiFoyjosjAOFxYlhqlbjMLkfIGpCnqrVbAwvRQ0_ZxU9kYUYv0tiM_5mG1X0F97iWTOdo-MLggWiHt5SEOq3L3dPHi9FMN5ryjvTmdpdShT-j-tHINny9EhDXNZY9K7wN_8Y2602kNHhnGhQCa_TP7ntB5VfV-S_vUl6vriwYnA",
+            "width": 960
+        }
+    ],
+    "place_id": "ChIJI1161dk0K4gRzrHXvSb1ZaE",
+    "reference": "CmRSAAAAZCVxWTYsRTJF9arOiD04UYX3BWrrKKvSFAyHXKf9ke6jMv8J8QGNEsHCa1Quiy6EiHZVNih9weN6GIbYL_BT5w8Jea9zDp--HBR50nwVUL1-U1rtZp5HWHshxe-Od3rSEhAzKpVIJobAVsM0KhEUnsl7GhQwqoVw4aOyaa2tNCu1bX2F6C3shA",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11629971159496765902",
+    "utc_offset": -240,
+    "vicinity": "361 Front Street West suite 2006, Toronto",
+    "website": "http://www.the416magazine.com/"
+}

@@ -1,0 +1,197 @@
+{
+    "address_components": [
+        {
+            "long_name": "304",
+            "short_name": "304",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "49",
+            "short_name": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Spadina Avenue",
+            "short_name": "Spadina Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2J1",
+            "short_name": "M5V 2J1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">49 Spadina Ave #304</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2J1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "49 Spadina Ave #304, Toronto, ON M5V 2J1, Canada",
+    "formatted_phone_number": "(647) 727-8865",
+    "geometry": {
+        "location": {
+            "lat": 43.643487,
+            "lng": -79.3935096
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447667802915,
+                "lng": -79.3924211697085
+            },
+            "southwest": {
+                "lat": 43.6420688197085,
+                "lng": -79.3951191302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "92067cb7fd373516b74d2dbb44b7fa664771de30",
+    "international_phone_number": "+1 647-727-8865",
+    "name": "Dash Agency - Toronto",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 608,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115997117086008182933/photos\">Dash Agency - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAA2lmEOxHf0xudC2Jzl061FVoOZVdkaIHRF70SC0YcPGk3XZJrdDEwa5WvEUE3M1xNWSzPSopbF-rfMGmuyNXDdp8Xoekb_4nuUGnOekVKGF8-cJgcxTjiAkRYeROjOKPzEhA8Bi_eIANUNauP72VXOoI0GhRri0Ozfssk38eCOJz0ab6y7yznzw",
+            "width": 1080
+        },
+        {
+            "height": 500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115997117086008182933/photos\">Dash Agency - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAABrXVqIABuamLIDwbRJxIo_8ScYXRbNipNU1HseehyJewaf5nflMablys5gYq-OlxSufCz4ZZzGNZB6aL4OCHnFpTsb2HbOitX6qpLGN63EvpdFSVPrIdBArBJVDMi_J9EhDTO2MKLZKMJ7UYt-jjhdRkGhQu548yfE0ETiYmX6qHs9ILxxHiBg",
+            "width": 1500
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115997117086008182933/photos\">Dash Agency - Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAACEEFdgvLWu_lDJyZUPvKFdhXXhRIMgRxHYJigzmTYd-DL97dCIn-T-VdxC2oVXuXh8Q_uJ-lWx8ZChXzoZ-VCC2hAQ3WmJM7nT_a_5421HLgeNr3lAbQLNId_ZGVqUEkEhANvrum5pl6wTODKJRlHojyGhRG4krLPHwQ5eZU4-tL6ZzmZl7z1g",
+            "width": 400
+        }
+    ],
+    "place_id": "ChIJIy6SZ640K4gRuHVfIEsAj4o",
+    "reference": "CmRSAAAAylmEnt7zuaoHshocHOGgO4555wWxgzJPWCaa2yQYMjt_ZGh_eMNd-qqAitswI0wqxyqpkoUtQHmwvFC5OMLNwzgr4fwo1DmCxdUu8jBUkbGmthyr1Bgqni2XQdOECJsREhA5MbSreltIHXyZxEyRkUpGGhSywfseA8mwJGNuUxmG4OJSn_pcSg",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9984199221569353144",
+    "utc_offset": -240,
+    "vicinity": "49 Spadina Avenue #304, Toronto",
+    "website": "http://dashagency.com/"
+}

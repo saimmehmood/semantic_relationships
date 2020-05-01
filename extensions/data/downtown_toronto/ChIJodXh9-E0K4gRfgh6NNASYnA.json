@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "844",
+            "short_name": "844",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N9",
+            "short_name": "M5V 1N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">844 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "844 King St W, Toronto, ON M5V 1N9, Canada",
+    "formatted_phone_number": "(416) 366-7729",
+    "geometry": {
+        "location": {
+            "lat": 43.64291100000001,
+            "lng": -79.408371
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441907802915,
+                "lng": -79.4069951697085
+            },
+            "southwest": {
+                "lat": 43.6414928197085,
+                "lng": -79.4096931302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6576376f6cd6b12b5b2c653a6b912cf6afdc952b",
+    "international_phone_number": "+1 416-366-7729",
+    "name": "Spaw Boutique & Doggie Daycare",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 8:00 PM",
+            "Tuesday: 8:00 AM \u2013 8:00 PM",
+            "Wednesday: 8:00 AM \u2013 8:00 PM",
+            "Thursday: 8:00 AM \u2013 8:00 PM",
+            "Friday: 8:00 AM \u2013 8:00 PM",
+            "Saturday: 9:00 AM \u2013 7:00 PM",
+            "Sunday: 10:00 AM \u2013 7:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAyl94d8ylQEuPT-vdWxsnlu9ouKpsYTpZOyzbprhZk1pjhxQSKX8RoK3jpENiJKFrO2ff1DY2ewjO7b1dx2n85RXOa3mSgZOKptvLDCUWNIh4W3vMbD_BoHDRcOO6k93EEhBCOXJnYqGfZm3kF1Lf7bxZGhRnG8o-Y65IaAQcYScaKa_yPXcQtw",
+            "width": 3036
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103209347568414222222/photos\">Mend Stern</a>"
+            ],
+            "photo_reference": "CmRaAAAAhV8JLObl2YPMWLCiuHCFztoDECae_tE7Al4Dp1DOkmJkyX1HScuUiFMSghXiRVu6Ze4Uv7JBMt9T5ksFYlxnssPGRYJBNnf87ZUaS-VcL62K2z-aCBG1jw-WvAcbIr8YEhCez07EFGt0g3Qe0wi3gLPrGhRFybuuw8-edOlWjzTZ7nrDENbeFw",
+            "width": 3036
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/117826231370054711816/photos\">Aleth Bruce</a>"
+            ],
+            "photo_reference": "CmRaAAAARpbxkn_fDRPypasSJyZPkgFXlSmIjH3X4d6ho6EKD8iujRE5oRDSk03JUcDDYrX7yUCaVelNcbh9JH4iW_VUtP7OzZPnmYGiZJESrDMGldViZEbXVa6MJKfWtDvsN6vhEhDvirTtjxsKaB9yUALgERUQGhTRgboitzQt-FOL8367RqL_hnvFMQ",
+            "width": 1920
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114133011889591075243/photos\">Spaw Boutique &amp; Doggie Daycare</a>"
+            ],
+            "photo_reference": "CmRZAAAAKQLQihTdePt6VcvlqWxbwV7oP2sbljKppadJRtUo0SkVZAnOWmt4gNwgLd9uPK0XUqUZHt2gX8APJGo9xOAdjYwg3tu_FTA1PSe3582nWQ1r15Vq0saAd_OokRX-OnALEhAy0LEWvp_8eMyh80sCzLTKGhS3nl19d4pM0AWy9gtP_Tmaj8OmhQ",
+            "width": 600
+        },
+        {
+            "height": 2092,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106849594225863426051/photos\">David G. Tran</a>"
+            ],
+            "photo_reference": "CmRaAAAAzgas3t0TGASK7xDOmCslp1DiSPfBvpdvn1l49t1x7KxGzupo8VVU-ML2MTGNQxHlNjEaP3kZekhfV7-q7fRoieqiDXc_KNXLaBPjhlcJLxw00yfUlm6q1B3OYTCEF4OKEhCFj8OH90hvQKq53Zc8wwftGhQrWrMsp1WzsI4O81vBaiPOOzTinw",
+            "width": 3138
+        },
+        {
+            "height": 637,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114133011889591075243/photos\">Spaw Boutique &amp; Doggie Daycare</a>"
+            ],
+            "photo_reference": "CmRZAAAAxCdSEBndguJNZzTVMf0eaTBLullf37S1YKuSLVjLUmk8EW6w_KTmQnlj4alodXvh94bj5Kkch3bAMUV1Zh2R08_e8ZLi6aKYER34CkHp6ZDe3qdPzEbwFZ-9QUUxoLDaEhB96NdGH1VSRaSYalJJf2EcGhRGERMMDTbwOTpRQcVLU4Uelj1_Iw",
+            "width": 960
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103209347568414222222/photos\">Mend Stern</a>"
+            ],
+            "photo_reference": "CmRaAAAAktt3hXfv4KfDYW2eaSqGOk3JMNwXQ-Ssvxny-wHE8kX5HL4lz2ZGJcps_bog97zKdGZXILijSIoo0Mt9ku5gI2n1g3FfMfZf66lTCvlfmeD2PWtaoqqtv9bgfrdDNpzjEhCOYti9rz79IJg9S7vCYJQTGhTmntAuAamTqmsQ6owhNyxYGvH5XA",
+            "width": 3264
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114133011889591075243/photos\">Spaw Boutique &amp; Doggie Daycare</a>"
+            ],
+            "photo_reference": "CmRZAAAAx-Kfw1qZUyN0jz-SN0d7vFPt7lslGQVu6bEHowXAk9VEVJFLFckoxZgf5-E_pmw3YBCRJ1zVKZlVP5ejZZb_DiKXTxTmQsbrhrvgxn1Vvvm-FGz-Juj0e--m-TeWRLy3EhDAaIfyTIrONrZLt2w-5iOFGhS2N05dsjlGaYO2p2fJOwfNUhwuFw",
+            "width": 960
+        },
+        {
+            "height": 2994,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116518247366435712874/photos\">George Haslam</a>"
+            ],
+            "photo_reference": "CmRaAAAAD1y6qZOpmpZ96tWG7uDWug0L2WgAZb-uVvym8oRCyg04etCBL8ydRbtj59j1YNhv3k20UGx3N7lZDRu0QnFTKxY8i9c7qZRIm6aHuFmiFzrnet3Om-7uiO__PKMpUO3LEhCfrVGVHOUih9oa_iveM6AKGhRK5ZWxnIUeU-p5seB6REupWMVtUA",
+            "width": 2338
+        },
+        {
+            "height": 2048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102775325764780851496/photos\">Morris C</a>"
+            ],
+            "photo_reference": "CmRaAAAAhXlQLMcAViaeOA2QgDE9dgz8wg_VDV3nnes9UflQJOA-qhZ4F_wpD_vA5M4qsmQzngwYYAjC7-SgAKQ5Wk6X1y1Qb_D0ibfc56_6GTXHOQy5Vc68aG5-Qx0Z8eDrSgAjEhBlb2K5vylhIgbufgvZVc8sGhRjNepwu3MBl2y4oXdEe8NXa160ow",
+            "width": 1365
+        }
+    ],
+    "place_id": "ChIJodXh9-E0K4gRfgh6NNASYnA",
+    "rating": 4.4,
+    "reference": "CmRRAAAAHSQm4UngWAEZckSAJs5G3qQwIG2NeUiYMGk4TNthUpwA2ah0K8oAzjzB6JPuwl24inRHErLfqyFGJbeB-Llbd0Ota6IS6TIKmhpQhd6lhnlAA1Arv2mZ4GrsZz7GiCZYEhDaFddt1Usud43PNgq-DEbeGhTIBtjYyKIkLRkQ9jWjbtxRud2cKw",
+    "reviews": [
+        {
+            "author_name": "Danny Fowler",
+            "author_url": "https://www.google.com/maps/contrib/111149970982512837412/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-1hsc7xlz_hE/AAAAAAAAAAI/AAAAAAAABeU/nv-cImpbaoI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Now I've not actually been to this place, I was going to go but realised it wouldn't be a good choice. I see this place on my commute to work so I sent them an email while I was at work asking if they had availability on a certain day. My email included a date I was wondering about, the breed of dog, and what I was looking for. I recieved a response stating that they don't book appointments over email and to give them a call. Great.... I was asking availability. I'm not sure who checks your email but a little bit of customer service goes a long way. I don't always have the opportunity to call but if I know it's available I can definitely make an appointment. Anyways I won't be a customer now and I suggest you work on your email skills, also did a robot respond to me because you don't even sign off with a name... Can't even be bothered to do that I can't imagine how unprofessional you are. This is Toronto  after all.",
+            "time": 1528518318
+        },
+        {
+            "author_name": "Sofia Abreu",
+            "author_url": "https://www.google.com/maps/contrib/116806292120783493933/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-4flfm7xpBmE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq06npQrRMABIruxtv3RDI0rrU-lPw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Took both my cats there for the first time to get groomed...when the receptionist called to confirm the appointment she told me that it would cost around 160 which was pretty reasonable. I live about 45 min away when I brought in my cats I asked again about the price and the receptionist said 120 for the short hair and 140 was for the long hair cat I mentioned that those were not the prices I was told so she continued to tell me how the receptionist thought it was only one cat, still I don't know where the 160 came from, but since I drove so far and had to wait weeks before my appointment I just ended up leaving them there...when I came to pick up my cats the groomer had mentioned a small \"scratch\" on. My cats nipple which I believed and didn't proceed to check since she was already in the cage when I got home I noticed one of my cats acting strange and licking her nipple so when I checked I found her nipple completely cut off!!! It was all red I couldn't believe that the groomer compared a scratch to a cut off nipple like there was no nipple there!!! When I called to complain they told me that it happens all the time !!! Really??? My poor baby she must of been in so much pain. They never offered me a refund for her or anything and they never even called to check up on her like they said they would! Horrible place definitely not worth taking your pet there.",
+            "time": 1523890485
+        },
+        {
+            "author_name": "Ashley Taborda",
+            "author_url": "https://www.google.com/maps/contrib/102089148423555969011/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-KSXWyCZRgdw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1xUXgsTwbeHjKIbHIL_Xm0zpJPbw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Today we took our kitty to Spaw Boutique for the second time. The first time was fine, although our kitty, who is the most docile, never-afraid-of-grooming cat in the world, ended up with a cut (which she'd never had before in 7 years of fairly regular grooming). The groomer seemed to feel quite bad about it, so we let it go, and it didn't impact our decision to return. \n\nToday, we returned for a second time. Before going, I got a call to confirm the appointment, advising me that prices had been increased by 15% because of minimum wage increases. We decided to proceed with the appointment. Today, we picked our baby up and I can assure you - we'll never bring her back again. She came back to us with her paws wrapped up in yellow tape, as both front paws were bleeding. Apparently they dry cats' hair in a cage and she was so afraid of the dryer, that she cut herself on the sides of the cage (just having a cage is an interesting choice, when glass options exist, as a glass area is what my prior groomer used).  \n\nBeyond the cut paws, and the advisory that we should go to the vet tomorrow to get antibiotics, the hair cut was not up to par. The groomer barely, and very unevenly, trimmed her paws and left an unappealing tuft of hair on one side of her neck. And that's just what can be captured by photo.\n\nTo top it all off, we walked out paying $160. Absolute absurdity.\n\nInterestingly, in between groomings, while cutting my cat's nails at home, I noticed that she all of a sudden started getting antsy when I would cut her nails, even biting me. As a 7-year old cat, I found it odd that she would all of a sudden start reacting like that to me cutting her nails, an activity she'd never so much as flinched as a reaction to in the past. Now, I'm genuinely concerned that her experience at Spaw is what has changed her behaviour. With her poor paws the way they are currently, I imagine we'll have long-standing issues whenever grooming her in the future. Very sad, as grooming is an unfortunate necessity with her crazy Persian hair.\n\nEdit: this matter was resolved promptly and with compassion, almost/possibly to the point that I would take my cat back. Props to Amber for making me feel much better for what happened and for taking ownership of the situation. Much appreciated.",
+            "time": 1515461697
+        },
+        {
+            "author_name": "Matthew Emery",
+            "author_url": "https://www.google.com/maps/contrib/111225858635560716234/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-2TPvxGqHeZo/AAAAAAAAAAI/AAAAAAAAAhE/f35xgGxcLqQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "Would NOT recommend this place. Keep your pets away. Never a good experience when I stepped foot inside here.",
+            "time": 1527073942
+        },
+        {
+            "author_name": "Stephen Geyer",
+            "author_url": "https://www.google.com/maps/contrib/111245865982628579959/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-OUyWO-sHKm4/AAAAAAAAAAI/AAAAAAAADEs/09qFlWS02js/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This is the second time I took my cat to get a wash, dry and grooming. She loves going to see them and the results are amazing. Highly recommend them for cat grooming.",
+            "time": 1523403913
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "pet_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8098055765408483454",
+    "utc_offset": -240,
+    "vicinity": "844 King Street West, Toronto",
+    "website": "http://www.spawboutique.com/"
+}

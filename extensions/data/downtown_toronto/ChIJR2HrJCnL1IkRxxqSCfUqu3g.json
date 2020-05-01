@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "61-95",
+            "short_name": "61-95",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queens Quay East",
+            "short_name": "Queens Quay E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 1L7",
+            "short_name": "M5E 1L7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">61-95 Queens Quay E</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 1L7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "61-95 Queens Quay E, Toronto, ON M5E 1L7, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64273109999999,
+            "lng": -79.372536
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64408008029149,
+                "lng": -79.3711870197085
+            },
+            "southwest": {
+                "lat": 43.64138211970849,
+                "lng": -79.3738849802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "6f63a7d05c839305ee4e273e6fe024587b4f918c",
+    "name": "61-95 Queens Quay E",
+    "place_id": "ChIJR2HrJCnL1IkRxxqSCfUqu3g",
+    "reference": "CmRbAAAADrer46f1T6UuK7WikqFHmcsotbmlZU26IxkU4Ztfh-P9CnE7of5eoTiLBoHJFKn3W50UZPRspkdV25-Yqr9TRa_j9Zfj1OZtCbmlevdrcA7Bmt8VIXiBPYPF8ZDZA1kMEhBfrP_sfpvwA2Vy-VEowbQ5GhTPcIQQndPcwmKI04t-Yjt7Y_od1g",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=61-95+Queens+Quay+E,+Toronto,+ON+M5E+1L7,+Canada&ftid=0x89d4cb2924eb6147:0x78bb2af509921ac7",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

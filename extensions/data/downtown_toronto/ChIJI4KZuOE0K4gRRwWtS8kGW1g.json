@@ -1,0 +1,141 @@
+{
+    "address_components": [
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N6",
+            "short_name": "M5V 1N6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "788 King Street West, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "788 King Street West, Toronto, ON M5V 1N6, Canada",
+    "formatted_phone_number": "(647) 349-4788",
+    "geometry": {
+        "location": {
+            "lat": 43.643367,
+            "lng": -79.4066235
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447159802915,
+                "lng": -79.40527451970848
+            },
+            "southwest": {
+                "lat": 43.6420180197085,
+                "lng": -79.40797248029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+    "id": "ad4bc70d7eaaa4f554ff00ed51967a7f0ba0ed48",
+    "international_phone_number": "+1 647-349-4788",
+    "name": "Studio KO",
+    "place_id": "ChIJI4KZuOE0K4gRRwWtS8kGW1g",
+    "rating": 3.6,
+    "reference": "CmRRAAAACXs8Ye_v8dwSPz1mEC84faRboK17kOESK6MPNt1ZQBKim93LyXFCKxy-b0lFnP9uKZQQ2mUiB64QhgKgfInvqrleW39eMQbmWMs5kjZGpGk_OeoPwYHKfPSLCm1F7wYLEhA0DYh5Tv_cyN2DpBIATmAJGhRj4rcKdGbgFb8f18-l5uRFRRM72Q",
+    "reviews": [
+        {
+            "author_name": "Pamela F",
+            "author_url": "https://www.google.com/maps/contrib/115156555929388448953/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-GCDdoetszKE/AAAAAAAAAAI/AAAAAAAAAFc/Nx0lESOsKUs/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Love boxing here. Compared to other studios it\u2019s a smaller class. Also the instructor will look at your form and coach you. The studio is smaller but it\u2019s fine for the work out. Better to bring your own wraps and gloves and make sure you bring water! Great way to get in shape and sweat",
+            "time": 1515713339
+        },
+        {
+            "author_name": "Gold Corium",
+            "author_url": "https://www.google.com/maps/contrib/114289151852317129172/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-QkN5IAQmAn0/AAAAAAAAAAI/AAAAAAAAAUo/vCBYSBZrRlM/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This box-fit studio was an amazing experience! Love this place and their great staff :)",
+            "time": 1521642134
+        },
+        {
+            "author_name": "Jessica Liu",
+            "author_url": "https://www.google.com/maps/contrib/111401295497268169917/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-_dxSIRSMZl0/AAAAAAAAAAI/AAAAAAAAATE/BiTY67lCepM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Amazing instructors, friendly front desk staff, great vibes! If you\u2019re looking for a kick-ass workout (and all the sweat), look no further!",
+            "time": 1521753520
+        },
+        {
+            "author_name": "Devon Sidwell",
+            "author_url": "https://www.google.com/maps/contrib/113311726885645452744/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-XlUtLAANYhs/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3QxTQIeRyxJ0S1bmopewLuxyrjdA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "6 months ago",
+            "text": "Seemed like good vibes, and people seemed to be excited. Strange waitlist policy, however; they wait until 5 mins after the class has started to give up late comers' spots. Counterintuitive. Will likely not return.",
+            "time": 1513039232
+        },
+        {
+            "author_name": "Jeremy Reyes",
+            "author_url": "https://www.google.com/maps/contrib/112498815171997134232/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/--telRDKZnHw/AAAAAAAAAAI/AAAAAAAAAFU/cgYdMU_tHoY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Reception staff is completely inept and Managing Partner doesn't take ownership for inept staff.  I'd been dealing with DJ the managing partner of Studio KO via email planning to get my wife a 20 class pack for her birthday. \n\nI followed DJ's instructions to call the front desk (called around 6:30pm) and provide my card to purchase the 20 class pass for my wife.  A receptionist answered and i had mentioned that i had been in communication with DJ to purchase the 20 pack.   I was ready to give her my visa number when she said that they don't do purchases over the phone only via mind body app or in person .   I explained to her that DJ and i had been communicating and that i was just doing what he told me.   She took my number and said she would consult with her manager and call me back in under 30 minutes.   I got no call.   I had to initiate the call after waiting for 2 hours  (i called at 8:30).  When i called back the same receptionist answered and recognized my voice:  \"is this Jeremy? Yea we can't do that.   You have to come in.\" Wth.  She recognized my voice and didn't even apologize for not calling me back and not even apologetic for not being able to help me.\n\nI sent an email to DJ describing my experience 5 days ago and still no response or apology on behalf of his staff.  Ironically he was prompt with his communication when i was ready to make a purchase (he was able to respond while driving and while at the hospital).  All of a sudden he's MIA.  The sad part is that I'm gonna still pay for a class pack since my wife loves their classes.",
+            "time": 1494383117
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6366689959846151495",
+    "utc_offset": -240,
+    "vicinity": "788 King Street West, Toronto",
+    "website": "http://studioko.ca/"
+}

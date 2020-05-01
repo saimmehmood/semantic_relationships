@@ -1,0 +1,301 @@
+{
+    "address_components": [
+        {
+            "long_name": "1079",
+            "short_name": "1079",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H3",
+            "short_name": "M6J 1H3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1079 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1079 Queen St W, Toronto, ON M6J 1H3, Canada",
+    "formatted_phone_number": "(416) 703-8300",
+    "geometry": {
+        "location": {
+            "lat": 43.6434,
+            "lng": -79.421844
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448350302915,
+                "lng": -79.42052836970849
+            },
+            "southwest": {
+                "lat": 43.6421370697085,
+                "lng": -79.4232263302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+    "id": "e272f5358868cc9b4a235be9cdf8aa3caf0f2420",
+    "international_phone_number": "+1 416-703-8300",
+    "name": "Quasi Modo Modern Furniture",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 10:00 AM \u2013 6:00 PM",
+            "Tuesday: 10:00 AM \u2013 6:00 PM",
+            "Wednesday: 10:00 AM \u2013 6:00 PM",
+            "Thursday: 10:00 AM \u2013 6:00 PM",
+            "Friday: 10:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108976870664125409928/photos\">Quasi Modo Modern Furniture</a>"
+            ],
+            "photo_reference": "CmRaAAAAtQWUeM4nJGUFbKW7mDOv2GJEXryFhA0Y-kf5GjLUiopbj301hDLChnT2NzPqGI0MOmzmZzDxkdrVaIJZdFXgRPwR3ru4hUsu8vzIZmEoHtfJ7uZ6ToCoKuoKQ3zWj4z6EhDhF3RgG3Y1TuzSaq5ohO0dGhSyJYwZC0Te0scZzPystQH_0FGqUA",
+            "width": 640
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687/photos\">Patrick Asselin</a>"
+            ],
+            "photo_reference": "CmRaAAAAXQ3N84_OBO5hckF7vDMDsbQVQl4-nb6FcAg1xW7Mk3EeGIeQAIZYp2eWm1C3X61HRek8Ei-k5v9dMph4wJ2l5_Vj8alo5b2a7CsT3uG0TFboR8garT63dltOT0wghQ0UEhDgujtps0PVGhJGuaxaJjvLGhQcEodVHnhce-cq_PnYDhVjnkCfNg",
+            "width": 3264
+        },
+        {
+            "height": 878,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108976870664125409928/photos\">Quasi Modo Modern Furniture</a>"
+            ],
+            "photo_reference": "CmRaAAAAkDMckaTJFJd_JCEVYMjpNGc3OdKIuHq70OqgYY2XR0a-6vxFVmuf9b055LuhT0t8nbyT_rH_cx3HY7eBqaQHM6f3dnBXCX2xxCWwyd6FLLnErEvJSAj_kVDwA7VzMPqYEhAxgICuWlK3AGIfL-6jcDaXGhSUUhnw4Xh2TWFedjMwD6KiZZCQaA",
+            "width": 876
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115423233077386141001/photos\">Quasi Modo Modern Furniture</a>"
+            ],
+            "photo_reference": "CmRaAAAAI2d_naKOeiwVzcCFnGin6Wy0vJhlPYwspu_dwRaqeeIK1huQlnqdnyWluTQQslSXXO95IvNCQ5ilV24VV4OU8dUuaw4-Ve0CcrJWfcuxB_77F5pttxsSF04knVByl4quEhAd1xm7E_zdtCsGYUuaOPqlGhRBZbDfEr44rEPTuy9yL-cBpfYMYQ",
+            "width": 640
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115423233077386141001/photos\">Quasi Modo Modern Furniture</a>"
+            ],
+            "photo_reference": "CmRaAAAASW8AP_rxDLuS9Nhj8a6bGi1zYh7Z0OFszH8J1SrvLW_VUPdWJshDoofW06sSkT2f9DZCj7apr6tXlKSn-OD0rg5QcN02jC7kW310UkPvjqdCqF3K2UL11n1I46bKwWy4EhCU1eQRDq3vQp5VlJ25r8RiGhRthMZnbES2ei3JipKUc9czC8FZOQ",
+            "width": 640
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115423233077386141001/photos\">Quasi Modo Modern Furniture</a>"
+            ],
+            "photo_reference": "CmRaAAAARTuM1ZojDMMA1ynNpMlB9f_ZRsJd1lR7hloH8gquRU_CStyFTtjKd15ANTlbziAZip0-2iAZLq5Pn4iNYmni8kCc0-vpBB5eDKrE_LPHpyw0bJhc0HAGELT47YRVst8iEhA_SMXTRUj7jPjGDU_E4tYiGhRkPIP3C3HCPLcYVpAPOSQ870f51Q",
+            "width": 640
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115423233077386141001/photos\">Quasi Modo Modern Furniture</a>"
+            ],
+            "photo_reference": "CmRaAAAAR84U5e-MgpNbdjjMX-eKXqGHrNZwtuRT7AR0yIRnTUaw4xt-vYhf1nxCZ769dETaYJfEjLOECXkzTHd0BuNbQLAMc88d1a5vi8tzexRfsqVbVR_tSEdypTNs6vvg-o9LEhAcPPGD0PrsyT3ENakIHWPbGhTlunZX6fTCd-5ivQ3FHD9yXMQXuA",
+            "width": 640
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108976870664125409928/photos\">Quasi Modo Modern Furniture</a>"
+            ],
+            "photo_reference": "CmRaAAAAa0-9P55liwVHBWDqGKl7Y2nO27jUKxLVI4YcqCqGrsf0ikbUt3TEdWYodnFWbPxHoXuogIN9BsWRb4GLQRedfVTyXp5lPXi4Ok9l63p02FJv78nlR621re2fqs2EarM7EhA9ViVQVceKf_fSyDchW-anGhTpm3_dchZttMmj3rNxA0NzjESQWw",
+            "width": 640
+        },
+        {
+            "height": 640,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108976870664125409928/photos\">Quasi Modo Modern Furniture</a>"
+            ],
+            "photo_reference": "CmRaAAAAWGbKzHVoFsGhjc8BaM7Fmif0C6_Ob9kyiduTLakHfEbcOElUgOQYQLsxUlOiato594cFvFyXx9LPi8cefj8zVfmNhoFN_1dpNF_vJEqEFuLwRNvUAp_gFx4S0-xiaF3jEhDXx_KKEYRmu9bZPrezQQfQGhSCvA-Y-BK5lqYOeBOaiSUpyKQ7Xg",
+            "width": 640
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108976870664125409928/photos\">Quasi Modo Modern Furniture</a>"
+            ],
+            "photo_reference": "CmRaAAAA_N6N5ZOO_Sl7wuNAzA7EIgvITx5rU6mKdbiA5TtWh0uvk6YD9K03oYW48uPhlbS-BmT8tG9BTQ1_9Dwve3Ez1b4uD-qI6PjdrcVlS4L6gxNGtmDXH04s2nqw8GMwktnxEhAHRdOjDoDtaW_LAq1G4TL5GhRQizz2gQh_Dr8YAg350EDZDuhmmQ",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJmSqe4uM0K4gRgcC2jI89BEI",
+    "rating": 3,
+    "reference": "CmRRAAAAwc3d0h6qydXc9xcqmqV7JUEKwXDX55OZQAQMSMxwIzLjigow2edJeWziWqFS-9guJWwbdGY43_KaCZcYts-i1N0SB1X8tDJ7fpGv78wcBBgTEsV86JFIdv-9wlyrTiBKEhC0HUnvVLxuEpyqGoAJNcJSGhRfMhLzpRwZVJp3lHY7JEFXoDLg5Q",
+    "reviews": [
+        {
+            "author_name": "Penny Dimos",
+            "author_url": "https://www.google.com/maps/contrib/113160220058478774346/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-hxNUOVvRnos/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1n9GZPlIJUk5rx2bG8lat1vVJcPQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I am an Interior Design Consultant and Quasi Modo has been one of my all-time favourite go-to shops for several years. The employees are highly knowledgeable, professional and very responsive when making recommendations, following-up, etc. My clients often comment about the wonderful merchandise and the extra-special attention they receive when there.",
+            "time": 1524698389
+        },
+        {
+            "author_name": "David Bruce",
+            "author_url": "https://www.google.com/maps/contrib/112610045957087759521/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-J114z2fS9pY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2chMCOv6HlLcm6Na-4t9sBDLC3dA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Would not honour web price on a lamp",
+            "time": 1523894454
+        },
+        {
+            "author_name": "Kathie Tutter",
+            "author_url": "https://www.google.com/maps/contrib/107247788261055777007/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-YHQZW50Wi0Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2CwJc6fHad5B2NDI-zW1i14INuMg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "4 years ago",
+            "text": "Quasi Modo Modern has great furniture and home accessory lines. I recently purchased a Magis Clock called Cu Clock and love hearing that little bird tell me what time it is. I've been shopping there for years. It's worth a visit.",
+            "time": 1378216081
+        },
+        {
+            "author_name": "Martin Svensson",
+            "author_url": "https://www.google.com/maps/contrib/101182158442630988143/reviews",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-HNMogPB1q14/AAAAAAAAAAI/AAAAAAAAOlU/vy0BNCMNYUE/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "",
+            "time": 1514348322
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=4756994793160491137",
+    "utc_offset": -240,
+    "vicinity": "1079 Queen Street West, Toronto",
+    "website": "http://www.quasimodomodern.com/"
+}

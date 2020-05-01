@@ -1,0 +1,85 @@
+{
+    "address_components": [
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1N9",
+            "short_name": "M5V 1N9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1N9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Toronto, ON M5V 1N9, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.6428145,
+            "lng": -79.4078519
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441634802915,
+                "lng": -79.4065029197085
+            },
+            "southwest": {
+                "lat": 43.6414655197085,
+                "lng": -79.40920088029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "dad1da48333f8093f78ce21b72904a76b516a63a",
+    "name": "King St West at Niagara St",
+    "place_id": "ChIJPykg7uE0K4gRmFNrJ7YfKeo",
+    "reference": "CmRSAAAAtst07P6iqzv63imqGM5o6AN7TzwBxuAqxadxu3oYKfQFB7tWKvS0ymuUKwv346bg776ZzGvBGIbQaoL2rGwy6OA2Pfo9uaxyQcrFA-h98jxlmGRc2EKxPjI0E8WBKOceEhC9URgRZg2SF5aJQolG9IK0GhTVG-ze-LgG9ghDCp8oaScq7zt1OQ",
+    "scope": "GOOGLE",
+    "types": [
+        "light_rail_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=16873052346126128024",
+    "utc_offset": -240,
+    "vicinity": "Canada"
+}

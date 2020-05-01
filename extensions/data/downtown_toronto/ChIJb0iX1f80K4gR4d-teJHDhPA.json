@@ -1,0 +1,300 @@
+{
+    "address_components": [
+        {
+            "long_name": "1100",
+            "short_name": "1100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H9",
+            "short_name": "M6J 1H9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1100 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1100 Queen St W, Toronto, ON M6J 1H9, Canada",
+    "formatted_phone_number": "(416) 588-2222",
+    "geometry": {
+        "location": {
+            "lat": 43.6435922,
+            "lng": -79.422883
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6448402302915,
+                "lng": -79.42149466970848
+            },
+            "southwest": {
+                "lat": 43.6421422697085,
+                "lng": -79.4241926302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "52a74dd4168a393a843ef8c91671db79b3aa5470",
+    "international_phone_number": "+1 416-588-2222",
+    "name": "Twist Gallery",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: 11:00 AM \u2013 6:00 PM",
+            "Wednesday: 11:00 AM \u2013 6:00 PM",
+            "Thursday: 11:00 AM \u2013 6:00 PM",
+            "Friday: 11:00 AM \u2013 6:00 PM",
+            "Saturday: 11:00 AM \u2013 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 636,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113452218632068215464/photos\">Nadia Kakridonis</a>"
+            ],
+            "photo_reference": "CmRaAAAA7lyLgSjZBl6TqBr7bk8R3H5K5jK4mB01ikUg-tOkuXYHne7FgKHWtPb-QFJnCNAdfKrd21PC7-C3nrJe-pLZDahAl1tbqUDp3LagcR4o-UtZaBBA9JR09vcYxUC4SsL5EhCMpxKQhRj0ojbA22ImLtZXGhQnYEJUjDCaBjhokI0mK5tLvEUstA",
+            "width": 960
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105763019577562398696/photos\">Amie Lovan</a>"
+            ],
+            "photo_reference": "CmRaAAAADDMA9yqC-tuxT2NPD1NMxXzq0Si6KUmUNVssjr-y-V7BYa9puE3jd1nYavq7vTOJ8AAebgoOc_xFFGwOoydwQWGkf95Sh47WheELR1uR9uwDkOmnWSl443rWVN-NL2zUEhCeBKkb3peRYw5J3LKWT9VdGhTYGtpHiw0HPgg_dRBiiE_wGPmgow",
+            "width": 5472
+        },
+        {
+            "height": 600,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113452218632068215464/photos\">Nadia Kakridonis</a>"
+            ],
+            "photo_reference": "CmRaAAAATXhHSDqP6XFvhZem1FHs8UFr833n5PpeUKZrTIyeN38cNmH-PYrRhfZGqMIMGh7HHlXbJJcr9EQc13q0yMoEPsfsyPuxbMSpXJt6tbB7dYco01yXIJxR_MapatqaaBsPEhCaDf6bC1OklEGudQPa3BG8GhRtGO1zQVis6SeAx-mYCb9sSqkpHw",
+            "width": 900
+        },
+        {
+            "height": 3648,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115274621472919219101/photos\">Twist Gallery</a>"
+            ],
+            "photo_reference": "CmRaAAAAtT8O1bplB3jTMAHArya-jfoc7NzhWdPrm98foox0LuUzZUp2M4Bub49iw2LHNSBnfWOxG_8NMHrfDTQvM2MmWENJ1hj1V5q7PuYho3b95I9k8D4DG1aFdQL0LL9GwQIFEhB7XUpG5ugGx7lYPhyg0YpAGhTYkqgXtmqUxDodhpfREZF6WdkAoQ",
+            "width": 5472
+        },
+        {
+            "height": 2160,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106348834885565504646/photos\">Lorraine S</a>"
+            ],
+            "photo_reference": "CmRaAAAAPPx1nIH4pfDSYaJlvWGpW-_y7EOrQ8BSjfXpJa1hGISfGVgWDddl2YS3dlg0A7LumC5ZurNW4yY5NLdl0IJwkVsqRciCs3QRx9kvX48BT7QDiqiSLZ7rSYqI-AakEdg2EhBshQN9zg_iN51nThODOUYDGhReAKPZrtfVdQYCHSqVfjIuTeaAHw",
+            "width": 3840
+        },
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116454641827552563185/photos\">Twist Gallery</a>"
+            ],
+            "photo_reference": "CmRaAAAAxYhdMcb_MKVr94aFet-ckKxBCkW6glYmM1so0OnZd5Zhc4yL6KrOyJTuBi4kSRQjEyz-cqb8Q3gLe86GAupShM2vMniku99FKUNsQhhoYSsTrkO2lbaioF0r-NC1v5CbEhC_UWQPGmxk90w_txH_eehSGhQ53PmODWkVgPjxZatS13jw_oPMQg",
+            "width": 2048
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116301643713030025659/photos\">robert fishman</a>"
+            ],
+            "photo_reference": "CmRaAAAA1zvrOWikQ5U8Vbxnxzg1NN8xF3ToutAw6BZeQ63z0G1oLq8kmhAEEHgwmIgvMoLgCk1Z4gQOk2w1G_gJ4VA9e_eg040ufSxf__-A09xMcJDoLA2oMRYItWG2oV8mTpHdEhA3pocRp_QIvIsc-SAALTywGhQxg3OTs4nJZTrWl73HbHgtU-s1_g",
+            "width": 2268
+        },
+        {
+            "height": 2832,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113452218632068215464/photos\">Nadia Kakridonis</a>"
+            ],
+            "photo_reference": "CmRaAAAAtDVqOYRekXHrPkjng7ZSRl4aWVtEvy67aQGzEYRnCzbLjYDM6AgNqbuLJFLZi7HNQW9uVVeTMFI_q9kWLYrt6U9Rx0NLPHMqVo61onbk24QQeR0JZxVzAGWulERSy5L5EhBjz0cnaWqaLI-Csx8CDHRFGhShZKGVE87ZjyyYw47Iad5n-Mqv7A",
+            "width": 4256
+        },
+        {
+            "height": 560,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113452218632068215464/photos\">Nadia Kakridonis</a>"
+            ],
+            "photo_reference": "CmRaAAAAbTusn2YKnt12Cjevu8EJfaqeXpGvUvH9ay9dlqq67ozNor25Mdq2XJtl88rOw4a6fPWG8OyTplmqRuwZkuajrj4a-0LEVwYLOL3edZX-Pa1hCVMNMjcgKuFuMzwPsGfqEhBuBmZdG8X6FfDxhbZjL69qGhTmDaswOByyYAZZYye2tis8JW3kcA",
+            "width": 840
+        },
+        {
+            "height": 712,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113452218632068215464/photos\">Nadia Kakridonis</a>"
+            ],
+            "photo_reference": "CmRaAAAA1XlQRfoduJHXAA1_r6epP_KaFocXeR0xxxqR3UD7Mxy-hkcQ2-VJnWH8mhWzkwwCIWIMWuVsSUQKagj8qzVPkYhJxjv8Fk2kI4sYGRVNwBOG85Q5WXmzyucBtOECRGJxEhAAtT2hInrsxlxAVawdA3tiGhQftA8reZ6tquKTnmhxBQzqZIrJhA",
+            "width": 1072
+        }
+    ],
+    "place_id": "ChIJb0iX1f80K4gR4d-teJHDhPA",
+    "rating": 4.4,
+    "reference": "CmRSAAAAMgHsUd6NMDofuAuAU6NEXslTICQP3t23tFK6VDJ0Ct7nKNqGBPUz36Qx9TdEOnuVmss3t40DrSW0zIyQPWz_grCiARCf38XT4yAUzuZ28po2nPIfC258ISBGztmApmUxEhAzSPhMuYeCZgL6mowyvY65GhScNBblUzjIWaXQOuy5gUUuChgcMA",
+    "reviews": [
+        {
+            "author_name": "Mark David Webster",
+            "author_url": "https://www.google.com/maps/contrib/104000736849465373142/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-0-aPCTr_Ctw/AAAAAAAAAAI/AAAAAAAAAe4/OXexgqDjYEs/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The Twist Gallery host Earl Haig secondary School's art majors display in the late winter and early spring of every Academic Year. The students enjoy going downtown and on the opening night they get to explain or host the event. The venue on the second floor provides a wonderful showcase for secondary students. The artwork that they produce is fantastic.",
+            "time": 1520561375
+        },
+        {
+            "author_name": "Cheryl McKeen",
+            "author_url": "https://www.google.com/maps/contrib/111912874538360072605/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Dyd-z8OgNeE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0qYWI1sRofbz3v2aI2B3l6szL7JQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "We had our wedding at Twist Gallery and had such a wonderful experience. Our guests complimented us on the unique venue and the delicious food (catered by Gusto 54 through the venue). Nadia the owner and Amie helped us through the entire process. We highly recommend this place for a wedding venue if someone wants something more unique than a banquet hall and something your guests will be talking about for a long time!",
+            "time": 1506458265
+        },
+        {
+            "author_name": "Jake Sauced",
+            "author_url": "https://www.google.com/maps/contrib/102837528593449207289/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-AzkfGPySv-4/AAAAAAAAAAI/AAAAAAAAKhM/hWB9nBPv_Qs/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Beautiful venue, went for private gallery!\n\nWould definitely go back.\n\nClean and stylish",
+            "time": 1512650603
+        },
+        {
+            "author_name": "Philomena Meffe",
+            "author_url": "https://www.google.com/maps/contrib/108326887871263539003/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-DabaN0WIG9E/AAAAAAAAAAI/AAAAAAAAAQY/80WFQqN2x_8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Fabulous location for an exhibition.  Have enjoyed many art exhibitions there.",
+            "time": 1493314779
+        },
+        {
+            "author_name": "Sarah Bunnett-Gibson",
+            "author_url": "https://www.google.com/maps/contrib/113500249478360829238/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-T2KqEmS8QHk/AAAAAAAAAAI/AAAAAAAAAQA/lwHdHSZlQsU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": " As a wedding Officiant it has been a  delight ! ---to endorse TWIST  I have  performed many creative and very personalized  wedding services at TWIST Gallery.\n  The location is great ,very attractive ,\n --and everyone of your wedding guests will enjoy wandering around and viewing  all the unique art , on the walls . \n The  5  caterers have been  carefully ! ---hand selected by owner of gallery,  Nadia .\n The gallery refers only the  top of the catering world in downtown Toronto \n. Only the best and most personal companies have been  chosen to provide wedding food for your elegant reception here .\n A great urban innovative wedding venue  ! ",
+            "time": 1453149268
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17331192295590846433",
+    "utc_offset": -240,
+    "vicinity": "1100 Queen Street West, Toronto",
+    "website": "http://www.twistgallery.ca/"
+}

@@ -1,0 +1,255 @@
+{
+    "address_components": [
+        {
+            "long_name": "1600",
+            "short_name": "1600",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "long_name": "120",
+            "short_name": "120",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bremner Boulevard",
+            "short_name": "Bremner Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5J 0A8",
+            "short_name": "M5J 0A8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">120 Bremner Blvd #1600</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5J 0A8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "120 Bremner Blvd #1600, Toronto, ON M5J 0A8, Canada",
+    "formatted_phone_number": "(647) 943-4400",
+    "geometry": {
+        "location": {
+            "lat": 43.6429694,
+            "lng": -79.38308769999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6441310302915,
+                "lng": -79.38166301970848
+            },
+            "southwest": {
+                "lat": 43.6414330697085,
+                "lng": -79.38436098029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "bce13362a161987945997046059d3a46981b24c5",
+    "international_phone_number": "+1 647-943-4400",
+    "name": "Apple Canada",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0500"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 5:00 AM \u2013 8:00 PM",
+            "Tuesday: 5:00 AM \u2013 8:00 PM",
+            "Wednesday: 5:00 AM \u2013 8:00 PM",
+            "Thursday: 5:00 AM \u2013 8:00 PM",
+            "Friday: 5:00 AM \u2013 8:00 PM",
+            "Saturday: 7:00 AM \u2013 4:00 PM",
+            "Sunday: 7:00 AM \u2013 4:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114127002408992606700/photos\">Giovani Pereira</a>"
+            ],
+            "photo_reference": "CmRaAAAA3EqoC7HkWWxYbYx-aQC4_W9MAISlqw4ebYcQVcBNF0hKwMPafdEScIBKj-6GbSgCjjn38DdGycSSmCLqhCWaugOhNw_k5dUGYEkxJQL-Iluv6Qza3k9BFQ_uyDKOB3MsEhCqv0wyjm-5bXcERiPd8HPbGhRVb2o5WVQ-_PbbCMjDu31OUWpnKQ",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJHSzUzmpTV0ARzPFVd1daOcg",
+    "price_level": 3,
+    "rating": 3.9,
+    "reference": "CmRSAAAAPIUOUdih01ivbk-nNHm9W8WkjI3j7MMTETddN0j50Ub5RBJglo9GNnWsJeub-KGHG7sVPNqmRFvCjnR2J8l8pYakIpBcUuNmkI3P1lT_5Mm32E_f2yojvr5hNyAfO4GIEhAHvO6LTT7RVlcOF_O_WPzcGhRAqwGU37IjzhUh6JojxwtkljQBEg",
+    "reviews": [
+        {
+            "author_name": "David McCorquodale",
+            "author_url": "https://www.google.com/maps/contrib/103859256377996322501/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-uLzUYNACFH8/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0SCBTUYuEfj8pxEIZEwGg4q0k6Cg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "Dear Apple:\n     I would just like to send my sincerest thanks to your garbage company that sells people garbage products that completely crash because of the garbage apps that you force people to use just so you can take them for more money on a new Apple product that will only break down the road!  My 10 year old son's iPhone 5 crashed the other night when we were trying to update his system to iOS 10.3.3 as requested by his notifications, when I took it to one of your Apple Stores \"Genius Bars\" the young fellow helping me tells me that the phones processor is completely shot to hell and the phone will no longer work at all because when he tried to update his system his iTunes app was somehow corrupted and destroyed his entire phone as a result of both the app as well as the update.  He then proceeds to tell me that it will cost more to fix than buying a new phone and if I want to buy him a refurbished iPhone 5 it will cost over $350. The timing of this was more unfortunate than anything, as my industry in Alberta is suffering greatly and I'm unemployed and therefore unable to just shell out money to replace the one thing that was keeping my baby boys attention away from all the stress that is going on in my house due to the fact that I am barely keeping up with the bills and cannot find work. So thank you very much for ruining my son's happiness, I truly hope that the \"proud\" people of the Apple Corporation feel accomplished in taking away a child's one escape from the terrible circumstances that currently surround him, please give yourselves a big pat on the back from my son and I and know that it's your fault my son is sad!",
+            "time": 1504485335
+        },
+        {
+            "author_name": "alex weaver",
+            "author_url": "https://www.google.com/maps/contrib/118185749775139851310/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-5vio0hg0VCs/AAAAAAAAAAI/AAAAAAAAG4g/M7Oyyo6cd2A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "ABSOLUTELY TERRIBLE \nDONT TAKE YOUR PRODUCTS TO APPLE TO GET REPAIRED BIG RIPOFF.\nTake it to your service provider.\nWAY BETTER SERVICE",
+            "time": 1502386612
+        },
+        {
+            "author_name": "Byron Piedad",
+            "author_url": "https://www.google.com/maps/contrib/107102266425463452541/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-UkJD68pmoYw/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2Tn1a67E6-FQQ-dEqzP0DZVIFdfQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Thanks Apple for replacing my Dr. Dre Headphones and Aux cable. A shout out to Monica CSA for your assistance. Much Appreciated.",
+            "time": 1498242626
+        },
+        {
+            "author_name": "Jacqueline Zimmer",
+            "author_url": "https://www.google.com/maps/contrib/102423451791169431543/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-cCdSY6mTdN8/AAAAAAAAAAI/AAAAAAAAAnA/P-25Oceu3Ho/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "Love Apple Music but it needs a Lyrics option .. big time \ud83d\ude09",
+            "time": 1509114275
+        },
+        {
+            "author_name": "Grand Gao",
+            "author_url": "https://www.google.com/maps/contrib/110241900355610756433/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-gtJPNk-f8ng/AAAAAAAAAAI/AAAAAAAAAAA/7Vz_lPKGO3k/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Friendly staff, but THIS IS NOT THE RETAIL STORE, just their office. Try Eaton Center if you intend to buy products :)",
+            "time": 1513786677
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=14427662212968870348",
+    "utc_offset": -240,
+    "vicinity": "120 Bremner Boulevard #1600, Toronto",
+    "website": "http://www.apple.com/ca/"
+}

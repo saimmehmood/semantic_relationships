@@ -1,0 +1,319 @@
+{
+    "address_components": [
+        {
+            "long_name": "229",
+            "short_name": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Niagara Street",
+            "short_name": "Niagara St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2L5",
+            "short_name": "M6J 2L5",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">229 Niagara St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2L5</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "229 Niagara St, Toronto, ON M6J 2L5, Canada",
+    "formatted_phone_number": "(888) 986-7475",
+    "geometry": {
+        "location": {
+            "lat": 43.643766,
+            "lng": -79.40864619999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64513883029149,
+                "lng": -79.4072426697085
+            },
+            "southwest": {
+                "lat": 43.6424408697085,
+                "lng": -79.4099406302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "8ef5fb2dd70bafe07a891976d2932ecffc233b17",
+    "international_phone_number": "+1 888-986-7475",
+    "name": "ClientFlo",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: 10:00 AM \u2013 5:00 PM",
+            "Sunday: 10:00 AM \u2013 5:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAA2mqx-70R22LeVLxi3yiRBZQDv1ewovCtCc9Xb4VCjdLf0tKRRFxTnMe52i5w-btTk9ybpQnDGoLlBTp2pNcC-Zu-AeOc9sp5r8nedCywuCWiP42K6PA2S5xcUsmQ6IZoEhABIiaXMeZjuLK4ENtBQ1-0GhRXWJ_95hs5KINx_RlheIsRovB9Aw",
+            "width": 2048
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAAlxsITxcnV4K176jC3x9pIIs7Yh1npXPTFJT79Eu-5NN_TopM3c0p8tpm5FwdKYCbYHzGdgnEwojlD23k-ZTpaxS55RXJHs0tYC5VcaR2nw_spiSOftXCUrDAa84DjL-rEhDIDJ8WsEeK32d1mLhALKnYGhTd4td9yCmRtjwy4UMwhfX1M1vB9A",
+            "width": 2048
+        },
+        {
+            "height": 510,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAAE-ogiNR-8ijjAq4Mqk41FBKHAyw8ocgI7h_Es2kL5v9B9LCetnBWHqQ1wdcV6BKIJaz8acwS-HsXqtf3TMpAMWlEPTXop6b7pbns9yodnKZ9KdHg462uu2HvLkEX6A_DEhATe1aXoPbg6IzbS8bH6UblGhQFOh61AWaF3nT62kfSZG_VPR12Cg",
+            "width": 825
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAAxeEBRRknBdMhNTdGn3b5PFjmH-l5BCqWU_TLyYKM2O3RY8F2A1xnF7o1V1CZc4hYLgjlxTBR5sVBiqu-dHXlVR4_9djtJ7WnZF0t6vxHfHKjYp_RMWrinqf8DxzJIMdHEhBtJeh1yfPt3i2dgxBXhPpOGhSyGyumMez2-SZ17_CEDpt7Whyx6Q",
+            "width": 2048
+        },
+        {
+            "height": 510,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAA-1859LGsg_aaP13ftdY9D58eUohAAozRP6b_glZEzU8rdpqIHnmSoHN-kIEo3v_VjFBlxDrQ_vR_TrS3Al-8hcA1imONQCUKpMqL5Lpp0gjXeDkEQeaIO4CmGH8IrQHYEhDrjMsD63wZTGW56c_aeQJ2GhQhebeum9boNG_0E0oYVZmIVM2Xcg",
+            "width": 825
+        },
+        {
+            "height": 510,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAAu-ruW2715R7p0GCdlm7QndKASPz_3mkACeXWg9kdc-HxBm7tH4xgZYZdeRUDDOVqkqqq0Af9FC-VdBc-T-3NUQ-OvdTCYZBiwNq9xUa0uH48EEfPwySEtgxJ0-ArfDQIEhB3lkmi4MLHDeT1S8Klv4-9GhTypoTPDEylfvV9iG8r3dvDMaZ1_Q",
+            "width": 825
+        },
+        {
+            "height": 1152,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAAgspk8sfKbAaZWmenxTMvpbqSFQ-fevsKZpqwc0xffv_CrNZawDgVHTHEEf-2WOsDPqoU55ohfm90piXZBkj2J7ZtP_mmcBAmbjx82Xj4Prmzdl9mXPtGhzT-NAP_ZVxpEhBtUPJLI9c47dj0CPYoNdirGhQ6SHSimJqWoJ5irLhJI8OW1c-OBQ",
+            "width": 2048
+        },
+        {
+            "height": 510,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAAIljdYzZBDis2JfciIw6aA3N1-_xTqn8lba-J4bP9nt9ZeV32GhBoEe0fMnG9f-Ci2FIZA0X7fHc-l7TG087f6HITFCjVk6lkT_dyUv9iLqVPVfTKYHsuHgiRKBIDP9ztEhDBYXAGUgAV2ckUsjzF70VFGhQRcvlJ7hynFuj8qjlZXfYVoYnAWw",
+            "width": 825
+        },
+        {
+            "height": 400,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAAf4NLYM2lhiOrd80I1_V48nvceH7MhiVCk4rx8cvZ5cimkTuvXECPLioWx9kjl5KpzxlLbFAZ0AFQeSGea4XBWuOyXs53PzCdxXjMSOg54qPurx9ln8yHFnXrrAfMjNbAEhDvtU8Q_kfkK7FW4-6gKGX8GhToXSQw9GVZrCurAvWN5VtwiwbmqA",
+            "width": 600
+        },
+        {
+            "height": 517,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109924623216527661444/photos\">ClientFlo</a>"
+            ],
+            "photo_reference": "CmRaAAAA8td1SIPRZBok97Mqo69ICQ3fsjriADThMLlzbPMWX9YLIEbw98AK-RPQrQeNVEgNoqJrpiQHaVrAhU2kh8qRVZtfz_ATltM9tOAqcC_SoDBYPZw4AzTsruOKSOuqa3LqEhD_ghzwfKlm5s6eAt0GLsDiGhRKSvK64HawO48Hzw3u5tvFg9et6Q",
+            "width": 529
+        }
+    ],
+    "place_id": "ChIJodi6edg0K4gRl4r_Ds4bv_U",
+    "rating": 4.7,
+    "reference": "CmRSAAAA1xu_zQ2xAqfCwG8_DijCN7fet3J0GuyVa_2aADW4bPlm3H0IJx_hwueCp97WRmjSiCGH3Bu0k-la9NPe7hanFoEQxVirI06_nhSrbiO7lRdaMTCQ5gjAJHmtAmwXVXn_EhBlfxos-b9zjypoTYRerhmLGhQSwJaoagrw1fa4NV9kafYZL8KW-w",
+    "reviews": [
+        {
+            "author_name": "Daniela Hofmann",
+            "author_url": "https://www.google.com/maps/contrib/116103884545127089301/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-Ze0De8XRSCk/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1PmdLORBCvPoSEOZsGkQHdOAV-hg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "ClientFlo has helped us increase our traffic and revenue.  Rajiv is always available to chat about new ideas and has great suggestions.  They have been pleasant to work with.",
+            "time": 1506439938
+        },
+        {
+            "author_name": "Alka Singh",
+            "author_url": "https://www.google.com/maps/contrib/107106232671447153736/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-Gaqvnh0xdEQ/AAAAAAAAAAI/AAAAAAAAsNM/Hb0P8RlX-uY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "I'm very please with their services. We have been.  Working with client floor for approximately one year and as a result our patient in flux and revenues have significantly increased. I would highly recommend them to anybody who is looking to aggressively expand their business and to broaden their client base.",
+            "time": 1506987878
+        },
+        {
+            "author_name": "Terrena Rizzoli",
+            "author_url": "https://www.google.com/maps/contrib/110034289033638849178/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-zN0VZ48S4do/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2fxo7MS8imUCnpeNWT_GkH7oyJvg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "ClientFlo has been excellent in getting my clinic much more exposure in my local area. The adversite they have created for me looks clean, professional, and is very easy to navigate and functional. Glad I have this team for my advertising!",
+            "time": 1501165610
+        },
+        {
+            "author_name": "Pure Filters",
+            "author_url": "https://www.google.com/maps/contrib/117914366613182891045/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-44IKCkc9w_A/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1Fmu1FIpmTMTEA5GLjQevb9r3Gjg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Working with Jay and his Team has been absolutely amazing. They are truly the masters of PPC. Through their strategies we have significantly grown our filter sales. It would have taken us forever to figure this stuff out in house.\n\nThanks Guys !",
+            "time": 1496192543
+        },
+        {
+            "author_name": "Leonardo Mongillo",
+            "author_url": "https://www.google.com/maps/contrib/108119904818118844596/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-z6RFrj2S0R0/AAAAAAAAAAI/AAAAAAAAAEI/9sG1TO1RHaQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I have worked with ClientFlo for two years now.   Their attention to detail and service has been second to none.  My practice has grown significantly since we started our working relationship.  I highly recommend their services.",
+            "time": 1495749205
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17707902831672920727",
+    "utc_offset": -240,
+    "vicinity": "229 Niagara Street, Toronto",
+    "website": "http://clientflo.com/"
+}

@@ -1,0 +1,321 @@
+{
+    "address_components": [
+        {
+            "long_name": "1078",
+            "short_name": "1078",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "West Queen Street",
+            "short_name": "West Queen Street",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1H8",
+            "short_name": "M6J 1H8",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1078 West Queen Street</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1H8</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1078 West Queen Street, Toronto, ON M6J 1H8, Canada",
+    "formatted_phone_number": "(416) 516-2898",
+    "geometry": {
+        "location": {
+            "lat": 43.6437339,
+            "lng": -79.4217551
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6450828802915,
+                "lng": -79.42040611970849
+            },
+            "southwest": {
+                "lat": 43.6423849197085,
+                "lng": -79.42310408029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+    "id": "00112abb15a09cd5b200e4801f1725a85446ddb0",
+    "international_phone_number": "+1 416-516-2898",
+    "name": "El Almacen",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 9:00 PM",
+            "Tuesday: 8:00 AM \u2013 9:00 PM",
+            "Wednesday: 8:00 AM \u2013 9:00 PM",
+            "Thursday: 8:00 AM \u2013 9:00 PM",
+            "Friday: 8:00 AM \u2013 9:00 PM",
+            "Saturday: 9:00 AM \u2013 9:00 PM",
+            "Sunday: 9:00 AM \u2013 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101410787205550745365/photos\">Chaya Dewan</a>"
+            ],
+            "photo_reference": "CmRaAAAAu6eD7GmpWfLUWeXcWQIjgNFyXs6nA_RNFWZDxjikdU2t6WXkvar2fUsyAgP6-W5f0p6Vs_KCeJ7rMqNesrNkXbTGT8hkJejVHw1-s-KcfMSAm06nZAk1XZlQHImJBmzMEhA6Ewx2jxrJV07WD3RLwMKRGhR9CEsKVNFatbY7jGDo6xPBtz6l3w",
+            "width": 4032
+        },
+        {
+            "height": 5312,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107657679750136096182/photos\">Rebecca Rodrigues</a>"
+            ],
+            "photo_reference": "CmRaAAAAM-FsdplUpl2fklNoR-1Ys9M-1OBh0Ezjw07-8BnO5FpodEk-b9l2y5-Rhmyo2Dja5xxCxiwWDZu1llbbC2Od1GOQHiz64PZ4pgrauOUEjY778mlm_dzd609vQfqpj8HWEhBvYLChVlx8F2A22rcwAvtvGhSKrskZ5cU3UoBfZKSqaQ65JkegRg",
+            "width": 2988
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104887578780289179029/photos\">Eamon Wild</a>"
+            ],
+            "photo_reference": "CmRaAAAAWTTLVQkLvFWeggCcJtE3dXpFtlZQfSGFlnZnrvi0_7M9ZkhgY9TjQZxtCepaG3ix0WTVOuIzbsyDW_-FGVXAQplqJ6UyuVmvs195MEO8uYWzI4Dsd-0R27JB-5NkjuXbEhDKYNPQ2_uR4iBgFVn9zmNqGhSU-scn3NHyg_iTDSHPytIer-kUZQ",
+            "width": 4160
+        },
+        {
+            "height": 3492,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/112309963687561517403/photos\">Harish</a>"
+            ],
+            "photo_reference": "CmRaAAAAT42LGwtlAQ9KNxidGLjtHlbDVpTEINy46bh5HSwCM-iQgVRmMbL5S19VKksz8Rnq8YOzhWlWscVP3GcnHOUZtRmEITJcDcZuqHp998O9D2-o_IrnnwWPdmYeQ55xC2M3EhCg7rk2irf9wWvwgonsa61IGhT3puhGewo_UZ78LppfKhuBCKhMLQ",
+            "width": 4656
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/116581832936578002466/photos\">Dan Cojocari</a>"
+            ],
+            "photo_reference": "CmRaAAAA_jIg7iuwkUIyshATMVrjFDjOaz7z2h_yil61OGzIQjkB5Hboc5DpVrOjD7odqSz-9-ZimricrHw8pc2_OVo9uTHAdlObfIZ78qYhwrw5uh33hWRWdJyEeEJW5CG2EULxEhDREMVfKID_co59jNOEDC6CGhQ4GsyBKU5uMFEN2N6C1ZmHX5LX9A",
+            "width": 3264
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/108531725447305212367/photos\">Raghd Hamzeh</a>"
+            ],
+            "photo_reference": "CmRZAAAAJeIe570WvwcntMapEzJW8R6HAbkVjMqzeMvh9K1W2jh9FNew12Xw0Gc7YMgzpY7CqdWS66nRlpW-JiRBv67ZM6CsrIHRX9LwhL2ieHYcwCIvwC6XNT0Mocy_zqVfPDgaEhDHvAmEmq7_vUjQFYvh8W4LGhTrp0zo5jgmLuKT5uVZ1XLokKJvRg",
+            "width": 3024
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110378865756173262777/photos\">J G</a>"
+            ],
+            "photo_reference": "CmRaAAAAMyLsLMF1UIFWdAKYcK0cl9rDhM332CpbxJk6VBA6_JpadWXdQjRIamp38YZI6kxDsX-bfnDDQcqsR5Z7-o4MjaPEkWEXgN-s8eLU4LibAoBzGC6Tcyy6X2msYhKzcUi1EhCD4TAbpQPDbr-z49iR3MGGGhRKqs40Lu3YRAmX0jELYDI1ncJpoQ",
+            "width": 4032
+        },
+        {
+            "height": 960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105114945505153590285/photos\">Wendy Roc\u00edo P\u00e9rez</a>"
+            ],
+            "photo_reference": "CmRaAAAAz5NA0JR_5rgidiiNlb-t5WZYpPKpekgvGK1FlM8sfMfwvXX39sTjUYxInzhuc2X4IhzV2khSwDC2RJwrBSrb_wLJNDgUNURmjXWsDz79JQ6SNicHo51Cynnkigelky-UEhBjxp0OyCLC6h2ceGlAo1GgGhTnAEc1fHFZ6h0_HT5tjHT3qc7bnA",
+            "width": 720
+        },
+        {
+            "height": 2976,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102131129165835563197/photos\">M Zhou</a>"
+            ],
+            "photo_reference": "CmRaAAAATMLRIYePsItygQUFYlzd63in9t-GljFx8YqdG--cGwcEDn4TnoUMBmzB85gv71jLQWxXi7Xeknq1DICVpOKjld-NWotmHLqKt8K2gag1KaxtGrKBidUIDbsriyd12s8JEhC9XRhxhjmBcZqhn94IlzNBGhS1rIpvi7PrnVTqlNQG7iKVjd4dIg",
+            "width": 3968
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105922592492572969606/photos\">Erick Hu</a>"
+            ],
+            "photo_reference": "CmRaAAAAM66Z6TguQzHPgX708h04vXhWHdi1HoVHpT6yS9H80c3vWNbWfUwBmy887OaAd_Czp4SDuCWaY3DdGVBc_cq-ywVjCr5GGUj-nzmVJkxVDgsYSB-nCyMOt5-n6vDiBtAnEhCiZoUlv1hm3pWMtGCIocvSGhSy9x-Yhp3oee9BA8KZ9WkFvzaylA",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJEfrFJf40K4gR0S_4MjgStKo",
+    "rating": 4.6,
+    "reference": "CmRSAAAAabJAnL18b5sureWnw64uSRZYUOpmxa-a6mJUphg3lhAqaNO9u7-kh73aJaKR0JjcZgp4rV-erJzdoY1y63d_5xtt7Wbyeem3PzgvKf_yfO9L1xlZRg5U9RTfGCVfo7GPEhALmhQiCBUdiSk18A8bE6APGhTeAGXWF3aMAjjGKY3kmyuWOz_cKQ",
+    "reviews": [
+        {
+            "author_name": "Ewa Smith",
+            "author_url": "https://www.google.com/maps/contrib/111802167544316978363/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-o19-Buidp-Q/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2a-NlDZQue1V4A_RF8D57KqXqX0g/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 2,
+            "relative_time_description": "in the last week",
+            "text": "I was here last Sunday with my sister who was visiting from out of town. I wanted her to sample their delicious empanadas before she had to fly back home. While the empanadas were indeed delectable, the service was definitely off. There were three ladies working behind the bar, and they seemed to be in each other\u2019s way. Not a smile of welcome to be had. Especially the woman with the brown hair just past her shoulders seemed angry that we wanted to pay at the time when we placed our order and made the process a true ordeal. The pleasant vibe the place had when I visited in early spring was completely missing. Sad how bad staffing can ruin the customer experience.",
+            "time": 1528835900
+        },
+        {
+            "author_name": "Teresa Canoza",
+            "author_url": "https://www.google.com/maps/contrib/106274039670416424519/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ls_zhvEKImE/AAAAAAAAAAI/AAAAAAAAAAA/3PBfxoMsfcI/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Very cute place. Kind of small though very nice atmosphere. Very good customer service. Great coffee and sweets goodies.",
+            "time": 1524587581
+        },
+        {
+            "author_name": "Ben Allan",
+            "author_url": "https://www.google.com/maps/contrib/108602822506972280414/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-0iaBaNkNkKo/AAAAAAAAAAI/AAAAAAAAAAA/09_BgzZA1vY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Cute little authentic Argentina place. With coffees to boot. Also I\u2019ve seen salsa dancing a couple of times. I\u2019m not sure how to get involved in it. It looked like a private dancer was taking it. There is also a place in the back that caters food and I had a nice quiche there once!",
+            "time": 1521682895
+        },
+        {
+            "author_name": "Megan Lizabet",
+            "author_url": "https://www.google.com/maps/contrib/102297732041515405458/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-SEFuOvYHHZk/AAAAAAAAAAI/AAAAAAAABVM/dyPiMhJxFjk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Beautiful little gem on queen street west. Big bright windows and great atmosphere. We had the chorizo Benedict and pork belly with plantains- absolutely delicious. Excellent, griendly service as well. Will definitely be back.",
+            "time": 1524924117
+        },
+        {
+            "author_name": "S Souza",
+            "author_url": "https://www.google.com/maps/contrib/105621824351379898384/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-4rylGzgz7gY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0xS97Mc_wKTtdwL-eitq3rXtWijw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The perfect combination of Argentina and Mexico. Great food that is authentic and delicious. Ambiance is great and coffee is amazing.",
+            "time": 1520807056
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12300476514838261713",
+    "utc_offset": -240,
+    "vicinity": "1078 West Queen Street, Toronto",
+    "website": "http://www.facebook.com/pages/El-Almacen/178439082166271"
+}

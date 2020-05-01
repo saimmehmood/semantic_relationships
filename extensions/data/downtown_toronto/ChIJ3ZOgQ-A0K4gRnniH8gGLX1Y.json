@@ -1,0 +1,144 @@
+{
+    "address_components": [
+        {
+            "long_name": "725",
+            "short_name": "725",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2W9",
+            "short_name": "M5V 2W9",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">725 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2W9</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "725 King St W, Toronto, ON M5V 2W9, Canada",
+    "formatted_phone_number": "(416) 703-0002",
+    "geometry": {
+        "location": {
+            "lat": 43.6432914,
+            "lng": -79.4047263
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64473788029149,
+                "lng": -79.40341506970849
+            },
+            "southwest": {
+                "lat": 43.64203991970849,
+                "lng": -79.4061130302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "e8f365ee85af2cc883358383a7df37f0ebc614d5",
+    "international_phone_number": "+1 416-703-0002",
+    "name": "Barb Keshen, Toronto Reiki Master, Reiki Classes Toronto",
+    "place_id": "ChIJ3ZOgQ-A0K4gRnniH8gGLX1Y",
+    "rating": 5,
+    "reference": "CmRRAAAAjyJ9dIxg26j44ojxmpCYFgvVA3tIOHSBPuvrty6IWhGG4vDAzKcjstqTZ1ABWdcAU55QGAAbSilNJ_uwGLUBRjcAD20YfN_aJFb-gSZ943Nk6WXu1RPvODeb6hZtb99YEhBof8Py6VUBZgMgCjEj_Zr9GhRwoyT_W2Q37yTLS1EYt9WaI-5wNA",
+    "reviews": [
+        {
+            "author_name": "Kerri McCracken",
+            "author_url": "https://www.google.com/maps/contrib/102061111391777353853/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-ocux7hJpN0w/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3cW9pcOgsBMdgsDRDAU12g_JvUcA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I had an excellent session with Barb. I felt wonderful afterwards. She carefully addressed all of my requests and concerns. She is a skilled and intuitive practitioner.  I have already booked another appointment! Thanks Barb.",
+            "time": 1524167827
+        },
+        {
+            "author_name": "Daisie",
+            "author_url": "https://www.google.com/maps/contrib/101588431966421323670/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-kQ2ybES6BdI/AAAAAAAAAAI/AAAAAAAAACY/73Z57vD_r5U/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I completed my Reiki Level 1 with Barb in 2000 and was so invigorated by her teachings, that I continued to complete my Level 2 and finally, my Level 3 (Masters) in 2001.  Barb is an excellent and knowledgeable teacher whom I would highly recommend.  Daye",
+            "time": 1488428297
+        },
+        {
+            "author_name": "Nic Marie",
+            "author_url": "https://www.google.com/maps/contrib/113273600623830517559/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-6KJ66DQnGDM/AAAAAAAAAAI/AAAAAAAAAMo/qtb2B-zIYLw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Glad to have found such a good teacher! Great experience",
+            "time": 1479965247
+        },
+        {
+            "author_name": "Kimberly O'Brien",
+            "author_url": "https://www.google.com/maps/contrib/101616968453914594311/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-Wpkp6H0NbeM/AAAAAAAAAAI/AAAAAAAAAD0/gkjjgYQH-zk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Great teacher.!!! Amazing energy",
+            "time": 1462996272
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6223846050529507486",
+    "utc_offset": -240,
+    "vicinity": "725 King Street West, Toronto",
+    "website": "http://www.barbkeshen.com/"
+}

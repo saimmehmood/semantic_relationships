@@ -1,0 +1,324 @@
+{
+    "address_components": [
+        {
+            "long_name": "1150",
+            "short_name": "1150",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 1J3",
+            "short_name": "M6J 1J3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1150 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 1J3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1150 Queen St W, Toronto, ON M6J 1J3, Canada",
+    "formatted_phone_number": "(416) 531-5042",
+    "geometry": {
+        "location": {
+            "lat": 43.6431552,
+            "lng": -79.4245711
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64444763029149,
+                "lng": -79.42319876970849
+            },
+            "southwest": {
+                "lat": 43.6417496697085,
+                "lng": -79.4258967302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "e6be679746f82a181cf3d0d685d66983cc758145",
+    "international_phone_number": "+1 416-531-5042",
+    "name": "The Drake Hotel",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0730"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 7:30 AM \u2013 2:00 AM",
+            "Tuesday: 7:30 AM \u2013 2:00 AM",
+            "Wednesday: 7:30 AM \u2013 2:00 AM",
+            "Thursday: 7:30 AM \u2013 2:00 AM",
+            "Friday: 7:30 AM \u2013 2:00 AM",
+            "Saturday: 7:30 AM \u2013 2:00 AM",
+            "Sunday: 7:30 AM \u2013 2:00 AM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 680,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107996712493642607766/photos\">The Drake Hotel</a>"
+            ],
+            "photo_reference": "CmRaAAAA5vWBOeNgLjmuWc5krdN8Phov9u1NsCYcxfyaHsj_OikAM0P1ylRISFJAdMbKgj_dAZd1Fac5xkfzdzuvU4z0guOvT6XHJ0lqSD9YRLu3GvUxnQq-YUfcX-E-z1bOzXSJEhCmVK9BILP5QFDz55swt_UfGhQOE6eYy4yyH6y-73TXmjkDFBSAlQ",
+            "width": 1080
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/113785546310502963795/photos\">Christopher Donaldson</a>"
+            ],
+            "photo_reference": "CmRaAAAApHsjk9F5Ab5a9XllsSJ-nzOD_brwV_8E2nv0drw0ByALYBR35QQXwYXMD5U6-vDqewbECu7NmugQqGwZQ5KJ8SdQdn703Dybbd5Ugt1BkMhCTvLqnt49a8gfysANCLWSEhBvH_8B75gw1xiVnnvCaUN3GhTQG0FXR1rgjrqT0HCxGP9Ois2kPg",
+            "width": 4032
+        },
+        {
+            "height": 3036,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104838916831633545415/photos\">Pete Barkley</a>"
+            ],
+            "photo_reference": "CmRZAAAA5NNPQHCMEHfPx-1OgDgIlvoECw4bPJ3ckxSNYr5UwRSb_1UIi750GnY07QAENZWXquO2WfoylWNaf4egZkNJdbfnmGzOae6T9wpE6iqvvm7qH0m9M6y2dL6L-WeINxPREhCG8YUl1a58h56omYMTAbyfGhR4ovIo1pG6lruxXsbLTF0yCOLW4w",
+            "width": 4048
+        },
+        {
+            "height": 1920,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102113566035158619090/photos\">Elle Ray</a>"
+            ],
+            "photo_reference": "CmRaAAAA9JY4pGefkfCl2T_D5mIE3EP3DRwrX6pnS0PmoLu73TGQV1rYrqUNMrmc6pVTgc5kGW0lwMy0naicRqvmK5U_hsC3PWW8YRYm5P4jtEKAtky0rxo5ENurK4oaTyI8id5_EhASE74-KY2xfALjIMWdAnZbGhQaKArLzSchnQfwbNUC74Z6H_UWIQ",
+            "width": 1080
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110078103760683702405/photos\">Michael Ngo</a>"
+            ],
+            "photo_reference": "CmRaAAAAbdJ1VuB7GAq7ncJwZK0dOs3oLSKwOQiYcztCKN9UnfsFoIIVgdqFks8DLOALPmWT5RBCHqoOq95bPahcIL2O-paB-QuQfdNV4rQ-SccxRcsbZUWxrqh_eMz3tjhCkVUTEhCCj5gdjpO1NXcNczTCKIJmGhRUJhT9j4yt09RVUUT8RMaOhtKISg",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103836332162816186845/photos\">Patrick Lai</a>"
+            ],
+            "photo_reference": "CmRaAAAAgrUXGLYqauj9rUlEbLfszWurBNItWM7RMcnMp7Nr6FzqaKcLiiTjH4m3jVc5qVKn7NZiUwQD-wmd6QsJO3q9IYB-c5WvoTgGlzji-SndWLMw386CYudaCZJVOk4gA2r9EhDLmlPlwsfy8RoIS7pLjthJGhQEoTjSywUOIyLABE6uwyrdJqyegg",
+            "width": 4032
+        },
+        {
+            "height": 2467,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107892960871924175513/photos\">Araz Sanati</a>"
+            ],
+            "photo_reference": "CmRaAAAAVE_yMrHf4ge81Au5GKJevpjTmDt57Hu-iqvGNpTXEpBzUJJRqnI2Q707WkwPLfbkSwfpqKYBawm1v3jvA3IbFvfaAFEw8ze7LYll0egmPXvTaIyaOvxImKEYC8uPk2_WEhDjn6Go0huhoViZjL_GLdMLGhQFbYKf2hmExXrVRWmPn0S7PbKlmQ",
+            "width": 3550
+        },
+        {
+            "height": 4048,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/110134408286819184458/photos\">Anthony Carbone</a>"
+            ],
+            "photo_reference": "CmRaAAAAYg_B9gpcW1mFZ3ZeG9QlsKKDQ5pPz3nP_VKKIMxcp2qGpLAhD8zJeHir8abt73ApyyMRl5VaWpTA0yo4aJ74THimqJAAmJaguR6k0Oydpmgxym0EWpXovez0LIgCqrhtEhAFm2wgdksB7YNQgZ3mw4k9GhRks2yN1B2bwEawq8UHGEUXQYp_NA",
+            "width": 3036
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107323775156020575899/photos\">Darren Cheung</a>"
+            ],
+            "photo_reference": "CmRaAAAApnhJwoKekiMuK3WhDJiaAinZCeBvLtMqLZtOlCzzOqUUrE3BGdqAvbdys2GILrHOWV_eWUswBW6AwtOZmhoucP0N6lGcUjE74Nj_EziDRpZ1iVJTIlynjbdrYH4YtERyEhC3Fq9BsawMNTmg9m04o3yJGhQWHMbmoTyAwT4zzGEaOGBaRRXZbw",
+            "width": 4032
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/100407976988162294984/photos\">declan walsh</a>"
+            ],
+            "photo_reference": "CmRaAAAASRugs4MowDUywvAzE3ZWjpuAv0_6HkJJ3c9UFj9lYdq52wZd2HHDkXo8pVZsnK9TOEW4GM2QV0j1qgGXidAB9YHnqXy2_sVn2Um4a9xpBA2XmLVQUIJK0ACbW7dy6LRzEhBRZD8yDX29wTpEjtgQnS_XGhSb5WJBl0B3IRKD8ScoBMYgG90lzA",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJ8b_aGgA1K4gR3n2TF4fM1Es",
+    "price_level": 4,
+    "rating": 4.2,
+    "reference": "CmRRAAAA9ajbEHgPcVDjdtzPA3K9QoE3JhOC2-5xSCVGNVEgWhvoTx02IykXVXhHnFj4r6QW9pl9sIF3SI0xbpQ_eHDyOr0Zu3Pqr45V8EezEHQjs4gmcQps5ahiFEjF-MrCMKEkEhC8o5M8yPYgmkNYWduDzy6FGhTpPJT4w2Z8SAqcisB4ulLwNE1aAQ",
+    "reviews": [
+        {
+            "author_name": "Drew Desembrana",
+            "author_url": "https://www.google.com/maps/contrib/101966328968099037771/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-2BRLaqL5wbE/AAAAAAAAAAI/AAAAAAAAgFc/8AM32JkudDM/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "The Drake Hotel for a hotel stay is great. The rooms are incredibly unique. The beds are comfy. The bathroom fixtures were clean and fairly modern. The brunch downstairs was great, especially the Drake Benny. The only thing to note is that there's only 2 private parking spots for the hotel if you have a vehicle.",
+            "time": 1528061733
+        },
+        {
+            "author_name": "April Tiffney",
+            "author_url": "https://www.google.com/maps/contrib/110955809642396555811/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-Ckw4LnZ9qcw/AAAAAAAAAAI/AAAAAAAAAM0/IAchXRv07k4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Attended a function at the hotel. Location is easy to get to. Service was excellent and the food served was spectacular. This is my second professional event at the Drake and was not disappointed. Would definitely return. Meeting room was comfortable and large.",
+            "time": 1527186824
+        },
+        {
+            "author_name": "Ravika Gupta",
+            "author_url": "https://www.google.com/maps/contrib/104870193154680634486/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-No52vUtpjEg/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0_MnIAMb9G-U0g0YlMaMf3KcifQQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Drake provides an edgy atmosphere. The restaurant has great service and has with vegan options. I loved the Avocado toast with a touch of spice. Their tuna salad is also delicious. I wouldn't recommend getting a coffee, instead get a cappuccino since the price is the same.",
+            "time": 1527312797
+        },
+        {
+            "author_name": "carley gallant",
+            "author_url": "https://www.google.com/maps/contrib/108861262814982181073/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-tWUCQ6Km_8Y/AAAAAAAAAAI/AAAAAAAAC8o/FkMKiQcB7CE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Went to the Drake Hotel for an early dinner this past weekend. They only had a \"snack menu\" available at that time and we considered leaving but once we saw the menu and all the delicious options we stayed. We were extremely pleased with all the delicious food we received. The staff were polite and knowledgeable and very cautious with my partners food allergy. Can't wait to go back.",
+            "time": 1527539468
+        },
+        {
+            "author_name": "Santiago Oleas",
+            "author_url": "https://www.google.com/maps/contrib/118317717210983489213/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-sYAbZ-fjRxQ/AAAAAAAAAAI/AAAAAAAJ_ME/SmfTr3XcHSo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I stopped in for drinks before a wedding that was taking place nearby. We were treated really well. The food and drinks we had were delicious. The people we dealt with were very friendly and I really enjoyed my time here. I could see why the Drake Hotel has such a good reputation.",
+            "time": 1525464671
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "restaurant",
+        "bar",
+        "lodging",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=5464217128495447518",
+    "utc_offset": -240,
+    "vicinity": "1150 Queen Street West, Toronto",
+    "website": "http://thedrakehotel.ca/"
+}

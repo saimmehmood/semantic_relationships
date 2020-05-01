@@ -1,0 +1,300 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(416) 987-7181",
+    "geometry": {
+        "location": {
+            "lat": 43.64428400000001,
+            "lng": -79.398747
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6458305802915,
+                "lng": -79.39747421970849
+            },
+            "southwest": {
+                "lat": 43.6431326197085,
+                "lng": -79.4001721802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "f5d6a26c2810bc5b893423996555203d751f85ac",
+    "international_phone_number": "+1 416-987-7181",
+    "name": "iQ Office Suites",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:30 AM \u2013 5:30 PM",
+            "Tuesday: 8:30 AM \u2013 5:30 PM",
+            "Wednesday: 8:30 AM \u2013 5:30 PM",
+            "Thursday: 8:30 AM \u2013 5:30 PM",
+            "Friday: 8:30 AM \u2013 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103039980753346531634/photos\">iQ Office Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAHm2J5hZxIbq8oh3BSKLy8NtyNn8nj5FHy8ax6sXoioUfDUj2tlypQwwfk8ZyiouswjjUwQfUjpF4BP1bIlN8SQrd2r8usFA_PAXP-_yXC_ATkKTUWz0k-OvNcg6l-ux2EhA-_g7FdAU5XEbmKn6C571JGhTPEv8uC4PUctyUZuOew3K8IsXzuA",
+            "width": 4928
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103039980753346531634/photos\">iQ Office Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAm0DY1L23m_jaCPuIRihR4whY9HqmtWSowY3hujCvqXYoWmdV5XFicHtF73kEaUPJUA4AA0aeNfIvP_0xomC9Cz0gFuY01itPFFReHbnFe6u94fTxswtod3Kt5HrUPZ6mEhAliJ5urEnuWpDLFHkwAqixGhQK4UEBZ5ZaOLz-gurallFqi__rww",
+            "width": 4928
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103039980753346531634/photos\">iQ Office Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAALCH1uYyVJpWjYT8sSmjfJvrFB2O2QMjpuAKYvMgcZ8UnnafYzLDALbuV1P03850qbyiLaldey29DXbWWBLh7_MqhQZJkrjRI3neUoMwQvGi20vl9I9D7JTGaezEead11EhCsIevX4QIDEUARAOeK0AdyGhQBCznd5ZlJ1A2zfjwI_blht9z6iw",
+            "width": 4928
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103039980753346531634/photos\">iQ Office Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAYoH5koVs-E9qwMVQdtTtkG6BwH3eREvRBSHIlSGJCRyVVfw4ZXyvRWU3C8K26RanPDF2dKZnVS23lpCAjRWcFCPNYD2WGoPv2tmCwSRevdV3BKbC34qWUJKhw6BlpI6QEhCFLvvbvyJ37qfoYmkslRdIGhRx8f3e-nE95jFsLTVgOS4yaCdgaw",
+            "width": 4928
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111020240857007013999/photos\">Martijn Spronk</a>"
+            ],
+            "photo_reference": "CmRaAAAAnl8bqD8dV0ttjm6x0NOAHwM5vW9ptXUAoDQiKFE07UFYTL_Nxf7ypNBRCrTREw5YMdWyaAq64BkJyYjLM54MUSuFRRZCVgCYBrs62VNK2zXt-v5A9OSVLPEV-WhexbcZEhB9hF4VgiBSpDhCE2Camf-FGhQThUE7gnQlX-hKuWAZ6eiyee08cg",
+            "width": 4032
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103039980753346531634/photos\">iQ Office Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAnjnAdSw-KcthN0kjOeKePihOxRgRoPPbsaWm2kzBZsHvuT-bzcI0Vr9DkXJ-8acHjcbl3wKV2VkYW1tB5GN1eL9oHLrj7UJr8ixHFGgmPRsBqKNNEXMotSlzSIIRtnvaEhBEAHArbC9HCY4nGYboGidPGhQi4myoKmyk2R2Ddp58iDugwXg31Q",
+            "width": 4928
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103039980753346531634/photos\">iQ Office Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAPZ0qI1vBmLWAY3zf8p495NR4VjOolfqneW5jmA-1CnUT7nkBdlYJA5Llzbm3IpGRJLzHX9ZRqfoz3JcKOfo7stdKKtxyeolnrQpTnzzeuCpvabZEr2L4HVr2ddhRRo5kEhBB0C7WqM1_PPmDn5GZ5mL8GhTdnrPXoj93FXXGCEyLepcE-eSp8Q",
+            "width": 4928
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103039980753346531634/photos\">iQ Office Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAA7ujeI--IeNvUy9HN7_ZejuDpHUIRcfzWlstI_OkwkXm8xdr0pPZfmeSqBfPbuzSwVMUqYPndC8LyhLaymg6URpMxa8lYkZaThZM_MF02JPCjFB16V_Bi4FA2tZF1x4AvEhAn8ZrmJuD6oj9AyDzUocpdGhRwDk7AuA9G-ZwH2KQJPixbyS612w",
+            "width": 4928
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109018361167277090153/photos\">Sue Sutcliffe</a>"
+            ],
+            "photo_reference": "CmRaAAAAjNKrC7ivdAlVga0Ycp0fSP46rR4fKEPMY5ySAnFIjZWNdUHSWEOYWZkzSyBz0Tq9fzJcvLzGjLnN9ppIykAYpVj5ECJW0n7kgwg252Lw5ecZAq7XBNxNOYZUYmKPAnY_EhAz5Z9m40dlI59CLexgE31JGhQrAlzFXPkYt2VgzyQXNQKHwnhEkw",
+            "width": 4032
+        },
+        {
+            "height": 3264,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103039980753346531634/photos\">iQ Office Suites</a>"
+            ],
+            "photo_reference": "CmRaAAAAyaVEMKjh_C3-uInosvBgfzd8x-PqWVRwy10fT7UjHI_YEoml5X0z5sTYLwSUHz8YUQp7xLDsTOKtx6AAkoDgFwyXzL5q9D4S5rqT8kmJ0OAuZ1kn8geO4Je8PNCzohvcEhAw_rj-nCU3Co8zfmx-ak1nGhS-bowRnnY4OJdEtfummh2qCNoXMw",
+            "width": 4928
+        }
+    ],
+    "place_id": "ChIJkTSi5940K4gR0OJ2Z_A5_gY",
+    "rating": 4.6,
+    "reference": "CmRRAAAAgDoz4Q8N1m7xpLGlx1Y8M91YA6YzLUxPWj7fYuxrIvZd9vpQWXFcj66nye6oe_QaYvEj_ljC0k7_Y7y5i6XV3ZZRs0h5etFWEtFIz9sBaT3BSSjglfwIioherzL6kZXYEhB4BI9CP4x5IZSTBvkVEQpuGhS5oHvTtuwKtUKhzMeybYqbljhAOw",
+    "reviews": [
+        {
+            "author_name": "Sabrina Fernandes",
+            "author_url": "https://www.google.com/maps/contrib/112946907828756867333/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.googleusercontent.com/-2fsNtDIOC-8/AAAAAAAAAAI/AAAAAAAAAeU/VXAtZTnp3tQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "I went here for the first time for an Interview. I had an interesting interview experience and the setup of this co-working space was pretty good to facilitate such meetings.",
+            "time": 1522088037
+        },
+        {
+            "author_name": "J\u00e9r\u00f4me Brunel",
+            "author_url": "https://www.google.com/maps/contrib/104116173734965444947/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-bAO51Kh-_p8/AAAAAAAAAAI/AAAAAAAABYU/EEadwyhE4J8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Worked there for a couple of months. I was on the second floor and even though the heater was on, this floor was really cold, some people would even bring plaids. Also, when somebody was walking in the alley, my desk was shaking.\n\nI left the space at the end of October, they had 1 month to send me back my security deposit cheque, it took them 4 months and I had to call them/email them often to make sure I was gonna get it back. They sent it back immediately when I started cc'ing the CEO in the emails I sent.\n\nOther than that, staff was very friendly.",
+            "time": 1519833168
+        },
+        {
+            "author_name": "Jill Bayley",
+            "author_url": "https://www.google.com/maps/contrib/102786259909514851225/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-jMIlZkgfcTk/AAAAAAAAAAI/AAAAAAAADNs/MIaBGIvjJdY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "The staff and atmosphere are excellent. All the perks of a \"normal\" office experience and lots of great social events and ways to both have fun at work and engage with others in the building. It is an old building, so it can be difficult to regulate the temperature in some parts, but staff are very attentive to ensure everyone is comfortable and productive.",
+            "time": 1509886502
+        },
+        {
+            "author_name": "Mag da Lena S",
+            "author_url": "https://www.google.com/maps/contrib/115668176049802388519/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-DhUILDYm0K4/AAAAAAAAAAI/AAAAAAAAAUI/g7QqCUSa7vk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Did a tour of this location...  seemed like a quiet, work-conducive, friendly, very conveniently located work spot    :)",
+            "time": 1514500683
+        },
+        {
+            "author_name": "David Sinkinson",
+            "author_url": "https://www.google.com/maps/contrib/107904175779602632777/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-LdZJoYFyB94/AAAAAAAAAAI/AAAAAAAABs0/MMdnkBnWEWk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Fantastic co-working space. Friendly staff!",
+            "time": 1515798069
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=503903913002853072",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto",
+    "website": "https://iqoffice.ca/545-king-street-west-toronto/"
+}

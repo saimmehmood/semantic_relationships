@@ -1,0 +1,101 @@
+{
+    "address_components": [
+        {
+            "long_name": "1",
+            "short_name": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Yonge Street",
+            "short_name": "Yonge St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5E 2A3",
+            "short_name": "M5E 2A3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1 Yonge St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5E 2A3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1 Yonge St, Toronto, ON M5E 2A3, Canada",
+    "formatted_phone_number": "(888) 830-0168",
+    "geometry": {
+        "location": {
+            "lat": 43.64274309999999,
+            "lng": -79.3741046
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6439395802915,
+                "lng": -79.3732037697085
+            },
+            "southwest": {
+                "lat": 43.6412416197085,
+                "lng": -79.37590173029152
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4088e967a6fa6e3b15c99bdc6303d6a861efba83",
+    "international_phone_number": "+1 888-830-0168",
+    "name": "LIVESOLAR CAPITAL CORP",
+    "place_id": "ChIJhbG92OQFzkwRdTdZDjMsiSw",
+    "reference": "CmRRAAAApKCqtHxfpc9WzRi2cPvJ3kjVr9fkpBR9J2c3i2Hi-Za-Nn8Y4b6R70uvJJTJ3F69Uzn1NQIhxvbM80Wh1puidPzjQyUPt1EyYxNlSmMZRWhN6dOXnfK62-rw-cVAU0P9EhD4cELx6y10EV5XjVr2-BzAGhS6r4RKJMbekQxzF7EKrEXydFITvw",
+    "scope": "GOOGLE",
+    "types": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3209144807273871221",
+    "utc_offset": -240,
+    "vicinity": "1 Yonge Street, Toronto",
+    "website": "http://www.livesolar.ca/"
+}

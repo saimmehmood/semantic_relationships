@@ -1,0 +1,122 @@
+{
+    "address_components": [
+        {
+            "long_name": "1033",
+            "short_name": "1033",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Queen Street West",
+            "short_name": "Queen St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 0A6",
+            "short_name": "M6J 0A6",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">1033 Queen St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 0A6</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "1033 Queen St W, Toronto, ON M6J 0A6, Canada",
+    "formatted_phone_number": "(866) 222-3456",
+    "geometry": {
+        "location": {
+            "lat": 43.6438666,
+            "lng": -79.4193134
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64531918029149,
+                "lng": -79.41800041970849
+            },
+            "southwest": {
+                "lat": 43.6426212197085,
+                "lng": -79.4206983802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "id": "e7b8731eb30411d0830b4849db54524ca24e84c2",
+    "international_phone_number": "+1 866-222-3456",
+    "name": "TD Canada Trust ATM",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "place_id": "ChIJ65otU541K4gR9K6izxDYLK0",
+    "reference": "CmRSAAAAj33LbyCxTZKX7E59spcChXzhcCHqG9gHydtuPTxORBcLqZwczCWWyGK7lguLz78eLaFaAPEXtyxw7IKpIKd5VD3X0cSuRxPs8mNjpK-bGRQ-diqx0xjEXE2oANyBZKjxEhCDAV_NqpvilwYKd6kSfAw5GhSaE4greQ8JHV_lJz0Wh-pzvR7qlQ",
+    "scope": "GOOGLE",
+    "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12478586234251423476",
+    "utc_offset": -240,
+    "vicinity": "1033 Queen Street West, Toronto",
+    "website": "https://www.td.com/ca/en/personal-banking/branch-locator/#/?id=1636&src=local:atm:can"
+}

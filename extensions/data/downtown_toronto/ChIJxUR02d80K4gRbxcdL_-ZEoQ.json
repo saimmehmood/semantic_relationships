@@ -1,0 +1,302 @@
+{
+    "address_components": [
+        {
+            "long_name": "82",
+            "short_name": "82",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Bathurst Street",
+            "short_name": "Bathurst St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2P3",
+            "short_name": "M5V 2P3",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">82 Bathurst St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2P3</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "82 Bathurst St, Toronto, ON M5V 2P3, Canada",
+    "formatted_phone_number": "(416) 901-3330",
+    "geometry": {
+        "location": {
+            "lat": 43.6431549,
+            "lng": -79.40273429999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6445395302915,
+                "lng": -79.40121666970848
+            },
+            "southwest": {
+                "lat": 43.6418415697085,
+                "lng": -79.4039146302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+    "id": "91115b11a71f9fbe4f8e6247e145585e72657e19",
+    "international_phone_number": "+1 416-901-3330",
+    "name": "Chill Ice House",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "time": "0100"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 5:00 \u2013 11:00 PM",
+            "Thursday: 5:00 \u2013 11:00 PM",
+            "Friday: 12:00 \u2013 1:00 AM, 5:00 PM \u2013 1:00 AM",
+            "Saturday: 5:00 PM \u2013 1:00 AM",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1365,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104411829778209344085/photos\">CHILL Ice House Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAY5F_RTmB_RUkNXGqGhyIIgjFSAqgMUa60a7SdnhpTMX7JcjfTC5cax4363iHOlDacoQBdCEIsxByE4OR3r-UUwcH-m55brlZg0hEsTA9QOVT8twAZPX_J-WAZirvBGc4EhC5Q3JtOXLLkrgkxoYdxDKtGhQHzzCRwHCqHqAbUnHkfGgGSjGxkA",
+            "width": 2048
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111435600326678984575/photos\">Bernard Chambon</a>"
+            ],
+            "photo_reference": "CmRaAAAAgiOhdX7sjL5WuHC1PRsLL6N2wVGI-5sYPTzUriS9g-cS9kV0qmUo3wXelgLu6dVOY9PM7tkLNbojy-lXA3JViXZRhO-XazaUQy684fBkl0gMCYBw23VAvSoCj7YnFgTyEhDde7koqsF_uwaiH8AjxBU8GhTD7CDceJdu7s_wz2GTVPb_Zdi_Gw",
+            "width": 4032
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104411829778209344085/photos\">CHILL Ice House Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAu_wNPhxgLq5qzwlCrJVEj2zLNMYq6qH_GOQYL5X0Eh0AHlRIINKUTu-dWCCnMLnXVTJQeL0-XflHjuL_7e1_mQL6jUTX9zr_aA2168SMBwrEyWFtxIHJnreFr4Bv_FoSEhDz3M6YY8-7up3eFfwqFfG1GhRC4wntDBW7OmI5Cx1ryjtmy384SQ",
+            "width": 1000
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102553769511302489247/photos\">Android Dave</a>"
+            ],
+            "photo_reference": "CmRaAAAAzRZTypXIscM1GoFKPECeGLUGoaa38kd7n4j8LoGyYbFKzJ2hNAEWvH7_ilHjXHuGHNL-M9uUAY_i8C6NuVNpHr8S_ZX1J0M6_lkC546eAJH_CrPGUBdIcCAp-GqJ0rNnEhBtSoLoyKX1new7bkSn3_-ZGhQGc_y2GrjBpPFqNaPUhZeY1j-LmA",
+            "width": 3024
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104411829778209344085/photos\">CHILL Ice House Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAomfOEl2GBnX8ybPb_6lW6JgMahZ40p67UTUFKKi7nGWph3rtvzil_PGYo09ct9ZJouvEOVFlFn8bHPqCZ3g-7xmfYkQuDjoieAE2UNmA65aCWbVhZ-cocyN_SWO4HQXREhAoA43qUj7_7vI0Ix7zva0_GhRfuWco6ZIIGQz3ceJBTPzUeMLRsg",
+            "width": 1000
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105904402831901752549/photos\">Amanda Murphy</a>"
+            ],
+            "photo_reference": "CmRaAAAAgi2cQ-9p1vav7-u8qzSRBRXQPQKXN2B7THnRBtZSXaqSXNSTEJuatI9j1pJAtYHF5hA80GREFDy3V28HmEUqbs7zReSabRY2FaEQgeEBmS3DxYD5qfQKOYr-hMoNc-stEhCQ9xoH7Qa4hHf3wixOWis2GhSmHAswQjP875Yvy2CxzOc7vQKkqg",
+            "width": 5312
+        },
+        {
+            "height": 1500,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104411829778209344085/photos\">CHILL Ice House Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAg_Rgu9xnWsqc56QJJaKiCTq2SJHdj83qfT9fGDGyhH1dF9JOGEE5CnjvRuCEGeuatT0AcTbJn5bBo_MD3egxABrIhHrMGZOG48423_toUCH1jHJVlb7TpxEoKMHGKHaoEhByElaVTAO_7YbnnEywof7iGhR5leT5PE6vzt2Fe-qMjp-UhB5M9g",
+            "width": 1000
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104411829778209344085/photos\">CHILL Ice House Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAIwm42p7UViFKf0FMGNKqsfRH9ZL-21g7RHYcK9VTum493OaCRIu3natztALHKRcTJ5niJQL8qQNK7JDjdBvPrtzrEc7u5Lb38G-EkYKGYiOQUdhjPRFrlQp7gbq2OUw2EhAyIbvo2T-fJ1KcZ7HNkU_bGhQdDzxs-AQOzU436SPbP7GKlkKh3g",
+            "width": 1500
+        },
+        {
+            "height": 1000,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104411829778209344085/photos\">CHILL Ice House Toronto</a>"
+            ],
+            "photo_reference": "CmRaAAAAVEjkbH7koXvtjcWdsWDM9Ib-yJGCU0r2R-i66UL9Xb1tMrWJFYmFVubPdRECnpEZ4Tm_2PjJqmON3dBTOUMxNu8pWJyGfLHjOK49Ar5F6YC02wePvuM19H1IzWHdvj7OEhC5X22qD-HmYPGZL3zhmd-_GhQdNmW9RHZCpugRMDEpSzWtXhZ64g",
+            "width": 1500
+        },
+        {
+            "height": 4032,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105710767795213870616/photos\">Jessica Wu</a>"
+            ],
+            "photo_reference": "CmRaAAAAfvoE1gGRm2ps2NwySuxvV1Mc1QuuWceDxxzKcaHuNCg0vYggVIXC7QIl6uzAk_uOCDMV7w6VkM8nmDKOZp7CivyoMbytVDO7Akzmcd3oxltPJGkDWKON4zM1GcW_8HJyEhB4wLFbZenaRjqT7XxafufdGhQ_uZtngM_q8UGD30Qyc6pQj2BQow",
+            "width": 3024
+        }
+    ],
+    "place_id": "ChIJxUR02d80K4gRbxcdL_-ZEoQ",
+    "price_level": 3,
+    "rating": 4.1,
+    "reference": "CmRSAAAA1Bh1jM1oYuvSU8f5wkjz32uKFC-wuKJmT47H5O0HvvvocKhVpwhxacTh6zj9qTT2sxWiBs6UPMciDISJqwwworuknGddIFNf8eb8kbIOVqdZFm07ss6JTPDVSbUWjjhzEhDd7YaQQuBX13_JOeI1qxFMGhSP_uGyKUoI8x9gIOMSdzRJCy70Ng",
+    "reviews": [
+        {
+            "author_name": "Betty Y.",
+            "author_url": "https://www.google.com/maps/contrib/112927428873729182464/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-QDDlQCuoNzA/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq09e47u9Lfpe-A-0tzNsyaPA9whEQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Absolutely love this place. It's like walking into a ski cabin in the middle of Toronto. The owner also made all the ice sculptures in the back. Recommend the ski bunny shot here.",
+            "time": 1528670252
+        },
+        {
+            "author_name": "Sally Green",
+            "author_url": "https://www.google.com/maps/contrib/118178721000176113680/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-rr39rfb1H-c/AAAAAAAAAAI/AAAAAAAAAkw/XnX6_pXK3Kw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Love how the entrance was tucked away down a small alley, and when you enter into Gatsby Speak Easy it's a wonderful vibe.  Our bartender, Sam, was AMAZING!  He was personable, knowledgeable, and a pleasure to deal with.  He also served us the most amazing Patron Cafe shots in the ice lounge while we played with the ice games and danced around.  Perfect experience from beginning to end.  Thanks Sam!  We will most definitely return sometime soon.",
+            "time": 1517502648
+        },
+        {
+            "author_name": "Alexandra P",
+            "author_url": "https://www.google.com/maps/contrib/117352893035657124550/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-vVNFF2WYJp0/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1oQEyM9D0tteotMvMcZXTJMgAWHA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Have been twice. Once for a work event and once for another event. \n\nThe ice bar is neat for about 5 minutes and then we were all over it. It\u2019s a pretty small room and they didn\u2019t actually serve us any drinks there. So you sort of just stand around and take a few pictures which was pretty disappointing. I was anticipating cold drinks served in ice glasses. \n\nThe bar at the back is cute - a cabin-like feel. I\u2019m not sure how much \u201ccover\u201d would typically be, but I wouldn\u2019t recommend it if you have to pay to get in. I suspect the ice bars in Montreal are much better.",
+            "time": 1514839330
+        },
+        {
+            "author_name": "Catherine",
+            "author_url": "https://www.google.com/maps/contrib/105013747024768929894/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-sVziQPZVfwY/AAAAAAAAAAI/AAAAAAAAAXA/0lYsw4D6ecg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "It was completely a rip off. The normal bar area was alright with decent bar tenders but then when we got into the actual \u201cchill lounge\u201d there was absolutely no one in there not even a bartender. Most of the ice has melted leaving barley any place to find a seat. The pictures online were completely fake and nothing compared to how it looked in real life.",
+            "time": 1523371663
+        },
+        {
+            "author_name": "william taylor",
+            "author_url": "https://www.google.com/maps/contrib/102099757381843167631/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.googleusercontent.com/-1MztR41xuwU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3Fh3_C0S6BwlULTWgsG3PDujEpWA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Very cool trendy place. Excellent spot for fun and with the visit. Thursday nights are my favourite nights to attend.",
+            "time": 1528743388
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=9516838283873425263",
+    "utc_offset": -240,
+    "vicinity": "82 Bathurst Street, Toronto",
+    "website": "http://www.chillicehouse.com/"
+}

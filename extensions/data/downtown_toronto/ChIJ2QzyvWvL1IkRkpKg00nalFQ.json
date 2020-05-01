@@ -1,0 +1,99 @@
+{
+    "address_components": [
+        {
+            "long_name": "662",
+            "short_name": "662",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M7",
+            "short_name": "M5V 1M7",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">662 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M7</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "662 King St W, Toronto, ON M5V 1M7, Canada",
+    "formatted_phone_number": "(416) 469-4008",
+    "geometry": {
+        "location": {
+            "lat": 43.6442449,
+            "lng": -79.4022847
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6454738802915,
+                "lng": -79.40088751970848
+            },
+            "southwest": {
+                "lat": 43.6427759197085,
+                "lng": -79.4035854802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "6707f34a81876cf14f1b827650486784faa2cf8b",
+    "international_phone_number": "+1 416-469-4008",
+    "name": "Toumaline Editions Inc",
+    "place_id": "ChIJ2QzyvWvL1IkRkpKg00nalFQ",
+    "reference": "CmRRAAAAskRHUruOFN3fx5M-OHT7HFbMGuuVl2x-n4P1Hppz7oW5R_SpHXFiLBvikaeRP4YN3Hk6j-N52XztD3_Jy2MB8Mv118LS6iof2weiieq5TeL14JqeSC4mw7ClQE0pRf_cEhBJ7A66TsTHfp0vq8rVoaP_GhTnvC1SnAwbKaNB5Li4JC3jJYmSJQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6094736206357107346",
+    "utc_offset": -240,
+    "vicinity": "662 King Street West, Toronto"
+}

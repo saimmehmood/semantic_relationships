@@ -1,0 +1,96 @@
+{
+    "address_components": [
+        {
+            "long_name": "66-48",
+            "short_name": "66-48",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Shaw Street",
+            "short_name": "Shaw St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M6J 2W2",
+            "short_name": "M6J 2W2",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">66-48 Shaw St</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M6J 2W2</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "66-48 Shaw St, Toronto, ON M6J 2W2, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.64340500000001,
+            "lng": -79.4157779
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447539802915,
+                "lng": -79.41442891970848
+            },
+            "southwest": {
+                "lat": 43.64205601970851,
+                "lng": -79.4171268802915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id": "9ef7c192116a519b1d9a67590cf69ff8c757ce24",
+    "name": "66-48 Shaw St",
+    "place_id": "ChIJ6aqfaP00K4gRIRIlqJhqbOE",
+    "reference": "CmRbAAAA62csMc_VsA5ppoZdyI4AEkNHKCmPrO5SQyrHwxM-Qgm0s2TQgaKBAQ9fy2l-Jkwm9E0T-fS_vBjO33dNmHniCc9wj3pSIpqyRJhvCOVOcynTkgZCU6jUuoob1s_aQ2XsEhDxYeVueaZEWRglUlhrpGQ0GhSGrpaLfNvAsNK88C73VrWeybG7mg",
+    "scope": "GOOGLE",
+    "types": [
+        "route"
+    ],
+    "url": "https://maps.google.com/?q=66-48+Shaw+St,+Toronto,+ON+M6J+2W2,+Canada&ftid=0x882b34fd689faae9:0xe16c6a98a8251221",
+    "utc_offset": -240,
+    "vicinity": "Old Toronto"
+}

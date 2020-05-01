@@ -1,0 +1,246 @@
+{
+    "address_components": [
+        {
+            "long_name": "495",
+            "short_name": "495",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1K4",
+            "short_name": "M5V 1K4",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">495 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1K4</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "495 King St W, Toronto, ON M5V 1K4, Canada",
+    "formatted_phone_number": "(416) 990-2762",
+    "geometry": {
+        "location": {
+            "lat": 43.6444288,
+            "lng": -79.39689829999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6460826302915,
+                "lng": -79.39566886970849
+            },
+            "southwest": {
+                "lat": 43.6433846697085,
+                "lng": -79.3983668302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "087255c8a1c6f86fe0fa109a8e7d091d1ab836a5",
+    "international_phone_number": "+1 416-990-2762",
+    "name": "Phosphorus Media",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 3544,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAM_v7MTzuXea_xcEvmVVxF0TefYQLkzgEFC1zrw8KiPkqSwBIk69knscRay9yYz58YPpAwfty_io0HtZ9tDXFVtSk6lt1nkFWI4uWYPXQSQtIgxh4L4bpyJSeNdbFEOnNEhCA54me3wyBRtcHdW4poR01GhQ1Ioj0k0_enCa1tRc3O1INZONHMg",
+            "width": 5316
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAK8KS9HW7aeQoQJLpfxhMO-cZWwSSYB5sTABDWTkMZh2REPTkRpmm_qVDWHH5eqoyTXllw_5vfQtI3iE9Bi3d9oo9cVPve8eENwbK9Hjuj2IinlJ6rdXdVvyOB34rpC2SEhDWk1vsfkb7HxLGuQ_T-8sUGhRm8fcrcEQ3zK2QrGqqB1udPb4bZw",
+            "width": 1920
+        },
+        {
+            "height": 430,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAPktvRwtGhd3WOhOkBlvtj6lzkb1u3kNll9UwxkbX1ibOMaw1lUjV_aC2L7J6s9XMfQut6E2XmG4OkpON3aZlZMtCNrGBPwxuTda2GtcLe5QFL4bjEg3dAJczBSCuFov-EhB3gOtM4Se7YyLR0OBZzJPLGhTQa_SMpLRKY4poX72dBEttY52lMw",
+            "width": 819
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAfRt1O4wHnf2eeXyEPvKAlRDdz3jwlVTdwcfOrm6bcJNwO79hgrU7MVvp_Gc3z_Y25ZW_tpUF3mOXV8NnBkkmKHor1sKn_up_sZ-Ih3pf8sqYH6KkyfeL8D5cp3YXAVQGEhA30IPFfoc1OWw2uyaPTMlIGhR9coKAMsCh5hxZ74JP9WOI6JZzHw",
+            "width": 1280
+        },
+        {
+            "height": 788,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAA8iLOZvNY-8hMi9r0O_3Ugdb97mxPZoslQgU6hHEzF8J802shY7BWu38aVDowW42G7P1mpgj-sMeDtnAI975idt31RSvo3gGe0ydJOCE2mBARn4-9Oad6zTRdbb1kfqq7EhDkKEkPYjWIi_EesCSTfJfjGhSuuovGGGciYQhO0QQnaA_X50kM4Q",
+            "width": 1400
+        },
+        {
+            "height": 788,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAA_7tCGJXQ96jURn2PMlr2njxrMM7P2SOw-AmM5Qs2wnE0A_iM3iXjo_ylDXVrPj4-TRvPiZqCdXBzbtKGpa-HkKt4a8wbNnsLVkNOXlP0i06ZXlP7T5ZPJJ9K46UupT-lEhA2RGnqKY0-Qwo-FzlgzZoDGhTh0exEIGhY4W2yOGds0RvO_2cuAQ",
+            "width": 1400
+        },
+        {
+            "height": 1080,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAA0F2KpePRwsceCdvvkg6RRsWGYlJYDCk-aOzhj_7bUY3GhVNrMZsn3Whb_jFyLssK9BkJTpVqpa60BAGPsbiVCn8WPffYxenWXJRFnXj8psGo7Izj8FV38aRspH8pDwufEhDks0alSsSFG_I_rVGw8U-vGhQ_v-E5Qu_a2we_GZfztkb_CDvAtQ",
+            "width": 1920
+        },
+        {
+            "height": 1867,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAsL7MH2FOjIi5eE3Hwn3dIdubQ7g6I2AluT_ELm5ZKCkU2Q8olstGWKHBn6PDWgV5D76kWT3US5pMlXjfIvcr7d4nMYTA8SVhgHtTXUVrXAJcH3L2CUGkp0T9XrwMYsrxEhDWKU9HcJx0LVv6lVwZnjPmGhQS28DWUHkszlo2FTZkjoxaF6Cm5Q",
+            "width": 2800
+        },
+        {
+            "height": 1229,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAr-oAS6iZZiBghrXhM_A8Rhp2ZMt8Rknaq_YrPPTrwZv2pZ6RbZg81StMS2o7EJZ-h3ZPjVKtHmqpqbUqwstGYXYkyL5P9Ux41-OlydXOsNhyIMTgBuhaqo0c2Zb6E_h7EhBu2Jv2LO2Qol_fps3dPgdRGhTTkez210vzvlhWmRClfkPyprU1LQ",
+            "width": 2199
+        },
+        {
+            "height": 720,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/118092769579817643689/photos\">Phosphorus Media</a>"
+            ],
+            "photo_reference": "CmRaAAAAmgSSdooaXw3KPVkJ_zw1ZKsjYAdL3zqsY8GZAVMXt_QTcCO3pPyzddwMkVvOYj3LS-FG398HOAOV23hlwEnaiW64WZK6BfSIzBNOBjF-zXjLBwSEEENoM3otO3zx6qipEhDDA3e9fcN1TqKQFZl7DNFWGhQfQbazAVkD4KtNW1OfLJ9_rsaJPw",
+            "width": 1280
+        }
+    ],
+    "place_id": "ChIJ3aaBjuU1K4gRJUdtpYCARKU",
+    "reference": "CmRSAAAAvwSmVrrSci6cBjdmvLaIM3FuCH9u_1qI99Ve6s-EsekJEw8S9AyLc64wHB_MikioxdZfMq8A695aJuW_Jex1eAVAjM1hjwSCIyn1f0rzba-ANoTzed29xVD7C_MNPpE9EhAQkHbrB1a45SSOWVsBspulGhQ8Lyhh08TsMd2Fz8sTUsZS3Mk-hQ",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11908784604694005541",
+    "utc_offset": -240,
+    "vicinity": "495 King Street West, Toronto",
+    "website": "http://www.p15media.com/"
+}

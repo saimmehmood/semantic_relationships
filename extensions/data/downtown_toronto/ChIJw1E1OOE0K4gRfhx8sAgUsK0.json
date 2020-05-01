@@ -1,0 +1,180 @@
+{
+    "address_components": [
+        {
+            "long_name": "325",
+            "short_name": "325",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Y1",
+            "short_name": "M5V 2Y1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "Fourth Floor, <span class=\"extended-address\">325</span>, <span class=\"street-address\">Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Y1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Fourth Floor, 325, Front St W, Toronto, ON M5V 2Y1, Canada",
+    "geometry": {
+        "location": {
+            "lat": 43.643172,
+            "lng": -79.390286
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.6447332802915,
+                "lng": -79.38902606970849
+            },
+            "southwest": {
+                "lat": 43.6420353197085,
+                "lng": -79.39172403029151
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "ee5f79462dc99a4634664f75c1d1a9397fa3ba26",
+    "name": "Onist Technologies",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 6:00 PM",
+            "Tuesday: 9:00 AM \u2013 6:00 PM",
+            "Wednesday: 9:00 AM \u2013 6:00 PM",
+            "Thursday: 9:00 AM \u2013 6:00 PM",
+            "Friday: 9:00 AM \u2013 6:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 548,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115753944373872046179/photos\">Onist Technologies</a>"
+            ],
+            "photo_reference": "CmRZAAAAn0x-7-YrncHmUiv-3sZ5riwZ7rAXsUjdCNP4boml9t7xKn0et4k2iwIi6uGbXb0oyMKgyiCs_wKkfZ_bw630hTtord9PkFYeJZaxzCO1wQCioUyEX9r1ANont-b3JdMKEhBpcZxf04Pxfq_NDuYtJ2HXGhRMqzpHITuUTQNbCwtnetshNA-u6Q",
+            "width": 548
+        },
+        {
+            "height": 1800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115753944373872046179/photos\">Onist Technologies</a>"
+            ],
+            "photo_reference": "CmRZAAAA266mCYfJAZSw6Xi1y-bTRybqVEiD8JcDKXpnFajVW6CmXF5blGu0qgR__1MWNUMAM0xDlxymn7SS649CD0_g27vO9aUkk6Hjga9B68lbwT5WRHgNj7XrEMAEjIY66sZvEhCXvC3Zu-Xkq9WMYu454nsaGhSdYnKvnHTMR0wYv8fXd866R8-3JA",
+            "width": 2880
+        }
+    ],
+    "place_id": "ChIJw1E1OOE0K4gRfhx8sAgUsK0",
+    "reference": "CmRSAAAAGQM5ZlljAWwXosDcJXCfz4WHo1HLJKiP4lINYUQ9ptymCpbxgtu5sJQ0VDQJEGkWuQHiyYsy7qnufjHsqLpecPUwxjazxldc9kOg3vol9G7LShMo-m9jcmVwaTW4XwGzEhCvB5hzt5s9cC3INH50urA8GhS0FopIVCcS-wuDAw-T8RmNMDaM5w",
+    "scope": "GOOGLE",
+    "types": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=12515525392015826046",
+    "utc_offset": -240,
+    "vicinity": "325, Fourth Floor, Front Street West, Toronto",
+    "website": "https://onist.com/"
+}

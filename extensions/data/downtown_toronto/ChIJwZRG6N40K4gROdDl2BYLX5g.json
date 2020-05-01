@@ -1,0 +1,175 @@
+{
+    "address_components": [
+        {
+            "long_name": "545",
+            "short_name": "545",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "King Street West",
+            "short_name": "King St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 1M1",
+            "short_name": "M5V 1M1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">545 King St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 1M1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "545 King St W, Toronto, ON M5V 1M1, Canada",
+    "formatted_phone_number": "(437) 266-1126",
+    "geometry": {
+        "location": {
+            "lat": 43.6442837,
+            "lng": -79.39874669999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64583048029149,
+                "lng": -79.39747396970849
+            },
+            "southwest": {
+                "lat": 43.64313251970849,
+                "lng": -79.40017193029149
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "4fd6d881bb9432a43d090839cde7083d7f8bb5eb",
+    "international_phone_number": "+1 437-266-1126",
+    "name": "Indie95 Investment Advisors",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 9:00 AM \u2013 5:00 PM",
+            "Tuesday: 9:00 AM \u2013 5:00 PM",
+            "Wednesday: 9:00 AM \u2013 5:00 PM",
+            "Thursday: 9:00 AM \u2013 5:00 PM",
+            "Friday: 9:00 AM \u2013 5:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1483,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/105082542606936878800/photos\">Indie95 Investment Advisors</a>"
+            ],
+            "photo_reference": "CmRaAAAACOsHmYcNZUQ5QVbQqeQ3K9h2i5Wv-XMx-9BsOy8odtlwzxJ7GBJLYr7ReHtskaVWjVW8AFXOL18c1ldR9D_FLyGq-vquxQbdechA1Bf10Ij8aomTqlH5-rIuS67M3rk4EhC4FTHZfdvLSKBx8nrbQcy4GhQR7bEnO2zx0jdXz3231dH7TKlZqg",
+            "width": 1483
+        }
+    ],
+    "place_id": "ChIJwZRG6N40K4gROdDl2BYLX5g",
+    "reference": "CmRSAAAAfGegFSB06JLWo5SWGXcH8xWXJucMDivpg_JuvHPmaqiYV9vIsUMoTXx_gxKCEUE3LslmDaA97hfxSVVvczfFBoFELp0mL8kLcQavDogRUTXWAAs2fdelb0kHlSY-KiybEhBxW3qs0D5iXvwyEtx4Q6yrGhRFffMMXeEaLSjrshZqrg0VTXuhtQ",
+    "scope": "GOOGLE",
+    "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=10979506609308684345",
+    "utc_offset": -240,
+    "vicinity": "545 King Street West, Toronto",
+    "website": "http://www.indie95.com/"
+}

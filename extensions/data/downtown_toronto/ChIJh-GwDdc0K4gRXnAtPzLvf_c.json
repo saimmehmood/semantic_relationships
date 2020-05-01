@@ -1,0 +1,224 @@
+{
+    "address_components": [
+        {
+            "long_name": "325",
+            "short_name": "325",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Front Street West",
+            "short_name": "Front St W",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Old Toronto",
+            "short_name": "Old Toronto",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto",
+            "short_name": "Toronto",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Toronto Division",
+            "short_name": "Toronto Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Ontario",
+            "short_name": "ON",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "M5V 2Y1",
+            "short_name": "M5V 2Y1",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">325 Front St W</span>, <span class=\"locality\">Toronto</span>, <span class=\"region\">ON</span> <span class=\"postal-code\">M5V 2Y1</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "325 Front St W, Toronto, ON M5V 2Y1, Canada",
+    "formatted_phone_number": "(416) 338-4386",
+    "geometry": {
+        "location": {
+            "lat": 43.6435778,
+            "lng": -79.38886819999999
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 43.64509273029149,
+                "lng": -79.38758436970849
+            },
+            "southwest": {
+                "lat": 43.6423947697085,
+                "lng": -79.3902823302915
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+    "id": "af666003189d73322d97e25ffb50041531fb1b2b",
+    "international_phone_number": "+1 416-338-4386",
+    "name": "Isabella Valancy Crawford Park",
+    "opening_hours": {
+        "open_now": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                },
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 8:00 AM \u2013 11:00 PM",
+            "Tuesday: 8:00 AM \u2013 11:00 PM",
+            "Wednesday: 8:00 AM \u2013 11:00 PM",
+            "Thursday: 8:00 AM \u2013 11:00 PM",
+            "Friday: 8:00 AM \u2013 11:00 PM",
+            "Saturday: 8:00 AM \u2013 11:00 PM",
+            "Sunday: 8:00 AM \u2013 11:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 5472,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111731657100903467311/photos\">eduardo acosta</a>"
+            ],
+            "photo_reference": "CmRaAAAAR7yY217kXB7pi7ez-Vkzp5IPp6hGAq2sZHQLpVQuph3qN-ChNndx2H3_unBRcEwtn2O5K9CsNaRytBqZgidMfH7vBX7pq_4rd6SQvSUrvG28CmAAOasfT2VjjMOq5XG2EhAZrAxwv2ur5HtX7-Swo49vGhSiAJoav9YMCro3t_fQlHY9LTdqLg",
+            "width": 3648
+        },
+        {
+            "height": 3120,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101440627084942536515/photos\">Sean Guadron</a>"
+            ],
+            "photo_reference": "CmRaAAAAS1NIfX-07WiPhDqC6lawtcc3-me4F9ICnvpcDHcN33ucJx1Q398b_v7RF8hVgVjwbsxglvemLQhgHUjJISw9NL9CpX_v89NDEcBbA5MBNXUYqUOtygwaMq8srHhlpzULEhBRb4yL7d2l8Z0LMcCZqOl7GhTW27OWg60nHPvG6VxQQxY_1kB16A",
+            "width": 4160
+        }
+    ],
+    "place_id": "ChIJh-GwDdc0K4gRXnAtPzLvf_c",
+    "rating": 4.5,
+    "reference": "CmRSAAAAGlcpfiYTFYyyx50lQ6i67jYwUXDulnnEPHbO-FUqK_scVGK14Dtvp4eKSQqZEKjxQj6D-0VzG8FxcPPAErec2XKRAFDuJLGoIV_kx2dAPTDIlVJYVz-_8sLbTTIOsLvnEhA6kksZ3xIqQpU0mqxBxQPzGhQdvE-pUjWpwC_jQL8hU7ybox1cPw",
+    "reviews": [
+        {
+            "author_name": "Richard Trus",
+            "author_url": "https://www.google.com/maps/contrib/109975121508820120641/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.googleusercontent.com/-CY5mg6Bd20M/AAAAAAAAAAI/AAAAAAADS6c/KZYVGBX3hrQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "If you have read my reviews you know I am a stickler for parks vs. parkettes, and Isabella Valancy Crawford Park is definately a parkette.  I've gone through this parkette many times thinking it was more of a garden than a parkette, but it's still well maintained and there is a sign hidden in the corner of the parkette.   If you see the sign then you know you have arrived.   A Richard Trus review",
+            "time": 1466387052
+        },
+        {
+            "author_name": "Arturo Javier Reyna",
+            "author_url": "https://www.google.com/maps/contrib/102310515220156608985/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/-aGDXmb4P6IU/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq3FmFO8EN3PNlLj0vUqAR80T5fThA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1467054481
+        }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17834236048497799262",
+    "utc_offset": -240,
+    "vicinity": "325 Front Street West, Toronto"
+}
