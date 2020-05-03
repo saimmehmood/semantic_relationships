@@ -46,7 +46,7 @@ and qualitative analysis.
 
 #### ppt
 
- - contains project presentation slides.
+ - contains project presentation slides (removed for now, will add after conference presentation).
 
 #### extensions
 
@@ -57,7 +57,7 @@ and qualitative analysis.
 
  - *query.sql* - contains postgis query that fetches cell ids and poi ids that are inside those cells.
 
- - *traj_as_poi.py* converts trajectory as walks on grid cells into trajectory as POI walks by compraing walks on grid cells with pois inside those 
+ - *traj_as_poi.py* - converts trajectory as walks on grid cells into trajectory as POI walks by compraing walks on grid cells with pois inside those 
 grid cells.
  
  
