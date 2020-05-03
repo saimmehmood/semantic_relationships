@@ -33,10 +33,10 @@ Mining trajectory data to find interesting patterns is of increasing research in
  - *embeddings_tsne.py* - this code generates a graph by adding edges between grid cells. Each cell is considered as a node. Each cell is connected to its adjacent cells i.e., (top, bottom, left & right).
  As a result it outputs an edge list of cell ids in a format accepted by node2vec.
  
- - *getting_vectors_cosine_sim.py* once we have obtained embeddings for the real and null models, we calculate our quantitative
+ - *getting_vectors_cosine_sim.py* - once we have obtained embeddings for the real and null models, we calculate our quantitative
  analysis metric i.e., cosine similarity between vector embeddings.
  
- - *top_k_cos_diff.py* By comparing the similarity of pairs of nodes in different models, it is possible to discover ***interesting ones***. 
+ - *top_k_cos_diff.py* - by comparing the similarity of pairs of nodes in different models, it is possible to discover ***interesting ones***. 
  These are pairs of nodes that expose a large difference of their similarity score in two underlying models (e.g., real vs null model).
  
 #### visualizations
@@ -53,9 +53,9 @@ and qualitative analysis.
  - this folder contains extended code that cover analysis on a different level of granularity i.e., to include semantic analysis of point-of-interests. There is a data folder that
  contains POI data fetched through Google Places API.
  
- - *fetching_pois.py* contains code that fetches POIs in a specified geographical area using Google Places API.
+ - *fetching_pois.py* - contains code that fetches POIs in a specified geographical area using Google Places API.
 
- - *query.sql* contains postgis query that fetches cell ids and poi ids that are inside those cells.
+ - *query.sql* - contains postgis query that fetches cell ids and poi ids that are inside those cells.
 
  - *traj_as_poi.py* converts trajectory as walks on grid cells into trajectory as POI walks by compraing walks on grid cells with pois inside those 
 grid cells.
