@@ -1,4 +1,4 @@
-# Learning Semantic Relationships of Geographic Areas based on Trajectories 
+# Learning Semantic Relationships of Geographical Areas based on Trajectories 
 A set of tools to understand semantic and geographical proximity between different geographical regions. 
 #### accepted research track paper for IEEE Mobile Data Management 2020
 
