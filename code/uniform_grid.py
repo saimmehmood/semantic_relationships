@@ -57,6 +57,6 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
 
 
 
-grid_trajectories(20, 17, 40.769274, -73.885077, 40.715813, -73.822609) # (no of rows, no of cols, lat1, long1, lat2, long2)
+grid_trajectories(35, 35, 40.769274, -73.885077, 40.715813, -73.822609) # (no of rows, no of cols, lat1, long1, lat2, long2)
 
 
