@@ -7,6 +7,14 @@ create table traj (
 -- where st_setrid is Spatial Reference System Identifier
 update traj set traj_path = st_setsrid(traj_path, 4326) 
 
+
+-- storing grid ids related to different generated grids. 
+create table grids (
+	grid_id float primary key,
+	x_dim integer,
+	y_dim integer
+)
+
 -- Adding geographical area grid cells coordinates.
 create table cells (
 	cell_id serial primary key,  -- changed to serial in cell_01
