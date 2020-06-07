@@ -17,7 +17,7 @@ create table grids (
 
 -- Adding geographical area grid cells coordinates.
 create table cells (
-	cell_id serial primary key,  -- changed to serial in cell_01
+	cell_id serial primary key, 
 	grid_id float references grids(grid_id),
 	cell_names text,
 	coordinates geometry  -- must be POLYGON geometry: need to specify first and last coordinate same for each of them. 
