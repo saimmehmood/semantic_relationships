@@ -46,7 +46,7 @@ and qualitative analysis.
 
 #### ppt
 
- - contains project presentation slides (removed for now, will add after conference presentation).
+ - contains project presentation slides (link to video presentation: https://www.youtube.com/watch?v=QqSDyZihOGI).
 
 #### extensions
 
