@@ -64,6 +64,6 @@ grid cells.
 #### Acknowledgments
 This repo was helpful in writing code to fetch POIs from Google API: (https://github.com/slimkrazy/python-google-places)
 
-Trajectory fetching code was written in collaboration Jay: (https://github.com/jaycenca)
+Trajectory fetching code was written in collaboration with Jay: (https://github.com/jaycenca)
 
 For plotting functionality, this repo was helpful: (https://github.com/vgm64/gmplot)
