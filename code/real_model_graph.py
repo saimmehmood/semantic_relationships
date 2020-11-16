@@ -20,9 +20,7 @@ cell_id = df['cell_id']
 
 
 arr = np.array(traj_id)
-
 output = np.unique(arr)
-
 data_dict = defaultdict(list)
 
 for i in range(len(traj_id)):
