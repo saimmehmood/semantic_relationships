@@ -15,10 +15,12 @@ Mining trajectory data to find interesting patterns is of increasing research in
  - *uniform_grid.py* - generates a uniform grid by taking diagonal coordinates for the geographical space.
 
  - *postgre.sql* - contains postgres/postgis queries to store trajectories and geographical area grid cells into
- the database and convert trajectory from set of geospatial coordinates into set of grid cells.
+ the database and convert trajectory from a set of geospatial coordinates into set of grid cells.
 
  - *new_york_taxi.py* - contains code for fetching trajectory paths through Google Directions API
  by providing starting and ending points of taxi rides taken in the area of Manhattan.
+ 
+ - *calculation.py* - contains code for fetching coordinates.
  
  - *real_model_graph.py* - this code generates walks of trajectory paths based on cells ids. It outputs trajectory paths as list of cell ids.
  
