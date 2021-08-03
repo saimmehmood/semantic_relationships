@@ -28,8 +28,6 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
 
         for col in range(grid_x):
 
-            
-
 
             # moving to specific cell coordinate from top left position using cell height and width 
             # and multiplying it with row and column number. 
