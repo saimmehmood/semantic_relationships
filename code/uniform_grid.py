@@ -21,9 +21,7 @@ def grid_trajectories(grid_x, grid_y, lat1, long1, lat2, long2):
     f.write("grid_id,name,coordinates\n")
 
 
-    store_coordinate = []
-
-
+    
     for row in range(grid_y):
 
         for col in range(grid_x):
